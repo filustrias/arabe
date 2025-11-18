@@ -1,0 +1,138 @@
+/*-- scss:defaults --*/
+
+// Cores principais - fundo escuro mas não muito
+$body-bg: #2b2d31;
+$body-color: #f0f0f0;
+
+// Links
+$link-color: #7dd3fc;
+$link-hover-color: #bae6fd;
+
+// Sidebar/navegação
+$sidebar-bg: #1e1f22;
+$sidebar-fg: #e8e8e8;
+$sidebar-hl: #7dd3fc;
+
+// Cabeçalhos
+$headings-color: #ffffff;
+
+// Código
+$code-bg: #1e1f22;
+$code-color: #f0f0f0;
+
+// Fontes sans-serif
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Inter", "Helvetica Neue", Arial, sans-serif !default;
+$font-family-monospace: "Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace !default;
+
+/*-- scss:rules --*/
+
+// Garantir que o fundo escuro se aplique a tudo
+html {
+  background-color: $body-bg;
+}
+
+body {
+  background-color: $body-bg;
+  color: $body-color;
+  font-family: $font-family-sans-serif;
+  letter-spacing: 0.01em;
+  line-height: 1.7;
+}
+
+// Cabeçalhos brancos e sans-serif
+h1, h2, h3, h4, h5, h6 {
+  color: $headings-color;
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+// Sidebar escura
+.sidebar {
+  background-color: $sidebar-bg !important;
+  color: $sidebar-fg !important;
+}
+
+.sidebar-navigation .sidebar-item {
+  color: $sidebar-fg;
+}
+
+.sidebar-navigation .sidebar-item:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.sidebar-navigation .active {
+  background-color: rgba(125, 211, 252, 0.1);
+  border-left: 3px solid $sidebar-hl;
+}
+
+// Código com fundo escuro
+code {
+  background-color: $code-bg;
+  color: $code-color;
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-family: $font-family-monospace;
+}
+
+pre {
+  background-color: $code-bg;
+  border: 1px solid #3a3d42;
+}
+
+// Blocos de código
+div.sourceCode {
+  background-color: $code-bg;
+  border-radius: 6px;
+  border: 1px solid #3a3d42;
+}
+
+// Tabelas
+table {
+  color: $body-color;
+  border-color: #3a3d42;
+}
+
+table thead {
+  background-color: #1e1f22;
+  border-bottom: 2px solid #3a3d42;
+}
+
+table tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+table td, table th {
+  border-color: #3a3d42;
+}
+
+// Blockquotes
+blockquote {
+  border-left: 4px solid $link-color;
+  background-color: rgba(125, 211, 252, 0.05);
+  color: $body-color;
+}
+
+// Links suaves
+a {
+  transition: color 0.2s ease;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+// Cards e containers
+.card {
+  background-color: #1e1f22;
+  border-color: #3a3d42;
+  color: $body-color;
+}
+
+// Footer
+footer {
+  background-color: #1e1f22;
+  color: #b0b0b0;
+  border-top: 1px solid #3a3d42;
+}

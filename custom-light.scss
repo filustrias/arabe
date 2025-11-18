@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+  
+  $font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Inter", "Helvetica Neue", Arial, sans-serif !default;
+$font-family-monospace: "Fira Code", "JetBrains Mono", Consolas, monospace !default;
+
+/*-- scss:rules --*/
+  
+  body {
+    font-family: $font-family-sans-serif;
+    letter-spacing: 0.01em;
+    line-height: 1.7;
+  }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+code {
+  border-radius: 4px;
+  font-family: $font-family-monospace;
+}
+
+a {
+  transition: color 0.2s ease;
+}

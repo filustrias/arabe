@@ -1,0 +1,124 @@
+# Vocabulário {.unnumbered}
+
+## Números (1-12)
+- **wa7ed** - واحد = 1
+- **etneen** - اتنين = 2
+- **talata** - تلاتة = 3
+- **arba3a** - أربعة = 4
+- **5amsa** - خمسة = 5
+- **setta** - ستة = 6
+- **sab3a** - سبعة = 7
+- **tamanya** - تمانية = 8
+- **tes3a** - تسعة = 9
+- **3ashara** - عشرة = 10
+- **7edashar** - حداشر = 11
+- **etnashar** - اتناشر = 12
+
+## Números Compostos
+- **Tes3a w arbe3een** - تسعة و أربعين = 49
+- **Setta w 3eshreen** - ستة و عشرين = 26
+- **Etneen w 3eshreen** - اتنين و عشرين = 22
+- **Talateen** - تلاتين = 30
+
+## Horas
+- **El sa3a** - الساعة = A hora / O relógio
+- **El sa3a wa7da** - الساعة واحدة = 1h (feminino: wa7da)
+- **El sa3a etneen** - الساعة اتنين = 2h
+- **W nos** - و نص = E meia
+  - **Arba3a w nos** - أربعة و نص = 4h30
+  - **5amsa w nos** - خمسة و نص = 5h30
+- **Ela rob3** - إلا ربع = Menos um quarto
+  - **El sa3a talata ela rob3** - الساعة تلاتة إلا ربع = 2h45
+- **Ela telt** - إلا تلت = Menos um terço
+  - **El sa3a talata ela telt** - الساعة تلاتة إلا تلت = 2h40
+- **Rob3** - ربع = Quarto
+- **Nos** - نص = Metade
+- **De2i2a** - دقيقة = Minuto
+
+## Tempo
+- **Sana** - سنة = Ano
+- **Seneen** - سنين = Anos (plural)
+- **Sanateen** - سنتين = Dois anos
+- **Yum** - يوم = Dia
+- **Ayam** - أيام = Dias (plural)
+- **Sa3a** - ساعة = Hora / Relógio
+- **Sa3at** - ساعات = Horas (plural) / Às vezes
+
+## Profissões
+- **Doktor/a** - دكتور/ة = Médico/a
+- **Modares/a** - مدرس/ة = Professor/a
+- **Modaresa** - مدرسة = Professora
+- **Mohandes/a** - مهندس/ة = Engenheiro/a
+- **Ba7es** - باحث = Pesquisador
+- **A5asa2ey/a nafsey/a** - أخصائي/ة نفسي/ة = Terapeuta psicólogo/a (f.)
+- **A5asa2y nasfsy** - أخصائي نفسي = Terapeuta psicólogo (m.)
+
+## Lugares
+- **Maktab** - مكتب = Escritório
+- **Mostashfa** - مستشفى = Hospital
+- **Madrasa** - مدرسة = Escola
+- **Gam3a** - جامعة = Universidade
+- **3eyada** - عيادة = Clínica
+- **El beet** - البيت = A casa
+- **Beety** - بيتي = Minha casa
+
+## Países e Idiomas
+- **Masr** - مصر = Egipto
+- **El kahera** - القاهرة = Cairo
+- **Masry/a** - مصري/ة = Egípcio/a
+- **El brazil** - البرازيل = Brasil
+- **Borto3'aly** - برتغالي = Português
+- **Almanya** - ألمانيا = Alemanha
+- **Almany** - ألماني = Alemão (idioma)
+- **Amrika** - أمريكا = América
+- **Ingilizy** - إنجليزي = Inglês
+- **Faransawy** - فرنساوي = Francês
+- **Asbany** - إسباني = Espanhol
+- **Turky** - تركي = Turco
+- **Seeny** - صيني = Chinês
+- **Rusy** - روسي = Russo
+
+## Família e Pessoas
+- **3eela** - عيلة = Família
+- **3elty** - عيلتي = Minha família
+- **Lewa7dy** - لوحدي = Sozinho/a / Por minha conta
+
+## Comida e Bebida
+- **2ahwa / Qahwa** - قهوة = Café
+  - Nota: Q é lido como 2 no Egipto
+- **Shay** - شاي = Chá
+- **Sukkar** - سكر = Açúcar
+- **3eesh** - عيش = Pão
+- **Samna** - سمنة = Manteiga/Ghee
+
+## Adjectivos
+- **Kwayes/Kwayesa** - كويس/كويسة = Bom/Boa
+- **3'aali/3'aliya** - غالي/غالية = Caro/Cara
+- **Re5ees/Re5eesa** - رخيص/رخيصة = Barato/Barata
+- **So5n/So5na** - سخن/سخنة = Quente (para coisas)
+- **Bard** - برد = Frio (clima)
+- **Sa2e3/Sa23a** - ساقع/ساقعة = Frio (coisas)
+- **7ar** - حر = Quente (clima)
+
+## Palavras Funcionais
+- **Msh** - مش = Não
+- **Be** - ب = Com / Por
+- **Sho3'l** - شغل = Trabalho
+- **Sho3'ly** - شغلي = Meu trabalho
+- **Net** - نت = Internet
+- **Course** - كورس = Curso
+- **Majesteer** - ماجستير = Mestrado
+
+## Ciência e Estudo
+- **3elm** - علم = Ciência
+- **3elm el a3sab** - علم الأعصاب = Neurociência
+  - **A3sab** - أعصاب = Nervos
+- **3elm nafs** - علم نفس = Psicologia (literalmente: ciência da alma)
+
+## Outras Palavras Úteis
+- **Lo3'a/Lo3'at** - لغة/لغات = Idioma/Idiomas
+- **7ob** - حب = Amor
+- **2alb** - قلب = Coração
+- **Kalb** - كلب = Cão
+
+---

@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "b5e78b1d"
+  },
+  "intro.qmd": {
+    "intro.html": "424a521e"
+  },
+  "summary.qmd": {
+    "summary.html": "d56e7d34"
+  },
+  "references.qmd": {
+    "references.html": "7093904b"
+  },
+  "gramatica.qmd": {
+    "gramatica.html": "b44af4cd"
+  },
+  "verbos.qmd": {
+    "verbos.html": "c61c4a27"
+  },
+  "vocabulario.qmd": {
+    "vocabulario.html": "54877994"
+  },
+  "expressoes.qmd": {
+    "expressoes.html": "e6d3e700"
+  }
+}
