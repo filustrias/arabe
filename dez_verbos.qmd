@@ -1,0 +1,163 @@
+# 10 Verbos em Árabe Egípcio — Presente Afirmativo e Negativo
+
+---
+  
+  ## 1. يِحْتاج (yeḥtāg) — Precisar
+  
+  **Afirmativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا بَحْتاج وقت | ana baḥtāg waʼt | Eu preciso de tempo |
+  | هو بيِحْتاج مساعدة | huwwa biyeḥtāg musāʻda | Ele precisa de ajuda |
+  
+  **Negativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا مش بَحْتاج حاجة | ana mish baḥtāg ḥāga | Eu não preciso de nada |
+  | هو مش بيِحْتاج فلوس | huwwa mish biyeḥtāg filūs | Ele não precisa de dinheiro |
+  
+  ---
+  
+  ## 2. يِتْعَلِّم (yitʻallim) — Aprender
+  
+  **Afirmativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا بَتْعَلِّم عربي | ana batʻallim ʻarabi | Eu aprendo árabe |
+  | إنتِ بتِتْعَلِّمي بسرعة | inti bititʻallimi bisurʻa | Você (f.) aprende rápido |
+  
+  **Negativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا مش بَتْعَلِّم فرنساوي | ana mish batʻallim faransāwi | Eu não aprendo francês |
+  | إنتِ مش بتِتْعَلِّمي دلوقتي | inti mish bititʻallimi dilwaʼti | Você (f.) não está aprendendo agora |
+  
+  ---
+  
+  ## 3. يِقُول (yiʼūl) — Dizer/Falar
+  
+  **Afirmativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا بَقُول الحقيقة | ana baʼūl il-ḥaʼīʼa | Eu digo a verdade |
+  | هي بتِقُول كلام كتير | hiyya bitiʼūl kalām kitīr | Ela fala muita coisa |
+  
+  **Negativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا مش بَقُول كده | ana mish baʼūl kida | Eu não digo isso |
+  | هي مش بتِقُول حاجة | hiyya mish bitiʼūl ḥāga | Ela não diz nada |
+  
+  ---
+  
+  ## 4. يِسْأَل (yisʼal) — Perguntar
+  
+  **Afirmativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا بَسْأَل سؤال | ana basʼal suʼāl | Eu faço uma pergunta |
+  | إنتَ بتِسْأَل كتير | inta bitisʼal kitīr | Você (m.) pergunta muito |
+  
+  **Negativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا مش بَسْأَل عن ده | ana mish basʼal ʻan da | Eu não pergunto sobre isso |
+  | إنتَ مش بتِسْأَل ليه؟ | inta mish bitisʼal lēh? | Você (m.) não pergunta por quê? |
+  
+  ---
+  
+  ## 5. يِكْتِب (yiktib) — Escrever
+  
+  **Afirmativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا بَكْتِب رسالة | ana baktib risāla | Eu escrevo uma carta |
+  | إحنا بنِكْتِب بالعربي | iḥna biniktib bil-ʻarabi | Nós escrevemos em árabe |
+  
+  **Negativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا مش بَكْتِب بالقلم | ana mish baktib bil-ʼalam | Eu não escrevo com caneta |
+  | إحنا مش بنِكْتِب دلوقتي | iḥna mish biniktib dilwaʼti | Nós não estamos escrevendo agora |
+  
+  ---
+  
+  ## 6. يِسْمَع (yismaʻ) — Ouvir/Escutar
+  
+  **Afirmativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا بَسْمَع موسيقى | ana basmaʻ mūsīqa | Eu ouço música |
+  | هم بيِسْمَعوا الأخبار | humma biyismaʻu il-akhbār | Eles ouvem as notícias |
+  
+  **Negativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا مش بَسْمَع كويس | ana mish basmaʻ kuwayyis | Eu não ouço bem |
+  | هم مش بيِسْمَعوا حاجة | humma mish biyismaʻu ḥāga | Eles não ouvem nada |
+  
+  ---
+  
+  ## 7. يِتْكَلِّم (yitkallim) — Falar/Conversar
+  
+  **Afirmativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا بَتْكَلِّم عربي | ana batkallim ʻarabi | Eu falo árabe |
+  | إنتو بتِتْكَلِّموا إنجليزي | intu bititkallimu ingilīzi | Vocês falam inglês |
+  
+  **Negativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا مش بَتْكَلِّم فرنساوي | ana mish batkallim faransāwi | Eu não falo francês |
+  | إنتو مش بتِتْكَلِّموا كتير | intu mish bititkallimu kitīr | Vocês não falam muito |
+  
+  ---
+  
+  ## 8. يِشُوف (yishūf) — Ver/Assistir
+  
+  **Afirmativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا بَشُوف فيلم | ana bashūf film | Eu assisto um filme |
+  | هو بيِشُوف التلفزيون | huwwa biyishūf it-tilifizyon | Ele assiste televisão |
+  
+  **Negativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا مش بَشُوف حاجة | ana mish bashūf ḥāga | Eu não vejo nada |
+  | هو مش بيِشُوف كويس | huwwa mish biyishūf kuwayyis | Ele não vê bem |
+  
+  ---
+  
+  ## 9. يِشْرَب (yishrab) — Beber
+  
+  **Afirmativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا بَشْرَب قهوة | ana bashrab ʼahwa | Eu bebo café |
+  | هي بتِشْرَب شاي | hiyya bitishrab shāy | Ela bebe chá |
+  
+  **Negativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا مش بَشْرَب كحول | ana mish bashrab kuḥūl | Eu não bebo álcool |
+  | هي مش بتِشْرَب مَيَّة كتير | hiyya mish bitishrab mayya kitīr | Ela não bebe muita água |
+  
+  ---
+  
+  ## 10. ياكُل (yākul) — Comer
+  
+  **Afirmativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا باكُل فطار | ana bākul fuṭār | Eu como café da manhã |
+  | إنتَ بتاكُل لحمة | inta bitākul laḥma | Você (m.) come carne |
+  
+  **Negativo:**
+  | Árabe | Franco | Português |
+  |-------|--------|-----------|
+  | أنا مش باكُل سمك | ana mish bākul samak | Eu não como peixe |
+  | إنتَ مش بتاكُل خضار | inta mish bitākul khuḍār | Você (m.) não come vegetais |
+  
+  ---

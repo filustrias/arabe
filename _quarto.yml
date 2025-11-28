@@ -13,6 +13,7 @@ book:
     - verbos.qmd
     - vocabulario.qmd
     - expressoes.qmd
+    - dez_verbos.qmd
 
 bibliography: references.bib
 
