@@ -14,6 +14,7 @@ book:
     - vocabulario.qmd
     - expressoes.qmd
     - dez_verbos.qmd
+    - exercicio.qmd
 
 bibliography: references.bib
 
