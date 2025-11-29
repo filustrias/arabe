@@ -15,7 +15,7 @@ book:
     - expressoes.qmd
     - dez_verbos.qmd
     - exercicio.qmd
-    - dizer.qmd
+    - verbo_dizer.qmd
     
 
 bibliography: references.bib
