@@ -1,0 +1,105 @@
+# Verbo Dizer — قال (yiʼūl)
+
+Raiz: **ق-و-ل (q-w-l)**
+  
+  ---
+  
+  ## 1. Presente (بيقول - biyiʼūl)
+  
+  | Pessoa | Árabe | Franco | Português |
+  |--------|-------|--------|-----------|
+  | أنا | بقول | baʼūl | Eu digo |
+  | إنتَ | بتقول | bitiʼūl | Você (m.) diz |
+  | إنتِ | بتقولي | bitiʼūli | Você (f.) diz |
+  | هو | بيقول | biyiʼūl | Ele diz |
+  | هي | بتقول | bitiʼūl | Ela diz |
+  | إحنا | بنقول | biniʼūl | Nós dizemos |
+  | إنتو | بتقولوا | bitiʼūlu | Vocês dizem |
+  | هم | بيقولوا | biyiʼūlu | Eles dizem |
+  
+  **Exemplos:**
+  
+  - أنا بقول الحق — ana baʼūl il-ḥaʼʼ — Eu digo a verdade
+- إنتَ بتقول إيه؟ — inta bitiʼūl ēh? — O que você está dizendo?
+  - إنتِ بتقولي كلام حلو — inti bitiʼūli kalām ḥilw — Você (f.) diz coisas bonitas
+- هو بيقول إنه تعبان — huwwa biyiʼūl innu taʻbān — Ele diz que está cansado
+- هي بتقول لأ — hiyya bitiʼūl laʼ — Ela diz não
+- إحنا بنقول الصراحة — iḥna biniʼūl iṣ-ṣarāḥa — Nós dizemos a verdade
+- إنتو بتقولوا كده ليه؟ — intu bitiʼūlu kida lēh? — Por que vocês dizem isso?
+  - هم بيقولوا إن الجو حر — humma biyiʼūlu inn ig-gaww ḥarr — Eles dizem que o tempo está quente
+
+**Negação (مش):**
+  
+  - أنا مش بقول كده — ana mish baʼūl kida — Eu não digo isso
+
+---
+  
+  ## 2. Passado (قال - ʼāl)
+  
+  | Pessoa | Árabe | Franco | Português |
+  |--------|-------|--------|-----------|
+  | أنا | قلت | ʼult | Eu disse |
+  | إنتَ | قلت | ʼult | Você (m.) disse |
+  | إنتِ | قلتي | ʼulti | Você (f.) disse |
+  | هو | قال | ʼāl | Ele disse |
+  | هي | قالت | ʼālit | Ela disse |
+  | إحنا | قلنا | ʼulna | Nós dissemos |
+  | إنتو | قلتوا | ʼultu | Vocês disseram |
+  | هم | قالوا | ʼālu | Eles disseram |
+  
+  **Exemplos:**
+  
+  - أنا قلت لك قبل كده — ana ʼult lak ʼabl kida — Eu te disse antes
+- إنتَ قلت إيه؟ — inta ʼult ēh? — O que você disse?
+  - إنتِ قلتي الحقيقة — inti ʼulti il-ḥaʼīʼa — Você (f.) disse a verdade
+- هو قال كلمة واحدة — huwwa ʼāl kilma waḥda — Ele disse uma palavra
+- هي قالت لي مبروك — hiyya ʼālit li mabrūk — Ela me disse parabéns
+- إحنا قلنا رأينا — iḥna ʼulna raʼyina — Nós dissemos nossa opinião
+- إنتو قلتوا إيه للمدير؟ — intu ʼultu ēh lil-mudīr? — O que vocês disseram ao chefe?
+  - هم قالوا إنهم موافقين — humma ʼālu innuhum muwafʼīn — Eles disseram que concordam
+
+**Negação (ما...ش):**
+  
+  - أنا ما قلتش حاجة — ana ma-ʼultish ḥāga — Eu não disse nada
+
+---
+  
+  ## 3. Futuro (هيقول - hayiʼūl)
+  
+  | Pessoa | Árabe | Franco | Português |
+  |--------|-------|--------|-----------|
+  | أنا | هقول | haʼūl | Eu vou dizer |
+  | إنتَ | هتقول | hatiʼūl | Você (m.) vai dizer |
+  | إنتِ | هتقولي | hatiʼūli | Você (f.) vai dizer |
+  | هو | هيقول | hayiʼūl | Ele vai dizer |
+  | هي | هتقول | hatiʼūl | Ela vai dizer |
+  | إحنا | هنقول | haniʼūl | Nós vamos dizer |
+  | إنتو | هتقولوا | hatiʼūlu | Vocês vão dizer |
+  | هم | هيقولوا | hayiʼūlu | Eles vão dizer |
+  
+  **Exemplos:**
+  
+  - أنا هقول لهم بكره — ana haʼūl luhum bukra — Eu vou dizer a eles amanhã
+- إنتَ هتقول إيه؟ — inta hatiʼūl ēh? — O que você vai dizer?
+  - إنتِ هتقولي لماما؟ — inti hatiʼūli li-māma? — Você (f.) vai contar pra mamãe?
+  - هو هيقول الحقيقة — huwwa hayiʼūl il-ḥaʼīʼa — Ele vai dizer a verdade
+- هي هتقول رأيها — hiyya hatiʼūl raʼyaha — Ela vai dizer a opinião dela
+- إحنا هنقول لك بعدين — iḥna haniʼūl lak baʻdēn — Nós vamos te dizer depois
+- إنتو هتقولوا الصح — intu hatiʼūlu iṣ-ṣaḥḥ — Vocês vão dizer o certo
+- هم هيقولوا أيوه — humma hayiʼūlu aywa — Eles vão dizer sim
+
+**Negação (مش):**
+  
+  - أنا مش هقول حاجة — ana mish haʼūl ḥāga — Eu não vou dizer nada
+
+---
+  
+  ## Resumo das negações
+  
+  | Tempo | Estrutura | Exemplo |
+  |-------|-----------|---------|
+  | Presente | مش + verbo | أنا مش بقول — ana mish baʼūl |
+  | Passado | ما + verbo + ش | أنا ما قلتش — ana ma-ʼultish |
+  | Futuro | مش + verbo | أنا مش هقول — ana mish haʼūl |
+  
+  ---
