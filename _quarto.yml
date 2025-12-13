@@ -18,6 +18,7 @@ book:
     - exercicio.qmd
     - verbo_dizer.qmd
     - isto_aquilo.qmd
+    - gostar.qmd
     
 
 bibliography: references.bib
