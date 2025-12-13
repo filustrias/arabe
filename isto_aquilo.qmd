@@ -1,0 +1,374 @@
+# Pronomes Demonstrativos, isto e aquilo {.unnumbered}
+
+## Introdução
+
+Em árabe egípcio, os pronomes demonstrativos são usados para indicar objetos, pessoas ou ideias, apontando para algo próximo (isto/este) ou distante (aquilo/aquele). Diferente do português, o árabe egípcio coloquial usa as mesmas palavras para "este" e "aquele" — o contexto, gestos ou palavras adicionais indicam a distância.
+
+------------------------------------------------------------------------
+
+## Os Demonstrativos
+
+### Tabela Principal
+
+| Português          | Masculino | Feminino | Plural    |
+|--------------------|-----------|----------|-----------|
+| este / isto / esse | ده (da)   | دي (di)  | دول (dol) |
+| aquele / aquilo    | ده (da)   | دي (di)  | دول (dol) |
+
+### Observação Importante
+
+Em árabe egípcio coloquial, **ده / دي / دول** servem tanto para "este" quanto para "aquele". Para enfatizar que algo está longe, usa-se:
+
+-   Apontar com o dedo
+-   Adicionar **هناك** (henak = lá/ali) à frase
+
+------------------------------------------------------------------------
+
+## Aqui e Lá
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| هنا   | hena   | aqui      |
+| هناك  | henak  | lá / ali  |
+
+------------------------------------------------------------------------
+
+## Estrutura das Frases
+
+### Posição do Demonstrativo
+
+O demonstrativo vem **depois** do substantivo quando acompanha um nome:
+
+| Estrutura               | Exemplo   | Franco       | Português    |
+|-------------------------|-----------|--------------|--------------|
+| substantivo + ده/دي/دول | الكتاب ده | el-ketab da  | este livro   |
+| substantivo + ده/دي/دول | الشنطة دي | el-shanta di | esta bolsa   |
+| substantivo + ده/دي/دول | الكتب دول | el-kutub dol | estes livros |
+
+### Demonstrativo Sozinho (como sujeito)
+
+Quando o demonstrativo é o sujeito da frase, ele vem no início:
+
+| Árabe   | Franco    | Português        |
+|---------|-----------|------------------|
+| ده كتاب | da ketab  | Isto é um livro  |
+| دي شنطة | di shanta | Isto é uma bolsa |
+| دول كتب | dol kutub | Estes são livros |
+
+------------------------------------------------------------------------
+
+## Vocabulário: Roupas e Objetos
+
+| Árabe  | Franco   | Português  | Género |
+|--------|----------|------------|--------|
+| جاكيت  | jacket   | casaco     | masc.  |
+| بنطلون | bantalon | calça      | masc.  |
+| قميص   | ʼamis    | camisa     | masc.  |
+| فستان  | fustan   | vestido    | masc.  |
+| بلوزة  | bluza    | blusa      | fem.   |
+| جيبة   | giba     | saia       | fem.   |
+| تيشيرت | t-shirt  | camiseta   | masc.  |
+| جزمة   | gazma    | sapato     | fem.   |
+| شنطة   | shanta   | bolsa/mala | fem.   |
+| ساعة   | saʻa     | relógio    | fem.   |
+| موبايل | mobayl   | telemóvel  | masc.  |
+| كتاب   | ketab    | livro      | masc.  |
+| قلم    | ʼalam    | caneta     | masc.  |
+
+------------------------------------------------------------------------
+
+## Verbos Simples no Presente
+
+Para construir frases com demonstrativos, precisamos de alguns verbos básicos:
+
+| Árabe | Franco | Português      | Eu (أنا)      | Tu/m. (إنت)    | Tu/f. (إنتي)     |
+|-------|--------|----------------|---------------|----------------|------------------|
+| عايز  | ʻayez  | querer         | عايز (ʻayez)  | عايز (ʻayez)   | عايزة (ʻayza)    |
+| بحب   | baḥebb | gostar/amar    | بحب (baḥebb)  | بتحب (betḥebb) | بتحبي (betḥebbi) |
+| عارف  | ʻaref  | conhecer/saber | عارف (ʻaref)  | عارف (ʻaref)   | عارفة (ʻarfa)    |
+| شايف  | shayef | ver            | شايف (shayef) | شايف (shayef)  | شايفة (shayfa)   |
+| لابس  | labes  | vestir/usar    | لابس (labes)  | لابس (labes)   | لابسة (labsa)    |
+
+### Nota sobre عايز (querer)
+
+**عايز** não é tecnicamente um verbo, mas um adjetivo ativo. Por isso, muda apenas em género: - أنا عايز (ana ʻayez) — Eu quero (homem) - أنا عايزة (ana ʻayza) — Eu quero (mulher)
+
+------------------------------------------------------------------------
+
+## Negação no Presente
+
+Para negar no presente, usa-se **مش** (mesh) antes do verbo ou adjetivo:
+
+| Afirmativo | Franco | Negativo | Franco      | Português   |
+|------------|--------|----------|-------------|-------------|
+| عايز       | ʻayez  | مش عايز  | mesh ʻayez  | não quero   |
+| بحب        | baḥebb | مش بحب   | mesh baḥebb | não gosto   |
+| عارف       | ʻaref  | مش عارف  | mesh ʻaref  | não conheço |
+| شايف       | shayef | مش شايف  | mesh shayef | não vejo    |
+
+------------------------------------------------------------------------
+
+## Perguntas com Demonstrativos
+
+### "O que é isto/aquilo?"
+
+| Árabe    | Franco   | Português                     |
+|----------|----------|-------------------------------|
+| ده إيه؟  | da eih?  | O que é isto? (masc.)         |
+| دي إيه؟  | di eih?  | O que é isto? (fem.)          |
+| دول إيه؟ | dol eih? | O que são estes?              |
+| إيه ده؟  | eih da?  | O que é isto? (mais enfático) |
+
+### Respostas
+
+| Árabe    | Franco    | Português        |
+|----------|-----------|------------------|
+| ده كتاب  | da ketab  | Isto é um livro  |
+| دي شنطة  | di shanta | Isto é uma bolsa |
+| دول هدوم | dol hedum | Isto são roupas  |
+
+------------------------------------------------------------------------
+
+## Frases Afirmativas com Demonstrativos
+
+### "Este/Esta é meu/minha"
+
+| Árabe            | Franco               | Português          |
+|------------------|----------------------|--------------------|
+| الجزمة دي بتاعتي | el-gazma di betaʻti  | Este sapato é meu  |
+| الجاكيت ده بتاعي | el-jacket da betaʻi  | Este casaco é meu  |
+| الشنطة دي بتاعتي | el-shanta di betaʻti | Esta bolsa é minha |
+
+### "Quero este/esta"
+
+| Árabe             | Franco               | Português          |
+|-------------------|----------------------|--------------------|
+| عايز الجاكيت ده   | ʻayez el-jacket da   | Quero este casaco  |
+| عايزة البلوزة دي  | ʻayza el-bluza di    | Quero esta blusa   |
+| عايز الفستان ده   | ʻayez el-fustan da   | Quero este vestido |
+| عايزة البنطلون ده | ʻayza el-bantalon da | Quero esta calça   |
+
+### "Gosto deste/desta"
+
+| Árabe           | Franco              | Português           |
+|-----------------|---------------------|---------------------|
+| بحب الفستان ده  | baḥebb el-fustan da | Gosto deste vestido |
+| بحب الجيبة دي   | baḥebb el-giba di   | Gosto desta saia    |
+| بحب الألوان دول | baḥebb el-alwan dol | Gosto destas cores  |
+
+### "Conheço este/esta"
+
+| Árabe          | Franco            | Português             |
+|----------------|-------------------|-----------------------|
+| عارف الراجل ده | ʻaref el-ragel da | Conheço este homem    |
+| عارفة البنت دي | ʻarfa el-bent di  | Conheço esta rapariga |
+| عارف المكان ده | ʻaref el-makan da | Conheço este lugar    |
+
+### "Vejo aquele/aquela"
+
+| Árabe             | Franco                 | Português                |
+|-------------------|------------------------|--------------------------|
+| شايف الجاكيت هناك | shayef el-jacket henak | Vejo aquele casaco (ali) |
+| شايفة الشنطة هناك | shayfa el-shanta henak | Vejo aquela bolsa (ali)  |
+
+------------------------------------------------------------------------
+
+## Frases Negativas com Demonstrativos
+
+### "Não quero este/esta"
+
+| Árabe                | Franco                    | Português              |
+|----------------------|---------------------------|------------------------|
+| مش عايز الجاكيت ده   | mesh ʻayez el-jacket da   | Não quero este casaco  |
+| مش عايزة البلوزة دي  | mesh ʻayza el-bluza di    | Não quero esta blusa   |
+| مش عايز الفستان ده   | mesh ʻayez el-fustan da   | Não quero este vestido |
+| مش عايزة البنطلون ده | mesh ʻayza el-bantalon da | Não quero esta calça   |
+
+### "Não gosto deste/desta"
+
+| Árabe             | Franco                   | Português               |
+|-------------------|--------------------------|-------------------------|
+| مش بحب الفستان ده | mesh baḥebb el-fustan da | Não gosto deste vestido |
+| مش بحب اللون ده   | mesh baḥebb el-lon da    | Não gosto desta cor     |
+| مش بحب الجزمة دي  | mesh baḥebb el-gazma di  | Não gosto deste sapato  |
+
+### "Não conheço este/esta"
+
+| Árabe             | Franco                 | Português                 |
+|-------------------|------------------------|---------------------------|
+| مش عارف الراجل ده | mesh ʻaref el-ragel da | Não conheço este homem    |
+| مش عارفة البنت دي | mesh ʻarfa el-bent di  | Não conheço esta rapariga |
+| مش عارف المكان ده | mesh ʻaref el-makan da | Não conheço este lugar    |
+
+### "Não vejo aquele/aquela"
+
+| Árabe                | Franco                      | Português              |
+|----------------------|-----------------------------|------------------------|
+| مش شايف الجاكيت هناك | mesh shayef el-jacket henak | Não vejo aquele casaco |
+| مش شايفة الشنطة هناك | mesh shayfa el-shanta henak | Não vejo aquela bolsa  |
+
+------------------------------------------------------------------------
+
+## Diálogos de Exemplo
+
+### Diálogo 1: Na Loja de Roupas
+
+| Pessoa | Árabe | Franco | Português |
+|----|----|----|----|
+| A | ده إيه؟ | da eih? | O que é isto? |
+| B | ده جاكيت | da jacket | Isto é um casaco |
+| A | بحب الجاكيت ده. عايز ده | baḥebb el-jacket da. ʻayez da | Gosto deste casaco. Quero este |
+| B | والبنطلون ده؟ | wel-bantalon da? | E esta calça? |
+| A | لأ، مش عايز البنطلون ده | laʼ, mesh ʻayez el-bantalon da | Não, não quero esta calça |
+
+### Diálogo 2: Em Casa
+
+| Pessoa | Árabe | Franco | Português |
+|----|----|----|----|
+| A | الشنطة دي بتاعتك؟ | el-shanta di betaʻtik? | Esta bolsa é tua? |
+| B | لأ، دي مش بتاعتي. دي بتاعت أختي | laʼ, di mesh betaʻti. di betaʻt okhti | Não, não é minha. É da minha irmã |
+| A | والجزمة دي؟ | wel-gazma di? | E este sapato? |
+| B | أيوه، دي بتاعتي | aywa, di betaʻti | Sim, é meu |
+
+### Diálogo 3: Apontando para Coisas
+
+| Pessoa | Árabe | Franco | Português |
+|----|----|----|----|
+| A | شايف الفستان هناك؟ | shayef el-fustan henak? | Vês aquele vestido ali? |
+| B | أيوه، شايفه. حلو أوي | aywa, shayfu. ḥelw awi | Sim, vejo-o. É muito bonito |
+| A | عايزة الفستان ده | ʻayza el-fustan da | Quero este vestido |
+| B | وأنا بحب البلوزة دي | wana baḥebb el-bluza di | E eu gosto desta blusa |
+
+------------------------------------------------------------------------
+
+## Exercícios
+
+### Exercício A: Complete com ده، دي ou دول
+
+1.  الكتاب \_\_\_\_\_\_\_\_ جديد
+2.  الشنطة \_\_\_\_\_\_\_\_ كبيرة
+3.  الهدوم \_\_\_\_\_\_\_\_ حلوة
+4.  الموبايل \_\_\_\_\_\_\_\_ بتاعي
+5.  القلم \_\_\_\_\_\_\_\_ أزرق
+6.  البلوزة \_\_\_\_\_\_\_\_ غالية
+7.  الناس \_\_\_\_\_\_\_\_ طيبين
+
+------------------------------------------------------------------------
+
+### Exercício B: Traduza para árabe egípcio
+
+1.  O que é isto?
+2.  O que é aquilo?
+3.  Este é o meu sapato.
+4.  Quero aquela blusa.
+5.  Gosto deste vestido.
+6.  Quero esta calça.
+7.  Não quero este casaco.
+8.  Não gosto desta cor.
+9.  Conheço este homem.
+10. Não conheço esta mulher.
+
+------------------------------------------------------------------------
+
+### Exercício C: Transforme as frases afirmativas em negativas
+
+1.  عايز الجاكيت ده
+2.  بحب الفستان ده
+3.  عارف المكان ده
+4.  شايف الشنطة دي
+5.  عايزة البنطلون ده
+
+------------------------------------------------------------------------
+
+### Exercício D: Complete o diálogo
+
+| Pessoa | Árabe | Franco | Português |
+|----|----|----|----|
+| A | \_\_\_\_\_\_\_\_ إيه؟ | \_\_\_\_\_\_\_\_ eih? | O que é isto? |
+| B | ده \_\_\_\_\_\_\_\_ | da \_\_\_\_\_\_\_\_ | Isto é um livro |
+| A | الكتاب ده \_\_\_\_\_\_\_\_؟ | el-ketab da \_\_\_\_\_\_\_\_? | Este livro é teu? |
+| B | أيوه، ده \_\_\_\_\_\_\_\_ | aywa, da \_\_\_\_\_\_\_\_ | Sim, é meu |
+| A | و\_\_\_\_\_\_\_\_ دي؟ | w\_\_\_\_\_\_\_\_ di? | E esta caneta? |
+| B | لأ، دي مش \_\_\_\_\_\_\_\_ | laʼ, di mesh \_\_\_\_\_\_\_\_ | Não, não é minha |
+
+------------------------------------------------------------------------
+
+## Respostas dos Exercícios
+
+### Respostas A
+
+| Nº  | Resposta | Frase Completa    | Franco              |
+|-----|----------|-------------------|---------------------|
+| 1   | ده       | الكتاب ده جديد    | el-ketab da gedid   |
+| 2   | دي       | الشنطة دي كبيرة   | el-shanta di kebira |
+| 3   | دول      | الهدوم دول حلوة   | el-hedum dol ḥelwa  |
+| 4   | ده       | الموبايل ده بتاعي | el-mobayl da betaʻi |
+| 5   | ده       | القلم ده أزرق     | el-ʼalam da azraʼ   |
+| 6   | دي       | البلوزة دي غالية  | el-bluza di ghalya  |
+| 7   | دول      | الناس دول طيبين   | el-nas dol tayyebin |
+
+### Respostas B
+
+| Nº  | Árabe                    | Franco                        |
+|-----|--------------------------|-------------------------------|
+| 1   | ده إيه؟                  | da eih?                       |
+| 2   | ده إيه هناك؟             | da eih henak?                 |
+| 3   | الجزمة دي بتاعتي         | el-gazma di betaʻti           |
+| 4   | عايز/عايزة البلوزة دي    | ʻayez/ʻayza el-bluza di       |
+| 5   | بحب الفستان ده           | baḥebb el-fustan da           |
+| 6   | عايز/عايزة البنطلون ده   | ʻayez/ʻayza el-bantalon da    |
+| 7   | مش عايز/عايزة الجاكيت ده | mesh ʻayez/ʻayza el-jacket da |
+| 8   | مش بحب اللون ده          | mesh baḥebb el-lon da         |
+| 9   | عارف الراجل ده           | ʻaref el-ragel da             |
+| 10  | مش عارف/عارفة الست دي    | mesh ʻaref/ʻarfa el-sett di   |
+
+### Respostas C
+
+| Nº  | Afirmativa        | Negativa             | Franco                    |
+|-----|-------------------|----------------------|---------------------------|
+| 1   | عايز الجاكيت ده   | مش عايز الجاكيت ده   | mesh ʻayez el-jacket da   |
+| 2   | بحب الفستان ده    | مش بحب الفستان ده    | mesh baḥebb el-fustan da  |
+| 3   | عارف المكان ده    | مش عارف المكان ده    | mesh ʻaref el-makan da    |
+| 4   | شايف الشنطة دي    | مش شايف الشنطة دي    | mesh shayef el-shanta di  |
+| 5   | عايزة البنطلون ده | مش عايزة البنطلون ده | mesh ʻayza el-bantalon da |
+
+### Respostas D
+
+| Pessoa | Árabe            | Franco               | Português         |
+|--------|------------------|----------------------|-------------------|
+| A      | ده إيه؟          | da eih?              | O que é isto?     |
+| B      | ده كتاب          | da ketab             | Isto é um livro   |
+| A      | الكتاب ده بتاعك؟ | el-ketab da betaʻak? | Este livro é teu? |
+| B      | أيوه، ده بتاعي   | aywa, da betaʻi      | Sim, é meu        |
+| A      | والقلم دي؟       | wel-ʼalam da?        | E esta caneta?    |
+| B      | لأ، ده مش بتاعي  | laʼ, da mesh betaʻi  | Não, não é meu    |
+
+------------------------------------------------------------------------
+
+## Resumo Final
+
+### Demonstrativos
+
+| Tipo        | Masculino | Feminino | Plural    |
+|-------------|-----------|----------|-----------|
+| este/aquele | ده (da)   | دي (di)  | دول (dol) |
+
+### Lugar
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| هنا   | hena   | aqui      |
+| هناك  | henak  | lá / ali  |
+
+### Negação
+
+Usa-se **مش** (mesh) antes do verbo/adjetivo para negar no presente.
+
+### Estrutura
+
+-   **Substantivo + demonstrativo**: الكتاب ده (este livro)
+-   **Demonstrativo como sujeito**: ده كتاب (isto é um livro)
+
+------------------------------------------------------------------------
+
+**Bons estudos! 📚**

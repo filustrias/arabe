@@ -12,10 +12,12 @@ book:
     - gramatica.qmd
     - verbos.qmd
     - vocabulario.qmd
+    - polidez.qmd
     - expressoes.qmd
     - dez_verbos.qmd
     - exercicio.qmd
     - verbo_dizer.qmd
+    - isto_aquilo.qmd
     
 
 bibliography: references.bib

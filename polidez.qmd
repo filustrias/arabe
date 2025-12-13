@@ -1,0 +1,127 @@
+# Frases de Polidez {.unnumbered}
+
+---
+
+## Cumprimentos Básicos
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| أهلاً | ahlan | Olá |
+| سلام | salam | Olá (lit. paz) |
+| السلام عليكم | el-salamu ʻaleikum | A paz esteja convosco (formal) |
+| وعليكم السلام | wa ʻaleikum el-salam | E convosco a paz (resposta) |
+
+---
+
+## Bom Dia / Boa Tarde / Boa Noite
+
+| Árabe | Franco | Português | Resposta |
+|-------|--------|-----------|----------|
+| صباح الخير | sabaḥ el-kheir | Bom dia | صباح النور (sabaḥ el-nur) |
+| مساء الخير | masa el-kheir | Boa tarde/noite | مساء النور (masa el-nur) |
+| تصبح على خير | tesbaḥ ʻala kheir | Boa noite (ao despedir) | وإنت من أهله (wenta men ahlo) |
+
+---
+
+## Como Vai?
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| إزيك؟ | ezzayak? | Como vais? (para homem) |
+| إزيك؟ | ezzayik? | Como vais? (para mulher) |
+| إزيكم؟ | ezzaykum? | Como vão? (plural) |
+| عامل إيه؟ | ʻamel eih? | Como estás? (para homem) |
+| عاملة إيه؟ | ʻamla eih? | Como estás? (para mulher) |
+
+### Respostas
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| كويس، الحمد لله | kwayyes, el-ḥamdu lillah | Bem, graças a Deus (masc.) |
+| كويسة، الحمد لله | kwayyesa, el-ḥamdu lillah | Bem, graças a Deus (fem.) |
+| تمام | tamam | Tudo bem |
+| مش بطال | mesh baṭṭal | Nada mal |
+
+---
+
+## Prazer em Conhecer / Ver
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| فرصة سعيدة | forsa saʻida | Prazer em conhecer-te |
+| أنا كمان | ana kaman | Igualmente |
+| نورت | nawwart | Iluminaste (o lugar) — Bom te ver (para homem) |
+| نورتي | nawwarti | Iluminaste — Bom te ver (para mulher) |
+| وحشتني | waḥashtini | Tive saudades tuas |
+
+---
+
+## Por Favor / Obrigado
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| من فضلك | men faḍlak | Por favor (para homem) |
+| من فضلك | men faḍlik | Por favor (para mulher) |
+| لو سمحت | law samaḥt | Por favor / Com licença (para homem) |
+| لو سمحتي | law samaḥti | Por favor / Com licença (para mulher) |
+| شكراً | shukran | Obrigado |
+| متشكر | mutashakker | Muito obrigado (masc.) |
+| متشكرة | mutashakkera | Muito obrigada (fem.) |
+| العفو | el-ʻafw | De nada |
+
+---
+
+## Desculpa / Perdão
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| آسف | asef | Desculpa (masc.) |
+| آسفة | asfa | Desculpa (fem.) |
+| معلش | maʻlesh | Não faz mal / Desculpa |
+| مفيش مشكلة | mafish mushkela | Sem problema |
+
+---
+
+## Despedidas
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| مع السلامة | maʻa el-salama | Adeus / Fica bem |
+| باي | bye | Tchau |
+| يلا باي | yalla bye | Tchau então |
+| إلى اللقاء | ila el-leqaʼ | Até à próxima |
+| شوفك بعدين | shufak baʻdein | Vejo-te depois (para homem) |
+| شوفك بعدين | shufik baʻdein | Vejo-te depois (para mulher) |
+
+---
+
+## Votos e Expressões Úteis
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| كل سنة وإنت طيب | kull sana wenta ṭayyeb | Feliz aniversário (para homem) |
+| كل سنة وإنتي طيبة | kull sana wenti ṭayyeba | Feliz aniversário (para mulher) |
+| مبروك | mabruk | Parabéns |
+| الله يبارك فيك | allah yibarek fik | Que Deus te abençoe (resposta) |
+| سلامتك | salamtak | As melhoras (para homem) |
+| سلامتك | salamtik | As melhoras (para mulher) |
+| ربنا يخليك | rabbena yikhallik | Que Deus te guarde |
+
+---
+
+## Mini Diálogo
+
+| Pessoa | Árabe | Franco | Português |
+|--------|-------|--------|-----------|
+| A | صباح الخير! | sabaḥ el-kheir! | Bom dia! |
+| B | صباح النور! إزيك؟ | sabaḥ el-nur! ezzayak? | Bom dia! Como vais? |
+| A | كويس، الحمد لله. وإنت؟ | kwayyes, el-ḥamdu lillah. wenta? | Bem, graças a Deus. E tu? |
+| B | تمام، شكراً | tamam, shukran | Tudo bem, obrigado |
+| A | يلا، مع السلامة | yalla, maʻa el-salama | Então, adeus |
+| B | مع السلامة! | maʻa el-salama! | Adeus! |
+
+---
+
+**Dica:** الحمد لله (el-ḥamdu lillah = graças a Deus) é usado constantemente nas respostas, independentemente da religião. É cultural!
+
+---
