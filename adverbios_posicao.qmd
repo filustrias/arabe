@@ -1,0 +1,58 @@
+# Advérbios e Preposições de Posição {.unnumbered}
+
+---
+
+## Advérbios e Preposições de Posição
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| فوق | fo2 | em cima / sobre |
+| تحت | ta7t | embaixo / sob |
+| جنب | ganb | ao lado |
+| قدام | 2oddam | em frente / à frente |
+| ورا | wara | atrás |
+| بين | bein | entre |
+| جوه | gowwa | dentro |
+| بره | barra | fora |
+| قبل | 2abl | antes |
+| بعد | ba3d | depois / após |
+| على | 3ala | sobre / em |
+| في | fi | em / dentro |
+
+---
+
+## Exemplos Rápidos
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| الكتاب فوق الترابيزة | el-ketab fo2 el-tarabeza | O livro está em cima da mesa |
+| القلم تحت الكرسي | el-2alam ta7t el-korsi | A caneta está embaixo da cadeira |
+| أنا جنب الباب | ana ganb el-bab | Estou ao lado da porta |
+| هو قدام البيت | howwa 2oddam el-beit | Ele está em frente da casa |
+| الشنطة ورا الكنبة | el-shanta wara el-kanaba | A bolsa está atrás do sofá |
+| القطة جوه الصندوق | el-2otta gowwa el-sondo2 | O gato está dentro da caixa |
+| الكلب بره البيت | el-kalb barra el-beit | O cão está fora da casa |
+
+---
+
+## Exercício: Traduza para árabe egípcio
+
+1. O telemóvel está em cima da cama.
+2. O sapato está embaixo da cadeira.
+3. Ela está ao lado da janela.
+4. O carro está em frente da casa.
+5. A bolsa está atrás da porta.
+
+---
+
+## Respostas
+
+| Nº | Árabe | Franco |
+|----|-------|--------|
+| 1 | الموبايل فوق السرير | el-mobayl fo2 el-serir |
+| 2 | الجزمة تحت الكرسي | el-gazma ta7t el-korsi |
+| 3 | هي جنب الشباك | heyya ganb el-shebbak |
+| 4 | العربية قدام البيت | el-3arabeyya 2oddam el-beit |
+| 5 | الشنطة ورا الباب | el-shanta wara el-bab |
+
+---

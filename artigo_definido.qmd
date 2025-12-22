@@ -1,0 +1,311 @@
+# Artigo Definido, Cores, Tamanhos e o Verbo بحب {.unnumbered}
+
+---
+
+## A Regra do Artigo Definido (ال / el-)
+
+Em árabe, quando um substantivo tem o artigo definido **ال** (el-), o adjetivo que o acompanha **também precisa** do artigo definido.
+
+---
+
+### Comparação: Definido vs. Indefinido
+
+| Tipo | Árabe | Franco | Português |
+|------|-------|--------|-----------|
+| Indefinido | فستان أحمر | fustan a7mar | um vestido vermelho |
+| Definido | الفستان الأحمر | el-fustan el-a7mar | o vestido vermelho |
+
+---
+
+### A Lógica
+
+| Português | Árabe | Franco | Estrutura |
+|-----------|-------|--------|-----------|
+| um vestido vermelho | فستان أحمر | fustan a7mar | substantivo + adjetivo |
+| o vestido vermelho | الفستان الأحمر | el-fustan el-a7mar | **ال**+substantivo + **ال**+adjetivo |
+
+Em português, usamos "o" apenas uma vez: "**o** vestido vermelho".
+
+Em árabe, o artigo **repete-se** em cada palavra do sintagma nominal: "**o** vestido **o** vermelho".
+
+---
+
+### Exemplos: Indefinido (sem ال)
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| بدلة سودا | badla soda | um fato preto |
+| قميص أبيض | 2amis abyad | uma camisa branca |
+| كرافتة زرقا | karavatta zar2a | uma gravata azul |
+| جيبة خضرا | giba khadra | uma saia verde |
+| بنطلون بني | bantalon bonni | uma calça castanha |
+
+### Exemplos: Definido (com ال em ambos)
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| البدلة السودا | el-badla el-soda | o fato preto |
+| القميص الأبيض | el-2amis el-abyad | a camisa branca |
+| الكرافتة الزرقا | el-karavatta el-zar2a | a gravata azul |
+| الجيبة الخضرا | el-giba el-khadra | a saia verde |
+| البنطلون البني | el-bantalon el-bonni | a calça castanha |
+
+---
+
+### Atenção: Frases Nominais (sem verbo "ser")
+
+Se colocares **ال** só no substantivo, crias uma frase completa com sentido de "é":
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| الفستان أحمر | el-fustan a7mar | O vestido **é** vermelho |
+| الفستان الأحمر | el-fustan el-a7mar | O vestido vermelho (descrição) |
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| البدلة كبيرة | el-badla kebira | O fato **é** grande |
+| البدلة الكبيرة | el-badla el-kebira | O fato grande (descrição) |
+
+---
+
+### Resumo da Regra
+
+| Situação | Substantivo | Adjetivo | Significado |
+|----------|-------------|----------|-------------|
+| Indefinido | فستان | أحمر | um vestido vermelho |
+| Definido | **ال**فستان | **ال**أحمر | o vestido vermelho |
+| Frase nominal | **ال**فستان | أحمر | o vestido **é** vermelho |
+
+---
+
+## Vocabulário: Vestimentas
+
+| Árabe | Franco | Português | Género |
+|-------|--------|-----------|--------|
+| فستان | fustan | vestido | masc. |
+| بلوزة | bluza | blusa | fem. |
+| قميص | 2amis | camisa | masc. |
+| بنطلون | bantalon | calça | masc. |
+| جاكيت | jacket | casaco | masc. |
+| بدلة | badla | fato/terno | fem. |
+| جاكيت بدلة | jacket badla | paletó | masc. |
+| كرافتة | karavatta | gravata | fem. |
+| جيبة | giba | saia | fem. |
+| تيشيرت | t-shirt | camiseta | masc. |
+| جزمة | gazma | sapato | fem. |
+| شراب | sharab | meias | masc. |
+| إيشارب | isharb | lenço/cachecol | masc. |
+
+---
+
+## Vocabulário: Cores
+
+| Árabe | Franco | Português | Feminino | Franco (fem.) |
+|-------|--------|-----------|----------|---------------|
+| أبيض | abyad | branco | بيضا | beida |
+| أسود | eswed | preto | سودا | soda |
+| أحمر | a7mar | vermelho | حمرا | 7amra |
+| أزرق | azra2 | azul | زرقا | zar2a |
+| أخضر | akhdar | verde | خضرا | khadra |
+| أصفر | asfar | amarelo | صفرا | safra |
+| برتقاني | borto2ani | laranja | برتقانية | borto2aneyya |
+| بني | bonni | castanho/marrom | بنية | bonneyya |
+| رمادي | ramadi | cinzento/cinza | رمادية | ramadeyya |
+| وردي | wardi | rosa | وردية | wardeyya |
+| بنفسجي | banafsegi | roxo | بنفسجية | banafsegeyya |
+
+### Concordância de Cores com Substantivos
+
+| Roupa (masc.) | Exemplo | Roupa (fem.) | Exemplo |
+|---------------|---------|--------------|---------|
+| قميص أبيض | 2amis abyad | بلوزة بيضا | bluza beida |
+| فستان أحمر | fustan a7mar | جيبة حمرا | giba 7amra |
+| بنطلون أسود | bantalon eswed | جزمة سودا | gazma soda |
+| جاكيت أزرق | jacket azra2 | كرافتة زرقا | karavatta zar2a |
+
+---
+
+## Vocabulário: Tamanhos
+
+| Árabe | Franco | Português | Feminino | Franco (fem.) |
+|-------|--------|-----------|----------|---------------|
+| كبير | kebir | grande | كبيرة | kebira |
+| صغير | soghayar | pequeno | صغيرة | soghayara |
+| طويل | tawil | comprido/alto | طويلة | tawila |
+| قصير | 2osayar | curto/baixo | قصيرة | 2osayara |
+| واسع | wase3 | largo/folgado | واسعة | was3a |
+| ضيق | dayya2 | apertado/justo | ضيقة | dayya2a |
+
+---
+
+## O Verbo حب (gostar/amar) — Presente
+
+| Pronome | Afirmativo | Franco | Negativo | Franco |
+|---------|------------|--------|----------|--------|
+| أنا | بحب | ba7ebb | مش بحب | mesh ba7ebb |
+| إنت | بتحب | bet7ebb | مش بتحب | mesh bet7ebb |
+| إنتي | بتحبي | bet7ebbi | مش بتحبي | mesh bet7ebbi |
+| هو | بيحب | beye7ebb | مش بيحب | mesh beye7ebb |
+| هي | بتحب | bet7ebb | مش بتحب | mesh bet7ebb |
+| إحنا | بنحب | ben7ebb | مش بنحب | mesh ben7ebb |
+| إنتم | بتحبوا | bet7ebbu | مش بتحبوا | mesh bet7ebbu |
+| هم | بيحبوا | beye7ebbu | مش بيحبوا | mesh beye7ebbu |
+
+---
+
+## Frases com بحب e Cores
+
+### Frases Afirmativas
+
+| Pronome | Árabe | Franco | Português |
+|---------|-------|--------|-----------|
+| أنا | أنا بحب الفستان الأحمر | ana ba7ebb el-fustan el-a7mar | Eu gosto do vestido vermelho |
+| إنت | إنت بتحب القميص الأبيض | enta bet7ebb el-2amis el-abyad | Tu gostas da camisa branca (m.) |
+| إنتي | إنتي بتحبي الجيبة الزرقا | enti bet7ebbi el-giba el-zar2a | Tu gostas da saia azul (f.) |
+| هو | هو بيحب البدلة السودا | howwa beye7ebb el-badla el-soda | Ele gosta do fato preto |
+| هي | هي بتحب الكرافتة الخضرا | heyya bet7ebb el-karavatta el-khadra | Ela gosta da gravata verde |
+| إحنا | إحنا بنحب البنطلون البني | e7na ben7ebb el-bantalon el-bonni | Nós gostamos da calça castanha |
+| إنتم | إنتم بتحبوا الجاكيت الرمادي | entum bet7ebbu el-jacket el-ramadi | Vós gostais do casaco cinzento |
+| هم | هم بيحبوا الجزمة السودا | humma beye7ebbu el-gazma el-soda | Eles gostam do sapato preto |
+
+### Frases Negativas
+
+| Pronome | Árabe | Franco | Português |
+|---------|-------|--------|-----------|
+| أنا | أنا مش بحب الفستان الأحمر | ana mesh ba7ebb el-fustan el-a7mar | Eu não gosto do vestido vermelho |
+| إنت | إنت مش بتحب القميص الأبيض | enta mesh bet7ebb el-2amis el-abyad | Tu não gostas da camisa branca (m.) |
+| إنتي | إنتي مش بتحبي الجيبة الزرقا | enti mesh bet7ebbi el-giba el-zar2a | Tu não gostas da saia azul (f.) |
+| هو | هو مش بيحب البدلة السودا | howwa mesh beye7ebb el-badla el-soda | Ele não gosta do fato preto |
+| هي | هي مش بتحب الكرافتة الخضرا | heyya mesh bet7ebb el-karavatta el-khadra | Ela não gosta da gravata verde |
+| إحنا | إحنا مش بنحب البنطلون البني | e7na mesh ben7ebb el-bantalon el-bonni | Nós não gostamos da calça castanha |
+| إنتم | إنتم مش بتحبوا الجاكيت الرمادي | entum mesh bet7ebbu el-jacket el-ramadi | Vós não gostais do casaco cinzento |
+| هم | هم مش بيحبوا الجزمة السودا | humma mesh beye7ebbu el-gazma el-soda | Eles não gostam do sapato preto |
+
+---
+
+## Frases com بحب e Tamanhos
+
+### Frases Afirmativas
+
+| Pronome | Árabe | Franco | Português |
+|---------|-------|--------|-----------|
+| أنا | أنا بحب الفستان الطويل | ana ba7ebb el-fustan el-tawil | Eu gosto do vestido comprido |
+| إنت | إنت بتحب القميص الواسع | enta bet7ebb el-2amis el-wase3 | Tu gostas da camisa larga (m.) |
+| إنتي | إنتي بتحبي الجيبة القصيرة | enti bet7ebbi el-giba el-2osayara | Tu gostas da saia curta (f.) |
+| هو | هو بيحب البدلة الكبيرة | howwa beye7ebb el-badla el-kebira | Ele gosta do fato grande |
+| هي | هي بتحب البنطلون الضيق | heyya bet7ebb el-bantalon el-dayya2 | Ela gosta da calça justa |
+| إحنا | إحنا بنحب الجاكيت الصغير | e7na ben7ebb el-jacket el-soghayar | Nós gostamos do casaco pequeno |
+| إنتم | إنتم بتحبوا التيشيرت الواسع | entum bet7ebbu el-t-shirt el-wase3 | Vós gostais da camiseta larga |
+| هم | هم بيحبوا الجزمة الكبيرة | humma beye7ebbu el-gazma el-kebira | Eles gostam do sapato grande |
+
+### Frases Negativas
+
+| Pronome | Árabe | Franco | Português |
+|---------|-------|--------|-----------|
+| أنا | أنا مش بحب الفستان الطويل | ana mesh ba7ebb el-fustan el-tawil | Eu não gosto do vestido comprido |
+| إنت | إنت مش بتحب القميص الواسع | enta mesh bet7ebb el-2amis el-wase3 | Tu não gostas da camisa larga (m.) |
+| إنتي | إنتي مش بتحبي الجيبة القصيرة | enti mesh bet7ebbi el-giba el-2osayara | Tu não gostas da saia curta (f.) |
+| هو | هو مش بيحب البدلة الكبيرة | howwa mesh beye7ebb el-badla el-kebira | Ele não gosta do fato grande |
+| هي | هي مش بتحب البنطلون الضيق | heyya mesh bet7ebb el-bantalon el-dayya2 | Ela não gosta da calça justa |
+| إحنا | إحنا مش بنحب الجاكيت الصغير | e7na mesh ben7ebb el-jacket el-soghayar | Nós não gostamos do casaco pequeno |
+| إنتم | إنتم مش بتحبوا التيشيرت الواسع | entum mesh bet7ebbu el-t-shirt el-wase3 | Vós não gostais da camiseta larga |
+| هم | هم مش بيحبوا الجزمة الكبيرة | humma mesh beye7ebbu el-gazma el-kebira | Eles não gostam do sapato grande |
+
+---
+
+## Frases Combinando Cor + Tamanho
+
+Quando há dois adjetivos, ambos levam **ال** se o substantivo for definido:
+
+**Estrutura:** ال + substantivo + ال + adj1 + ال + adj2
+
+### Exemplos
+
+| Árabe | Franco | Português |
+|-------|--------|-----------|
+| أنا بحب الفستان الأحمر الطويل | ana ba7ebb el-fustan el-a7mar el-tawil | Eu gosto do vestido vermelho comprido |
+| إنتي مش بتحبي الجيبة السودا القصيرة | enti mesh bet7ebbi el-giba el-soda el-2osayara | Tu não gostas da saia preta curta (f.) |
+| هو بيحب البدلة الزرقا الواسعة | howwa beye7ebb el-badla el-zar2a el-was3a | Ele gosta do fato azul folgado |
+| هي مش بتحب القميص الأبيض الضيق | heyya mesh bet7ebb el-2amis el-abyad el-dayya2 | Ela não gosta da camisa branca justa |
+| إحنا بنحب الجزمة السودا الكبيرة | e7na ben7ebb el-gazma el-soda el-kebira | Nós gostamos do sapato preto grande |
+| هم مش بيحبوا الكرافتة الحمرا الصغيرة | humma mesh beye7ebbu el-karavatta el-7amra el-soghayara | Eles não gostam da gravata vermelha pequena |
+| إنت بتحب البنطلون الأسود الطويل | enta bet7ebb el-bantalon el-eswed el-tawil | Tu gostas da calça preta comprida (m.) |
+| إنتم مش بتحبوا الجاكيت الرمادي الكبير | entum mesh bet7ebbu el-jacket el-ramadi el-kebir | Vós não gostais do casaco cinzento grande |
+
+---
+
+## Exercícios
+
+### A) Complete com ال onde necessário
+
+1. بحب ________ فستان ________ أحمر (o vestido vermelho)
+2. ________ قميص أبيض (uma camisa branca)
+3. ________ بدلة ________ سودا ________ كبيرة (o fato preto grande)
+4. ________ جيبة قصيرة (uma saia curta)
+5. مش بتحب ________ كرافتة ________ زرقا (a gravata azul)
+
+### B) Traduza para árabe egípcio
+
+1. Eu gosto da calça preta.
+2. Tu não gostas do vestido vermelho comprido. (f.)
+3. Ele gosta do casaco cinzento grande.
+4. Nós não gostamos da saia curta.
+5. Eles gostam do sapato preto.
+
+### C) Transforme de indefinido para definido
+
+1. فستان أحمر →
+2. قميص أبيض كبير →
+3. جيبة زرقا قصيرة →
+4. بدلة سودا →
+5. كرافتة خضرا صغيرة →
+
+---
+
+## Respostas dos Exercícios
+
+### Respostas A
+
+| Nº | Resposta |
+|----|----------|
+| 1 | بحب **ال**فستان **ال**أحمر |
+| 2 | قميص أبيض (sem ال — indefinido) |
+| 3 | **ال**بدلة **ال**سودا **ال**كبيرة |
+| 4 | جيبة قصيرة (sem ال — indefinido) |
+| 5 | مش بتحب **ال**كرافتة **ال**زرقا |
+
+### Respostas B
+
+| Nº | Árabe | Franco |
+|----|-------|--------|
+| 1 | أنا بحب البنطلون الأسود | ana ba7ebb el-bantalon el-eswed |
+| 2 | إنتي مش بتحبي الفستان الأحمر الطويل | enti mesh bet7ebbi el-fustan el-a7mar el-tawil |
+| 3 | هو بيحب الجاكيت الرمادي الكبير | howwa beye7ebb el-jacket el-ramadi el-kebir |
+| 4 | إحنا مش بنحب الجيبة القصيرة | e7na mesh ben7ebb el-giba el-2osayara |
+| 5 | هم بيحبوا الجزمة السودا | humma beye7ebbu el-gazma el-soda |
+
+### Respostas C
+
+| Nº | Indefinido | Definido |
+|----|------------|----------|
+| 1 | فستان أحمر | الفستان الأحمر |
+| 2 | قميص أبيض كبير | القميص الأبيض الكبير |
+| 3 | جيبة زرقا قصيرة | الجيبة الزرقا القصيرة |
+| 4 | بدلة سودا | البدلة السودا |
+| 5 | كرافتة خضرا صغيرة | الكرافتة الخضرا الصغيرة |
+
+---
+
+## Resumo Final
+
+| Regra | Exemplo |
+|-------|---------|
+| Indefinido: sem ال | فستان أحمر (um vestido vermelho) |
+| Definido: ال em tudo | الفستان الأحمر (o vestido vermelho) |
+| Frase nominal: ال só no substantivo | الفستان أحمر (o vestido é vermelho) |
+| Dois adjetivos definidos | الفستان الأحمر الطويل (o vestido vermelho comprido) |
+| Negação no presente | مش + verbo |
+
+---
+
+**Bons estudos! 📚**

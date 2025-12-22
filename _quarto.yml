@@ -19,6 +19,8 @@ book:
     - verbo_dizer.qmd
     - isto_aquilo.qmd
     - gostar.qmd
+    - artigo_definido.qmd
+    - adverbios_posicao.qmd
     
 
 bibliography: references.bib
