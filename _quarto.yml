@@ -21,6 +21,7 @@ book:
     - gostar.qmd
     - artigo_definido.qmd
     - adverbios_posicao.qmd
+    - aulas_sumarios.qmd
     
 
 bibliography: references.bib
