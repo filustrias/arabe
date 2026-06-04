@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+  $font-family-sans-serif: "Cairo", system-ui, -apple-system, "Segoe UI", sans-serif !default;
+
+/*-- scss:rules --*/
+  
+  /* Cairo — alfabeto latino (tamanho normal) */
+  @font-face {
+    font-family: "Cairo";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 200 1000;
+    src: url("https://cdn.jsdelivr.net/fontsource/fonts/cairo:vf@latest/latin-wght-normal.woff2") format("woff2-variations");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+2000-206F, U+2122, U+2212;
+  }
+
+/* Cairo — alfabeto árabe (ampliado a 140%) */
+  @font-face {
+    font-family: "Cairo";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 200 1000;
+    src: url("https://cdn.jsdelivr.net/fontsource/fonts/cairo:vf@latest/arabic-wght-normal.woff2") format("woff2-variations");
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF, U+0660-0669, U+06F0-06F9;
+    size-adjust: 140%;
+  }

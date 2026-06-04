@@ -1,0 +1,330 @@
+---
+title: "بكرة هنعمل إيه؟ — The future tense (Samar's lesson)"
+---
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary {
+  cursor: pointer;
+  list-style: none;
+  font-size: 1.45em;
+  line-height: 1.7;
+}
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after {
+  content: " ▾";
+  font-size: 0.5em;
+  opacity: 0.45;
+}
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+</style>
+```
+
+Content of teacher Samar's lesson on the future tense (المستقبل) in Egyptian Arabic. The Arabic is always visible — click any line to reveal the franco and the English.
+
+## Lesson title
+
+<details class="frase">
+<summary>بكرة هنعمل إيه؟</summary>
+<span class="fr">bukra hane3mel eh?</span>
+<span class="en">What will we do tomorrow?</span>
+</details>
+
+<details class="frase">
+<summary>زمن المستقبل في العامية المصرية</summary>
+<span class="fr">zaman el-mosta2bal fel-3ammeyya el-masreyya</span>
+<span class="en">The future tense in Egyptian colloquial Arabic</span>
+</details>
+
+<details class="frase">
+<summary>خطة درس مصغر (30 دقيقة)</summary>
+<span class="fr">5ottet dars mosa88ar (30 de2ee2a)</span>
+<span class="en">Mini lesson plan (30 minutes)</span>
+</details>
+
+## 1 & 2. Opening and motivation — الافتتاح والتحفيز
+
+**الافتتاح (opening)**
+
+<details class="frase">
+<summary>إزيكوا يا شباب؟ يومكوا عامل إيه؟</summary>
+<span class="fr">ezzayoko ya shabab? yomoko 3amel eh?</span>
+<span class="en">How are you, guys? How's your day going?</span>
+</details>
+
+**التحفيز (motivation)**
+
+<details class="frase">
+<summary>بصوا على الصورة دي.. تفتكروا أحمد بيخطط لإيه؟</summary>
+<span class="fr">bosso 3ala el-soora di.. teftekro Ahmad beye5attat le-eh?</span>
+<span class="en">Look at this picture.. what do you think Ahmed is planning for?</span>
+</details>
+
+<details class="frase">
+<summary>إنتوا بتحبوا تسافروا فين في الصيف؟</summary>
+<span class="fr">ento bet7ebbo tesafro fen fel-sef?</span>
+<span class="en">Where do you all like to travel in the summer?</span>
+</details>
+
+<details class="frase">
+<summary>هتعملوا إيه الويك إيند الجاي؟</summary>
+<span class="fr">hate3melo eh el-week-end el-gay?</span>
+<span class="en">What will you do next weekend?</span>
+</details>
+
+## 3. The dialogue — الديالوج (كتاب كلمني عربي)
+
+<details class="frase">
+<summary>أحمد: بكرة هسافر إسكندرية بالقطر الصبح.</summary>
+<span class="fr">Ahmad: bukra hasafir Eskendereyya bel-2atr es-sob7.</span>
+<span class="en">Ahmed: Tomorrow I'll travel to Alexandria by train in the morning.</span>
+</details>
+
+<details class="frase">
+<summary>منى: يا بختك! هتقعد هناك قد إيه؟</summary>
+<span class="fr">Mona: ya ba5tak! hato23od henak 2add eh?</span>
+<span class="en">Mona: Lucky you! How long will you stay there?</span>
+</details>
+
+<details class="frase">
+<summary>أحمد: هقعد أسبوع، و هعوم في البحر كل يوم.</summary>
+<span class="fr">Ahmad: ha23od osbo3, we ha3oom fel-ba7r koll yom.</span>
+<span class="en">Ahmed: I'll stay a week, and swim in the sea every day.</span>
+</details>
+
+<details class="frase">
+<summary>منى: طيب، أنا هخلص شغل بكرة و هكلمك عشان نتقابل.</summary>
+<span class="fr">Mona: tayyeb, ana ha5allas sho8l bukra we hakallemak 3ashan net2abel.</span>
+<span class="en">Mona: Okay, I'll finish work tomorrow and call you so we can meet.</span>
+</details>
+
+**الأسئلة (questions)**
+
+<details class="frase">
+<summary>أحمد رايح فين؟</summary>
+<span class="fr">Ahmad raye7 fen?</span>
+<span class="en">Where is Ahmed going?</span>
+</details>
+
+<details class="frase">
+<summary>هيعمل إيه هناك؟</summary>
+<span class="fr">hay3mel eh henak?</span>
+<span class="en">What will he do there?</span>
+</details>
+
+<details class="frase">
+<summary>منى هتعمل إيه بكرة؟</summary>
+<span class="fr">Mona hat3mel eh bukra?</span>
+<span class="en">What will Mona do tomorrow?</span>
+</details>
+
+## 4. Discovering the rule — اكتشاف القاعدة
+
+<details class="frase">
+<summary>بصوا على الكلمات المظللة في الديالوج.. إيه الحرف المشترك اللي زاد على الفعل؟</summary>
+<span class="fr">bosso 3ala el-kelmat el-mezallela fel-dialog.. eh el-7arf el-moshtarak elli zad 3ala el-fe3l?</span>
+<span class="en">Look at the highlighted words in the dialogue.. what is the common letter added to the verb?</span>
+</details>
+
+**قاعدة المستقبل (the future rule)**
+
+<details class="frase">
+<summary>( هـ ) + الفعل المضارع = المستقبل</summary>
+<span class="fr">( ha ) + el-fe3l el-modare3 = el-mosta2bal</span>
+<span class="en">( ha ) + the present verb = the future</span>
+</details>
+
+<details class="frase">
+<summary>المضارع (الآن): أنا بسافر</summary>
+<span class="fr">el-modare3 (delwa2ti): ana basafir</span>
+<span class="en">Present (now): I travel</span>
+</details>
+
+<details class="frase">
+<summary>المستقبل (بكرة): أنا هسافر</summary>
+<span class="fr">el-mosta2bal (bukra): ana hasafir</span>
+<span class="en">Future (tomorrow): I will travel</span>
+</details>
+
+<details class="frase">
+<summary>ملاحظة: حرف (هـ) بدل حرف (بـ) الخاص بالعادة أو الاستمرار</summary>
+<span class="fr">mola7za: 7arf (ha) badal 7arf (bi) el-5as bel-3ada aw el-estemrar</span>
+<span class="en">Note: the (ha) replaces the (bi), which marks habit or continuity</span>
+</details>
+
+## 5A. Production: controlled practice — تدريب محكوم
+
+<details class="frase">
+<summary>تدريب (أ): حوّل للفعل في المستقبل</summary>
+<span class="fr">tadreeb (alef): 7awwel lel-fe3l fel-mosta2bal</span>
+<span class="en">Exercise (A): Convert the verb to the future</span>
+</details>
+
+[أنا — example given]{.rotulo}
+
+<details class="frase">
+<summary>بشرب قهوة</summary>
+<span class="fr">basharab 2ahwa</span>
+<span class="en">I drink coffee</span>
+</details>
+
+<details class="frase">
+<summary>هشرب قهوة</summary>
+<span class="fr">hashrab 2ahwa</span>
+<span class="en">I will drink coffee</span>
+</details>
+
+[إنت]{.rotulo}
+
+<details class="frase">
+<summary>بتتفرج على الماتش</summary>
+<span class="fr">bettetfarrag 3ala el-match</span>
+<span class="en">you watch the match</span>
+</details>
+
+<details class="frase">
+<summary>هتتفرج على الماتش</summary>
+<span class="fr">hattetfarrag 3ala el-match</span>
+<span class="en">you will watch the match</span>
+</details>
+
+[إحنا]{.rotulo}
+
+<details class="frase">
+<summary>بناكل فول</summary>
+<span class="fr">benakol fool</span>
+<span class="en">we eat foul (fava beans)</span>
+</details>
+
+<details class="frase">
+<summary>هناكل فول</summary>
+<span class="fr">hanakol fool</span>
+<span class="en">we will eat foul</span>
+</details>
+
+[هي]{.rotulo}
+
+<details class="frase">
+<summary>بتنام بدري</summary>
+<span class="fr">betnam badri</span>
+<span class="en">she sleeps early</span>
+</details>
+
+<details class="frase">
+<summary>هتنام بدري</summary>
+<span class="fr">hatnam badri</span>
+<span class="en">she will sleep early</span>
+</details>
+
+## 5B. Production: semi-controlled practice — تدريب شبه محكوم
+
+<details class="frase">
+<summary>دي خطة "سارة" للجمعة الجاية. أوصف هي هتعمل إيه:</summary>
+<span class="fr">di 5ottet "Sara" lel-gom3a el-gaya. awsef heyya hate3mel eh:</span>
+<span class="en">This is Sara's plan for next Friday. Describe what she will do:</span>
+</details>
+
+[10:00 ص (morning)]{.rotulo}
+
+<details class="frase">
+<summary>(تصحى) → هي هتصحى</summary>
+<span class="fr">(tes7a) → heyya hates7a</span>
+<span class="en">(wake up) → she will wake up</span>
+</details>
+
+[12:00 ظ (noon)]{.rotulo}
+
+<details class="frase">
+<summary>(تصلي) في الجامع → هي هتصلي في الجامع</summary>
+<span class="fr">(tesalli) fel-game3 → heyya hatesalli fel-game3</span>
+<span class="en">(pray) at the mosque → she will pray at the mosque</span>
+</details>
+
+[04:00 ع (afternoon)]{.rotulo}
+
+<details class="frase">
+<summary>(تقابل) أصحابها → هي هتقابل أصحابها</summary>
+<span class="fr">(te2abel) as7abha → heyya hate2abel as7abha</span>
+<span class="en">(meet) her friends → she will meet her friends</span>
+</details>
+
+[08:00 م (evening)]{.rotulo}
+
+<details class="frase">
+<summary>(تروح) السينما → هي هتروح السينما</summary>
+<span class="fr">(terou7) es-sinema → heyya hatrou7 es-sinema</span>
+<span class="en">(go to) the cinema → she will go to the cinema</span>
+</details>
+
+## 6. Communication: "ناوي تعمل إيه؟" — التواصل
+
+<details class="frase">
+<summary>نشاط تفاعلي — أنت واللوتو!</summary>
+<span class="fr">nashat tafa3oli — enta wel-lotto!</span>
+<span class="en">Interactive activity — You and the lottery!</span>
+</details>
+
+<details class="frase">
+<summary>تخيل إنك كسبت مليون جنيه!</summary>
+<span class="fr">ta5ayyel ennak kasabt melyon geneh!</span>
+<span class="en">Imagine you won a million pounds!</span>
+</details>
+
+<details class="frase">
+<summary>اتكلم مع زميلك وقوله 5 حاجات هتعملها بكرة:</summary>
+<span class="fr">etkallem ma3a zameelak we 2ollo 5 7agat hate3melha bukra:</span>
+<span class="en">Talk to your colleague and tell him 5 things you'll do tomorrow:</span>
+</details>
+
+<details class="frase">
+<summary>هشتري عربية جديدة...</summary>
+<span class="fr">hashteri 3arabeyya gedida...</span>
+<span class="en">I'll buy a new car...</span>
+</details>
+
+<details class="frase">
+<summary>هسافر باريس...</summary>
+<span class="fr">hasafir Baris...</span>
+<span class="en">I'll travel to Paris...</span>
+</details>
+
+<details class="frase">
+<summary>هسيب الشغل...</summary>
+<span class="fr">haseeb el-sho8l...</span>
+<span class="en">I'll quit work...</span>
+</details>
+
+## 7. Closing and homework — الختام والواجب
+
+**الخلاصة (summary)**
+
+<details class="frase">
+<summary>المستقبل في العامية سهل جداً: شيل (بـ) وحط (هـ).</summary>
+<span class="fr">el-mosta2bal fel-3ammeyya sahl gedan: sheel (bi) we 7ott (ha).</span>
+<span class="en">The future in colloquial is very easy: remove (bi) and add (ha).</span>
+</details>
+
+<details class="frase">
+<summary>بنام (عادة) ← هنام (خطة)</summary>
+<span class="fr">banam (3ada) → hanam (5otta)</span>
+<span class="en">banam (habit) → hanam (plan) — "I sleep" → "I will sleep"</span>
+</details>
+
+**الواجب (homework)**
+
+<details class="frase">
+<summary>سجل رسالة صوتية لجروب الفصل وقولنا فيها 3 حاجات هتعملها في إجازة الصيف الجاية.</summary>
+<span class="fr">saggel resala soteyya le-group el-fasl we 2ollena feeha 3 7agat hate3melha fi agazet es-sef el-gaya.</span>
+<span class="en">Record a voice note for the class group and tell us 3 things you'll do during next summer's vacation.</span>
+</details>
+
+<details class="frase">
+<summary>شكراً يا شباب! نتقابل المحاضرة الجاية.</summary>
+<span class="fr">shokran ya shabab! net2abel el-mo7adra el-gaya.</span>
+<span class="en">Thank you, guys! See you next lecture.</span>
+</details>

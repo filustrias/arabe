@@ -1,0 +1,201 @@
+---
+title: "بكرة هنعمل إيه؟ — The future tense (practice)"
+---
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary {
+  cursor: pointer;
+  list-style: none;
+  font-size: 1.45em;
+  line-height: 1.7;
+}
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after {
+  content: " ▾";
+  font-size: 0.5em;
+  opacity: 0.45;
+}
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+</style>
+```
+
+## How the future works
+
+In Egyptian Arabic, the present and the future share the **same verb stem and the same personal prefixes**. The only thing that changes is the particle at the front of the verb:
+
+- The **present** uses **بـ (bi-)** for habits and ongoing actions — أنا بسافر (*ana basafir*) = "I travel / I'm travelling".
+- The **future** uses **هـ (ha-)** for plans and intentions — أنا هسافر (*ana hasafir*) = "I will travel".
+
+So to build the future, take the present, drop the بـ, and add هـ. The personal prefixes (*a-, te-, ye-, ne-*) stay exactly the same — only the front particle changes. (Some people write the future with **حـ** *ḥa-* instead of هـ; they mean the same thing.)
+
+## Examples — present vs. future
+
+[أكل — eat]{.rotulo}
+
+<details class="frase">
+<summary>أنا باكل سمك كل يوم</summary>
+<span class="fr">ana bakol samak koll yom</span>
+<span class="en">I eat fish every day (habit → بـ)</span>
+</details>
+
+<details class="frase">
+<summary>أنا هاكل سمك بكرة</summary>
+<span class="fr">ana hakol samak bukra</span>
+<span class="en">I will eat fish tomorrow (plan → هـ)</span>
+</details>
+
+[شرب — drink]{.rotulo}
+
+<details class="frase">
+<summary>هو بيشرب قهوة الصبح</summary>
+<span class="fr">huwwa beyeshrab 2ahwa es-sob7</span>
+<span class="en">he drinks coffee in the morning (habit → بـ)</span>
+</details>
+
+<details class="frase">
+<summary>هو هيشرب قهوة بكرة الصبح</summary>
+<span class="fr">huwwa hayeshrab 2ahwa bukra es-sob7</span>
+<span class="en">he'll drink coffee tomorrow morning (plan → هـ)</span>
+</details>
+
+[راح — go]{.rotulo}
+
+<details class="frase">
+<summary>إحنا بنروح السينما كل أسبوع</summary>
+<span class="fr">e7na binru7 es-sinema koll osbo3</span>
+<span class="en">we go to the cinema every week (habit → بـ)</span>
+</details>
+
+<details class="frase">
+<summary>إحنا هنروح السينما الأسبوع الجاي</summary>
+<span class="fr">e7na hanru7 es-sinema el-osbo3 el-gay</span>
+<span class="en">we'll go to the cinema next week (plan → هـ)</span>
+</details>
+
+## The dialogue — الديالوج (كتاب كلمني عربي)
+
+<details class="frase">
+<summary>أحمد: بكرة هسافر إسكندرية بالقطر الصبح.</summary>
+<span class="fr">Ahmad: bukra hasafir Eskendereyya bel-2atr es-sob7.</span>
+<span class="en">Ahmed: Tomorrow I'll travel to Alexandria by train in the morning.</span>
+</details>
+
+<details class="frase">
+<summary>منى: يا بختك! هتقعد هناك قد إيه؟</summary>
+<span class="fr">Mona: ya ba5tak! hato23od henak 2add eh?</span>
+<span class="en">Mona: Lucky you! How long will you stay there?</span>
+</details>
+
+<details class="frase">
+<summary>أحمد: هقعد أسبوع، و هعوم في البحر كل يوم.</summary>
+<span class="fr">Ahmad: ha23od osbo3, we ha3oom fel-ba7r koll yom.</span>
+<span class="en">Ahmed: I'll stay a week, and swim in the sea every day.</span>
+</details>
+
+<details class="frase">
+<summary>منى: طيب، أنا هخلص شغل بكرة و هكلمك عشان نتقابل.</summary>
+<span class="fr">Mona: tayyeb, ana ha5allas sho8l bukra we hakallemak 3ashan net2abel.</span>
+<span class="en">Mona: Okay, I'll finish work tomorrow and call you so we can meet.</span>
+</details>
+
+## Verbs from the dialogue
+
+The dialogue is built on four verbs. Here they are conjugated first in the present, then in the future — see how only the front particle changes (بـ → هـ).
+
+**Present (بـ)**
+
+| Pronoun | سافر · travel | قعد · stay | عام · swim | خلّص · finish |
+|---|---|---|---|---|
+| أنا | بسافر - basafir | بقعد - ba23od | بعوم - ba3oom | بخلص - ba5allas |
+| إنت | بتسافر - betsafir | بتقعد - beto23od | بتعوم - bet3oom | بتخلص - bet5allas |
+| إنتِ | بتسافري - betsafri | بتقعدي - beto23odi | بتعومي - bet3oomi | بتخلصي - bet5allasi |
+| هو | بيسافر - beysafir | بيقعد - beyo23od | بيعوم - bey3oom | بيخلص - bey5allas |
+| هي | بتسافر - betsafir | بتقعد - beto23od | بتعوم - bet3oom | بتخلص - bet5allas |
+| إحنا | بنسافر - bensafir | بنقعد - beno23od | بنعوم - ben3oom | بنخلص - ben5allas |
+| إنتو | بتسافروا - betsafru | بتقعدوا - beto23odu | بتعوموا - bet3oomu | بتخلصوا - bet5allasu |
+| هم | بيسافروا - beysafru | بيقعدوا - beyo23odu | بيعوموا - bey3oomu | بيخلصوا - bey5allasu |
+
+**Future (هـ)**
+
+| Pronoun | سافر · travel | قعد · stay | عام · swim | خلّص · finish |
+|---|---|---|---|---|
+| أنا | هسافر - hasafir | هقعد - ha23od | هعوم - ha3oom | هخلص - ha5allas |
+| إنت | هتسافر - hatsafir | هتقعد - hato23od | هتعوم - hat3oom | هتخلص - hat5allas |
+| إنتِ | هتسافري - hatsafri | هتقعدي - hato23odi | هتعومي - hat3oomi | هتخلصي - hat5allasi |
+| هو | هيسافر - haysafir | هيقعد - hayo23od | هيعوم - hay3oom | هيخلص - hay5allas |
+| هي | هتسافر - hatsafir | هتقعد - hato23od | هتعوم - hat3oom | هتخلص - hat5allas |
+| إحنا | هنسافر - hansafir | هنقعد - hano23od | هنعوم - han3oom | هنخلص - han5allas |
+| إنتو | هتسافروا - hatsafru | هتقعدوا - hato23odu | هتعوموا - hat3oomu | هتخلصوا - hat5allasu |
+| هم | هيسافروا - haysafru | هيقعدوا - hayo23odu | هيعوموا - hay3oomu | هيخلصوا - hay5allasu |
+
+## Practice — build your own future sentences
+
+Use the toolkit below: pick a **verb**, put it in the future (هـ + present), add a **noun** and a **time adverb**.
+
+**Time adverbs**
+
+| Árabe | Franco | English |
+|---|---|---|
+| دلوقتي | delwa2ti | now |
+| النهارده | en-naharda | today |
+| بعدين | ba3den | later |
+| بعد شوية | ba3d shuwayya | in a little while |
+| بكرة | bukra | tomorrow |
+| بعد بكرة | ba3d bukra | the day after tomorrow |
+| الأسبوع الجاي | el-osbo3 el-gay | next week |
+| الشهر الجاي | esh-shahr el-gay | next month |
+| من شوية | min shuwayya | a little while ago |
+| إمبارح | embare7 | yesterday |
+| أول إمبارح | awwel embare7 | the day before yesterday |
+| الأسبوع اللي فات | el-osbo3 elli fat | last week |
+| من زمان | min zaman | a long time ago |
+| دايماً | dayman | always |
+| كتير | kteer | often |
+| نادراً | nadran | rarely |
+| أبداً | abadan | never (with a negative verb) |
+
+**New verbs to try** (present tense given; just swap بـ for هـ to make the future)
+
+| Árabe | Franco | English |
+|---|---|---|
+| بيعزف | beye3zef | plays (an instrument) |
+| بياكل | beyakol | eats |
+| بيلعب | beyel3ab | plays (a game / sport) |
+| بيكتب | beyekteb | writes |
+
+**Vocabulary**
+
+| Árabe | Franco | English |
+|---|---|---|
+| بيانو | biano | piano |
+| سمك | samak | fish |
+| كورة | koora | football |
+| كتاب | ketab | book |
+| قهوة | 2ahwa | coffee |
+| جواب | gawab | letter |
+
+**Your task:** make future sentences of your own. Try to read the Arabic models first, then open them to check. For example:
+
+<details class="frase">
+<summary>أنا هعزف بيانو بكرة</summary>
+<span class="fr">ana ha3zef biano bukra</span>
+<span class="en">I'll play the piano tomorrow</span>
+</details>
+
+<details class="frase">
+<summary>هاكل سمك بعدين</summary>
+<span class="fr">hakol samak ba3den</span>
+<span class="en">I'll eat fish later</span>
+</details>
+
+<details class="frase">
+<summary>هم هيلعبوا كورة الأسبوع الجاي</summary>
+<span class="fr">humma hayel3abu koora el-osbo3 el-gay</span>
+<span class="en">they'll play football next week</span>
+</details>
