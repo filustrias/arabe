@@ -1,0 +1,66 @@
+# Verbos de movimento {.unnumbered}
+
+Cada célula traz **pessoa + verbo conjugado** em árabe e franco, separados por hífen. Após cada tabela seguem três frases de exemplo que combinam os advérbios de tempo.
+
+## Ir — راح — rāḥ
+
+**Raiz:** ر-و-ح (r-w-ḥ) — verbo côncavo
+
+| Presente | Futuro | Passado |
+|---|---|---|
+| أنا بروح - ana baruḥ | أنا حروح - ana ḥaruḥ | أنا رحت - ana ruḥt |
+| إنت بتروح - inta bitruḥ | إنت حتروح - inta ḥatruḥ | إنت رحت - inta ruḥt |
+| إنتِ بتروحي - inti bitruḥi | إنتِ حتروحي - inti ḥatruḥi | إنتِ رحتي - inti ruḥti |
+| هو بيروح - huwwa biyruḥ | هو حيروح - huwwa ḥayruḥ | هو راح - huwwa rāḥ |
+| هي بتروح - hiyya bitruḥ | هي حتروح - hiyya ḥatruḥ | هي راحت - hiyya rāḥit |
+| إحنا بنروح - iḥna binruḥ | إحنا حنروح - iḥna ḥanruḥ | إحنا رحنا - iḥna ruḥna |
+| إنتو بتروحوا - intu bitruḥu | إنتو حتروحوا - intu ḥatruḥu | إنتو رحتوا - intu ruḥtu |
+| هم بيروحوا - humma biyruḥu | هم حيروحوا - humma ḥayruḥu | هم راحوا - humma rāḥu |
+
+**Exemplos**
+
+1. أنا رايح الشغل دلوقتي — *ana rāyeḥ esh-shoghl dilwaʔti* — vou para o trabalho agora
+2. هي حتروح الجامعة بكرة — *hiyya ḥatruḥ el-gamʿa bukra* — ela irá à universidade amanhã
+3. هم راحوا مصر الأسبوع اللي فات — *humma rāḥu Maṣr el-osbūʿ elli fāt* — eles foram ao Egito a semana passada
+
+## Vir — جه — geh
+
+**Raiz:** ج-ي-ء (g-y-ʾ) — verbo irregular
+
+| Presente | Futuro | Passado |
+|---|---|---|
+| أنا باجي - ana bāgi | أنا حاجي - ana ḥāgi | أنا جيت - ana geet |
+| إنت بتيجي - inta bitīgi | إنت حتيجي - inta ḥatīgi | إنت جيت - inta geet |
+| إنتِ بتيجي - inti bitīgi | إنتِ حتيجي - inti ḥatīgi | إنتِ جيتي - inti geeti |
+| هو بييجي - huwwa biyīgi | هو حييجي - huwwa ḥayīgi | هو جه - huwwa geh |
+| هي بتيجي - hiyya bitīgi | هي حتيجي - hiyya ḥatīgi | هي جت - hiyya gat |
+| إحنا بنيجي - iḥna binīgi | إحنا حنيجي - iḥna ḥanīgi | إحنا جينا - iḥna geena |
+| إنتو بتيجوا - intu bitīgu | إنتو حتيجوا - intu ḥatīgu | إنتو جيتوا - intu geetu |
+| هم بييجوا - humma biyīgu | هم حييجوا - humma ḥayīgu | هم جم - humma gum |
+
+**Exemplos**
+
+1. هو جه من شوية — *huwwa geh min shuwayya* — ele veio há pouco
+2. أنا حاجي بيتك بعد شوية — *ana ḥāgi bētak baʿd shuwayya* — virei a tua casa daqui a pouco
+3. هم بييجوا النهارده — *humma biyīgu en-naharda* — eles vêm hoje
+
+## Voltar — رجع — rigeʿ
+
+**Raiz:** ر-ج-ع (r-g-ʿ) — verbo regular
+
+| Presente | Futuro | Passado |
+|---|---|---|
+| أنا برجع - ana bargaʿ | أنا حرجع - ana ḥargaʿ | أنا رجعت - ana rigeʿt |
+| إنت بترجع - inta bitirgaʿ | إنت حترجع - inta ḥatirgaʿ | إنت رجعت - inta rigeʿt |
+| إنتِ بترجعي - inti bitirgaʿi | إنتِ حترجعي - inti ḥatirgaʿi | إنتِ رجعتي - inti rigeʿti |
+| هو بيرجع - huwwa biyirgaʿ | هو حيرجع - huwwa ḥayirgaʿ | هو رجع - huwwa rigeʿ |
+| هي بترجع - hiyya bitirgaʿ | هي حترجع - hiyya ḥatirgaʿ | هي رجعت - hiyya rigʿit |
+| إحنا بنرجع - iḥna binirgaʿ | إحنا حنرجع - iḥna ḥanirgaʿ | إحنا رجعنا - iḥna rigeʿna |
+| إنتو بترجعوا - intu bitirgaʿu | إنتو حترجعوا - intu ḥatirgaʿu | إنتو رجعتوا - intu rigeʿtu |
+| هم بيرجعوا - humma biyirgaʿu | هم حيرجعوا - humma ḥayirgaʿu | هم رجعوا - humma rigʿu |
+
+**Exemplos**
+
+1. أنا رجعت البيت إمبارح — *ana rigeʿt el-bēt embāreḥ* — voltei a casa ontem
+2. هي رجعت من زمان — *hiyya rigʿit min zamān* — ela voltou há muito tempo
+3. إحنا حنرجع الأسبوع الجاي — *iḥna ḥanirgaʿ el-osbūʿ el-gāy* — voltaremos na próxima semana

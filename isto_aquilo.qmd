@@ -19,8 +19,8 @@ Em árabe egípcio, os pronomes demonstrativos são usados para indicar objetos,
 
 Em árabe egípcio coloquial, **ده / دي / دول** servem tanto para "este" quanto para "aquele". Para enfatizar que algo está longe, usa-se:
 
--   Apontar com o dedo
--   Adicionar **هناك** (henak = lá/ali) à frase
+- Apontar com o dedo
+- Adicionar **هناك** (henak = lá/ali) à frase
 
 ------------------------------------------------------------------------
 
@@ -366,8 +366,8 @@ Usa-se **مش** (mesh) antes do verbo/adjetivo para negar no presente.
 
 ### Estrutura
 
--   **Substantivo + demonstrativo**: الكتاب ده (este livro)
--   **Demonstrativo como sujeito**: ده كتاب (isto é um livro)
+- **Substantivo + demonstrativo**: الكتاب ده (este livro)
+- **Demonstrativo como sujeito**: ده كتاب (isto é um livro)
 
 ------------------------------------------------------------------------
 
