@@ -1,6 +1,5 @@
----
-title: "بكرة هنعمل إيه؟ — The future tense (Samar's lesson)"
----
+
+# "بكرة هنعمل إيه؟ — The future tense (Samar's lesson)" {.unnumbered}
 
 ```{=html}
 <style>
@@ -27,7 +26,7 @@ details.frase[open] > summary::after { content: " ▴"; }
 
 Content of teacher Samar's lesson on the future tense (المستقبل) in Egyptian Arabic. The Arabic is always visible — click any line to reveal the franco and the English.
 
-## Lesson title
+## بكرة هنعمل إيه؟
 
 <details class="frase">
 <summary>بكرة هنعمل إيه؟</summary>
