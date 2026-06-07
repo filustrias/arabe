@@ -1,512 +1,491 @@
-# Alfabeto Árabe {.unnumbered}
+# The Arabic Alphabet {.unnumbered}
 
+![](teclado.jpg){width="70%" fig-align="center"}
 
+## Links
 
-![](teclado.jpg){width=70% fig-align="center"}
+[Class notes — Samar](https://docs.google.com/document/d/1ck11JW4C7QPxEVAoYGGeLnknu85bdGeNRC__zvVE6T8/edit?tab=t.0){target="_blank"}
 
+[Audio: *Kallimni Arabi Bishweesh* (SoundCloud)](https://soundcloud.com/search?q=Kallimni%20Arabi%20bishweesh){target="_blank"}
 
+### Other
 
-## Links atuais
+[Class notes — Sara](https://docs.google.com/document/d/1yO3hzlxHDyXeFrfC4EnlAfRnNH2ZCL2-go2W7aC9Qaw/edit?tab=t.0#heading=h.64ku5rk9jyl9){target="_blank"}
 
-
-[class notes - Samar](https://docs.google.com/document/d/1ck11JW4C7QPxEVAoYGGeLnknu85bdGeNRC__zvVE6T8/edit?tab=t.0){target="_blank"}
-
-
-[áudio soundcloud do livro Kallimni Arabi bishweesh](https://soundcloud.com/search?q=Kallimni%20Arabi%20bishweesh){target="_blank"}
-
-
-### outros
-
-[class notes - Sara](https://docs.google.com/document/d/1yO3hzlxHDyXeFrfC4EnlAfRnNH2ZCL2-go2W7aC9Qaw/edit?tab=t.0#heading=h.64ku5rk9jyl9){target="_blank"}
-
-[class notes](https://docs.google.com/document/d/1BIOxZzzaPsZCRLroUvJiRrFjJgItGQWabALL139DafQ/edit?tab=t.0){target="_blank"}
-
-
-## Todas as Letras com Formas e Exemplos
+[Class notes](https://docs.google.com/document/d/1BIOxZzzaPsZCRLroUvJiRrFjJgItGQWabALL139DafQ/edit?tab=t.0){target="_blank"}
 
 ------------------------------------------------------------------------
 
-## 📌 Introdução
+## Introduction
 
-O alfabeto árabe tem **28 letras** e escreve-se da **direita para a esquerda**. A maioria das letras muda de forma dependendo da sua posição na palavra:
+The Arabic alphabet has **28 letters** and is written **right to left**. Most letters change shape depending on where they sit in the word:
 
--   **Isolada**: quando a letra está sozinha
--   **Inicial**: no início da palavra
--   **Medial**: no meio da palavra
--   **Final**: no fim da palavra
+- **Isolated** — the letter on its own
+- **Initial** — at the start of a word
+- **Medial** — in the middle
+- **Final** — at the end
 
-Algumas letras **não se ligam à letra seguinte** e só têm 2 formas (isolada/final e inicial/medial).
-
-------------------------------------------------------------------------
-
-## ALFABETO COMPLETO
-
-### 1. Alif - ا
-
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ا       | ا       | ـا     | ـا    |
-
-**Nota**: Alif não se liga à letra seguinte
-
-**Som**: "a" longo (aa) ou usado como suporte para hamza
-
-**Exemplos**: - **أنا** - ana - Eu - **بابا** - baba - Papá - **سارة** - sara - Sara (nome)
+A few letters **don't join to the letter that follows them**, so they only have two shapes (isolated/final and initial/medial).
 
 ------------------------------------------------------------------------
 
-### 2. Baa - ب
+## The full alphabet
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ب       | بـ      | ـبـ    | ـب    |
+### 1. Alif — ا
 
-**Som**: "b" como em "bola"
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ا        | ا       | ـا     | ـا    |
 
-**Exemplos**: - **بيت** - beet - Casa - **كتاب** - kitab - Livro - **حبيب** - 7abib - Querido/amado - **باب** - bab - Porta
+**Note:** Alif doesn't join to the following letter.
 
-------------------------------------------------------------------------
+**Sound:** long "aa", or a seat for hamza.
 
-### 3. Taa - ت
-
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ت       | تـ      | ـتـ    | ـت    |
-
-**Som**: "t" como em "tudo"
-
-**Exemplos**: - **تلاتة** - talata - Três - **بنت** - bent - Rapariga/filha - **بيتي** - beety - Minha casa - **توت** - toot - Amora
+**Examples:** أنا - ana - I · باب - bab - door · سارة - Sara - Sara (name) · ساعة - sa3a - hour / clock
 
 ------------------------------------------------------------------------
 
-### 4. Thaa - ث
+### 2. Baa — ب
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ث       | ثـ      | ـثـ    | ـث    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ب        | بـ      | ـبـ    | ـب    |
 
-**Som**: "th" como em inglês "think"
+**Sound:** "b" as in "boy".
 
-**Exemplos**: - **ثلاثة** - talata - Três (MSA - no egipcio usa-se ت) - **مثل** - masal - Exemplo - **باحث** - ba7es - Pesquisador
-
-------------------------------------------------------------------------
-
-### 5. Jeem - ج
-
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ج       | جـ      | ـجـ    | ـج    |
-
-**Som**: "g" como em "gato" (no Egipto) / "j" como em francês "je" (noutros dialectos)
-
-**Exemplos**: - **جامعة** - gam3a - Universidade - **راجل** - ragel - Homem - **فرج** - farag - Alívio
+**Examples:** بيت - bet - house · كتاب - kitab - book · بنت - bint - girl / daughter · حبيب - 7abib - dear / beloved
 
 ------------------------------------------------------------------------
 
-### 6. 7aa - ح
+### 3. Taa — ت
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ح       | حـ      | ـحـ    | ـح    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ت        | تـ      | ـتـ    | ـت    |
 
-**Som**: "7" - som expirado do fundo da garganta
+**Sound:** "t" as in "top".
 
-**Exemplos**: - **حب** - 7ob - Amor - **صباح** - saba7 - Manhã - **فرح** - fara7 - Alegria - **حلو** - 7elw - Doce/bonito
-
-------------------------------------------------------------------------
-
-### 7. Khaa - خ
-
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | خ       | خـ      | ـخـ    | ـخ    |
-
-**Som**: "5" ou "kh" - como "j" espanhol ou "ch" alemão
-
-**Exemplos**: - **خمسة** - 5amsa - Cinco - **أخ** - a5 - Irmão - **مطبخ** - matba5 - Cozinha - **خير** - 5eer - Bem/bondade
+**Examples:** تلاتة - talata - three · بنت - bint - girl · تاكسي - taxi - taxi · توت - toot - berries
 
 ------------------------------------------------------------------------
 
-### 8. Daal - د
+### 4. Thaa — ث
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | د       | د       | ـد     | ـد    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ث        | ثـ      | ـثـ    | ـث    |
 
-**Nota**: Daal não se liga à letra seguinte
+**Sound:** "th" as in English "think". This is mostly Modern Standard Arabic — in Egyptian it usually becomes ت (t) or س (s).
 
-**Som**: "d" como em "dado"
-
-**Exemplos**: - **دكتور** - doktor - Médico - **يد** - eed - Mão - **بلد** - balad - País - **درس** - dars - Aula
+**Examples:** ثلاثة - talata - three (MSA; Egyptian uses تلاتة) · مثال - masal - example · باحث - ba7es - researcher
 
 ------------------------------------------------------------------------
 
-### 9. Dhaal - ذ
+### 5. Geem — ج
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ذ       | ذ       | ـذ     | ـذ    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ج        | جـ      | ـجـ    | ـج    |
 
-**Nota**: Dhaal não se liga à letra seguinte
+**Sound:** a hard "g" as in "go" (in Egypt). In other dialects it's "j" as in French "je".
 
-**Som**: "th" como em inglês "this"
-
-**Exemplos**: - **ذهب** - dahab - Ouro - **أستاذ** - ostaz - Professor - **لذيذ** - laziz - Delicioso
+**Examples:** جامعة - gam3a - university · راجل - ragel - man · جوز - gozz - husband · جميل - gamil - beautiful
 
 ------------------------------------------------------------------------
 
-### 10. Raa - ر
+### 6. 7aa — ح
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ر       | ر       | ـر     | ـر    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ح        | حـ      | ـحـ    | ـح    |
 
-**Nota**: Raa não se liga à letra seguinte
+**Sound:** "7" — a breathy h from deep in the throat (like fogging a mirror).
 
-**Som**: "r" vibrante (como em espanhol)
-
-**Exemplos**: - **رجل** - ragel - Homem - **بحر** - ba7r - Mar - **نور** - noor - Luz - **رخيص** - re5ees - Barato
+**Examples:** حب - 7ob - love · صباح - saba7 - morning · حلو - 7elw - sweet / nice · أحمر - a7mar - red
 
 ------------------------------------------------------------------------
 
-### 11. Zaay - ز
+### 7. Khaa — خ
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ز       | ز       | ـز     | ـز    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | خ        | خـ      | ـخـ    | ـخ    |
 
-**Nota**: Zaay não se liga à letra seguinte
+**Sound:** "5" — like the "ch" in Scottish "loch" or Spanish "j".
 
-**Som**: "z" como em "zebra"
-
-**Exemplos**: - **زمان** - zaman - Tempo/há muito tempo - **جوز** - gooz - Marido - **لوز** - looz - Amêndoa
+**Examples:** خمسة - 5amsa - five · أخ - a5 - brother · مطبخ - matba5 - kitchen · خبر - 5abar - news
 
 ------------------------------------------------------------------------
 
-### 12. Seen - س
+### 8. Daal — د
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | س       | سـ      | ـسـ    | ـس    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | د        | د       | ـد     | ـد    |
 
-**Som**: "s" como em "sol"
+**Note:** Daal doesn't join to the following letter.
 
-**Exemplos**: - **ستة** - setta - Seis - **درس** - dars - Aula - **أسد** - asad - Leão - **سلام** - salam - Paz
+**Sound:** "d" as in "door".
 
-------------------------------------------------------------------------
-
-### 13. Sheen - ش
-
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ش       | شـ      | ـشـ    | ـش    |
-
-**Som**: "sh" como em "chá"
-
-**Exemplos**: - **شغل** - sho3'l - Trabalho - **عيش** - 3eesh - Pão - **مش** - msh - Não - **شاي** - shay - Chá
+**Examples:** دكتور - doktor - doctor · يد - eed - hand · بلد - balad - country · درس - dars - lesson
 
 ------------------------------------------------------------------------
 
-### 14. Saad - ص
+### 9. Dhaal — ذ
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ص       | صـ      | ـصـ    | ـص    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ذ        | ذ       | ـذ     | ـذ    |
 
-**Som**: "s" enfático (mais profundo)
+**Note:** Dhaal doesn't join to the following letter.
 
-**Exemplos**: - **صباح** - saba7 - Manhã - **مصر** - masr - Egipto - **خاص** - 5as - Especial - **صحى** - sa7a - Acordou
+**Sound:** "th" as in English "this". Mostly MSA — in Egyptian it often becomes د (d) or ز (z).
 
-------------------------------------------------------------------------
-
-### 15. Daad - ض
-
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ض       | ضـ      | ـضـ    | ـض    |
-
-**Som**: "d" enfático (mais profundo)
-
-**Exemplos**: - **ضحك** - da7ek - Riu - **أبيض** - abyad - Branco - **ضرب** - darab - Bateu
+**Examples:** ذهب - dahab - gold · أستاذ - ostaz - professor · ذاكر - zaakir - to study / revise
 
 ------------------------------------------------------------------------
 
-### 16. Taa - ط
+### 10. Raa — ر
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ط       | طـ      | ـطـ    | ـط    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ر        | ر       | ـر     | ـر    |
 
-**Som**: "t" enfático (mais profundo)
+**Note:** Raa doesn't join to the following letter.
 
-**Exemplos**: - **طماطم** - tamatem - Tomate - **بط** - bat - Pato - **خط** - 5at - Linha
+**Sound:** a rolled "r" (as in Spanish).
 
-------------------------------------------------------------------------
-
-### 17. Zaa - ظ
-
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ظ       | ظـ      | ـظـ    | ـظ    |
-
-**Som**: "z" enfático (mais profundo)
-
-**Exemplos**: - **ظرف** - zarf - Envelope - **نظيف** - nazif - Limpo - **حظ** - 7az - Sorte
+**Examples:** راجل - ragel - man · بحر - ba7r - sea · نور - noor - light · كبير - kbeer - big
 
 ------------------------------------------------------------------------
 
-### 18. Ain - ع
+### 11. Zaay — ز
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ع       | عـ      | ـعـ    | ـع    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ز        | ز       | ـز     | ـز    |
 
-**Som**: "3" - som gutural profundo da garganta
+**Note:** Zaay doesn't join to the following letter.
 
-**Exemplos**: - **عشرة** - 3ashara - Dez - **عيش** - 3eesh - Pão - **سبعة** - sab3a - Sete - **علم** - 3elm - Ciência
+**Sound:** "z" as in "zoo".
 
-------------------------------------------------------------------------
-
-### 19. Ghain - غ
-
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | غ       | غـ      | ـغـ    | ـغ    |
-
-**Som**: "3'" ou "gh" - como "r" francês/alemão
-
-**Exemplos**: - **غالي** - 3'aali - Caro - **لغة** - lo3'a - Idioma - **صغير** - so3'ayar - Pequeno - **غير** - 3'er - Excepto
+**Examples:** زمان - zaman - long ago / time · جوز - gozz - husband · لوز - looz - almonds · زي - zayy - like / as
 
 ------------------------------------------------------------------------
 
-### 20. Faa - ف
+### 12. Seen — س
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ف       | فـ      | ـفـ    | ـف    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | س        | سـ      | ـسـ    | ـس    |
 
-**Som**: "f" como em "faca"
+**Sound:** "s" as in "sun".
 
-**Exemplos**: - **فين** - feen - Onde - **فهم** - fehm - Entendeu - **صيف** - seef - Verão - **فطار** - ftar - Café da manhã
-
-------------------------------------------------------------------------
-
-### 21. Qaaf - ق
-
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ق       | قـ      | ـقـ    | ـق    |
-
-**Som**: "2" no Egipto (hamza) / "q" noutros dialectos
-
-**Exemplos**: - **قهوة** - 2ahwa - Café - **قلب** - 2alb - Coração - **فوق** - foo2 - Em cima - **قال** - 2al - Disse
+**Examples:** ستة - setta - six · درس - dars - lesson · سلام - salam - peace · اسم - esm - name
 
 ------------------------------------------------------------------------
 
-### 22. Kaaf - ك
+### 13. Sheen — ش
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ك       | كـ      | ـكـ    | ـك    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ش        | شـ      | ـشـ    | ـش    |
 
-**Som**: "k" como em "casa"
+**Sound:** "sh" as in "ship".
 
-**Exemplos**: - **كتاب** - kitab - Livro - **كلب** - kalb - Cão - **سمك** - samak - Peixe - **كويس** - kwayes - Bom
-
-------------------------------------------------------------------------
-
-### 23. Laam - ل
-
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ل       | لـ      | ـلـ    | ـل    |
-
-**Som**: "l" como em "lua"
-
-**Exemplos**: - **لغة** - lo3'a - Idioma - **ليه** - leeh - Por quê - **جميل** - gamil - Bonito - **ليل** - leel - Noite
+**Examples:** شغل - sho8l - work · عيش - 3eesh - bread · شاي - shay - tea · مش - mesh - not
 
 ------------------------------------------------------------------------
 
-### 24. Meem - م
+### 14. Saad — ص
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | م       | مـ      | ـمـ    | ـم    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ص        | صـ      | ـصـ    | ـص    |
 
-**Som**: "m" como em "mãe"
+**Sound:** an emphatic, deeper "s".
 
-**Exemplos**: - **مصر** - masr - Egipto - **اسم** - esm - Nome - **تمام** - tamam - Ok/perfeito - **ماء** - maya - Água
-
-------------------------------------------------------------------------
-
-### 25. Noon - ن
-
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ن       | نـ      | ـنـ    | ـن    |
-
-**Som**: "n" como em "não"
-
-**Exemplos**: - **نور** - noor - Luz - **بنت** - bent - Rapariga - **أنا** - ana - Eu - **نام** - nam - Dormiu
+**Examples:** صباح - saba7 - morning · مصر - masr - Egypt · صاحب - sa7eb - friend · فصل - fasl - class / season
 
 ------------------------------------------------------------------------
 
-### 26. Haa - ه
+### 15. Daad — ض
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ه       | هـ      | ـهـ    | ـه    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ض        | ضـ      | ـضـ    | ـض    |
 
-**Som**: "h" aspirado suave
+**Sound:** an emphatic, deeper "d".
 
-**Exemplos**: - **هو** - howa - Ele - **فهم** - fehm - Entendeu - **نهار** - nahar - Dia - **ليه** - leeh - Por quê
-
-------------------------------------------------------------------------
-
-### 27. Waaw - و
-
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | و       | و       | ـو     | ـو    |
-
-**Nota**: Waaw não se liga à letra seguinte
-
-**Som**: "w" como em "uau" / vogal longa "oo" / "u"
-
-**Exemplos**: - **ولد** - walad - Rapaz - **نور** - noor - Luz - **يوم** - yum - Dia - **و** - w - E
+**Examples:** أبيض - abyad - white · ضرب - darab - hit · ضيق - dayya2 - tight
 
 ------------------------------------------------------------------------
 
-### 28. Yaa - ي
+### 16. Taa — ط
 
-| Forma | Isolada | Inicial | Medial | Final |
-|-------|---------|---------|--------|-------|
-| Árabe | ي       | يـ      | ـيـ    | ـي    |
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ط        | طـ      | ـطـ    | ـط    |
 
-**Som**: "y" como em "iogurte" / vogal longa "ee" / "i"
+**Sound:** an emphatic, deeper "t".
 
-**Exemplos**: - **يوم** - yum - Dia - **بيت** - beet - Casa - **كبير** - kebeer - Grande - **في** - fi - Em
-
-------------------------------------------------------------------------
-
-## LETRAS ESPECIAIS
-
-### Hamza - ء
-
-A hamza não é uma letra verdadeira, mas um sinal que representa uma paragem glotal. Pode aparecer sozinha ou sobre/sob outras letras:
-
--   **ء** - hamza isolada
--   **أ** - hamza sobre alif
--   **إ** - hamza sob alif
--   **ؤ** - hamza sobre waaw
--   **ئ** - hamza sobre yaa
-
-**Exemplos**: - **سؤال** - so2al - Pergunta - **أنا** - ana - Eu - **شيء** - shay2 - Coisa - **قرأ** - 2ara - Leu
+**Examples:** طماطم - tamatem - tomatoes · بطة - batta - duck · خط - 5att - line · طويل - tawil - tall / long
 
 ------------------------------------------------------------------------
 
-### Taa Marbouta - ة
+### 17. Zaa — ظ
 
-Esta letra só aparece no **fim das palavras** e marca o feminino:
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ظ        | ظـ      | ـظـ    | ـظ    |
 
--   **ة** - taa marbouta (isolada/final)
+**Sound:** an emphatic "z" (an emphatic "dh" in MSA). In Egyptian it often merges with ض or ز.
 
-**Exemplos**: - **مدرسة** - madrasa - Escola - **ساعة** - sa3a - Hora/relógio - **جامعة** - gam3a - Universidade - **كويسة** - kwayesa - Boa (fem.)
-
-------------------------------------------------------------------------
-
-## LIGAÇÕES ESPECIAIS
-
-### Laam-Alif - لا
-
-Quando **ل** (laam) encontra **ا** (alif), formam uma ligação especial:
-
--   **لا** - laa
-
-**Exemplos**: - **لا** - la2 - Não - **لازم** - lazem - É necessário - **ولا** - walla - Ou
+**Examples:** نظارة - naddara - glasses · ظرف - zarf - envelope · ظابط - zabet - officer
 
 ------------------------------------------------------------------------
 
-## VOGAIS E SINAIS DIACRÍTICOS
+### 18. 3ain — ع
 
-O árabe escrito normalmente não mostra vogais curtas. Elas são indicadas por sinais diacríticos (raramente usados em textos modernos):
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ع        | عـ      | ـعـ    | ـع    |
 
-### Vogais Curtas
+**Sound:** "3" — a voiced sound from deep in the throat, made by tightening the back of the throat. There's no English equivalent.
 
--   **َ◌** (fat7a) - "a" curto
--   **ِ◌** (kasra) - "i" curto
--   **ُ◌** (damma) - "u" curto
-
-### Vogais Longas
-
--   **ا** (alif) - "aa"
--   **ي** (yaa) - "ee" / "ii"
--   **و** (waaw) - "oo" / "uu"
-
-### Outros Sinais
-
--   **ْ◌** (sukoon) - ausência de vogal
--   **ّ◌** (shadda) - duplicação da letra
--   **ً◌** (tanween) - terminação "-an"
+**Examples:** عربي - 3araby - Arabic · عين - 3een - eye · سعيد - sa3id - happy · عايز - 3ayez - wanting
 
 ------------------------------------------------------------------------
 
-## NÚMEROS ÁRABES
+### 19. Ghain — غ
 
-Os algarismos árabes orientais são diferentes dos ocidentais:
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | غ        | غـ      | ـغـ    | ـغ    |
 
-| Ocidental | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-|-----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| Árabe     | ٠   | ١   | ٢   | ٣   | ٤   | ٥   | ٦   | ٧   | ٨   | ٩   |
+**Sound:** "8" — like a French/German "r", or a gargle.
 
-**Exemplos**: - **٢٢** = 22 - **١٠** = 10 - **٢٠٢٥** = 2025
-
-------------------------------------------------------------------------
-
-## DICAS PARA APRENDER
-
-1.  **Letras que não se ligam à seguinte**: ا د ذ ر ز و
-
-    -   Só têm duas formas (isolada/final)
-
-2.  **Letras parecidas** (distinguidas pelos pontos):
-
-    -   ب (1 ponto baixo) ت (2 pontos cima) ث (3 pontos cima)
-    -   ج (1 ponto baixo) ح (sem ponto) خ (1 ponto cima)
-    -   د (sem ponto) ذ (1 ponto cima)
-    -   ر (sem ponto) ز (1 ponto cima)
-    -   س (sem pontos) ش (3 pontos cima)
-    -   ص (sem ponto) ض (1 ponto cima)
-    -   ط (sem ponto) ظ (1 ponto cima)
-    -   ع (sem ponto) غ (1 ponto cima)
-
-3.  **Prática**: Começa por reconhecer as letras isoladas, depois aprende as formas conectadas.
-
-4.  **Escrita**: Pratica escrever da direita para a esquerda, ligando as letras conforme apropriado.
+**Examples:** غالي - 8aali - expensive · لغة - lo8a - language · صغير - so8ayyar - small · غير - 8er - other / except
 
 ------------------------------------------------------------------------
 
-*Guia do Alfabeto Árabe - Egipcio Coloquial* *Foco: Reconhecimento e escrita das letras*
+### 20. Faa — ف
 
-## NOTAS IMPORTANTES
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ف        | فـ      | ـفـ    | ـف    |
 
-### Letras Especiais no Árabe Franco
+**Sound:** "f" as in "fish".
 
--   **2** = ء (hamza) - som de paragem glotal
--   **3** = ع (ain) - som gutural
--   **3'** ou **gh** = غ (ghayn) - som como "r" francês/alemão
--   **5** = خ (kha) - som como "j" em espanhol ou "ch" alemão
--   **7** = ح (ha) - som de "h" expirado
-
-### Dicas
-
--   **Q (qaf) no Egipto** = pronunciado como **2** (hamza)
-    -   Qahwa → 2ahwa
--   Usa-se **"El"** antes de palavras = "o/a"
--   **W** + vogal = contracção (w + enta = wenta)
--   Países sempre no feminino
--   **"Ya"** antes do nome = vocativo informal (Ya Salma = Ó Salma)
+**Examples:** فين - feen - where · فهم - fehem - understood · صيف - seef - summer · فطار - fetar - breakfast
 
 ------------------------------------------------------------------------
 
-*Documento organizado a partir de aulas com Sara/Adelson - italki* *Foco: Árabe Egípcio Coloquial*
+### 21. Qaaf — ق
+
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ق        | قـ      | ـقـ    | ـق    |
+
+**Sound:** "2" in Egypt — a glottal stop (the catch in the middle of "uh-oh"). In other dialects it's a deep "q".
+
+**Examples:** قهوة - 2ahwa - coffee · قلب - 2alb - heart · فوق - fo2 - above · قال - 2al - said
+
+------------------------------------------------------------------------
+
+### 22. Kaaf — ك
+
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ك        | كـ      | ـكـ    | ـك    |
+
+**Sound:** "k" as in "key".
+
+**Examples:** كتاب - kitab - book · كلب - kalb - dog · سمك - samak - fish · كويس - kwayes - good
+
+------------------------------------------------------------------------
+
+### 23. Laam — ل
+
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ل        | لـ      | ـلـ    | ـل    |
+
+**Sound:** "l" as in "love".
+
+**Examples:** لغة - lo8a - language · ليه - leeh - why · جميل - gamil - beautiful · ليل - leil - night
+
+------------------------------------------------------------------------
+
+### 24. Meem — م
+
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | م        | مـ      | ـمـ    | ـم    |
+
+**Sound:** "m" as in "moon".
+
+**Examples:** مصر - masr - Egypt · اسم - esm - name · تمام - tamam - perfect / OK · مية - maya - water
+
+------------------------------------------------------------------------
+
+### 25. Noon — ن
+
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ن        | نـ      | ـنـ    | ـن    |
+
+**Sound:** "n" as in "no".
+
+**Examples:** نور - noor - light · بنت - bint - girl · أنا - ana - I · نام - nam - slept
+
+------------------------------------------------------------------------
+
+### 26. Haa — ه
+
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ه        | هـ      | ـهـ    | ـه    |
+
+**Sound:** a soft, breathy "h" as in "hello".
+
+**Examples:** هو - huwwa - he · فهم - fehem - understood · نهار - nahar - daytime · ليه - leeh - why
+
+------------------------------------------------------------------------
+
+### 27. Waaw — و
+
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | و        | و       | ـو     | ـو    |
+
+**Note:** Waaw doesn't join to the following letter.
+
+**Sound:** "w" as in "wow", or a long "oo" / "u".
+
+**Examples:** ولد - walad - boy · نور - noor - light · يوم - yom - day · و - we - and
+
+------------------------------------------------------------------------
+
+### 28. Yaa — ي
+
+| Form   | Isolated | Initial | Medial | Final |
+|--------|----------|---------|--------|-------|
+| Arabic | ي        | يـ      | ـيـ    | ـي    |
+
+**Sound:** "y" as in "yes", or a long "ee" / "i".
+
+**Examples:** يوم - yom - day · بيت - bet - house · كبير - kbeer - big · في - fi - in
+
+------------------------------------------------------------------------
+
+## Special letters
+
+### Hamza — ء
+
+The hamza isn't a true letter but a mark for a **glottal stop**. It can stand alone or sit on/under another letter:
+
+- **ء** — hamza on its own
+- **أ** — hamza over alif
+- **إ** — hamza under alif
+- **ؤ** — hamza over waaw
+- **ئ** — hamza over yaa
+
+**Examples:** سؤال - so2al - question · أنا - ana - I · شيء - shay2 - thing · قرأ - 2ara - read
+
+------------------------------------------------------------------------
+
+### Taa Marbuta — ة
+
+This appears only at the **end of a word** and usually marks the feminine:
+
+- **ة** — taa marbuta (isolated / final)
+
+**Examples:** مدرسة - madrasa - school · ساعة - sa3a - hour / clock · جامعة - gam3a - university · كويسة - kwayesa - good (f.)
+
+------------------------------------------------------------------------
+
+## Special joining: Laam-Alif — لا
+
+When **ل** (laam) meets **ا** (alif), they form a special ligature:
+
+- **لا** — laa
+
+**Examples:** لا - la2 - no · لازم - lazem - it's necessary / must · ولا - walla - or
+
+------------------------------------------------------------------------
+
+## Vowels and diacritics
+
+Written Arabic normally leaves out the short vowels. They can be shown with marks (rarely used in modern texts):
+
+### Short vowels
+
+- **َ◌** (fat7a) — short "a"
+- **ِ◌** (kasra) — short "i"
+- **ُ◌** (damma) — short "u"
+
+### Long vowels
+
+- **ا** (alif) — "aa"
+- **ي** (yaa) — "ee" / "ii"
+- **و** (waaw) — "oo" / "uu"
+
+### Other marks
+
+- **ْ◌** (sukoon) — no vowel
+- **ّ◌** (shadda) — doubles the letter
+- **ً◌** (tanween) — an "-an" ending
+
+------------------------------------------------------------------------
+
+## Arabic numerals
+
+The Eastern Arabic digits differ from the Western ones:
+
+| Western | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+|---------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Arabic  | ٠   | ١   | ٢   | ٣   | ٤   | ٥   | ٦   | ٧   | ٨   | ٩   |
+
+**Examples:** ٢٢ = 22 · ١٠ = 10 · ٢٠٢٥ = 2025
+
+------------------------------------------------------------------------
+
+## Tips for learning
+
+1.  **Letters that don't join to the next one:** ا د ذ ر ز و — they only have two shapes (isolated/final).
+
+2.  **Look-alikes** (told apart by the dots):
+
+    - ب (1 dot below) · ت (2 dots above) · ث (3 dots above)
+    - ج (1 dot below) · ح (no dot) · خ (1 dot above)
+    - د (no dot) · ذ (1 dot above)
+    - ر (no dot) · ز (1 dot above)
+    - س (no dots) · ش (3 dots above)
+    - ص (no dot) · ض (1 dot above)
+    - ط (no dot) · ظ (1 dot above)
+    - ع (no dot) · غ (1 dot above)
+
+3.  **Practice:** first learn to recognize the isolated letters, then the joined shapes.
+
+4.  **Writing:** practice writing right to left, joining letters where they connect.
+
+------------------------------------------------------------------------
+
+## The franco (Arabizi) system
+
+Some Arabic sounds have no Latin letter, so numbers stand in for them:
+
+- **2** = ء / ق (hamza / Egyptian qaaf) — a glottal stop
+- **3** = ع (3ain) — a throaty voiced sound
+- **5** = خ (khaa) — like Spanish "j" / Scottish "loch"
+- **7** = ح (7aa) — a breathy throat "h"
+- **8** = غ (ghain) — like a French/German "r"
+
+### A few Egyptian notes
+
+- **ق (qaaf) in Egypt** is usually pronounced **2** (a glottal stop): *qahwa → 2ahwa*.
+- **El** before a word = "the".
+- **W + vowel** contracts: *we + inta → winta*.
+- Countries are always feminine.
+- **Ya** before a name is an informal vocative: *ya Salma* = "hey Salma".

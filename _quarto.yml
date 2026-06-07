@@ -45,7 +45,9 @@ format:
     default-mode: dark
     mainfont: Cairo
     fontsize: 1.25em
-    toc: true
+    page-layout: full
+    toc: false
+    toc-expand: false
     toc-depth: 3
     code-copy: true
     smooth-scroll: true
