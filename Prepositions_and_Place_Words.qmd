@@ -1,0 +1,210 @@
+# Prepositions and Place Words {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+A grammar chapter on the little words that place things in space — *on, under, next to, in, from* — and one tricky pair, **لـ (le)** versus **ليه (leeh)**. Tap any example to reveal its franco and English.
+
+## Place words
+
+| Arabic - franco | English |
+|---|---|
+| فوق - fo2 | on / above |
+| تحت - ta7t | under / below |
+| جنب - ganb | next to / beside |
+| قدام - 2oddam | in front of |
+| ورا - wara | behind |
+| بين - bein | between |
+| جوه - gowwa | inside |
+| بره - barra | outside |
+| على - 3ala | on / onto |
+| في - fi | in / at |
+
+## "X is [somewhere] Y"
+
+Because there's no verb "to be" (the *Pronouns* chapter), saying where something is takes no verb at all. Just line up **[thing] + [place word] + [the place]**:
+
+<details class="frase">
+<summary>الكتاب فوق الترابيزة</summary>
+<span class="fr">el-ketab fo2 el-tarabeza</span>
+<span class="en">the book is on the table</span>
+</details>
+
+<details class="frase">
+<summary>القلم تحت الكرسي</summary>
+<span class="fr">el-2alam ta7t el-korsi</span>
+<span class="en">the pen is under the chair</span>
+</details>
+
+<details class="frase">
+<summary>أنا جنب الباب</summary>
+<span class="fr">ana ganb el-bab</span>
+<span class="en">I'm next to the door</span>
+</details>
+
+<details class="frase">
+<summary>القطة جوه الصندوق</summary>
+<span class="fr">el-2otta gowwa el-sondo2</span>
+<span class="en">the cat is inside the box</span>
+</details>
+
+<details class="frase">
+<summary>الكلب بره البيت</summary>
+<span class="fr">el-kalb barra el-bet</span>
+<span class="en">the dog is outside the house</span>
+</details>
+
+## في and من — "in / at" and "from"
+
+These two carry most of your location work.
+
+- **في (fi)** = in / at: *ana fi el-bet* "I'm at home", *bashta8al fi maktab* "I work in an office".
+- **من (men)** = from: *ana men masr* "I'm from Egypt".
+
+A note worth keeping: with a verb of motion you often need **no preposition at all** for the destination — *baroo7 el-sho8l* is simply "I go (to) work", with no word for "to".
+
+## لـ and ليه — a pair to keep apart
+
+They look almost the same but do completely different jobs:
+
+- **لـ (le)** = to / for / until — *el-hedeyya le Mona* "the gift is for Mona", *men el-sa3a talata le el-5amsa* "from three to five".
+- **ليه (leeh)** = **why** — a question word: *betet3allim 3araby leeh?* "why are you learning Arabic?".
+
+One is a little preposition glued to the next word; the other is a full question word that lands at the end of the sentence.
+
+## Examples
+
+<details class="frase">
+<summary>أنا من البرازيل</summary>
+<span class="fr">ana men el-Brazil</span>
+<span class="en">I'm from Brazil</span>
+</details>
+
+<details class="frase">
+<summary>بشتغل في مكتب</summary>
+<span class="fr">bashta8al fi maktab</span>
+<span class="en">I work in an office</span>
+</details>
+
+<details class="frase">
+<summary>الرسالة لكريم</summary>
+<span class="fr">el-resala le Karim</span>
+<span class="en">the letter is for Karim</span>
+</details>
+
+<details class="frase">
+<summary>بتتعلم عربي ليه؟</summary>
+<span class="fr">betet3allim 3araby leeh?</span>
+<span class="en">why are you learning Arabic?</span>
+</details>
+
+## Vocabulary
+
+| Arabic - franco | English |
+|---|---|
+| ترابيزة - tarabeza | table |
+| كرسي - korsi | chair |
+| باب - bab | door |
+| صندوق - sondo2 | box |
+| هدية - hedeyya | gift |
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Name the place word
+
+**1.** under
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">تحت</span>
+<span class="fr">ta7t</span>
+</details>
+
+**2.** next to
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">جنب</span>
+<span class="fr">ganb</span>
+</details>
+
+**3.** in front of
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">قدام</span>
+<span class="fr">2oddam</span>
+</details>
+
+### Exercise 2 — Say where it is
+
+**1.** The book is on the table.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الكتاب فوق الترابيزة</span>
+<span class="fr">el-ketab fo2 el-tarabeza</span>
+</details>
+
+**2.** The cat is under the chair.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">القطة تحت الكرسي</span>
+<span class="fr">el-2otta ta7t el-korsi</span>
+</details>
+
+**3.** I'm next to the door.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا جنب الباب</span>
+<span class="fr">ana ganb el-bab</span>
+</details>
+
+### Exercise 3 — في / من / لـ / ليه
+
+**1.** I'm from Egypt.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا من مصر</span>
+<span class="fr">ana men masr</span>
+</details>
+
+**2.** Why?
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">ليه؟</span>
+<span class="fr">leeh?</span>
+</details>
+
+**3.** The letter is for Karim.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الرسالة لكريم</span>
+<span class="fr">el-resala le Karim</span>
+</details>

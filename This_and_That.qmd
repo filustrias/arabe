@@ -1,0 +1,343 @@
+# This and That {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+This chapter teaches the words for pointing at things: **this / that** — ده (da), دي (di) and دول (dol) — and how to name the objects around you. Tap any sentence to reveal its franco and English.
+
+## How it works
+
+**One set covers both "this" and "that".** Egyptian doesn't split them: **ده (da)** for a masculine thing, **دي (di)** for a feminine thing, **دول (dol)** for plural — used for near *and* far alike. A gesture or the word **هناك (henak)** "there" marks distance when you need it.
+
+**Two structures, and the contrast matters:**
+
+- **After a noun** (the noun takes ال): **الكتاب ده (el-ketab da)** = "this book". Here the demonstrative is just describing.
+- **At the front, as the subject:** **ده كتاب (da ketab)** = "this **is** a book". Egyptian has no verb "to be", so the bare demonstrative + noun already means "this is…".
+
+So *el-ketab da* (this book) and *da ketab* (this is a book) are different sentences — watch the word order.
+
+**Asking:** **ده إيه؟ (da eh?)** / **دي إيه؟ (di eh?)** = "what's this?".
+
+**Whose is it — بتاع (betaa3).** To say "mine / yours", use بتاع, which agrees with the thing owned and then takes an ending: **الكتاب ده بتاعي (el-ketab da bta3i)** "this book is mine"; for a feminine thing, بتاعتي (bta3ti).
+
+## Demonstratives
+
+| Arabic - franco | English |
+|---|---|
+| ده - da | this / that (m.) |
+| دي - di | this / that (f.) |
+| دول - dol | these / those (pl.) |
+| هنا - hena | here |
+| هناك - henak | there |
+
+## The two structures
+
+<details class="frase">
+<summary>الكتاب ده</summary>
+<span class="fr">el-ketab da</span>
+<span class="en">this book (noun + demonstrative)</span>
+</details>
+
+<details class="frase">
+<summary>ده كتاب</summary>
+<span class="fr">da ketab</span>
+<span class="en">this is a book (demonstrative as subject)</span>
+</details>
+
+<details class="frase">
+<summary>دي شنطة</summary>
+<span class="fr">di shanta</span>
+<span class="en">this is a bag</span>
+</details>
+
+<details class="frase">
+<summary>دول كتب</summary>
+<span class="fr">dol kutob</span>
+<span class="en">these are books</span>
+</details>
+
+## Objects around you
+
+**Clothes**
+
+| Arabic - franco | English |
+|---|---|
+| قميص - 2amis (m.) | shirt |
+| فستان - fustan (m.) | dress |
+| جزمة - gazma (f.) | shoes |
+
+**Furniture**
+
+| Arabic - franco | English |
+|---|---|
+| ترابيزة - tarabeza (f.) | table |
+| كرسي - korsi (m.) | chair |
+| سرير - sereer (m.) | bed |
+
+**Animals**
+
+| Arabic - franco | English |
+|---|---|
+| كلب - kalb (m.) | dog |
+| قطة - 2otta (f.) | cat |
+| حصان - 7osan (m.) | horse |
+
+**Everyday things**
+
+| Arabic - franco | English |
+|---|---|
+| كتاب - ketab (m.) | book |
+| قلم - 2alam (m.) | pen |
+| شنطة - shanta (f.) | bag |
+| موبايل - mobile (m.) | phone |
+| ساعة - sa3a (f.) | watch / clock |
+
+## What is this?
+
+<details class="frase">
+<summary>ده إيه؟</summary>
+<span class="fr">da eh?</span>
+<span class="en">what's this? (m.)</span>
+</details>
+
+<details class="frase">
+<summary>دي إيه؟</summary>
+<span class="fr">di eh?</span>
+<span class="en">what's this? (f.)</span>
+</details>
+
+<details class="frase">
+<summary>ده كلب</summary>
+<span class="fr">da kalb</span>
+<span class="en">this is a dog</span>
+</details>
+
+<details class="frase">
+<summary>دي ترابيزة</summary>
+<span class="fr">di tarabeza</span>
+<span class="en">this is a table</span>
+</details>
+
+## Using demonstratives in a sentence
+
+For "I want / I see / it's mine" you can use a couple of words that just agree in gender (the full verbs come in their own chapters). Negate them with **مش (mesh)**.
+
+| Arabic - franco | English |
+|---|---|
+| عايز / عايزة - 3ayez / 3ayza | wanting (m. / f.) |
+| شايف / شايفة - shayef / shayfa | seeing (m. / f.) |
+
+<details class="frase">
+<summary>عايز الكرسي ده</summary>
+<span class="fr">3ayez el-korsi da</span>
+<span class="en">I want this chair</span>
+</details>
+
+<details class="frase">
+<summary>شايف الحصان هناك</summary>
+<span class="fr">shayef el-7osan henak</span>
+<span class="en">I see that horse (over there)</span>
+</details>
+
+<details class="frase">
+<summary>الشنطة دي بتاعتي</summary>
+<span class="fr">el-shanta di bta3ti</span>
+<span class="en">this bag is mine</span>
+</details>
+
+<details class="frase">
+<summary>مش عايز القميص ده</summary>
+<span class="fr">mesh 3ayez el-2amis da</span>
+<span class="en">I don't want this shirt</span>
+</details>
+
+## Dialogue: "What's this?"
+
+Sherif is looking around Nadia's place.
+
+<span class="rotulo">شريف — Sherif</span>
+<details class="frase">
+<summary>ده إيه؟</summary>
+<span class="fr">da eh?</span>
+<span class="en">What's this?</span>
+</details>
+
+<span class="rotulo">نادية — Nadia</span>
+<details class="frase">
+<summary>ده موبايل</summary>
+<span class="fr">da mobile</span>
+<span class="en">It's a phone</span>
+</details>
+
+<span class="rotulo">شريف — Sherif</span>
+<details class="frase">
+<summary>الموبايل ده بتاعك؟</summary>
+<span class="fr">el-mobile da bta3ek?</span>
+<span class="en">Is this phone yours?</span>
+</details>
+
+<span class="rotulo">نادية — Nadia</span>
+<details class="frase">
+<summary>لأ، ده مش بتاعي. ده بتاع أختي</summary>
+<span class="fr">la2, da mesh bta3i. da bta3 o5ti</span>
+<span class="en">No, it's not mine. It's my sister's</span>
+</details>
+
+<span class="rotulo">شريف — Sherif</span>
+<details class="frase">
+<summary>والقطة دي؟</summary>
+<span class="fr">wel-2otta di?</span>
+<span class="en">And this cat?</span>
+</details>
+
+<span class="rotulo">نادية — Nadia</span>
+<details class="frase">
+<summary>أيوة، دي بتاعتي</summary>
+<span class="fr">aywa, di bta3ti</span>
+<span class="en">Yes, she's mine</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — ده، دي or دول؟
+
+Choose the demonstrative that agrees with the noun.
+
+**1.** الكتاب ___ *(book, m.)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">ده</span>
+<span class="fr">el-ketab da</span>
+</details>
+
+**2.** الترابيزة ___ *(table, f.)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">دي</span>
+<span class="fr">el-tarabeza di</span>
+</details>
+
+**3.** الكلاب ___ *(dogs, pl.)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">دول</span>
+<span class="fr">el-kilab dol</span>
+</details>
+
+**4.** القطة ___ *(cat, f.)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">دي</span>
+<span class="fr">el-2otta di</span>
+</details>
+
+**5.** الكرسي ___ *(chair, m.)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">ده</span>
+<span class="fr">el-korsi da</span>
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** What is this? (m.)
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">ده إيه؟</span>
+<span class="fr">da eh?</span>
+</details>
+
+**2.** This is a dog.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">ده كلب</span>
+<span class="fr">da kalb</span>
+</details>
+
+**3.** This bag is mine.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الشنطة دي بتاعتي</span>
+<span class="fr">el-shanta di bta3ti</span>
+</details>
+
+**4.** I want this chair.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عايز الكرسي ده</span>
+<span class="fr">3ayez el-korsi da</span>
+</details>
+
+**5.** I see that horse (over there).
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">شايف الحصان هناك</span>
+<span class="fr">shayef el-7osan henak</span>
+</details>
+
+### Exercise 3 — The two structures
+
+Watch the word order: "this is a ___" vs "this ___".
+
+**1.** this is a table
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">دي ترابيزة</span>
+<span class="fr">di tarabeza</span>
+</details>
+
+**2.** this table
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الترابيزة دي</span>
+<span class="fr">el-tarabeza di</span>
+</details>
+
+**3.** this is a cat
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">دي قطة</span>
+<span class="fr">di 2otta</span>
+</details>
+
+**4.** this cat
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">القطة دي</span>
+<span class="fr">el-2otta di</span>
+</details>

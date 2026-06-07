@@ -1,0 +1,343 @@
+# Liking, Wanting, Disliking {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+This chapter is about taste and preference: **to like / love** (بحب — ba7ebb), **to want** (عايز — 3ayez) and **to hate** (بكره — bakrah), plus the food and drink you'll use them on. Tap any sentence to reveal its franco and English.
+
+## How it works
+
+**حب is one verb for both *like* and *love*** (like *saber*/*conhecer* being one verb). It's a doubled verb (ح-ب-ب): **بحب (ba7ebb)**. Negate it by wrapping it in **ما...ش**: **مبحبش (maba7ebbesh)** "I don't like".
+
+**عايز ("want") just agrees** — it's not conjugated and takes no بـ: 3ayez (m.), 3ayza (f.), 3ayzeen (pl.). Negate with **مش (mesh)**.
+
+**بكره (bakrah) = "to hate / detest"** — a regular verb (ك-ر-ه), negated with ما...ش (مبكرهش, mabkrahsh).
+
+**The intensity scale.** Egyptian has a clear ladder of feeling, from adoring to hating:
+
+| Arabic - franco | English |
+|---|---|
+| بموت في - bamoot fi | I'm crazy about / I adore |
+| بحب أوي - ba7ebb awi | I love (it) a lot |
+| بحب - ba7ebb | I like / love |
+| مبحبش - maba7ebbesh | I don't like |
+| بكره - bakrah | I hate / detest |
+
+**بموت في** literally means "I die for" — use it for the thing you adore: *bamoot fi el-shokolata*.
+
+And remember the demonstratives from the last chapter: **بحب ده (ba7ebb da)** "I like this", **بكره ده (bakrah da)** "I hate that".
+
+## To like / love — حب — 7abb
+
+Doubled verb. Future: ها + stem (*ana ha7ebb*).
+
+| Pronoun | Present |
+|---|---|
+| أنا - ana | بحب - ba7ebb |
+| إنت - inta | بتحب - bit7ebb |
+| إنتِ - inti | بتحبي - bit7ebbi |
+| هو - huwwa | بيحب - biy7ebb |
+| هي - hiyya | بتحب - bit7ebb |
+| إحنا - e7na | بنحب - bin7ebb |
+| إنتو - intu | بتحبوا - bit7ebbu |
+| هم - humma | بيحبوا - biy7ebbu |
+
+**Negation:** *maba7ebbesh, mabit7ebbesh, mabiy7ebbesh…*
+
+## To hate — بكره — kerih
+
+Regular verb. Future: ها + stem (*ana hakrah*).
+
+| Pronoun | Present |
+|---|---|
+| أنا - ana | بكره - bakrah |
+| إنت - inta | بتكره - bitikrah |
+| إنتِ - inti | بتكرهي - bitikrahi |
+| هو - huwwa | بيكره - biyikrah |
+| هي - hiyya | بتكره - bitikrah |
+| إحنا - e7na | بنكره - binikrah |
+| إنتو - intu | بتكرهوا - bitikrahu |
+| هم - humma | بيكرهوا - biyikrahu |
+
+**Negation:** *mabkrahsh…*
+
+## To want — عايز — 3ayez
+
+Not conjugated — it only agrees.
+
+| Form - franco | Used by |
+|---|---|
+| عايز - 3ayez | a man |
+| عايزة - 3ayza | a woman |
+| عايزين - 3ayzeen | plural |
+
+## Eating and drinking
+
+The two everyday verbs that come with food. Both are regular; here are the key forms (the rest follow the usual pattern).
+
+| Verb | I (أنا) - franco | he (هو) - franco |
+|---|---|---|
+| كل (eat) | باكل - bakol | بياكل - biyakol |
+| شرب (drink) | بشرب - bashrab | بيشرب - biyishrab |
+
+## Food
+
+| Arabic - franco | English |
+|---|---|
+| أكل - akl | food |
+| عيش - 3eesh | bread |
+| رز - roz | rice |
+| لحمة - la7ma | meat |
+| فراخ - fera5 | chicken |
+| سمك - samak | fish |
+| خضار - 5odar | vegetables |
+| فاكهة - fakha | fruit |
+| جبنة - gebna | cheese |
+| شوكولاتة - shokolata | chocolate |
+
+## Drink
+
+| Arabic - franco | English |
+|---|---|
+| مية - mayya | water |
+| شاي - shay | tea |
+| قهوة - 2ahwa | coffee |
+| عصير - 3aseer | juice |
+| لبن - laban | milk |
+
+## Examples
+
+<details class="frase">
+<summary>بموت في الشوكولاتة</summary>
+<span class="fr">bamoot fi el-shokolata</span>
+<span class="en">I'm crazy about chocolate</span>
+</details>
+
+<details class="frase">
+<summary>بحب القهوة</summary>
+<span class="fr">ba7ebb el-2ahwa</span>
+<span class="en">I like coffee</span>
+</details>
+
+<details class="frase">
+<summary>مبحبش السمك</summary>
+<span class="fr">maba7ebbesh el-samak</span>
+<span class="en">I don't like fish</span>
+</details>
+
+<details class="frase">
+<summary>بكره الخضار</summary>
+<span class="fr">bakrah el-5odar</span>
+<span class="en">I hate vegetables</span>
+</details>
+
+<details class="frase">
+<summary>بحب الأكل ده</summary>
+<span class="fr">ba7ebb el-akl da</span>
+<span class="en">I like this food</span>
+</details>
+
+## Dialogue: "Coffee or tea?"
+
+Tamer asks Yara about her tastes.
+
+<span class="rotulo">تامر — Tamer</span>
+<details class="frase">
+<summary>بتحبي القهوة ولا الشاي؟</summary>
+<span class="fr">bit7ebbi el-2ahwa walla el-shay?</span>
+<span class="en">Do you like coffee or tea?</span>
+</details>
+
+<span class="rotulo">يارا — Yara</span>
+<details class="frase">
+<summary>بموت في القهوة!</summary>
+<span class="fr">bamoot fi el-2ahwa!</span>
+<span class="en">I'm crazy about coffee!</span>
+</details>
+
+<span class="rotulo">تامر — Tamer</span>
+<details class="frase">
+<summary>وبتاكلي لحمة؟</summary>
+<span class="fr">we bitakli la7ma?</span>
+<span class="en">And do you eat meat?</span>
+</details>
+
+<span class="rotulo">يارا — Yara</span>
+<details class="frase">
+<summary>لأ، بكره اللحمة</summary>
+<span class="fr">la2, bakrah el-la7ma</span>
+<span class="en">No, I hate meat</span>
+</details>
+
+<span class="rotulo">تامر — Tamer</span>
+<details class="frase">
+<summary>طب بتحبي الخضار؟</summary>
+<span class="fr">tab bit7ebbi el-5odar?</span>
+<span class="en">OK, do you like vegetables?</span>
+</details>
+
+<span class="rotulo">يارا — Yara</span>
+<details class="frase">
+<summary>أيوة، بحب الخضار أوي</summary>
+<span class="fr">aywa, ba7ebb el-5odar awi</span>
+<span class="en">Yes, I like vegetables a lot</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Conjugate
+
+**1.** أنا + حب *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بحب</span>
+<span class="fr">ana ba7ebb</span>
+</details>
+
+**2.** هو + بكره *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بيكره</span>
+<span class="fr">huwwa biyikrah</span>
+</details>
+
+**3.** أنا + حب *(negative)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">مبحبش</span>
+<span class="fr">ana maba7ebbesh</span>
+</details>
+
+**4.** إنتِ + بكره *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتكرهي</span>
+<span class="fr">inti bitikrahi</span>
+</details>
+
+**5.** إحنا + حب *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بنحب</span>
+<span class="fr">e7na bin7ebb</span>
+</details>
+
+**6.** هم + بكره *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بيكرهوا</span>
+<span class="fr">humma biyikrahu</span>
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** I like coffee.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بحب القهوة</span>
+<span class="fr">ba7ebb el-2ahwa</span>
+</details>
+
+**2.** I'm crazy about chocolate.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بموت في الشوكولاتة</span>
+<span class="fr">bamoot fi el-shokolata</span>
+</details>
+
+**3.** I don't like fish.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">مبحبش السمك</span>
+<span class="fr">maba7ebbesh el-samak</span>
+</details>
+
+**4.** I hate vegetables.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بكره الخضار</span>
+<span class="fr">bakrah el-5odar</span>
+</details>
+
+**5.** I want tea.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عايز شاي</span>
+<span class="fr">3ayez shay</span>
+</details>
+
+**6.** I like this food.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بحب الأكل ده</span>
+<span class="fr">ba7ebb el-akl da</span>
+</details>
+
+### Exercise 3 — Match the strength
+
+Give the Egyptian expression for each feeling.
+
+**1.** I adore (it)
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بموت في</span>
+<span class="fr">bamoot fi</span>
+</details>
+
+**2.** I like (it)
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بحب</span>
+<span class="fr">ba7ebb</span>
+</details>
+
+**3.** I don't like (it)
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">مبحبش</span>
+<span class="fr">maba7ebbesh</span>
+</details>
+
+**4.** I hate (it)
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بكره</span>
+<span class="fr">bakrah</span>
+</details>

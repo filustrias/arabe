@@ -1,0 +1,283 @@
+# Everyday Verbs {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+A handful of very common verbs that don't belong to one theme but show up everywhere: **to see / watch** (شوف — shaaf), **to take** (أخد — a5ad), **to ask** (سأل — sa2al), **to need** (احتاج — e7tag) and **to write** (كتب — katab). Tap any sentence to reveal its franco and English.
+
+## How it works
+
+These five between them cover most of the verb types you've already met: **شوف** is hollow (like راح), **كتب** and **سأل** are regular (like فهم), **أخد** is a little irregular, and **احتاج** runs like اشتغل. As always, the future is **ها +** the stem, and the past uses endings.
+
+A few patterns worth noting:
+
+- **احتاج** takes either a thing or another verb: *ba7tag mosa3da* "I need help", *ba7tag aroo7* "I need to go".
+- **سأل** pairs with **عن (3an)** "about": *bas2al 3an el-mudeer* "I ask about the manager".
+- **شوف** covers *see*, *watch* and *look*.
+
+## The five in the present
+
+| Pronoun | شوف (see) | أخد (take) | سأل (ask) | احتاج (need) | كتب (write) |
+|---|---|---|---|---|---|
+| أنا - ana | بشوف - bashoof | باخد - ba5od | بسأل - bas2al | بحتاج - ba7tag | بكتب - baktib |
+| إنت - inta | بتشوف - bitshoof | بتاخد - bita5od | بتسأل - bitis2al | بتحتاج - biti7tag | بتكتب - bitiktib |
+| إنتِ - inti | بتشوفي - bitshoofi | بتاخدي - bita5di | بتسألي - bitis2ali | بتحتاجي - biti7tagi | بتكتبي - bitiktibi |
+| هو - huwwa | بيشوف - biyshoof | بياخد - biya5od | بيسأل - biyis2al | بيحتاج - biyi7tag | بيكتب - biyiktib |
+| هي - hiyya | بتشوف - bitshoof | بتاخد - bita5od | بتسأل - bitis2al | بتحتاج - biti7tag | بتكتب - bitiktib |
+| إحنا - e7na | بنشوف - binshoof | بناخد - bina5od | بنسأل - binis2al | بنحتاج - bini7tag | بنكتب - biniktib |
+| إنتو - intu | بتشوفوا - bitshoofu | بتاخدوا - bita5du | بتسألوا - bitis2alu | بتحتاجوا - biti7tagu | بتكتبوا - bitiktibu |
+| هم - humma | بيشوفوا - biyshoofu | بياخدوا - biya5du | بيسألوا - biyis2alu | بيحتاجوا - biyi7tagu | بيكتبوا - biyiktibu |
+
+**Past (هو):** شاف (shaaf), أخد (a5ad), سأل (sa2al), احتاج (e7tag), كتب (katab).
+
+## Also: to live — عايش — 3ayish
+
+Not an action verb but a participle that just agrees: **عايش (3ayish)** m., **عايشة (3aysha)** f., **عايشين (3ayshin)** pl. — *ana 3aysh fi el-Qahira* "I live in Cairo". It comes back in the introductions chapter.
+
+## Vocabulary
+
+| Arabic - franco | English |
+|---|---|
+| فيلم - film | film |
+| تاكسي - taxi | taxi |
+| سؤال - so2al | question |
+| مساعدة - mosa3da | help |
+| رسالة - resala | letter / message |
+| حاجة - 7aga | thing |
+
+## Examples
+
+<details class="frase">
+<summary>بشوف فيلم</summary>
+<span class="fr">bashoof film</span>
+<span class="en">I'm watching a film</span>
+</details>
+
+<details class="frase">
+<summary>باخد تاكسي</summary>
+<span class="fr">ba5od taxi</span>
+<span class="en">I take a taxi</span>
+</details>
+
+<details class="frase">
+<summary>بحتاج مساعدة</summary>
+<span class="fr">ba7tag mosa3da</span>
+<span class="en">I need help</span>
+</details>
+
+<details class="frase">
+<summary>بكتب رسالة</summary>
+<span class="fr">baktib resala</span>
+<span class="en">I'm writing a letter</span>
+</details>
+
+<details class="frase">
+<summary>بسأل سؤال</summary>
+<span class="fr">bas2al so2al</span>
+<span class="en">I ask a question</span>
+</details>
+
+## Dialogue: "Do you need anything?"
+
+Bassem checks in on Yasmin.
+
+<span class="rotulo">باسم — Bassem</span>
+<details class="frase">
+<summary>بتكتبي إيه؟</summary>
+<span class="fr">bitiktibi eh?</span>
+<span class="en">What are you writing?</span>
+</details>
+
+<span class="rotulo">ياسمين — Yasmin</span>
+<details class="frase">
+<summary>بكتب رسالة لصاحبتي</summary>
+<span class="fr">baktib resala le-sa7bti</span>
+<span class="en">I'm writing a letter to my friend</span>
+</details>
+
+<span class="rotulo">باسم — Bassem</span>
+<details class="frase">
+<summary>محتاجة حاجة؟</summary>
+<span class="fr">me7taga 7aga?</span>
+<span class="en">Do you need anything?</span>
+</details>
+
+<span class="rotulo">ياسمين — Yasmin</span>
+<details class="frase">
+<summary>أيوة، بحتاج أروح المكتب. هاخد تاكسي</summary>
+<span class="fr">aywa, ba7tag aroo7 el-maktab. ha5od taxi</span>
+<span class="en">Yes, I need to go to the office. I'll take a taxi</span>
+</details>
+
+<span class="rotulo">باسم — Bassem</span>
+<details class="frase">
+<summary>هتشوفي حد هناك؟</summary>
+<span class="fr">hatshoofi 7add henak?</span>
+<span class="en">Will you see someone there?</span>
+</details>
+
+<span class="rotulo">ياسمين — Yasmin</span>
+<details class="frase">
+<summary>أيوة، هسأل عن المدير</summary>
+<span class="fr">aywa, has2al 3an el-mudeer</span>
+<span class="en">Yes, I'll ask about the manager</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Conjugate
+
+**1.** أنا + شوف *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بشوف</span>
+<span class="fr">ana bashoof</span>
+</details>
+
+**2.** هو + كتب *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بيكتب</span>
+<span class="fr">huwwa biyiktib</span>
+</details>
+
+**3.** إنتِ + سأل *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتسألي</span>
+<span class="fr">inti bitis2ali</span>
+</details>
+
+**4.** إحنا + أخد *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بناخد</span>
+<span class="fr">e7na bina5od</span>
+</details>
+
+**5.** هم + احتاج *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بيحتاجوا</span>
+<span class="fr">humma biyi7tagu</span>
+</details>
+
+**6.** أنا + أخد *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">باخد</span>
+<span class="fr">ana ba5od</span>
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** I'm watching a film.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بشوف فيلم</span>
+<span class="fr">bashoof film</span>
+</details>
+
+**2.** I take a taxi.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">باخد تاكسي</span>
+<span class="fr">ba5od taxi</span>
+</details>
+
+**3.** I need help.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بحتاج مساعدة</span>
+<span class="fr">ba7tag mosa3da</span>
+</details>
+
+**4.** I write a letter.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بكتب رسالة</span>
+<span class="fr">baktib resala</span>
+</details>
+
+**5.** I ask a question.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بسأل سؤال</span>
+<span class="fr">bas2al so2al</span>
+</details>
+
+### Exercise 3 — Name the verb
+
+Give the Egyptian verb for each meaning.
+
+**1.** to see / watch
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">شوف</span>
+<span class="fr">shoof</span>
+</details>
+
+**2.** to take
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أخد</span>
+<span class="fr">a5od</span>
+</details>
+
+**3.** to ask
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">سأل</span>
+<span class="fr">sa2al</span>
+</details>
+
+**4.** to need
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">احتاج</span>
+<span class="fr">e7tag</span>
+</details>
+
+**5.** to write
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">كتب</span>
+<span class="fr">katab</span>
+</details>

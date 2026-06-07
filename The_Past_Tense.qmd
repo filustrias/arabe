@@ -1,0 +1,212 @@
+# The Past Tense {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+The companion to the present-tense chapter. The big switch: the present is built with **prefixes** in front of the verb, but the past is built with **suffixes** on the end. Tap any example to reveal its franco and English.
+
+## The past suffixes
+
+Take the bare verb and add an ending. Here they are on a regular verb, **كتب (katab)** "to write":
+
+| Pronoun | Suffix | Past |
+|---|---|---|
+| أنا - ana | ‑t | كتبت - katabt |
+| إنت - inta | ‑t | كتبت - katabt |
+| إنتِ - inti | ‑ti | كتبتي - katabti |
+| هو - huwwa | — | كتب - katab |
+| هي - hiyya | ‑et | كتبت - katabet |
+| إحنا - e7na | ‑na | كتبنا - katabna |
+| إنتو - intu | ‑tu | كتبتوا - katabtu |
+| هم - humma | ‑u | كتبوا - katabu |
+
+Two things to notice. **أنا and إنت are identical** (*katabt* for both) — context tells them apart. And the **هو form is the bare verb itself** — *katab* — which is exactly the form dictionaries and this book use to name a verb.
+
+## The one complication: hollow verbs
+
+Regular verbs keep their stem unchanged. **Hollow** verbs (the ones with a long vowel in the middle — راح، نام، شاف) do something special: in front of a **consonant suffix** the long vowel **shortens**. Watch راح (raa7) "to go":
+
+| Pronoun | Past | |
+|---|---|---|
+| أنا - ana | رحت - ro7t | short |
+| إنت - inta | رحت - ro7t | short |
+| إنتِ - inti | رحتي - ro7ti | short |
+| هو - huwwa | راح - raa7 | long |
+| هي - hiyya | راحت - raa7et | long |
+| إحنا - e7na | رحنا - ro7na | short |
+| إنتو - intu | رحتوا - ro7tu | short |
+| هم - humma | راحوا - raa7u | long |
+
+The split is clean: **هو، هي، هم keep the long vowel** (raa7‑); everyone else takes the **short** one (ro7‑). The same happens with نام → نمت (nemt) and شاف → شفت (shoft).
+
+## The types side by side
+
+The other types each have their own small habit in the past. Here is the أنا form (the tricky one) next to the هو form (the bare verb) for one of each:
+
+| Type | هو (he) | أنا (I) |
+|---|---|---|
+| Regular | كتب - katab | كتبت - katabt |
+| Hollow | راح - raa7 | رحت - ro7t |
+| Hollow | نام - naam | نمت - nemt |
+| Final-weak | صحى - se7i | صحيت - se7eet |
+| Doubled | حب - 7abb | حبيت - 7abbeet |
+| اتـ‑verb | اتكلم - itkallim | اتكلمت - itkallimt |
+
+So: **hollow** shortens (raa7 → ro7t), **final-weak** stretches to ‑eet (se7i → se7eet), **doubled** stretches to ‑eet too (7abb → 7abbeet), and the **اتـ‑verb** just adds the ending like a regular one.
+
+## Examples
+
+<details class="frase">
+<summary>كتبت رسالة</summary>
+<span class="fr">katabt resala</span>
+<span class="en">I wrote a letter</span>
+</details>
+
+<details class="frase">
+<summary>رحت الشغل امبارح</summary>
+<span class="fr">ro7t el-sho8l embare7</span>
+<span class="en">I went to work yesterday</span>
+</details>
+
+<details class="frase">
+<summary>نمت بدري</summary>
+<span class="fr">nemt badri</span>
+<span class="en">I slept early</span>
+</details>
+
+<details class="frase">
+<summary>هي راحت الجامعة</summary>
+<span class="fr">hiyya raa7et el-gam3a</span>
+<span class="en">she went to university</span>
+</details>
+
+<details class="frase">
+<summary>اتكلمت مع سمر</summary>
+<span class="fr">itkallimt ma3 Samar</span>
+<span class="en">I spoke with Samar</span>
+</details>
+
+<details class="frase">
+<summary>شفت فيلم حلو</summary>
+<span class="fr">shoft film 7elw</span>
+<span class="en">I saw a nice film</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Put it in the past
+
+**1.** أنا + كتب
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">كتبت</span>
+<span class="fr">ana katabt</span>
+</details>
+
+**2.** هي + راح
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">راحت</span>
+<span class="fr">hiyya raa7et</span>
+</details>
+
+**3.** إنتِ + كتب
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">كتبتي</span>
+<span class="fr">inti katabti</span>
+</details>
+
+**4.** هم + راح
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">راحوا</span>
+<span class="fr">humma raa7u</span>
+</details>
+
+**5.** إحنا + شاف
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">شفنا</span>
+<span class="fr">e7na shofna</span>
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** I wrote a letter.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">كتبت رسالة</span>
+<span class="fr">katabt resala</span>
+</details>
+
+**2.** I went to work yesterday.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">رحت الشغل امبارح</span>
+<span class="fr">ro7t el-sho8l embare7</span>
+</details>
+
+**3.** She went to university.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">هي راحت الجامعة</span>
+<span class="fr">hiyya raa7et el-gam3a</span>
+</details>
+
+### Exercise 3 — Long or short? (hollow verbs)
+
+Conjugate نام (naam, to sleep) and watch the vowel.
+
+**1.** I slept
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">نمت</span>
+<span class="fr">nemt (short)</span>
+</details>
+
+**2.** he slept
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">نام</span>
+<span class="fr">naam (long)</span>
+</details>
+
+**3.** we slept
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">نمنا</span>
+<span class="fr">nemna (short)</span>
+</details>

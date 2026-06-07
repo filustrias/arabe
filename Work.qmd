@@ -1,0 +1,332 @@
+# Work and professions {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+This chapter is about working: the verb **to work** (اشتغل — eshta8al), the jobs you do, and the places you do them. Tap any sentence to reveal its franco and English.
+
+## How it works
+
+اشتغل is a regular verb. The two things you'll say most are *what* you do and *where* you do it, and they use two simple patterns:
+
+| Pattern | Example | Meaning |
+|------------------------|------------------------|------------------------|
+| بشتغل + profession | بشتغل دكتور — bashta8al doktor | I work as a doctor |
+| بشتغل في + place | بشتغل في مستشفى — bashta8al fi mostashfa | I work in a hospital |
+| بشتغل من + place | بشتغل من البيت — bashta8al men el-bet | I work from home |
+
+Notice there's no word for "as" — the profession goes straight after the verb. To ask, use **بتشتغل إيه؟ (bitishta8al eh?)** "what do you do?" and **بتشتغل فين؟ (bitishta8al feen?)** "where do you work?".
+
+## To work — اشتغل — eshta8al
+
+Regular verb. Future: ها + stem (*ana hashta8al*); past: *ana eshta8alt, huwwa eshta8al*.
+
+| Pronoun     | Present                 |
+|-------------|-------------------------|
+| أنا - ana   | بشتغل - bashta8al       |
+| إنت - inta  | بتشتغل - bitishta8al    |
+| إنتِ - inti  | بتشتغلي - bitishta8ali  |
+| هو - huwwa  | بيشتغل - biyishta8al    |
+| هي - hiyya  | بتشتغل - bitishta8al    |
+| إحنا - e7na | بنشتغل - binishta8al    |
+| إنتو - intu | بتشتغلوا - bitishta8alu |
+| هم - humma  | بيشتغلوا - biyishta8alu |
+
+## Professions
+
+The masculine and feminine forms side by side — the feminine almost always just adds **ة (‑a)**.
+
+| Masculine - franco | Feminine - franco  | English          |
+|--------------------|--------------------|------------------|
+| دكتور - doktor     | دكتورة - doktora   | doctor           |
+| مدرس - modarres    | مدرسة - modarresa  | teacher          |
+| مهندس - mohandes   | مهندسة - mohandesa | engineer         |
+| محامي - mo7ami     | محامية - mo7ameya  | lawyer           |
+| ممرض - momarred    | ممرضة - momarreda  | nurse            |
+| طباخ - tabba5      | طباخة - tabba5a    | cook / chef      |
+| سواق - sawwa2      | سواقة - sawwa2a    | driver           |
+| موظف - mowazzaf    | موظفة - mowazzafa  | employee / clerk |
+| باحث - ba7es       | باحثة - ba7esa     | researcher       |
+| صحفي - so7ofi      | صحفية - so7ofeya   | journalist       |
+
+## Places of work
+
+| Arabic - franco    | English    |
+|--------------------|------------|
+| مستشفى - mostashfa | hospital   |
+| مدرسة - madrasa    | school     |
+| جامعة - gam3a      | university |
+| مكتب - maktab      | office     |
+| شركة - sherka      | company    |
+| مطعم - mat3am      | restaurant |
+| بنك - bank         | bank       |
+| مصنع - masna3      | factory    |
+| محل - ma7all       | shop       |
+| البيت - el-bet     | home       |
+
+## Examples
+
+<details class="frase">
+
+<summary>أنا بشتغل دكتور</summary>
+
+[ana bashta8al doktor]{.fr} [I work as a doctor]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>بشتغل في شركة</summary>
+
+[bashta8al fi sherka]{.fr} [I work at a company]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>هي بتشتغل مدرسة في مدرسة</summary>
+
+[hiyya bitishta8al modarresa fi madrasa]{.fr} [she works as a teacher at a school]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>بشتغل من البيت</summary>
+
+[bashta8al men el-bet]{.fr} [I work from home]{.en}
+
+</details>
+
+## Dialogue: "What do you do?"
+
+Amr and Dalia compare jobs.
+
+[عمرو — Amr]{.rotulo}
+
+<details class="frase">
+
+<summary>بتشتغلي إيه؟</summary>
+
+[bitishta8ali eh?]{.fr} [What do you do?]{.en}
+
+</details>
+
+[داليا — Dalia]{.rotulo}
+
+<details class="frase">
+
+<summary>بشتغل دكتورة في مستشفى</summary>
+
+[bashta8al doktora fi mostashfa]{.fr} [I work as a doctor in a hospital]{.en}
+
+</details>
+
+[عمرو — Amr]{.rotulo}
+
+<details class="frase">
+
+<summary>بتشتغلي فين بالظبط؟</summary>
+
+[bitishta8ali feen bel-zabt?]{.fr} [Where exactly do you work?]{.en}
+
+</details>
+
+[داليا — Dalia]{.rotulo}
+
+<details class="frase">
+
+<summary>في مستشفى كبير في القاهرة. وإنت؟</summary>
+
+[fi mostashfa kbeer fi el-2ahira. wenta?]{.fr} [In a big hospital in Cairo. And you?]{.en}
+
+</details>
+
+[عمرو — Amr]{.rotulo}
+
+<details class="frase">
+
+<summary>أنا مهندس، بشتغل في شركة</summary>
+
+[ana mohandes, bashta8al fi sherka]{.fr} [I'm an engineer, I work at a company]{.en}
+
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Conjugate اشتغل
+
+**1.** أنا *(present)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[بشتغل]{.ar} [ana bashta8al]{.fr}
+
+</details>
+
+**2.** هي *(present)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[بتشتغل]{.ar} [hiyya bitishta8al]{.fr}
+
+</details>
+
+**3.** هم *(present)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[بيشتغلوا]{.ar} [humma biyishta8alu]{.fr}
+
+</details>
+
+**4.** إنتِ *(present)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[بتشتغلي]{.ar} [inti bitishta8ali]{.fr}
+
+</details>
+
+**5.** إحنا *(present)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[بنشتغل]{.ar} [e7na binishta8al]{.fr}
+
+</details>
+
+**6.** هو *(past)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[اشتغل]{.ar} [huwwa eshta8al]{.fr}
+
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** I work as a doctor.
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[بشتغل دكتور]{.ar} [bashta8al doktor]{.fr}
+
+</details>
+
+**2.** I work in a hospital.
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[بشتغل في مستشفى]{.ar} [bashta8al fi mostashfa]{.fr}
+
+</details>
+
+**3.** She works as a teacher.
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[بتشتغل مدرسة]{.ar} [hiyya bitishta8al modarresa]{.fr}
+
+</details>
+
+**4.** Where do you (m.) work?
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[بتشتغل فين؟]{.ar} [bitishta8al feen?]{.fr}
+
+</details>
+
+**5.** I work from home.
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[بشتغل من البيت]{.ar} [bashta8al men el-bet]{.fr}
+
+</details>
+
+### Exercise 3 — Give the feminine profession
+
+**1.** دكتور *(doctor)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[دكتورة]{.ar} [doktora]{.fr}
+
+</details>
+
+**2.** مهندس *(engineer)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[مهندسة]{.ar} [mohandesa]{.fr}
+
+</details>
+
+**3.** مدرس *(teacher)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[مدرسة]{.ar} [modarresa]{.fr}
+
+</details>
+
+**4.** طباخ *(cook)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[طباخة]{.ar} [tabba5a]{.fr}
+
+</details>

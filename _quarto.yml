@@ -8,25 +8,31 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - gramatica.qmd
-    - verbos.qmd
-    - vocabulario.qmd
-    - polidez.qmd
-    - expressoes.qmd
-    - dez_verbos.qmd
-    - exercicio.qmd
-    - verbo_dizer.qmd
-    - isto_aquilo.qmd
-    - gostar.qmd
-    - artigo_definido.qmd
-    - adverbios_posicao.qmd
     - aulas_sumarios.qmd
+    - polidez.qmd
+    - This_and_That.qmd
+    - The_Present_Tense.qmd
+    - The_Past_Tense.qmd
+    - Negation.qmd
+    - Family.qmd
+    - Introductions.qmd
+    - Comparatives.qmd
+    - Numbers_Plurals_and_the_Calendar.qmd
+    - Prepositions_and_Place_Words.qmd
+    - Pronouns_and_the_Nominal_Sentence.qmd
+    - Saying_Telling_and_Hearing.qmd
     - Speaking_and_Understanding.qmd
     - Knowing_and_Being_Acquainted.qmd
+    - Studying_and_Learning.qmd
     - Verbs_of_Movement_1.qmd
     - Verbs_of_Movement_2.qmd
-    - Liking_and_wanting.qmd
+    - Liking_Wanting_Disliking.qmd
     - Colors.qmd
+    - Colors_and_Sizes.qmd
+    - Definite_Article_and_Agreement.qmd
+    - Work.qmd
+    - Daily_Routine.qmd
+    - Everyday_Verbs.qmd
     - samar_futuro.qmd
     - samar_futuro_improved.qmd
 

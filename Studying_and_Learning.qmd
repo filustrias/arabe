@@ -1,0 +1,300 @@
+# Studying and Learning {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+This chapter is about learning: **to study** (درس — daras) and **to learn** (اتعلم — et3allim), with the subjects, languages, music, and culture that come with them. Tap any sentence to reveal its franco and English.
+
+## How it works
+
+Egyptian uses two different verbs where English blurs them. **درس** is formal *study* — a subject, at school or university. **اتعلم** is *to learn / pick up* — a skill, a language, an instrument.
+
+| Verb | Use | Example |
+|---|---|---|
+| درس - daras | formal study (a subject) | بدرس طب — badris tibb — I study medicine |
+| اتعلم - et3allim | learning a skill or language | بتعلم عربي — bat3allim 3araby — I'm learning Arabic |
+
+A useful relative is **درّس (darras)** "to teach" (*ana badarres* "I teach") — the teacher's side of the same activity.
+
+## To study — درس — daras
+
+Regular verb. Future: ها + stem (*ana hadris*); past: *ana darast, huwwa daras*.
+
+| Pronoun | Present |
+|---|---|
+| أنا - ana | بدرس - badris |
+| إنت - inta | بتدرس - bitidris |
+| إنتِ - inti | بتدرسي - bitidresi |
+| هو - huwwa | بيدرس - biyidris |
+| هي - hiyya | بتدرس - bitidris |
+| إحنا - e7na | بندرس - binidris |
+| إنتو - intu | بتدرسوا - bitidresu |
+| هم - humma | بيدرسوا - biyidresu |
+
+## To learn — اتعلم — et3allim
+
+Reflexive verb. Future: ها + stem (*ana hat3allim*); past: *ana it3allimt, huwwa it3allim*.
+
+| Pronoun | Present |
+|---|---|
+| أنا - ana | باتعلم - bat3allim |
+| إنت - inta | بتتعلم - bitit3allim |
+| إنتِ - inti | بتتعلمي - bitit3allimi |
+| هو - huwwa | بيتعلم - biyit3allim |
+| هي - hiyya | بتتعلم - bitit3allim |
+| إحنا - e7na | بنتعلم - binit3allim |
+| إنتو - intu | بتتعلموا - bitit3allimu |
+| هم - humma | بيتعلموا - biyit3allimu |
+
+## Subjects (with درس)
+
+| Arabic - franco | English |
+|---|---|
+| طب - tibb | medicine |
+| هندسة - handasa | engineering |
+| حقوق - 7o2oo2 | law |
+| اقتصاد - e2tisad | economics |
+| تاريخ - tari5 | history |
+| علوم - 3oloom | science |
+| فنون - fonoon | arts |
+
+(For languages, see the *Speaking and Understanding* chapter — *3araby, engelizi, faransawi…*)
+
+## Music and instruments (with اتعلم)
+
+To say you play an instrument, use **عزف (yi3zef)** "to play": *bat3allim a3zef 3ood* "I'm learning to play the oud".
+
+| Arabic - franco | English |
+|---|---|
+| موسيقى - mosi2a | music |
+| آلة - aala | instrument |
+| عود - 3ood | oud (lute) |
+| جيتار - gitar | guitar |
+| بيانو - biano | piano |
+| كمان - kaman | violin |
+| طبلة - tabla | tabla / drum |
+| غنا - 8ena | singing |
+
+## Culture
+
+| Arabic - franco | English |
+|---|---|
+| ثقافة - sa2afa | culture |
+| فن - fann | art |
+| رقص - ra2s | dance |
+| مسرح - masra7 | theatre |
+| سينما - cinema | cinema |
+
+## Examples
+
+<details class="frase">
+<summary>بدرس طب في الجامعة</summary>
+<span class="fr">badris tibb fi el-gam3a</span>
+<span class="en">I study medicine at university</span>
+</details>
+
+<details class="frase">
+<summary>بتعلم عربي</summary>
+<span class="fr">bat3allim 3araby</span>
+<span class="en">I'm learning Arabic</span>
+</details>
+
+<details class="frase">
+<summary>بتعلم أعزف عود</summary>
+<span class="fr">bat3allim a3zef 3ood</span>
+<span class="en">I'm learning to play the oud</span>
+</details>
+
+<details class="frase">
+<summary>بحب الموسيقى المصرية</summary>
+<span class="fr">ba7ebb el-mosi2a el-masreyya</span>
+<span class="en">I like Egyptian music</span>
+</details>
+
+## Dialogue: "What do you study?"
+
+Hesham and Farida talk about study and hobbies.
+
+<span class="rotulo">هشام — Hesham</span>
+<details class="frase">
+<summary>بتدرسي إيه؟</summary>
+<span class="fr">bitidresi eh?</span>
+<span class="en">What do you study?</span>
+</details>
+
+<span class="rotulo">فريدة — Farida</span>
+<details class="frase">
+<summary>بدرس حقوق في الجامعة</summary>
+<span class="fr">badris 7o2oo2 fi el-gam3a</span>
+<span class="en">I study law at university</span>
+</details>
+
+<span class="rotulo">هشام — Hesham</span>
+<details class="frase">
+<summary>وبتتعلمي حاجة تانية؟</summary>
+<span class="fr">we bitit3allimi 7aga tanya?</span>
+<span class="en">And are you learning anything else?</span>
+</details>
+
+<span class="rotulo">فريدة — Farida</span>
+<details class="frase">
+<summary>أيوة، بتعلم أعزف بيانو</summary>
+<span class="fr">aywa, bat3allim a3zef biano</span>
+<span class="en">Yes, I'm learning to play the piano</span>
+</details>
+
+<span class="rotulo">هشام — Hesham</span>
+<details class="frase">
+<summary>حلو! أنا بحب الموسيقى أوي</summary>
+<span class="fr">7elw! ana ba7ebb el-mosi2a awi</span>
+<span class="en">Nice! I love music a lot</span>
+</details>
+
+<span class="rotulo">فريدة — Farida</span>
+<details class="frase">
+<summary>وإنت بتدرس ولا بتشتغل؟</summary>
+<span class="fr">wenta bitidris walla bitishta8al?</span>
+<span class="en">And do you study or work?</span>
+</details>
+
+<span class="rotulo">هشام — Hesham</span>
+<details class="frase">
+<summary>بشتغل، بس بتعلم لغات في وقت فراغي</summary>
+<span class="fr">bashta8al, bas bat3allim lo8at fi wa2t fara8i</span>
+<span class="en">I work, but I learn languages in my free time</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Conjugate
+
+**1.** أنا + درس *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بدرس</span>
+<span class="fr">ana badris</span>
+</details>
+
+**2.** هي + اتعلم *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتتعلم</span>
+<span class="fr">hiyya bitit3allim</span>
+</details>
+
+**3.** هم + درس *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بيدرسوا</span>
+<span class="fr">humma biyidresu</span>
+</details>
+
+**4.** إنتِ + اتعلم *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتتعلمي</span>
+<span class="fr">inti bitit3allimi</span>
+</details>
+
+**5.** إحنا + درس *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بندرس</span>
+<span class="fr">e7na binidris</span>
+</details>
+
+**6.** أنا + اتعلم *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">باتعلم</span>
+<span class="fr">ana bat3allim</span>
+</details>
+
+### Exercise 2 — درس or اتعلم؟
+
+Pick the verb that fits the meaning.
+
+**1.** to ___ medicine at university
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">درس</span>
+<span class="fr">badris tibb — formal study</span>
+</details>
+
+**2.** to ___ Arabic
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">اتعلم</span>
+<span class="fr">bat3allim 3araby — learning a language</span>
+</details>
+
+**3.** to ___ to play the guitar
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">اتعلم</span>
+<span class="fr">bat3allim a3zef gitar — learning a skill</span>
+</details>
+
+**4.** to ___ law
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">درس</span>
+<span class="fr">badris 7o2oo2 — formal study</span>
+</details>
+
+### Exercise 3 — Translate into Arabic
+
+**1.** I study medicine at university.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بدرس طب في الجامعة</span>
+<span class="fr">badris tibb fi el-gam3a</span>
+</details>
+
+**2.** I'm learning Arabic.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتعلم عربي</span>
+<span class="fr">bat3allim 3araby</span>
+</details>
+
+**3.** I like Egyptian music.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بحب الموسيقى المصرية</span>
+<span class="fr">ba7ebb el-mosi2a el-masreyya</span>
+</details>

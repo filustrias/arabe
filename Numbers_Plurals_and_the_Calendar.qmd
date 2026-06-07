@@ -1,0 +1,244 @@
+# Numbers, Plurals and the Calendar {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+A grammar-plus-vocabulary chapter: how Egyptian counts, how nouns go plural, and the everyday calendar words — parts of the day, days of the week, the time adverbs, and the months. Tap any example to reveal its franco and English.
+
+## Numbers
+
+The base numbers (you also met these telling the time in the *Daily Routine* chapter):
+
+| 1–5 | franco | 6–10 | franco |
+|---|---|---|---|
+| واحد - wa7ed | 1 | ستة - setta | 6 |
+| اتنين - etnein | 2 | سبعة - sab3a | 7 |
+| تلاتة - talata | 3 | تمانية - tamanya | 8 |
+| أربعة - arba3a | 4 | تسعة - tes3a | 9 |
+| خمسة - 5amsa | 5 | عشرة - 3ashara | 10 |
+
+The tens are عشرين (3eshrin) 20, تلاتين (talatin) 30, أربعين (arbe3in) 40, خمسين (5amsin) 50. Compounds run **units + و + tens**: *wa7ed w 3eshrin* (21), *setta w 3eshrin* (26), *tes3a w arbe3in* (49).
+
+## Counting things
+
+Egyptian changes the noun depending on how many there are. Four cases:
+
+| Number | Noun form | Example |
+|---|---|---|
+| **1** | singular | يوم - yom (a/one day) |
+| **2** | dual, add **‑ein** | يومين - yomein (two days) |
+| **3–10** | counting form + **plural** | تلات أيام - talat ayyam (three days) |
+| **11+** | number + **singular** | عشرين يوم - 3eshrin yom (twenty days) |
+
+So the plural noun only appears with **3 to 10**. With two, you don't even say "two" — the **‑ein** dual ending carries it: *yom* → *yomein*, *sana* → *sanatein*, *kitab* → *kitabein*.
+
+## Plurals are their own words
+
+Beyond the dual, Egyptian plurals are mostly **irregular** ("broken") — you learn each one with its singular, the way you'd learn a new word:
+
+| Singular | Plural | English |
+|---|---|---|
+| كتاب - kitab | كتب - kotob | book / books |
+| يوم - yom | أيام - ayyam | day / days |
+| سنة - sana | سنين - seneen | year / years |
+| ساعة - sa3a | ساعات - sa3at | hour / hours |
+| ولد - walad | أولاد - awlad | boy / boys |
+| بنت - bint | بنات - banat | girl / girls |
+| بيت - bet | بيوت - boyot | house / houses |
+
+## Parts of the day
+
+| Arabic - franco | English |
+|---|---|
+| الصبح - el-sob7 | the morning |
+| الضهر - el-dohr | noon / midday |
+| بعد الضهر - ba3d el-dohr | the afternoon |
+| العصر - el-3asr | late afternoon |
+| المغرب - el-ma8reb | sunset |
+| المسا - el-masa | the evening |
+| الليل - el-leil | the night |
+| الفجر - el-fagr | dawn / the small hours |
+| النهار - el-nahar | the daytime |
+
+## Days of the week
+
+The week starts on Sunday, and the first four days are literally built on the numbers one to four.
+
+| Arabic - franco | English |
+|---|---|
+| يوم الحد - yom el-7add | Sunday |
+| يوم الاتنين - yom el-etnein | Monday |
+| يوم التلات - yom el-talat | Tuesday |
+| يوم الأربع - yom el-arba3 | Wednesday |
+| يوم الخميس - yom el-5amis | Thursday |
+| يوم الجمعة - yom el-gom3a | Friday |
+| يوم السبت - yom el-sabt | Saturday |
+
+(يوم الجمعة, *el-gom3a*, "the gathering", is the Friday prayer day and the heart of the weekend.)
+
+## Today, yesterday, tomorrow — and weeks
+
+| Arabic - franco | English |
+|---|---|
+| النهاردة - el-naharda | today |
+| امبارح - imbare7 | yesterday |
+| بكرة - bokra | tomorrow |
+| بعد بكرة - ba3d bokra | the day after tomorrow |
+| أول امبارح - awwel imbare7 | the day before yesterday |
+| دلوقتي - delwa2ti | now |
+| الأسبوع - el-osbo3 | the week |
+| الأسبوع ده - el-osbo3 da | this week |
+| الأسبوع الجاي - el-osbo3 el-gay | next week |
+| الأسبوع اللي فات - el-osbo3 elli faat | last week |
+
+The same الجاي / اللي فات ("the coming / the one that passed") work for months and years: *el-shahr el-gay* (next month), *el-sana elli faatet* (last year).
+
+## Months
+
+Egyptian uses the European month names:
+
+| Arabic - franco | Month | Arabic - franco | Month |
+|---|---|---|---|
+| يناير - yanayer | January | يوليو - yolyo | July |
+| فبراير - febrayer | February | أغسطس - a8ostos | August |
+| مارس - mars | March | سبتمبر - sebtamber | September |
+| أبريل - abril | April | أكتوبر - oktober | October |
+| مايو - mayo | May | نوفمبر - novamber | November |
+| يونيو - yonyo | June | ديسمبر - desamber | December |
+
+In practice people very often just use the **month number**: شهر واحد (*shahr wa7ed*, "month one") = January, شهر اتناشر (*shahr etnashar*) = December.
+
+## Examples
+
+<details class="frase">
+<summary>النهاردة الخميس</summary>
+<span class="fr">el-naharda el-5amis</span>
+<span class="en">today is Thursday</span>
+</details>
+
+<details class="frase">
+<summary>بكرة الجمعة</summary>
+<span class="fr">bokra el-gom3a</span>
+<span class="en">tomorrow is Friday</span>
+</details>
+
+<details class="frase">
+<summary>عندي تلات أيام أجازة</summary>
+<span class="fr">3andi talat ayyam agaza</span>
+<span class="en">I have three days off (3–10 → plural)</span>
+</details>
+
+<details class="frase">
+<summary>الأسبوع اللي فات رحت مصر</summary>
+<span class="fr">el-osbo3 elli faat ro7t masr</span>
+<span class="en">last week I went to Egypt</span>
+</details>
+
+<details class="frase">
+<summary>بصحى بدري الصبح</summary>
+<span class="fr">bas7a badri el-sob7</span>
+<span class="en">I wake up early in the morning</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Count it
+
+Apply the number rule.
+
+**1.** two days
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">يومين</span>
+<span class="fr">yomein (dual ‑ein)</span>
+</details>
+
+**2.** three days
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">تلات أيام</span>
+<span class="fr">talat ayyam (3–10 → plural)</span>
+</details>
+
+**3.** twenty years
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عشرين سنة</span>
+<span class="fr">3eshrin sana (11+ → singular)</span>
+</details>
+
+### Exercise 2 — Give the plural
+
+**1.** كتاب *(book)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">كتب</span>
+<span class="fr">kotob</span>
+</details>
+
+**2.** سنة *(year)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">سنين</span>
+<span class="fr">seneen</span>
+</details>
+
+**3.** يوم *(day)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أيام</span>
+<span class="fr">ayyam</span>
+</details>
+
+### Exercise 3 — Translate into Arabic
+
+**1.** today is Friday
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">النهاردة الجمعة</span>
+<span class="fr">el-naharda el-gom3a</span>
+</details>
+
+**2.** next week
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الأسبوع الجاي</span>
+<span class="fr">el-osbo3 el-gay</span>
+</details>
+
+**3.** I wake up at dawn
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بصحى الفجر</span>
+<span class="fr">bas7a el-fagr</span>
+</details>

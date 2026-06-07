@@ -1,0 +1,227 @@
+# Colors and Sizes {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+Now we describe things by their color (لون — loon) and size. This builds directly on the article rule from the grammar chapter: an adjective follows its noun and matches it. Tap any sentence to reveal its franco and English.
+
+## How it works
+
+**Basic colors come in a pair** — a masculine *a‑* form and a feminine *‑a* form: **أحمر (a7mar)** / **حمرا (7amra)**. The "derived" colors that end in **‑i** (*bonni, ramadi…*) take **‑eyya** in the feminine (*bonneyya*), though in everyday speech they're often left unchanged.
+
+**Sizes work the same way** — a masculine and a feminine form: *kebir / kebira*.
+
+**Definiteness still applies** (from the grammar chapter): if the noun has ال, the color or size takes ال too — **الفستان الأحمر (el-fustan el-a7mar)** "the red dress". Drop the article from the adjective and you get a sentence: **الفستان أحمر (el-fustan a7mar)** "the dress **is** red".
+
+**Stacking color + size:** put both after the noun, each with ال if the noun is definite — **الفستان الأحمر الطويل (el-fustan el-a7mar el-tawil)** "the long red dress".
+
+## Colors
+
+| Masculine - franco | Feminine - franco | English |
+|---|---|---|
+| أحمر - a7mar | حمرا - 7amra | red |
+| أزرق - azra2 | زرقا - zar2a | blue |
+| أخضر - a5dar | خضرا - 5adra | green |
+| أصفر - asfar | صفرا - safra | yellow |
+| أبيض - abyad | بيضا - beda | white |
+| إسود - eswed | سودا - soda | black |
+| بني - bonni | بنية - bonneyya | brown |
+| رمادي - ramadi | رمادية - ramadeyya | grey |
+| برتقاني - borto2ani | برتقانية - borto2aneyya | orange |
+| وردي - wardi | وردية - wardeyya | pink |
+| بنفسجي - banafsegi | بنفسجية - banafsegeyya | purple |
+
+## Sizes
+
+| Masculine - franco | Feminine - franco | English |
+|---|---|---|
+| كبير - kebir | كبيرة - kebira | big |
+| صغير - soghayyar | صغيرة - soghayyara | small |
+| طويل - tawil | طويلة - tawila | long / tall |
+| قصير - 2osayyar | قصيرة - 2osayyara | short |
+| واسع - wase3 | واسعة - was3a | loose / wide |
+| ضيق - dayya2 | ضيقة - dayy2a | tight |
+
+## Examples
+
+<details class="frase">
+<summary>القميص الأبيض</summary>
+<span class="fr">el-2amis el-abyad</span>
+<span class="en">the white shirt</span>
+</details>
+
+<details class="frase">
+<summary>القميص أبيض</summary>
+<span class="fr">el-2amis abyad</span>
+<span class="en">the shirt is white</span>
+</details>
+
+<details class="frase">
+<summary>العربية حمرا</summary>
+<span class="fr">el-3arabeyya 7amra</span>
+<span class="en">the car is red (feminine agreement)</span>
+</details>
+
+<details class="frase">
+<summary>الفستان الأحمر الطويل</summary>
+<span class="fr">el-fustan el-a7mar el-tawil</span>
+<span class="en">the long red dress</span>
+</details>
+
+<details class="frase">
+<summary>البنطلون ده ضيق</summary>
+<span class="fr">el-bantalon da dayya2</span>
+<span class="en">these trousers are tight</span>
+</details>
+
+## Dialogue: at the shop
+
+Reem is looking for clothes; Khaled is helping.
+
+<span class="rotulo">ريم — Reem</span>
+<details class="frase">
+<summary>عايزة بلوزة بيضا</summary>
+<span class="fr">3ayza boloza beda</span>
+<span class="en">I want a white blouse</span>
+</details>
+
+<span class="rotulo">خالد — Khaled</span>
+<details class="frase">
+<summary>البلوزة دي بيضا وواسعة</summary>
+<span class="fr">el-boloza di beda we was3a</span>
+<span class="en">This blouse is white and loose</span>
+</details>
+
+<span class="rotulo">ريم — Reem</span>
+<details class="frase">
+<summary>لأ، عايزة واحدة ضيقة</summary>
+<span class="fr">la2, 3ayza wa7da dayy2a</span>
+<span class="en">No, I want a tight one</span>
+</details>
+
+<span class="rotulo">خالد — Khaled</span>
+<details class="frase">
+<summary>والقميص ده؟ أزرق وكبير</summary>
+<span class="fr">wel-2amis da? azra2 we kbeer</span>
+<span class="en">And this shirt? Blue and big</span>
+</details>
+
+<span class="rotulo">ريم — Reem</span>
+<details class="frase">
+<summary>تمام، بحب الأزرق</summary>
+<span class="fr">tamam, ba7ebb el-azra2</span>
+<span class="en">Great, I like blue</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Make it agree
+
+Give the right form for the noun's gender.
+
+**1.** القلم (m.) + blue
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">القلم الأزرق</span>
+<span class="fr">el-2alam el-azra2</span>
+</details>
+
+**2.** العربية (f.) + red
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">العربية الحمرا</span>
+<span class="fr">el-3arabeyya el-7amra</span>
+</details>
+
+**3.** البنطلون (m.) + big
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">البنطلون الكبير</span>
+<span class="fr">el-bantalon el-kebir</span>
+</details>
+
+**4.** البلوزة (f.) + small
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">البلوزة الصغيرة</span>
+<span class="fr">el-boloza el-soghayyara</span>
+</details>
+
+### Exercise 2 — Phrase or sentence?
+
+**1.** the white shirt
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">القميص الأبيض</span>
+<span class="fr">el-2amis el-abyad</span>
+</details>
+
+**2.** the shirt is white
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">القميص أبيض</span>
+<span class="fr">el-2amis abyad</span>
+</details>
+
+**3.** the car is red
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">العربية حمرا</span>
+<span class="fr">el-3arabeyya 7amra</span>
+</details>
+
+### Exercise 3 — Color + size
+
+Build the full definite phrase.
+
+**1.** the long red dress
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الفستان الأحمر الطويل</span>
+<span class="fr">el-fustan el-a7mar el-tawil</span>
+</details>
+
+**2.** the small black bag
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الشنطة السودا الصغيرة</span>
+<span class="fr">el-shanta el-soda el-soghayyara</span>
+</details>
+
+**3.** the big blue jacket
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الجاكيت الأزرق الكبير</span>
+<span class="fr">el-gaket el-azra2 el-kebir</span>
+</details>

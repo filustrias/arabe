@@ -1,0 +1,243 @@
+# The Definite Article and Agreement {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+A grammar chapter. It covers the definite article **ال (el-)** = "the", one rule that surprises every learner, and a small trick that turns a phrase into a full sentence. Tap any example to reveal its franco and English.
+
+## The article: ال (el-)
+
+"The" is **ال**, glued onto the front of the word: **البيت (el-bet)** = "the house", **القلم (el-2alam)** = "the pen". There's no separate word for "a / an" — a noun with no ال is simply indefinite: *bet* = "a house".
+
+## The rule that surprises everyone
+
+An adjective comes **after** its noun and **matches its definiteness**. So if the noun is definite (has ال), the adjective takes ال **too**. Portuguese says "the" once; Arabic repeats it on every word of the phrase — literally "the dress the red".
+
+| | Arabic - franco | English |
+|---|---|---|
+| Indefinite | فستان أحمر - fustan a7mar | a red dress |
+| Definite | الفستان الأحمر - el-fustan el-a7mar | the red dress |
+
+<details class="frase">
+<summary>فستان أحمر</summary>
+<span class="fr">fustan a7mar</span>
+<span class="en">a red dress (both indefinite)</span>
+</details>
+
+<details class="frase">
+<summary>الفستان الأحمر</summary>
+<span class="fr">el-fustan el-a7mar</span>
+<span class="en">the red dress (the article repeats)</span>
+</details>
+
+With two adjectives, every one of them takes ال:
+
+<details class="frase">
+<summary>الفستان الأحمر الطويل</summary>
+<span class="fr">el-fustan el-a7mar el-tawil</span>
+<span class="en">the long red dress</span>
+</details>
+
+The same move on a few more items — notice the article appearing twice in the definite column:
+
+| English | Indefinite | franco | Definite | franco |
+|---|---|---|---|---|
+| a black suit | بدلة سودا | badla soda | البدلة السودا | el-badla el-soda |
+| a white shirt | قميص أبيض | 2amis abyad | القميص الأبيض | el-2amis el-abyad |
+| a blue tie | كرافتة زرقا | karavatta zar2a | الكرافتة الزرقا | el-karavatta el-zar2a |
+| a green skirt | جيبة خضرا | geeba 5adra | الجيبة الخضرا | el-geeba el-5adra |
+
+## The trick: how a phrase becomes "is"
+
+Arabic has no verb "to be" in the present. This makes one tiny difference do a lot of work: if the noun is definite but the adjective is **bare** (no ال), the adjective stops describing and becomes a **predicate** — it means "is".
+
+<details class="frase">
+<summary>الفستان الأحمر</summary>
+<span class="fr">el-fustan el-a7mar</span>
+<span class="en">the red dress (a phrase — both have ال)</span>
+</details>
+
+<details class="frase">
+<summary>الفستان أحمر</summary>
+<span class="fr">el-fustan a7mar</span>
+<span class="en">the dress is red (a full sentence — only the noun has ال)</span>
+</details>
+
+To negate that sentence, put **مش (mesh)** before the adjective:
+
+<details class="frase">
+<summary>الفستان مش أحمر</summary>
+<span class="fr">el-fustan mesh a7mar</span>
+<span class="en">the dress is not red</span>
+</details>
+
+<details class="frase">
+<summary>البدلة كبيرة</summary>
+<span class="fr">el-badla kbeera</span>
+<span class="en">the suit is big</span>
+</details>
+
+## The three cases at a glance
+
+| Structure | Example | Meaning |
+|---|---|---|
+| noun + adj (no ال) | فستان أحمر — fustan a7mar | a red dress |
+| ال-noun + ال-adj | الفستان الأحمر — el-fustan el-a7mar | the red dress |
+| ال-noun + bare adj | الفستان أحمر — el-fustan a7mar | the dress **is** red |
+
+The colors and sizes used here as examples get their full vocabulary in the *Colors and Sizes* chapter, and the verb حب ("to like") that often pairs with them lives in *Liking, Wanting, Disliking*.
+
+## Clothing — some nouns to practise on
+
+Gender matters, because the adjective has to agree with it.
+
+| Arabic - franco | English | Gender |
+|---|---|---|
+| فستان - fustan | dress | m. |
+| قميص - 2amis | shirt | m. |
+| بنطلون - bantalon | trousers | m. |
+| جاكيت - gaket | jacket | m. |
+| بدلة - badla | suit | f. |
+| بلوزة - boloza | blouse | f. |
+| جيبة - geeba | skirt | f. |
+| كرافتة - karavatta | tie | f. |
+| جزمة - gazma | shoes | f. |
+
+## A note on pronunciation: "sun letters"
+
+In writing, ال is always ال. But in speech, the **ل** blends into certain following consonants (the "sun letters": t, d, s, sh, z, r, n, l…). So الشمس looks like *el-shams* but is said **esh-shams**, and السمك is said **es-samak**. Before other letters ("moon letters") the *l* stays: البيت is *el-bet*. We keep writing **el-** throughout this book for simplicity — just know that your ear will often hear the next letter doubled instead.
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Phrase or sentence?
+
+Translate into Arabic, watching the article.
+
+**1.** the red dress
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الفستان الأحمر</span>
+<span class="fr">el-fustan el-a7mar</span>
+</details>
+
+**2.** the dress is red
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الفستان أحمر</span>
+<span class="fr">el-fustan a7mar</span>
+</details>
+
+**3.** a big suit
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بدلة كبيرة</span>
+<span class="fr">badla kbeera</span>
+</details>
+
+**4.** the suit is big
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">البدلة كبيرة</span>
+<span class="fr">el-badla kbeera</span>
+</details>
+
+### Exercise 2 — Add ال where it's needed
+
+Aim for the meaning in brackets.
+
+**1.** ___ فستان ___ أحمر *(the red dress)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الفستان الأحمر</span>
+<span class="fr">el-fustan el-a7mar — both take ال</span>
+</details>
+
+**2.** ___ قميص أبيض *(a white shirt)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">قميص أبيض</span>
+<span class="fr">2amis abyad — indefinite, no ال</span>
+</details>
+
+**3.** ___ فستان أحمر *(the dress is red)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الفستان أحمر</span>
+<span class="fr">el-fustan a7mar — ال only on the noun</span>
+</details>
+
+### Exercise 3 — Make it definite
+
+Turn each indefinite phrase into a definite one.
+
+**1.** فستان أحمر *(fustan a7mar)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الفستان الأحمر</span>
+<span class="fr">el-fustan el-a7mar</span>
+</details>
+
+**2.** بدلة سودا *(badla soda)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">البدلة السودا</span>
+<span class="fr">el-badla el-soda</span>
+</details>
+
+**3.** جيبة خضرا قصيرة *(geeba 5adra 2osayyara)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الجيبة الخضرا القصيرة</span>
+<span class="fr">el-geeba el-5adra el-2osayyara</span>
+</details>
+
+### Exercise 4 — Make it negative
+
+Turn each "is" sentence into "is not".
+
+**1.** الفستان أحمر
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الفستان مش أحمر</span>
+<span class="fr">el-fustan mesh a7mar — the dress is not red</span>
+</details>
+
+**2.** البدلة كبيرة
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">البدلة مش كبيرة</span>
+<span class="fr">el-badla mesh kbeera — the suit is not big</span>
+</details>

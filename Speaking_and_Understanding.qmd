@@ -22,7 +22,9 @@ details.ans[open] > summary::after { content: " ▴"; }
 </style>
 ```
 
-These are two of the first verbs you'll ever need: **to speak** (اتكلم) and **to understand** (فهم). "I speak a little Arabic" and "I don't understand" come up on day one. Tap any sentence to reveal its franco and English.
+
+These are two of the first verbs you'll ever need: **to speak** (اتكلم — itkallim) and **to understand** (فهم — fehem). "I speak a little Arabic" and "I don't understand" come up on day one. Tap any sentence to reveal its franco and English.
+
 
 ## How it works
 

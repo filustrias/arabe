@@ -1,0 +1,344 @@
+# Saying, Telling, Hearing {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+This chapter gathers three verbs of communication: **to say** (قال — 2al), **to tell / recount** (حكى — 7aka) and **to hear / listen** (سمع — seme3). Together they let you report what other people said and heard. Tap any sentence to reveal its franco and English.
+
+## How it works
+
+**Three verbs, three shapes you've already met.** قال is a **hollow verb** — exactly like راح from the movement chapter (*2al / yi2ool / 2olt*). حكى is **final-weak**, like مشي (*7aka / yi7ki / 7akeet*). سمع is a plain **regular verb**, like فهم (*seme3 / yisma3 / seme3t*). If those felt familiar, these will too.
+
+**The thread is reported speech with إن (inn) = "that".** You hook a whole clause onto the verb: **قال إن... (2al inn…)** "he said that…", **سمعت إن... (seme3t inn…)** "I heard that…".
+
+**Which verb when?** **اتكلم** (from the speaking chapter) is *to speak / talk* in general. **قال** is *to say* — specific words or a "that"-clause. **حكى** is *to tell / recount* — a story or what happened. **سمع** is *to hear / listen*.
+
+**Saying it *to* someone.** A short pronoun attaches to the verb: **قالّي (2alli)** "he told me", **قلتلك (2oltelak)** "I told you", **حكتلي (7aket-li)** "she told me".
+
+## Examples
+
+<details class="frase">
+
+<summary>هو قال إنه تعبان</summary>
+
+[huwwa 2al innu ta3ban]{.fr} [he said (that) he's tired]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>أنا سمعت الخبر</summary>
+
+[ana seme3t el-5abar]{.fr} [I heard the news]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>هي حكت لي كل حاجة</summary>
+
+[heyya 7aket-li koll 7aga]{.fr} [she told me everything]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>بيقولوا إنها غالية</summary>
+
+[biy2oolu innaha 8alya]{.fr} [they say (that) it's expensive]{.en}
+
+</details>
+
+## To say — قال — 2al
+
+**Root:** ق-و-ل (2-w-l) — hollow verb (like راح). Future: ها + stem (*ana ha2ool, huwwa hay2ool*).
+
+| Present                      | Past                    |
+|------------------------------|-------------------------|
+| أنا بقول - ana ba2ool        | أنا قلت - ana 2olt      |
+| إنت بتقول - inta bit2ool     | إنت قلت - inta 2olt     |
+| إنتِ بتقولي - inti bit2ooli   | إنتِ قلتي - inti 2olti   |
+| هو بيقول - huwwa biy2ool     | هو قال - huwwa 2al      |
+| هي بتقول - hiyya bit2ool     | هي قالت - hiyya 2alet   |
+| إحنا بنقول - e7na bin2ool    | إحنا قلنا - e7na 2olna  |
+| إنتو بتقولوا - intu bit2oolu | إنتو قلتوا - intu 2oltu |
+| هم بيقولوا - humma biy2oolu  | هم قالوا - humma 2alu   |
+
+## To tell — حكى — 7aka
+
+**Root:** ح-ك-ي (7-k-y) — final-weak verb (like مشي). Future: ها + stem (*ana ha7ki, huwwa hayi7ki*).
+
+| Present                    | Past                       |
+|----------------------------|----------------------------|
+| أنا بحكي - ana ba7ki       | أنا حكيت - ana 7akeet      |
+| إنت بتحكي - inta biti7ki   | إنت حكيت - inta 7akeet     |
+| إنتِ بتحكي - inti biti7ki   | إنتِ حكيتي - inti 7akeeti   |
+| هو بيحكي - huwwa biyi7ki   | هو حكى - huwwa 7aka        |
+| هي بتحكي - hiyya biti7ki   | هي حكت - hiyya 7aket       |
+| إحنا بنحكي - e7na bini7ki  | إحنا حكينا - e7na 7akeena  |
+| إنتو بتحكوا - intu biti7ku | إنتو حكيتوا - intu 7akeetu |
+| هم بيحكوا - humma biyi7ku  | هم حكوا - humma 7aku       |
+
+## To hear / listen — سمع — seme3
+
+**Root:** س-م-ع (s-m-3) — regular verb (like فهم). Future: ها + stem (*ana hasma3, huwwa hayisma3*).
+
+| Present                       | Past                       |
+|-------------------------------|----------------------------|
+| أنا بسمع - ana basma3         | أنا سمعت - ana seme3t      |
+| إنت بتسمع - inta bitisma3     | إنت سمعت - inta seme3t     |
+| إنتِ بتسمعي - inti bitisma3i   | إنتِ سمعتي - inti seme3ti   |
+| هو بيسمع - huwwa biyisma3     | هو سمع - huwwa seme3       |
+| هي بتسمع - hiyya bitisma3     | هي سمعت - hiyya sem3et     |
+| إحنا بنسمع - e7na binisma3    | إحنا سمعنا - e7na seme3na  |
+| إنتو بتسمعوا - intu bitisma3u | إنتو سمعتوا - intu seme3tu |
+| هم بيسمعوا - humma biyisma3u  | هم سمعوا - humma sem3u     |
+
+**Imperatives:** قول (2ool) "say!", احكي (e7ki) "tell!", اسمع (esma3) "listen!"
+
+## Vocabulary
+
+| Arabic - franco                       | English                    |
+|---------------------------------------|----------------------------|
+| إن - inn                              | that (for reported speech) |
+| الخبر / الأخبار - el-5abar / el-a5bar | the news                   |
+| كلام - kalam                          | talk / words               |
+| حكاية - 7ekaya                        | story / tale               |
+| صوت - soot                            | sound / voice              |
+| موسيقى - mosi2a                       | music                      |
+| الحقيقة - el-7a2ee2a                  | the truth                  |
+
+## Dialogue: "Did you hear?"
+
+Ziad shares some news with Rana.
+
+[زياد — Ziad]{.rotulo}
+
+<details class="frase">
+
+<summary>سمعتي الخبر؟</summary>
+
+[seme3ti el-5abar?]{.fr} [Did you hear the news?]{.en}
+
+</details>
+
+[رنا — Rana]{.rotulo}
+
+<details class="frase">
+
+<summary>لأ، قول!</summary>
+
+[la2, 2ool!]{.fr} [No — tell me! (say it!)]{.en}
+
+</details>
+
+[زياد — Ziad]{.rotulo}
+
+<details class="frase">
+
+<summary>منى قالت إنها هتسافر</summary>
+
+[Mona 2alet innaha hatsafer]{.fr} [Mona said (that) she's going to travel]{.en}
+
+</details>
+
+[رنا — Rana]{.rotulo}
+
+<details class="frase">
+
+<summary>مين قالّك؟</summary>
+
+[meen 2allak?]{.fr} [Who told you?]{.en}
+
+</details>
+
+[زياد — Ziad]{.rotulo}
+
+<details class="frase">
+
+<summary>هي حكت لي كل حاجة امبارح</summary>
+
+[heyya 7aket-li koll 7aga embare7]{.fr} [She told me everything yesterday]{.en}
+
+</details>
+
+[رنا — Rana]{.rotulo}
+
+<details class="frase">
+
+<summary>طب، أنا هسمع منها بكره</summary>
+
+[tab, ana hasma3 menha bukra]{.fr} [OK, I'll hear from her tomorrow]{.en}
+
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Conjugate
+
+**1.** هو + قال *(past)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[قال]{.ar} [huwwa 2al]{.fr}
+
+</details>
+
+**2.** أنا + سمع *(present)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[بسمع]{.ar} [ana basma3]{.fr}
+
+</details>
+
+**3.** هي + حكى *(past)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[حكت]{.ar} [hiyya 7aket]{.fr}
+
+</details>
+
+**4.** إنتِ + قال *(future)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[هتقولي]{.ar} [inti hat2ooli]{.fr}
+
+</details>
+
+**5.** إحنا + سمع *(past)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[سمعنا]{.ar} [e7na seme3na]{.fr}
+
+</details>
+
+**6.** هم + قال *(present)*
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[بيقولوا]{.ar} [humma biy2oolu]{.fr}
+
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** I heard the news.
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[أنا سمعت الخبر]{.ar} [ana seme3t el-5abar]{.fr}
+
+</details>
+
+**2.** He said that he's tired.
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[هو قال إنه تعبان]{.ar} [huwwa 2al innu ta3ban]{.fr}
+
+</details>
+
+**3.** She told me everything.
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[هي حكت لي كل حاجة]{.ar} [heyya 7aket-li koll 7aga]{.fr}
+
+</details>
+
+**4.** What did you (m.) say?
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[إنت قلت إيه؟]{.ar} [inta 2olt eh?]{.fr}
+
+</details>
+
+### Exercise 3 — Which verb? (قال / حكى / سمع / اتكلم)
+
+Pick the verb that fits the meaning.
+
+**1.** to \_\_\_ a story to the kids
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[حكى]{.ar} [7aka — to tell / recount]{.fr}
+
+</details>
+
+**2.** to \_\_\_ music every morning
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[سمع]{.ar} [seme3 — to hear / listen]{.fr}
+
+</details>
+
+**3.** to \_\_\_ "no"
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[قال]{.ar} [2al — to say (specific words)]{.fr}
+
+</details>
+
+**4.** to \_\_\_ Arabic well
+
+<details class="ans">
+
+<summary>Show answer</summary>
+
+[اتكلم]{.ar} [itkallim — to speak / talk]{.fr}
+
+</details>

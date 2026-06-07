@@ -1,0 +1,167 @@
+# Comparatives {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+How to say one thing is *bigger / smaller / smarter* than another. Egyptian has a tidy pattern for it, and one feature that makes it easier than the adjectives you already know. Tap any example to reveal its franco and English.
+
+## The pattern
+
+Take an adjective, reshape it into the **أفعل (af3al)** mould, and follow it with **من (men)** "than":
+
+**[subject] + [أفعل form] + من + [the thing compared]**
+
+*ana **atwal men** a5uya* — "I'm **taller than** my brother".
+
+## The forms
+
+| Adjective - franco | Comparative - franco | English |
+|---|---|---|
+| طويل - tawil | أطول - atwal | taller |
+| قصير - 2osayyar | أقصر - a2sar | shorter |
+| كبير - kbeer | أكبر - akbar | bigger / older |
+| صغير - so8ayyar | أصغر - as8ar | smaller / younger |
+| ذكي - zaki | أذكى - azka | smarter |
+| حلو - 7elw | أحلى - a7la | nicer / prettier |
+| كتير - ketir | أكتر - aktar | more |
+| قليل - 2alil | أقل - a2all | less / fewer |
+
+## The easy part: it doesn't agree
+
+Ordinary adjectives change for gender — *tawil* (m.) becomes *tawila* (f.). The **comparative does not**. The أفعل form is **invariable**: it's *atwal* whether you're talking about a man, a woman, or a crowd.
+
+- *huwwa atwal* — he's taller
+- *hiyya atwal* — she's taller (same word)
+
+## Examples
+
+<details class="frase">
+<summary>أنا أطول من أخويا</summary>
+<span class="fr">ana atwal men a5uya</span>
+<span class="en">I'm taller than my brother</span>
+</details>
+
+<details class="frase">
+<summary>هي أذكى من أختها</summary>
+<span class="fr">hiyya azka men o5taha</span>
+<span class="en">she's smarter than her sister</span>
+</details>
+
+<details class="frase">
+<summary>القاهرة أكبر من الإسكندرية</summary>
+<span class="fr">el-Qahira akbar men el-Eskendereyya</span>
+<span class="en">Cairo is bigger than Alexandria</span>
+</details>
+
+<details class="frase">
+<summary>ابني أصغر من بنتي</summary>
+<span class="fr">ibni as8ar men binti</span>
+<span class="en">my son is younger than my daughter</span>
+</details>
+
+<details class="frase">
+<summary>عايز أقل سكر</summary>
+<span class="fr">3ayez a2all sukkar</span>
+<span class="en">I want less sugar</span>
+</details>
+
+<details class="frase">
+<summary>محتاج أكتر وقت</summary>
+<span class="fr">me7tag aktar wa2t</span>
+<span class="en">I need more time</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Make the comparative
+
+**1.** كبير *(big)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أكبر</span>
+<span class="fr">akbar</span>
+</details>
+
+**2.** ذكي *(smart)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أذكى</span>
+<span class="fr">azka</span>
+</details>
+
+**3.** صغير *(small)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أصغر</span>
+<span class="fr">as8ar</span>
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** I'm taller than my brother.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا أطول من أخويا</span>
+<span class="fr">ana atwal men a5uya</span>
+</details>
+
+**2.** Cairo is bigger than Alexandria.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">القاهرة أكبر من الإسكندرية</span>
+<span class="fr">el-Qahira akbar men el-Eskendereyya</span>
+</details>
+
+**3.** I want less sugar.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عايز أقل سكر</span>
+<span class="fr">3ayez a2all sukkar</span>
+</details>
+
+### Exercise 3 — Does it change?
+
+Give "taller" for each — and notice the answer.
+
+**1.** he is taller
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">هو أطول</span>
+<span class="fr">huwwa atwal</span>
+</details>
+
+**2.** she is taller
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">هي أطول</span>
+<span class="fr">hiyya atwal (same form — comparatives don't agree)</span>
+</details>

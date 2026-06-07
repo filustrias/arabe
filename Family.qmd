@@ -1,0 +1,265 @@
+# Family {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+The whole family (العيلة — el-3eila), plus how to say "my" with each of them and how to talk about who's married. It leans on three things you already have: **عند (3and)** "to have", the **no‑"to be"** sentence, and adjectives that agree. Tap any example to reveal its franco and English.
+
+## The core family
+
+The middle column is the "my…" form — most just take the regular ‑i ending from the *Pronouns* chapter.
+
+| Arabic - franco | my… | English |
+|---|---|---|
+| أب - ab / بابا - baba | أبويا - abuya | father / dad |
+| أم - omm / ماما - mama | أمي - ommi | mother / mum |
+| ابن - ibn | ابني - ibni | son |
+| بنت - bint | بنتي - binti | daughter |
+| أخ - a5 | أخويا - a5uya | brother |
+| أخت - o5t | أختي - o5ti | sister |
+| جد - gedd / جدو - gedo | جدي - geddi | grandfather |
+| جدة - gedda / تيتة - teta | جدتي - geddeti | grandmother |
+| حفيد - 7afeed | حفيدي - 7afeedi | grandson |
+| حفيدة - 7afeeda | حفيدتي - 7afeedti | granddaughter |
+
+Two of these are irregular with the endings: **أب** and **أخ** become **أبويا (abuya)** "my father" and **أخويا (a5uya)** "my brother" — and *abuk / a5uk* for "your…". The rest behave normally.
+
+## The wider family
+
+| Arabic - franco | my… | English |
+|---|---|---|
+| جوز - goz | جوزي - gozi | husband |
+| مرات - mirat | مراتي - mirati | wife |
+| عم - 3amm | عمي - 3ammi | uncle (father's brother) |
+| خال - 5al | خالي - 5ali | uncle (mother's brother) |
+| عمة - 3amma | عمتي - 3ammeti | aunt (father's sister) |
+| خالة - 5ala | خالتي - 5alti | aunt (mother's sister) |
+| عيلة - 3eila | عيلتي - 3elti | family |
+
+And two useful collectives: **أولاد (awlad)** "children / kids" and **إخوات (ekhwat)** "siblings".
+
+## Talking about who you have
+
+To say you *have* family members, reach for **عند (3and)** plus an ending — no verb "to have" exists:
+
+| Arabic - franco | English |
+|---|---|
+| عندي - 3andi | I have |
+| عندك - 3andak (m.) / 3andek (f.) | you have |
+| عنده - 3ando | he has |
+| عندها - 3andaha | she has |
+| عندنا - 3andina | we have |
+
+So *3andi a5 we o5t* is "I have a brother and a sister", and *3andohom talat awlad* is "they have three children" (remember the 3–10 plural rule).
+
+## Married or not
+
+| Arabic - franco | English |
+|---|---|
+| متجوز - mitgawwiz | married (m.) |
+| متجوزة - mitgawwiza | married (f.) |
+| مش متجوز - mesh mitgawwiz | not married / single |
+
+These are participles, so they negate with **مش** — *mesh mitgawwiz*, never *ma…sh*.
+
+## "Whose…?"
+
+To ask whose someone is, drop **مين (meen)** "who" at the end:
+
+<details class="frase">
+<summary>هي مرات مين؟</summary>
+<span class="fr">hiyya mirat meen?</span>
+<span class="en">whose wife is she?</span>
+</details>
+
+<details class="frase">
+<summary>ده ابن مين؟</summary>
+<span class="fr">da ibn meen?</span>
+<span class="en">whose son is this?</span>
+</details>
+
+## Examples
+
+<details class="frase">
+<summary>عندي أخ وأخت</summary>
+<span class="fr">3andi a5 we o5t</span>
+<span class="en">I have a brother and a sister</span>
+</details>
+
+<details class="frase">
+<summary>ابني زكي</summary>
+<span class="fr">ibni zaki</span>
+<span class="en">my son is smart</span>
+</details>
+
+<details class="frase">
+<summary>أختي عايشة في القاهرة</summary>
+<span class="fr">o5ti 3aysha fi el-Qahira</span>
+<span class="en">my sister lives in Cairo</span>
+</details>
+
+<details class="frase">
+<summary>بابا بيشتغل دكتور</summary>
+<span class="fr">baba biyishta8al doktor</span>
+<span class="en">dad works as a doctor</span>
+</details>
+
+<details class="frase">
+<summary>أنا متجوز</summary>
+<span class="fr">ana mitgawwiz</span>
+<span class="en">I'm married</span>
+</details>
+
+## Dialogue: "Do you have siblings?"
+
+Wael and Amira compare families.
+
+<span class="rotulo">وائل — Wael</span>
+<details class="frase">
+<summary>عندك إخوات؟</summary>
+<span class="fr">3andek ekhwat?</span>
+<span class="en">Do you have siblings?</span>
+</details>
+
+<span class="rotulo">أميرة — Amira</span>
+<details class="frase">
+<summary>أيوة، عندي أخ وأختين</summary>
+<span class="fr">aywa, 3andi a5 we o5tein</span>
+<span class="en">Yes, I have a brother and two sisters</span>
+</details>
+
+<span class="rotulo">وائل — Wael</span>
+<details class="frase">
+<summary>وإنتي متجوزة؟</summary>
+<span class="fr">we inti mitgawwiza?</span>
+<span class="en">And are you married?</span>
+</details>
+
+<span class="rotulo">أميرة — Amira</span>
+<details class="frase">
+<summary>لأ، لسة. وإنت؟</summary>
+<span class="fr">la2, lessa. we inta?</span>
+<span class="en">No, not yet. And you?</span>
+</details>
+
+<span class="rotulo">وائل — Wael</span>
+<details class="frase">
+<summary>أيوة، وعندي بنت صغيرة</summary>
+<span class="fr">aywa, we 3andi bint so8ayyara</span>
+<span class="en">Yes, and I have a little daughter</span>
+</details>
+
+<span class="rotulo">أميرة — Amira</span>
+<details class="frase">
+<summary>حلو! اسمها إيه؟</summary>
+<span class="fr">7elw! esmaha eh?</span>
+<span class="en">Lovely! What's her name?</span>
+</details>
+
+<span class="rotulo">وائل — Wael</span>
+<details class="frase">
+<summary>اسمها ليلى</summary>
+<span class="fr">esmaha Layla</span>
+<span class="en">Her name is Layla</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Name the family member
+
+**1.** father
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أب / بابا</span>
+<span class="fr">ab / baba</span>
+</details>
+
+**2.** sister
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أخت</span>
+<span class="fr">o5t</span>
+</details>
+
+**3.** grandmother
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">جدة</span>
+<span class="fr">gedda</span>
+</details>
+
+### Exercise 2 — Say "my…"
+
+**1.** my son
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">ابني</span>
+<span class="fr">ibni</span>
+</details>
+
+**2.** my brother
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أخويا</span>
+<span class="fr">a5uya (irregular)</span>
+</details>
+
+**3.** my family
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عيلتي</span>
+<span class="fr">3elti</span>
+</details>
+
+### Exercise 3 — Translate into Arabic
+
+**1.** I have a brother and a sister.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عندي أخ وأخت</span>
+<span class="fr">3andi a5 we o5t</span>
+</details>
+
+**2.** My son is smart.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">ابني زكي</span>
+<span class="fr">ibni zaki</span>
+</details>
+
+**3.** I'm married.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا متجوز</span>
+<span class="fr">ana mitgawwiz</span>
+</details>

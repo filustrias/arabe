@@ -1,0 +1,207 @@
+# The Present Tense {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+A grammar chapter that pulls together the present tense you've been meeting verb by verb. Three things to take away: the **بـ prefix**, the **four personal prefixes**, and the fact that verbs come in **types** that share one set of endings. Tap any example to reveal its franco and English.
+
+## The بـ prefix
+
+A bare present verb in Egyptian carries a **بـ (bi‑)** in front. That prefix is what marks an everyday present — a habit or something going on right now:
+
+- **بكتب (baktib)** = "I write / I'm writing"
+- **بيشتغل (biyishta8al)** = "he works / he's working"
+
+Drop the بـ and you get the **bare form** used after words like عايز (want), لازم (must) and ممكن (can) — *3ayez aroo7* "I want to go". That bare form has its own grammar chapter; here everything keeps its بـ.
+
+## The four personal prefixes
+
+Whatever the verb, the present is built from the same small set of prefixes — **ba‑ / bit‑ / biy‑ / bin‑** — plus an **‑i** ending for إنتِ and an **‑u** ending for the plurals. Here is the skeleton on a regular verb, **كتب (katab)** "to write":
+
+| Pronoun | Present | Built from |
+|---|---|---|
+| أنا - ana | بكتب - baktib | ba‑ |
+| إنت - inta | بتكتب - bitiktib | bit‑ |
+| إنتِ - inti | بتكتبي - bitiktibi | bit‑ … ‑i |
+| هو - huwwa | بيكتب - biyiktib | biy‑ |
+| هي - hiyya | بتكتب - bitiktib | bit‑ |
+| إحنا - e7na | بنكتب - biniktib | bin‑ |
+| إنتو - intu | بتكتبوا - bitiktibu | bit‑ … ‑u |
+| هم - humma | بيكتبوا - biyiktibu | biy‑ … ‑u |
+
+Learn those four prefixes once and they never change. What *does* change is the middle of the verb — and that depends on its **type**.
+
+## Verb types
+
+Egyptian verbs fall into a few families by the shape of their root. The prefixes above stay the same; the stem behaves differently. Here is one of each, with the chapter where you met it.
+
+| Type | Verb | أنا (ana) | هو (huwwa) | Seen in |
+|---|---|---|---|---|
+| Regular (solid root) | فهم - fehem (understand) | بفهم - bafham | بيفهم - biyifham | Speaking & Understanding |
+| Regular (solid root) | كتب - katab (write) | بكتب - baktib | بيكتب - biyiktib | Everyday Verbs |
+| Hollow (weak middle) | راح - raa7 (go) | بروح - baroo7 | بيروح - biyroo7 | Verbs of Movement |
+| Hollow (weak middle) | نام - naam (sleep) | بنام - banam | بينام - biynam | Daily Routine |
+| Final-weak | صحى - se7i (wake up) | بصحى - bas7a | بيصحى - biys7a | Daily Routine |
+| Doubled | حب - 7abb (love) | بحب - ba7ebb | بيحب - biy7ebb | Liking, Wanting, Disliking |
+| اتـ‑verb | اتكلم - itkallim (speak) | بتكلم - batkallim | بيتكلم - biyitkallim | Speaking & Understanding |
+
+The pattern to notice: a **hollow** verb shows a long vowel in the middle (roo7, naam), a **final-weak** verb ends in ‑a or ‑i, a **doubled** verb doubles its last consonant (7abb), and an **اتـ‑verb** simply keeps its اتـ. None of that touches the four prefixes.
+
+## The participle
+
+Not everything "happening now" is a بـ verb. For **states** — wanting, knowing, going, living — Egyptian often uses a **participle**: an adjective-like word that agrees in gender and number and takes **no بـ**.
+
+| Arabic - franco | m. / f. / pl. | English |
+|---|---|---|
+| عايز - 3ayez | 3ayez / 3ayza / 3ayzin | wanting |
+| عارف - 3aref | 3aref / 3arfa / 3arfin | knowing |
+| رايح - raye7 | raye7 / rayha / rayhin | going |
+| فاهم - fahem | fahem / fahma / fahmin | understanding |
+| عايش - 3ayish | 3ayish / 3aysha / 3ayshin | living |
+
+Because a participle isn't a verb, you negate it with **مش (mesh)**, not with ما...ش: *mesh 3ayez* "I don't want", *mesh fahem* "I don't understand".
+
+## Examples
+
+<details class="frase">
+<summary>بكتب كل يوم</summary>
+<span class="fr">baktib kol yom</span>
+<span class="en">I write every day (habit)</span>
+</details>
+
+<details class="frase">
+<summary>بيشتغل دلوقتي</summary>
+<span class="fr">biyishta8al delwa2ti</span>
+<span class="en">he's working now (ongoing)</span>
+</details>
+
+<details class="frase">
+<summary>أنا عايز قهوة</summary>
+<span class="fr">ana 3ayez 2ahwa</span>
+<span class="en">I want a coffee (participle, no بـ)</span>
+</details>
+
+<details class="frase">
+<summary>هي رايحة الشغل</summary>
+<span class="fr">hiyya rayha el-sho8l</span>
+<span class="en">she's going to work (participle, f.)</span>
+</details>
+
+<details class="frase">
+<summary>مش فاهم</summary>
+<span class="fr">mesh fahem</span>
+<span class="en">I don't understand</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Build the present
+
+Add the right prefix and ending.
+
+**1.** هو + كتب
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بيكتب</span>
+<span class="fr">huwwa biyiktib</span>
+</details>
+
+**2.** إحنا + فهم
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بنفهم</span>
+<span class="fr">e7na binfham</span>
+</details>
+
+**3.** إنتِ + راح
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتروحي</span>
+<span class="fr">inti bitroo7i</span>
+</details>
+
+**4.** هم + نام
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بيناموا</span>
+<span class="fr">humma biynamu</span>
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** I write every day.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بكتب كل يوم</span>
+<span class="fr">baktib kol yom</span>
+</details>
+
+**2.** He's working now.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بيشتغل دلوقتي</span>
+<span class="fr">biyishta8al delwa2ti</span>
+</details>
+
+**3.** I want a coffee.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا عايز قهوة</span>
+<span class="fr">ana 3ayez 2ahwa</span>
+</details>
+
+### Exercise 3 — Verb or participle?
+
+Give the form and remember: participles negate with مش.
+
+**1.** I don't understand. *(participle)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">مش فاهم</span>
+<span class="fr">mesh fahem</span>
+</details>
+
+**2.** she wants *(participle, f.)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عايزة</span>
+<span class="fr">3ayza</span>
+</details>
+
+**3.** I know *(participle, m.)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عارف</span>
+<span class="fr">3aref</span>
+</details>

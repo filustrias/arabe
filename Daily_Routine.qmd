@@ -1,0 +1,286 @@
+# The Daily Routine {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+This chapter walks through a day: **to wake up** (صحى — se7i), **to sleep** (نام — nam), the meals in between, and how to put a time on all of it. Tap any sentence to reveal its franco and English.
+
+## To wake up — صحى — se7i
+
+Final-weak verb. Future: ها + stem (*ana has7a*); past: *ana se7eet, huwwa se7i*.
+
+| Pronoun | Present |
+|---|---|
+| أنا - ana | بصحى - bas7a |
+| إنت - inta | بتصحى - bits7a |
+| إنتِ - inti | بتصحي - bits7i |
+| هو - huwwa | بيصحى - biys7a |
+| هي - hiyya | بتصحى - bits7a |
+| إحنا - e7na | بنصحى - bins7a |
+| إنتو - intu | بتصحوا - bits7u |
+| هم - humma | بيصحوا - biys7u |
+
+## To sleep — نام — nam
+
+Hollow verb (like راح). Future: ها + stem (*ana hanam*); past: *ana nemt, huwwa nam*.
+
+| Pronoun | Present |
+|---|---|
+| أنا - ana | بنام - banam |
+| إنت - inta | بتنام - bitnam |
+| إنتِ - inti | بتنامي - bitnami |
+| هو - huwwa | بينام - biynam |
+| هي - hiyya | بتنام - bitnam |
+| إحنا - e7na | بننام - binnam |
+| إنتو - intu | بتناموا - bitnamu |
+| هم - humma | بيناموا - biynamu |
+
+## The meals
+
+Each meal has its own verb. Here are the everyday "I" forms.
+
+| Verb | I (أنا) - franco | English |
+|---|---|---|
+| فطر | بفطر - baftar | to have breakfast |
+| اتغدى | بتغدى - bat8adda | to have lunch |
+| اتعشى | بتعشى - bat3ashsha | to have dinner |
+
+And the nouns:
+
+| Arabic - franco | English |
+|---|---|
+| فطار - fetar | breakfast |
+| غدا - 8ada | lunch |
+| عشا - 3asha | dinner |
+
+## Telling the time
+
+Ask **الساعة كام؟ (el-sa3a kam?)** "what time is it?". Answer with **الساعة (el-sa3a)** + the hour. To say "at six", it's the same: *el-sa3a setta*.
+
+| Arabic - franco | Hour |
+|---|---|
+| واحدة - wa7da | 1 |
+| اتنين - etneen | 2 |
+| تلاتة - talata | 3 |
+| أربعة - arba3a | 4 |
+| خمسة - 5amsa | 5 |
+| ستة - setta | 6 |
+| سبعة - sab3a | 7 |
+| تمانية - tamanya | 8 |
+| تسعة - tes3a | 9 |
+| عشرة - 3ashara | 10 |
+| حداشر - 7edashar | 11 |
+| اتناشر - etnashar | 12 |
+
+For the parts of the hour: **و نص (w noss)** "half past", **و ربع (w rob3)** "quarter past", **إلا ربع (ella rob3)** "quarter to". So *el-sa3a setta w noss* = "half past six".
+
+## Examples
+
+<details class="frase">
+<summary>بصحى الساعة ستة</summary>
+<span class="fr">bas7a el-sa3a setta</span>
+<span class="en">I wake up at six</span>
+</details>
+
+<details class="frase">
+<summary>بفطر الساعة سبعة</summary>
+<span class="fr">baftar el-sa3a sab3a</span>
+<span class="en">I have breakfast at seven</span>
+</details>
+
+<details class="frase">
+<summary>بتغدى الساعة تلاتة</summary>
+<span class="fr">bat8adda el-sa3a talata</span>
+<span class="en">I have lunch at three</span>
+</details>
+
+<details class="frase">
+<summary>بنام الساعة عشرة ونص</summary>
+<span class="fr">banam el-sa3a 3ashara w noss</span>
+<span class="en">I go to sleep at half past ten</span>
+</details>
+
+<details class="frase">
+<summary>بصحى بدري كل يوم</summary>
+<span class="fr">bas7a badri kol yom</span>
+<span class="en">I wake up early every day</span>
+</details>
+
+## Dialogue: a day's schedule
+
+Mostafa asks Hind about her routine.
+
+<span class="rotulo">مصطفى — Mostafa</span>
+<details class="frase">
+<summary>بتصحى الساعة كام؟</summary>
+<span class="fr">bits7a el-sa3a kam?</span>
+<span class="en">What time do you wake up?</span>
+</details>
+
+<span class="rotulo">هند — Hind</span>
+<details class="frase">
+<summary>بصحى الساعة ستة</summary>
+<span class="fr">bas7a el-sa3a setta</span>
+<span class="en">I wake up at six</span>
+</details>
+
+<span class="rotulo">مصطفى — Mostafa</span>
+<details class="frase">
+<summary>وبتفطري إمتى؟</summary>
+<span class="fr">we bitiftari emta?</span>
+<span class="en">And when do you have breakfast?</span>
+</details>
+
+<span class="rotulo">هند — Hind</span>
+<details class="frase">
+<summary>بفطر الساعة سبعة، وبروح الشغل</summary>
+<span class="fr">baftar el-sa3a sab3a, we baroo7 el-sho8l</span>
+<span class="en">I have breakfast at seven and go to work</span>
+</details>
+
+<span class="rotulo">مصطفى — Mostafa</span>
+<details class="frase">
+<summary>وبتنامي بدري؟</summary>
+<span class="fr">we bitnami badri?</span>
+<span class="en">And do you sleep early?</span>
+</details>
+
+<span class="rotulo">هند — Hind</span>
+<details class="frase">
+<summary>لأ، بنام الساعة اتناشر</summary>
+<span class="fr">la2, banam el-sa3a etnashar</span>
+<span class="en">No, I sleep at twelve</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Conjugate
+
+**1.** أنا + صحى *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بصحى</span>
+<span class="fr">ana bas7a</span>
+</details>
+
+**2.** هو + نام *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بينام</span>
+<span class="fr">huwwa biynam</span>
+</details>
+
+**3.** إنتِ + صحى *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتصحي</span>
+<span class="fr">inti bits7i</span>
+</details>
+
+**4.** إحنا + نام *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بننام</span>
+<span class="fr">e7na binnam</span>
+</details>
+
+**5.** هم + صحى *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بيصحوا</span>
+<span class="fr">humma biys7u</span>
+</details>
+
+**6.** أنا + نام *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بنام</span>
+<span class="fr">ana banam</span>
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** I wake up at six.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بصحى الساعة ستة</span>
+<span class="fr">bas7a el-sa3a setta</span>
+</details>
+
+**2.** I have breakfast at seven.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بفطر الساعة سبعة</span>
+<span class="fr">baftar el-sa3a sab3a</span>
+</details>
+
+**3.** What time do you (m.) wake up?
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتصحى الساعة كام؟</span>
+<span class="fr">bits7a el-sa3a kam?</span>
+</details>
+
+**4.** I go to sleep at half past ten.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بنام الساعة عشرة ونص</span>
+<span class="fr">banam el-sa3a 3ashara w noss</span>
+</details>
+
+### Exercise 3 — Match the meal verb
+
+**1.** to have breakfast
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بفطر</span>
+<span class="fr">baftar</span>
+</details>
+
+**2.** to have lunch
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتغدى</span>
+<span class="fr">bat8adda</span>
+</details>
+
+**3.** to have dinner
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتعشى</span>
+<span class="fr">bat3ashsha</span>
+</details>

@@ -1,0 +1,213 @@
+# Pronouns and the Nominal Sentence {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+A grammar chapter, and a foundational one. It gives you the people-words (pronouns), the fact that Egyptian has no verb "to be" in the present, how gender works, and how to attach "my / your / his" to a noun. Tap any example to reveal its franco and English.
+
+## Personal pronouns
+
+Eight pronouns — note that "you" and "they" distinguish gender in the singular but not the plural.
+
+| Arabic - franco | English |
+|---|---|
+| أنا - ana | I |
+| إنت - inta | you (m.) |
+| إنتِ - inti | you (f.) |
+| هو - huwwa | he / it (m.) |
+| هي - hiyya | she / it (f.) |
+| إحنا - e7na | we |
+| إنتو - intu | you (pl.) |
+| هم - humma | they |
+
+## The sentence without "to be"
+
+Egyptian has **no present-tense verb "to be"**. You just place the two parts side by side — *I* + *a doctor* — and the "am" is understood.
+
+<details class="frase">
+<summary>أنا دكتور</summary>
+<span class="fr">ana doktor</span>
+<span class="en">I'm a doctor (literally just "I doctor")</span>
+</details>
+
+<details class="frase">
+<summary>هو مصري</summary>
+<span class="fr">huwwa masri</span>
+<span class="en">he's Egyptian</span>
+</details>
+
+<details class="frase">
+<summary>إحنا من البرازيل</summary>
+<span class="fr">e7na men el-Brazil</span>
+<span class="en">we're from Brazil</span>
+</details>
+
+<details class="frase">
+<summary>البيت كبير</summary>
+<span class="fr">el-bet kbeer</span>
+<span class="en">the house is big</span>
+</details>
+
+To say "is **not**", put **مش (mesh)** in front of the second part:
+
+<details class="frase">
+<summary>أنا مش جاهز</summary>
+<span class="fr">ana mesh gahez</span>
+<span class="en">I'm not ready</span>
+</details>
+
+(This مش is for non-verb sentences. Negating an actual verb uses the wrapped ما...ش — that's its own grammar chapter.)
+
+## Gender
+
+Almost everything is either masculine or feminine, and it shows up on adjectives:
+
+- A noun ending in **ة (‑a)** is usually feminine: *madrasa* (school), *sa3a* (watch).
+- Adjectives agree — the feminine adds **ة**: *kbeer / kbeera* (big), *masri / masreyya* (Egyptian).
+- **Countries are feminine:** *masr* (Egypt) takes feminine agreement — *masr 7elwa* "Egypt is beautiful".
+
+## Possessive endings
+
+To say "my house", you don't use a separate word — you glue an ending onto the noun. Here they all are on **بيت (bet)** "house":
+
+| Ending - franco | Meaning | On بيت |
+|---|---|---|
+| ـي - ‑i | my | بيتي - beti |
+| ـك - ‑ak | your (m.) | بيتك - betak |
+| ـك - ‑ek | your (f.) | بيتك - betek |
+| ـه - ‑o | his | بيته - beto |
+| ـها - ‑ha | her | بيتها - betha |
+| ـنا - ‑na | our | بيتنا - betna |
+| ـكو - ‑ko | your (pl.) | بيتكو - betko |
+| ـهم - ‑hom | their | بيتهم - bethom |
+
+A feminine noun ending in **ة** turns that ة into a **‑t‑** before the ending: **عربية (3arabeyya)** "car" → **عربيتي (3arabeyti)** "my car", **عربيتك (3arabeytak)** "your car".
+
+There's also an alternative way to say "mine / yours" with the word **بتاع (betaa3)** — *el-bet da bta3i* "this house is mine" — covered in the *This and That* chapter.
+
+## Examples
+
+<details class="frase">
+<summary>ده بيتي</summary>
+<span class="fr">da beti</span>
+<span class="en">this is my house</span>
+</details>
+
+<details class="frase">
+<summary>عربيتها حمرا</summary>
+<span class="fr">3arabeytha 7amra</span>
+<span class="en">her car is red</span>
+</details>
+
+<details class="frase">
+<summary>إنت مصري؟</summary>
+<span class="fr">inta masri?</span>
+<span class="en">are you (m.) Egyptian?</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — The right pronoun
+
+Give the Egyptian pronoun.
+
+**1.** we
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">إحنا</span>
+<span class="fr">e7na</span>
+</details>
+
+**2.** they
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">هم</span>
+<span class="fr">humma</span>
+</details>
+
+**3.** you (f.)
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">إنتِ</span>
+<span class="fr">inti</span>
+</details>
+
+### Exercise 2 — Add the possessive ending
+
+Attach the ending to بيت (*bet*, house).
+
+**1.** his house
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بيته</span>
+<span class="fr">beto</span>
+</details>
+
+**2.** our house
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بيتنا</span>
+<span class="fr">betna</span>
+</details>
+
+**3.** their house
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بيتهم</span>
+<span class="fr">bethom</span>
+</details>
+
+### Exercise 3 — Make the sentence
+
+Translate into Arabic (no "to be"!).
+
+**1.** I'm a doctor.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا دكتور</span>
+<span class="fr">ana doktor</span>
+</details>
+
+**2.** He's Egyptian.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">هو مصري</span>
+<span class="fr">huwwa masri</span>
+</details>
+
+**3.** I'm not ready.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا مش جاهز</span>
+<span class="fr">ana mesh gahez</span>
+</details>

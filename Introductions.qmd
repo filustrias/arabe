@@ -1,0 +1,314 @@
+# Introductions {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+Everything you need to meet someone: ask their name, where they're from, how old they are, whether they work or study. It reuses the verbs you already know (اشتغل، درس، اتكلم، اتعلم) — so here we ask the questions and let those chapters carry the conjugations. Tap any example to reveal its franco and English.
+
+## Two patterns that run through it all
+
+1. **Question words go at the END.** *esmak eh?* is literally "your-name what?", *inta feen?* is "you where?". That's the normal order, not an emphatic one.
+2. **There is no "to have".** Egyptian uses **عند (3and)** plus an ending — and the very same word does **age**: *3andak kam sana?* is literally "you have how many years?".
+
+(The بـ on the present-tense verbs below is explained in the *Present Tense* chapter.)
+
+## Question words
+
+| Arabic - franco | English |
+|---|---|
+| إيه - eh | what |
+| فين - feen | where |
+| منين - meneen | from where |
+| ليه - leeh | why |
+| كام - kam | how much / how many |
+| إزاي - ezzay | how |
+| مين - meen | who |
+| إمتى - emta | when |
+
+## عند — "to have" (and age)
+
+| Arabic - franco | English |
+|---|---|
+| عندي - 3andi | I have |
+| عندك - 3andak (m.) / 3andek (f.) | you have |
+| عنده - 3ando / عندها - 3andaha | he has / she has |
+| عندنا - 3andina | we have |
+
+## Name, origin, age
+
+<details class="frase">
+<summary>اسمك إيه؟</summary>
+<span class="fr">esmak eh? (m.) / esmek eh? (f.)</span>
+<span class="en">what's your name?</span>
+</details>
+
+<details class="frase">
+<summary>أنا اسمي عادل</summary>
+<span class="fr">ana esmi Adel</span>
+<span class="en">my name is Adel</span>
+</details>
+
+<details class="frase">
+<summary>إنت منين؟</summary>
+<span class="fr">inta meneen?</span>
+<span class="en">where are you from?</span>
+</details>
+
+<details class="frase">
+<summary>أنا من البرازيل</summary>
+<span class="fr">ana men el-Brazil</span>
+<span class="en">I'm from Brazil</span>
+</details>
+
+<details class="frase">
+<summary>عايش فين؟</summary>
+<span class="fr">3aysh feen?</span>
+<span class="en">where do you live? (عايش from the Everyday Verbs chapter)</span>
+</details>
+
+<details class="frase">
+<summary>عندك كام سنة؟</summary>
+<span class="fr">3andak kam sana?</span>
+<span class="en">how old are you? ("you have how many years?")</span>
+</details>
+
+## Where you're from — countries and nationalities
+
+The nationality word doubles as the language name (*3araby* is both "Arab/Arabic").
+
+| Country - franco | Nationality / language - franco |
+|---|---|
+| مصر - masr | مصري - masri (Egyptian / Arabic) |
+| البرازيل - el-Brazil | برازيلي - brazili (Brazilian) |
+| البرتغال - el-Borto8al | برتغالي - borto8ali (Portuguese) |
+| ألمانيا - Almanya | ألماني - almani (German) |
+| أمريكا - Amrika | أمريكاني - amrikani (American) |
+| إنجلترا - Engeltera | إنجليزي - ingilizi (English) |
+
+Countries, by the way, are feminine (the *Pronouns* chapter) — *masr 7elwa* "Egypt is beautiful".
+
+## Work or study
+
+These all reuse verbs from the *Work* and *Studying and Learning* chapters — here just as questions.
+
+<details class="frase">
+<summary>بتشتغل ولا بتدرس؟</summary>
+<span class="fr">bitishta8al walla bitidris?</span>
+<span class="en">do you work or study?</span>
+</details>
+
+<details class="frase">
+<summary>بتشتغل إيه؟</summary>
+<span class="fr">bitishta8al eh?</span>
+<span class="en">what do you do? (what's your job?)</span>
+</details>
+
+<details class="frase">
+<summary>بتتكلم لغات إيه؟</summary>
+<span class="fr">bititkallim lo8at eh?</span>
+<span class="en">what languages do you speak?</span>
+</details>
+
+<details class="frase">
+<summary>بتتعلم عربي ليه؟</summary>
+<span class="fr">bitit3allim 3araby leeh?</span>
+<span class="en">why are you learning Arabic?</span>
+</details>
+
+## What's this called? Whose is it? How much?
+
+<details class="frase">
+<summary>ده اسمه إيه؟</summary>
+<span class="fr">da esmo eh?</span>
+<span class="en">what's this called? (m.)</span>
+</details>
+
+<details class="frase">
+<summary>دي اسمها إيه؟</summary>
+<span class="fr">di esmaha eh?</span>
+<span class="en">what's this called? (f.)</span>
+</details>
+
+<details class="frase">
+<summary>ده بتاع مين؟</summary>
+<span class="fr">da bita3 meen?</span>
+<span class="en">whose is this? (بتاع from This and That)</span>
+</details>
+
+<details class="frase">
+<summary>ده بكام؟</summary>
+<span class="fr">da bekam?</span>
+<span class="en">how much is this? (price)</span>
+</details>
+
+## A few expressions to keep things going
+
+| Arabic - franco | English |
+|---|---|
+| إيه الجديد؟ - eih el-gdid? | what's new? |
+| مفيش جديد - mafiish gdid | nothing new |
+| بجد؟ - bigadd? | really? |
+| بس / لكن - bas / lakin | but |
+| عشان - 3ashan | because / so that |
+| عندي فضول - 3andi fodool | I'm curious |
+
+## Dialogue: meeting someone
+
+Hany meets a newcomer at a language meetup.
+
+<span class="rotulo">هاني — Hany</span>
+<details class="frase">
+<summary>أهلاً! إنت منين؟</summary>
+<span class="fr">ahlan! inta meneen?</span>
+<span class="en">Hi! Where are you from?</span>
+</details>
+
+<span class="rotulo">Guest</span>
+<details class="frase">
+<summary>أنا من البرازيل</summary>
+<span class="fr">ana men el-Brazil</span>
+<span class="en">I'm from Brazil</span>
+</details>
+
+<span class="rotulo">هاني — Hany</span>
+<details class="frase">
+<summary>وعايش فين دلوقتي؟</summary>
+<span class="fr">we 3aysh feen delwa2ti?</span>
+<span class="en">And where do you live now?</span>
+</details>
+
+<span class="rotulo">Guest</span>
+<details class="frase">
+<summary>عايش في ريو</summary>
+<span class="fr">3aysh fi Rio</span>
+<span class="en">I live in Rio</span>
+</details>
+
+<span class="rotulo">هاني — Hany</span>
+<details class="frase">
+<summary>بتشتغل ولا بتدرس؟</summary>
+<span class="fr">bitishta8al walla bitidris?</span>
+<span class="en">Do you work or study?</span>
+</details>
+
+<span class="rotulo">Guest</span>
+<details class="frase">
+<summary>بشتغل، وبتعلم عربي</summary>
+<span class="fr">bashta8al, we bat3allim 3araby</span>
+<span class="en">I work, and I'm learning Arabic</span>
+</details>
+
+<span class="rotulo">هاني — Hany</span>
+<details class="frase">
+<summary>بجد؟ بتتعلم عربي ليه؟</summary>
+<span class="fr">bigadd? bitit3allim 3araby leeh?</span>
+<span class="en">Really? Why are you learning Arabic?</span>
+</details>
+
+<span class="rotulo">Guest</span>
+<details class="frase">
+<summary>عشان عندي فضول</summary>
+<span class="fr">3ashan 3andi fodool</span>
+<span class="en">Because I'm curious</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Name the question word
+
+**1.** where
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">فين</span>
+<span class="fr">feen</span>
+</details>
+
+**2.** who
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">مين</span>
+<span class="fr">meen</span>
+</details>
+
+**3.** how much / how many
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">كام</span>
+<span class="fr">kam</span>
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** What's your name?
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">اسمك إيه؟</span>
+<span class="fr">esmak eh?</span>
+</details>
+
+**2.** Where are you from?
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">إنت منين؟</span>
+<span class="fr">inta meneen?</span>
+</details>
+
+**3.** How old are you?
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عندك كام سنة؟</span>
+<span class="fr">3andak kam sana?</span>
+</details>
+
+### Exercise 3 — Put it to use
+
+**1.** I have a brother.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عندي أخ</span>
+<span class="fr">3andi a5</span>
+</details>
+
+**2.** Do you work or study?
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتشتغل ولا بتدرس؟</span>
+<span class="fr">bitishta8al walla bitidris?</span>
+</details>
+
+**3.** Whose is this?
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">ده بتاع مين؟</span>
+<span class="fr">da bita3 meen?</span>
+</details>

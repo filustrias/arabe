@@ -1,0 +1,220 @@
+# Negation {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+Egyptian has two ways to say "not", and choosing between them comes down to one question: **is the thing you're negating a verb or not?** Tap any example to reveal its franco and English.
+
+## The rule in one line
+
+- **Not a verb** (a noun, adjective, participle, place) → put **مش (mesh)** in front.
+- **A verb** (present or past) → wrap **ما...ش (ma…sh)** around it.
+
+## مش — for everything that isn't a verb
+
+Nominal sentences, adjectives, participles, prepositional phrases — all take a single **مش** in front of the negated part.
+
+<details class="frase">
+<summary>أنا مش دكتور</summary>
+<span class="fr">ana mesh doktor</span>
+<span class="en">I'm not a doctor (nominal)</span>
+</details>
+
+<details class="frase">
+<summary>الأكل مش حلو</summary>
+<span class="fr">el-akl mesh 7elw</span>
+<span class="en">the food isn't nice (adjective)</span>
+</details>
+
+<details class="frase">
+<summary>مش عايز قهوة</summary>
+<span class="fr">mesh 3ayez 2ahwa</span>
+<span class="en">I don't want coffee (participle)</span>
+</details>
+
+<details class="frase">
+<summary>أنا مش هنا</summary>
+<span class="fr">ana mesh hena</span>
+<span class="en">I'm not here (place)</span>
+</details>
+
+Remember the participle catch from the present-tense chapter: عايز، عارف، فاهم look like "I want / know / understand", but they're **not verbs**, so they take مش — never ما...ش.
+
+## ما...ش — wrapping a verb
+
+A real verb gets **ما (ma)** clipped to the front and **ش (sh)** to the back. In the present, the whole بـ form sits inside the wrap. Here it is on **كتب (katab)** "to write":
+
+| Pronoun | Affirmative | Negative |
+|---|---|---|
+| أنا - ana | بكتب - baktib | مبكتبش - mabaktibsh |
+| إنت - inta | بتكتب - bitiktib | مبتكتبش - mabtiktibsh |
+| إنتِ - inti | بتكتبي - bitiktibi | مبتكتبيش - mabtiktibeesh |
+| هو - huwwa | بيكتب - biyiktib | مبيكتبش - mabyiktibsh |
+| هي - hiyya | بتكتب - bitiktib | مبتكتبش - mabtiktibsh |
+| إحنا - e7na | بنكتب - biniktib | مبنكتبش - mabniktibsh |
+| إنتو - intu | بتكتبوا - bitiktibu | مبتكتبوش - mabtiktiboosh |
+| هم - humma | بيكتبوا - biyiktibu | مبيكتبوش - mabyiktiboosh |
+
+The بـ never leaves — *baktib* just gets bracketed: *ma‑baktib‑sh*.
+
+## ما...ش in the past
+
+Same wrap, but the past has no بـ inside, so ما...ش goes straight onto the bare verb:
+
+<details class="frase">
+<summary>ماكتبش الرسالة</summary>
+<span class="fr">makatabsh el-resala</span>
+<span class="en">he didn't write the letter</span>
+</details>
+
+<details class="frase">
+<summary>ماراحش الشغل امبارح</summary>
+<span class="fr">maraa7sh el-sho8l embare7</span>
+<span class="en">he didn't go to work yesterday</span>
+</details>
+
+<details class="frase">
+<summary>منمتش بدري</summary>
+<span class="fr">manamtesh badri</span>
+<span class="en">I didn't sleep early</span>
+</details>
+
+## Two you'll hear constantly
+
+A small set of very common words drop the بـ and negate the **bare** stem. The most important is **عرف (3eref)** "to know" — the everyday "I don't know" is **معرفش (ma3rafsh)**, straight from Samar's notes:
+
+| Pronoun | Negative | English |
+|---|---|---|
+| أنا - ana | معرفش - ma3rafsh | I don't know |
+| إنت - inta | متعرفش - mati3rafsh | you (m.) don't know |
+| إنتِ - inti | متعرفيش - mati3rafeesh | you (f.) don't know |
+| هو - huwwa | ميعرفش - mayi3rafsh | he doesn't know |
+| هي - hiyya | متعرفش - mati3rafsh | she doesn't know |
+| إحنا - e7na | منعرفش - mani3rafsh | we don't know |
+| إنتو - intu | متعرفوش - mati3rafoosh | you (pl.) don't know |
+| هم - humma | ميعرفوش - mayi3rafoosh | they don't know |
+
+The other is **"to have"** — عندي (3andi) "I have" → **ماعنديش (ma3andeesh)** "I don't have": *ma3andeesh wa2t* "I don't have time".
+
+## Examples
+
+<details class="frase">
+<summary>مبشربش قهوة</summary>
+<span class="fr">mabashrabsh 2ahwa</span>
+<span class="en">I don't drink coffee</span>
+</details>
+
+<details class="frase">
+<summary>هو ميعرفش عربي</summary>
+<span class="fr">huwwa mayi3rafsh 3araby</span>
+<span class="en">he doesn't know Arabic</span>
+</details>
+
+<details class="frase">
+<summary>ماعنديش وقت النهاردة</summary>
+<span class="fr">ma3andeesh wa2t el-naharda</span>
+<span class="en">I don't have time today</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — مش or ما...ش?
+
+Negate each sentence with the right tool.
+
+**1.** أنا دكتور *(I'm a doctor)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا مش دكتور</span>
+<span class="fr">ana mesh doktor — not a verb → مش</span>
+</details>
+
+**2.** بشرب قهوة *(I drink coffee)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">مبشربش قهوة</span>
+<span class="fr">mabashrabsh 2ahwa — a verb → ما...ش</span>
+</details>
+
+**3.** عايز آكل *(I want to eat)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">مش عايز آكل</span>
+<span class="fr">mesh 3ayez akol — participle → مش</span>
+</details>
+
+### Exercise 2 — Negate the present verb
+
+**1.** بيشتغل *(he works)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">مبيشتغلش</span>
+<span class="fr">mabyishta8alsh</span>
+</details>
+
+**2.** بنفهم *(we understand)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">مبنفهمش</span>
+<span class="fr">mabnifhamsh</span>
+</details>
+
+**3.** بتكتب *(you m. write)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">مبتكتبش</span>
+<span class="fr">mabtiktibsh</span>
+</details>
+
+### Exercise 3 — Translate into Arabic
+
+**1.** I don't know.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">معرفش</span>
+<span class="fr">ma3rafsh</span>
+</details>
+
+**2.** I don't have time.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">ماعنديش وقت</span>
+<span class="fr">ma3andeesh wa2t</span>
+</details>
+
+**3.** He didn't go.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">ماراحش</span>
+<span class="fr">maraa7sh</span>
+</details>
