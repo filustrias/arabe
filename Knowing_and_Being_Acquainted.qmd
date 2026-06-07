@@ -1,0 +1,326 @@
+# Knowing and Being Acquainted {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+One verb, **عرف (3eref)**, does a lot of work. This lesson keeps the grammar light and instead widens the vocabulary you can plug into it. Tap any sentence to reveal its franco and English.
+
+## How it works
+
+**One verb for *saber* and *conhecer*.** Portuguese splits "sei a resposta" from "conheço o Ahmed", but Arabic doesn't: عرف covers knowing a fact, knowing a person, and knowing a place. One verb, three jobs.
+
+**It also loves the participle** — exactly like فاهم from the last lesson. The state "I know" is normally **أنا عارف (ana 3aref)**, not the full present. The past verb *3eref* leans toward "found out / came to know"; the participle *3aref* is "I know it now". Its negative **مش عارف (mesh 3aref)** = "I don't know" (you'll also hear the verb form **معرفش, ma3rafsh**).
+
+**عرف + a verb = "to know how to / to be able to".** Follow عرف with a bare present verb (no بـ): **بعرف أسوق (ba3raf asoo2)** = "I know how to drive / I can drive". This is how Egyptian says "can" without a separate verb.
+
+> To *meet* someone for the first time, use اتعرف على — *et3arrafna* = "we got to know each other / we met".
+
+## Examples
+
+<details class="frase">
+<summary>أنا عارف أحمد</summary>
+<span class="fr">ana 3aref Ahmed</span>
+<span class="en">I know Ahmed (a person)</span>
+</details>
+
+<details class="frase">
+<summary>أنا عارف المكان ده</summary>
+<span class="fr">ana 3aref el-makan da</span>
+<span class="en">I know this place</span>
+</details>
+
+<details class="frase">
+<summary>أنا بعرف الجواب</summary>
+<span class="fr">ana ba3raf el-gawab</span>
+<span class="en">I know the answer (a fact)</span>
+</details>
+
+<details class="frase">
+<summary>أنا بعرف أسوق</summary>
+<span class="fr">ana ba3raf asoo2</span>
+<span class="en">I know how to drive / I can drive</span>
+</details>
+
+<details class="frase">
+<summary>أنا مش عارف</summary>
+<span class="fr">ana mesh 3aref</span>
+<span class="en">I don't know</span>
+</details>
+
+## To know — عرف — 3eref
+
+**Root:** ع-ر-ف (3-r-f) — regular verb. Future: ها + stem (*ana ha3raf, huwwa hayi3raf*).
+
+| Present | Past |
+|---|---|
+| أنا بعرف - ana ba3raf | أنا عرفت - ana 3reft |
+| إنت بتعرف - inta biti3raf | إنت عرفت - inta 3reft |
+| إنتِ بتعرفي - inti biti3rafi | إنتِ عرفتي - inti 3refti |
+| هو بيعرف - huwwa biyi3raf | هو عرف - huwwa 3eref |
+| هي بتعرف - hiyya biti3raf | هي عرفت - hiyya 3erfet |
+| إحنا بنعرف - e7na bini3raf | إحنا عرفنا - e7na 3refna |
+| إنتو بتعرفوا - intu biti3rafu | إنتو عرفتوا - intu 3reftu |
+| هم بيعرفوا - humma biyi3rafu | هم عرفوا - humma 3erfu |
+
+**Participle of عرف:** عارف / عارفة / عارفين — 3aref / 3arfa / 3arfeen — "knowing / I know" (m. / f. / pl.)
+
+## Expanded vocabulary
+
+The point of this lesson: feed عرف a bigger world. Try each table with *ana 3aref…* or *biti3raf…?*
+
+### People
+
+| Arabic - franco | English |
+|---|---|
+| المدير - el-mudeer | the manager / boss |
+| الجار - el-gar | the neighbor |
+| الدكتور - el-doktor | the doctor |
+| حد - 7add | someone / anyone |
+| ناس - nas | people |
+
+### Places
+
+| Arabic - franco | English |
+|---|---|
+| المكان - el-makan | the place |
+| الطريق - el-taree2 | the road / way |
+| المطعم - el-mat3am | the restaurant |
+| المدينة - el-madina | the city |
+| المنطقة - el-manti2a | the area / district |
+
+### Facts and things
+
+| Arabic - franco | English |
+|---|---|
+| الجواب - el-gawab | the answer |
+| الحقيقة - el-7a2ee2a | the truth |
+| الخبر - el-5abar | the news |
+| الإسم - el-esm | the name |
+| الرقم - el-ra2am | the number |
+
+### Skills (use after عرف + verb)
+
+| Arabic - franco | English |
+|---|---|
+| يسوق - yesoo2 | to drive |
+| يعوم - ye3oom | to swim |
+| يطبخ - yotbo5 | to cook |
+| يلعب - yel3ab | to play |
+| يكتب - yekteb | to write |
+
+## Dialogue: "Do you know him?"
+
+Tarek asks Salma about the new manager.
+
+<span class="rotulo">طارق — Tarek</span>
+<details class="frase">
+<summary>بتعرفي المدير الجديد؟</summary>
+<span class="fr">biti3rafi el-mudeer el-gedeed?</span>
+<span class="en">Do you know the new manager?</span>
+</details>
+
+<span class="rotulo">سلمى — Salma</span>
+<details class="frase">
+<summary>أيوة، عارفاه. هو جاري</summary>
+<span class="fr">aywa, 3arfaah. huwwa gari</span>
+<span class="en">Yes, I know him. He's my neighbor</span>
+</details>
+
+<span class="rotulo">طارق — Tarek</span>
+<details class="frase">
+<summary>بيتكلم عربي؟</summary>
+<span class="fr">biyitkallim 3araby?</span>
+<span class="en">Does he speak Arabic?</span>
+</details>
+
+<span class="rotulo">سلمى — Salma</span>
+<details class="frase">
+<summary>أيوة، وبيعرف يتكلم إنجليزي كمان</summary>
+<span class="fr">aywa, we biyi3raf yitkallim engelizi kaman</span>
+<span class="en">Yes, and he can speak English too</span>
+</details>
+
+<span class="rotulo">طارق — Tarek</span>
+<details class="frase">
+<summary>بتعرفي مطعم كويس قريب؟</summary>
+<span class="fr">biti3rafi mat3am kwayyes 2orayyeb?</span>
+<span class="en">Do you know a good restaurant nearby?</span>
+</details>
+
+<span class="rotulo">سلمى — Salma</span>
+<details class="frase">
+<summary>لأ، معرفش المنطقة كويس</summary>
+<span class="fr">la2, ma3rafsh el-manti2a kwayyes</span>
+<span class="en">No, I don't know the area well</span>
+</details>
+
+## Putting it all together
+
+All four verbs from both lessons, side by side.
+
+<details class="frase">
+<summary>أنا بفهم عربي</summary>
+<span class="fr">ana bafham 3araby</span>
+<span class="en">I understand Arabic</span>
+</details>
+
+<details class="frase">
+<summary>أنا بتكلم عربي</summary>
+<span class="fr">ana batkallim 3araby</span>
+<span class="en">I speak Arabic</span>
+</details>
+
+<details class="frase">
+<summary>أنا بعرف عربي</summary>
+<span class="fr">ana ba3raf 3araby</span>
+<span class="en">I know Arabic (I can use it)</span>
+</details>
+
+<details class="frase">
+<summary>أنا بعرف أتكلم عربي</summary>
+<span class="fr">ana ba3raf atkallim 3araby</span>
+<span class="en">I know how to speak Arabic</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Conjugate عرف
+
+**1.** أنا *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بعرف</span>
+<span class="fr">ana ba3raf</span>
+</details>
+
+**2.** هي *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتعرف</span>
+<span class="fr">hiyya biti3raf</span>
+</details>
+
+**3.** هم *(past)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عرفوا</span>
+<span class="fr">humma 3erfu</span>
+</details>
+
+**4.** إنتِ *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتعرفي</span>
+<span class="fr">inti biti3rafi</span>
+</details>
+
+**5.** إحنا *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بنعرف</span>
+<span class="fr">e7na bini3raf</span>
+</details>
+
+**6.** هو *(past)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عرف</span>
+<span class="fr">huwwa 3eref</span>
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** I know this place.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا عارف المكان ده</span>
+<span class="fr">ana 3aref el-makan da</span>
+</details>
+
+**2.** Do you (m.) know the manager?
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتعرف المدير؟</span>
+<span class="fr">biti3raf el-mudeer?</span>
+</details>
+
+**3.** I don't know the answer.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا مش عارف الجواب</span>
+<span class="fr">ana mesh 3aref el-gawab</span>
+</details>
+
+**4.** She can drive.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">هي بتعرف تسوق</span>
+<span class="fr">heyya biti3raf tesoo2</span>
+</details>
+
+**5.** I know how to speak a little Arabic.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بعرف أتكلم عربي شوية</span>
+<span class="fr">ba3raf atkallim 3araby shwayya</span>
+</details>
+
+### Exercise 3 — One verb, three meanings
+
+Translate all three with عرف — this is the *saber* = *conhecer* point in action.
+
+**1.** I know your brother.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا عارف أخوك</span>
+<span class="fr">ana 3aref a5ook</span>
+</details>
+
+**2.** I know Cairo well.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا عارف القاهرة كويس</span>
+<span class="fr">ana 3aref el-2ahira kwayyes</span>
+</details>
+
+**3.** I know the truth.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا عارف الحقيقة</span>
+<span class="fr">ana 3aref el-7a2ee2a</span>
+</details>

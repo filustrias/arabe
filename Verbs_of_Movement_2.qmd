@@ -1,0 +1,262 @@
+# Verbs of Movement 2: Directions and Places {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+In the first lesson you learned to *go*, *come* and *return*. Now you learn how to point the way — left, right, straight ahead — and how to place things in space: inside, outside, behind, in front. All of these still take the same بـ / هـ / ending system from lesson 1.
+
+## More movement verbs
+
+A handful more, in their dictionary (he-past) and present (he-) forms.
+
+| Past (هو) - franco | Present (هو) - franco | English |
+|---|---|---|
+| مشي - meshi | بيمشي - biyimshi | to walk / to set off |
+| سافر - safer | بيسافر - biyisafer | to travel |
+| وصل - wesel | بيوصل - biyiwsal | to arrive |
+| خرج - 5arag | بيخرج - biyo5rog | to go out |
+| دخل - da5al | بيدخل - biyed5ol | to go in / enter |
+| نزل - nezel | بينزل - biyinzel | to go down / get off |
+| طلع - tele3 | بيطلع - biyitla3 | to go up / come up |
+| لف - laff | بيلف - biyliff | to turn / go around |
+
+## Directions
+
+| Arabic - franco | English |
+|---|---|
+| يمين - yemeen | right |
+| شمال - shimal | left |
+| على طول - 3ala tool | straight ahead |
+| لف يمين - leff yemeen | turn right (to a man) |
+| لفي يمين - leffi yemeen | turn right (to a woman) |
+| لف شمال - leff shimal | turn left (to a man) |
+| لفي شمال - leffi shimal | turn left (to a woman) |
+| قبل - 2abl | before |
+| بعد - ba3d | after |
+
+## Place complements
+
+These say *where* something is. Most pair with a noun directly: *2oddam el-bet* = "in front of the house".
+
+| Arabic - franco | English |
+|---|---|
+| جنب - ganb | next to / beside |
+| قدام - 2oddam | in front of |
+| ورا - wara | behind |
+| بين - ben | between |
+| جوه - guwwa | inside |
+| بره - barra | outside |
+| فوق - fo2 | up / above / upstairs |
+| تحت - ta7t | down / below / downstairs |
+
+<details class="frase">
+<summary>العربية قدام البيت</summary>
+<span class="fr">el-3arabeyya 2oddam el-bet</span>
+<span class="en">the car is in front of the house</span>
+</details>
+
+<details class="frase">
+<summary>المطعم جنب الجامع</summary>
+<span class="fr">el-mat3am ganb el-game3</span>
+<span class="en">the restaurant is next to the mosque</span>
+</details>
+
+<details class="frase">
+<summary>إحنا فوق، إنت تحت</summary>
+<span class="fr">e7na fo2, inta ta7t</span>
+<span class="en">we're upstairs, you're downstairs</span>
+</details>
+
+## Dialogue: getting directions
+
+Layla is on her way to Hassan's place and calls for directions.
+
+<span class="rotulo">حسن — Hassan</span>
+<details class="frase">
+<summary>إنتي فين دلوقتي؟</summary>
+<span class="fr">inti feen delwa2ti?</span>
+<span class="en">Where are you now?</span>
+</details>
+
+<span class="rotulo">ليلى — Layla</span>
+<details class="frase">
+<summary>أنا جاية، أنا قريب من بيتك</summary>
+<span class="fr">ana gayya, ana 2orayyeb men betak</span>
+<span class="en">I'm on my way, I'm near your place</span>
+</details>
+
+<span class="rotulo">حسن — Hassan</span>
+<details class="frase">
+<summary>تمام! لفي يمين، البيت على إيدك الشمال</summary>
+<span class="fr">tamam! leffi yemeen, el-bet 3ala eedek esh-shimal</span>
+<span class="en">Great! Turn right, the house is on your left</span>
+</details>
+
+<span class="rotulo">ليلى — Layla</span>
+<details class="frase">
+<summary>أشوف عمارة كبيرة قدامي</summary>
+<span class="fr">ashoof 3emara kbeera 2oddami</span>
+<span class="en">I see a big building in front of me</span>
+</details>
+
+<span class="rotulo">حسن — Hassan</span>
+<details class="frase">
+<summary>أيوة، إحنا فوق، الدور التالت</summary>
+<span class="fr">aywa, e7na fo2, ed-dor et-talet</span>
+<span class="en">Yes, we're upstairs, the third floor</span>
+</details>
+
+<span class="rotulo">ليلى — Layla</span>
+<details class="frase">
+<summary>ماشي، أنا طالعة دلوقتي</summary>
+<span class="fr">mashi, ana tal3a delwa2ti</span>
+<span class="en">OK, I'm coming up now</span>
+</details>
+
+<span class="rotulo">حسن — Hassan</span>
+<details class="frase">
+<summary>هتوصلي امتى؟</summary>
+<span class="fr">hatiwsali emta?</span>
+<span class="en">When will you arrive?</span>
+</details>
+
+<span class="rotulo">ليلى — Layla</span>
+<details class="frase">
+<summary>بعد شوية، خمس دقايق</summary>
+<span class="fr">ba3d shuwayya, 5amas da2aye2</span>
+<span class="en">In a bit, five minutes</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Fill in the word
+
+Supply the Arabic for the English cue.
+
+**1.** inside
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">جوه</span>
+<span class="fr">guwwa</span>
+</details>
+
+**2.** outside
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بره</span>
+<span class="fr">barra</span>
+</details>
+
+**3.** behind
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">ورا</span>
+<span class="fr">wara</span>
+</details>
+
+**4.** in front of
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">قدام</span>
+<span class="fr">2oddam</span>
+</details>
+
+**5.** turn left (to a man)
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">لف شمال</span>
+<span class="fr">leff shimal</span>
+</details>
+
+**6.** between
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بين</span>
+<span class="fr">ben</span>
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** Turn right, the school is on your left.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">لف يمين، المدرسة على إيدك الشمال</span>
+<span class="fr">leff yemeen, el-madrasa 3ala eedak esh-shimal</span>
+</details>
+
+**2.** Go straight ahead.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">امشي على طول</span>
+<span class="fr">emshi 3ala tool</span>
+</details>
+
+**3.** The car is in front of the building.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">العربية قدام العمارة</span>
+<span class="fr">el-3arabeyya 2oddam el-3emara</span>
+</details>
+
+**4.** I'll go up to the third floor.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا هطلع الدور التالت</span>
+<span class="fr">ana hatla3 ed-dor et-talet</span>
+</details>
+
+### Exercise 3 — Reading comprehension
+
+Answer from the dialogue above.
+
+**1.** Which way does Layla turn?
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="en">Right — *leffi yemeen*; the house is then on her left.</span>
+</details>
+
+**2.** Which floor is Hassan on?
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="en">The third floor — *ed-dor et-talet*.</span>
+</details>
+
+**3.** How long until Layla arrives?
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="en">About five minutes — *ba3d shuwayya, 5amas da2aye2*.</span>
+</details>

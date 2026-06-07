@@ -1,0 +1,269 @@
+# Colors {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+Now we add color, reusing **حب (like)** and **عايز (want)** from the last lesson. The one new idea: in Arabic a color is an **adjective that agrees** with its noun. Tap any sentence to reveal its franco and English.
+
+## How it works
+
+**The basic colors have a masculine and a feminine form.** A masculine noun takes the *a‑* form, a feminine noun takes the *‑a* form: **القلم الأحمر (el-2alam el-a7mar)** = "the red pen", but **العربية الحمرا (el-3arabeyya el-7amra)** = "the red car". As with any adjective, the noun *and* the color both carry the article: *el-2alam el-azra2*.
+
+**The "derived" colors don't change.** Colors that end in **‑i** — *bonny* (brown), *ramadi* (grey), *borto2ani* (orange), *bambi* (pink) — stay the same for masculine and feminine.
+
+## The colors
+
+| Masculine - franco | Feminine - franco | English |
+|---|---|---|
+| أحمر - a7mar | حمرا - 7amra | red |
+| أزرق - azra2 | زرقا - zar2a | blue |
+| أخضر - a5dar | خضرا - 5adra | green |
+| أصفر - asfar | صفرا - safra | yellow |
+| أبيض - abyad | بيضا - beda | white |
+| إسود - eswed | سودا - soda | black |
+| بني - bonny | بني - bonny | brown |
+| رمادي - ramadi | رمادي - ramadi | grey |
+| برتقاني - borto2ani | برتقاني - borto2ani | orange |
+| بمبي - bambi | بمبي - bambi | pink |
+
+## Things to color
+
+| Arabic - franco | English |
+|---|---|
+| لون / ألوان - loon / alwan | color / colors |
+| قلم - 2alam (m.) | pen |
+| قلم رصاص - 2alam rosas (m.) | pencil |
+| كشكول - kashkool (m.) | notebook |
+| ورقة - wara2a (f.) | sheet of paper |
+| عربية - 3arabeyya (f.) | car |
+
+## Examples
+
+<details class="frase">
+<summary>أنا بحب القلم الأزرق ده</summary>
+<span class="fr">ana ba7ebb el-2alam el-azra2 da</span>
+<span class="en">I like this blue pen</span>
+</details>
+
+<details class="frase">
+<summary>أنا عايز القلم الرصاص الإسود ده</summary>
+<span class="fr">ana 3ayez el-2alam el-rosas el-eswed da</span>
+<span class="en">I want that black pencil</span>
+</details>
+
+<details class="frase">
+<summary>أنا بحب القلم الأخضر ده</summary>
+<span class="fr">ana ba7ebb el-2alam el-a5dar da</span>
+<span class="en">I like this green pen</span>
+</details>
+
+<details class="frase">
+<summary>أنا عايز القلم البني ده</summary>
+<span class="fr">ana 3ayez el-2alam el-bonny da</span>
+<span class="en">I want that brown pencil</span>
+</details>
+
+<details class="frase">
+<summary>العربية الحمرا حلوة</summary>
+<span class="fr">el-3arabeyya el-7amra 7elwa</span>
+<span class="en">the red car is nice (feminine agreement)</span>
+</details>
+
+## Dialogue: choosing a color
+
+Sami helps Mariam pick out pens.
+
+<span class="rotulo">سامي — Sami</span>
+<details class="frase">
+<summary>عايزة قلم بأي لون؟</summary>
+<span class="fr">3ayza 2alam be-ayy loon?</span>
+<span class="en">What color pen do you want?</span>
+</details>
+
+<span class="rotulo">مريم — Mariam</span>
+<details class="frase">
+<summary>عايزة قلم أزرق</summary>
+<span class="fr">3ayza 2alam azra2</span>
+<span class="en">I want a blue pen</span>
+</details>
+
+<span class="rotulo">سامي — Sami</span>
+<details class="frase">
+<summary>وبتحبي القلم الرصاص ده؟</summary>
+<span class="fr">we bit7ebbi el-2alam el-rosas da?</span>
+<span class="en">And do you like this pencil?</span>
+</details>
+
+<span class="rotulo">مريم — Mariam</span>
+<details class="frase">
+<summary>لأ، بحب الأخضر أكتر</summary>
+<span class="fr">la2, ba7ebb el-a5dar aktar</span>
+<span class="en">No, I like green more</span>
+</details>
+
+<span class="rotulo">سامي — Sami</span>
+<details class="frase">
+<summary>والعربية دي؟ حمرا حلوة</summary>
+<span class="fr">wel-3arabeyya di? 7amra 7elwa</span>
+<span class="en">And this car? Nice red</span>
+</details>
+
+<span class="rotulo">مريم — Mariam</span>
+<details class="frase">
+<summary>أيوة، بحب اللون الأحمر</summary>
+<span class="fr">aywa, ba7ebb el-loon el-a7mar</span>
+<span class="en">Yes, I like the color red</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Make the color agree
+
+Give the right color form for the noun's gender.
+
+**1.** القلم (m.) + blue
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">القلم الأزرق</span>
+<span class="fr">el-2alam el-azra2</span>
+</details>
+
+**2.** العربية (f.) + red
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">العربية الحمرا</span>
+<span class="fr">el-3arabeyya el-7amra</span>
+</details>
+
+**3.** الفستان (m.) + green
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الفستان الأخضر</span>
+<span class="fr">el-fustan el-a5dar</span>
+</details>
+
+**4.** الجيبة (f.) + black
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الجيبة السودا</span>
+<span class="fr">el-geeba el-soda</span>
+</details>
+
+**5.** البلوزة (f.) + white
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">البلوزة البيضا</span>
+<span class="fr">el-boloza el-beda</span>
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** I want a blue pen.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عايز قلم أزرق</span>
+<span class="fr">3ayez 2alam azra2</span>
+</details>
+
+**2.** I like the green pencil.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بحب القلم الرصاص الأخضر</span>
+<span class="fr">ba7ebb el-2alam el-rosas el-a5dar</span>
+</details>
+
+**3.** I don't like the color yellow.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">مبحبش اللون الأصفر</span>
+<span class="fr">maba7ebbesh el-loon el-asfar</span>
+</details>
+
+**4.** She wants a brown dress.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">عايزة فستان بني</span>
+<span class="fr">3ayza fustan bonny</span>
+</details>
+
+### Exercise 3 — Name the color
+
+Give the masculine form.
+
+**1.** red
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أحمر</span>
+<span class="fr">a7mar</span>
+</details>
+
+**2.** blue
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أزرق</span>
+<span class="fr">azra2</span>
+</details>
+
+**3.** green
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أخضر</span>
+<span class="fr">a5dar</span>
+</details>
+
+**4.** black
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">إسود</span>
+<span class="fr">eswed</span>
+</details>
+
+**5.** white
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أبيض</span>
+<span class="fr">abyad</span>
+</details>
+
+**6.** yellow
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أصفر</span>
+<span class="fr">asfar</span>
+</details>

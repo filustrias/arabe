@@ -1,6 +1,7 @@
 # Vocabulário {.unnumbered}
 
 ## Números (1-12)
+
 - **wa7ed** - واحد = 1
 - **etneen** - اتنين = 2
 - **talata** - تلاتة = 3
@@ -15,12 +16,14 @@
 - **etnashar** - اتناشر = 12
 
 ## Números Compostos
+
 - **Tes3a w arbe3een** - تسعة و أربعين = 49
 - **Setta w 3eshreen** - ستة و عشرين = 26
 - **Etneen w 3eshreen** - اتنين و عشرين = 22
 - **Talateen** - تلاتين = 30
 
 ## Horas
+
 - **El sa3a** - الساعة = A hora / O relógio
 - **El sa3a wa7da** - الساعة واحدة = 1h (feminino: wa7da)
 - **El sa3a etneen** - الساعة اتنين = 2h
@@ -36,6 +39,7 @@
 - **De2i2a** - دقيقة = Minuto
 
 ## Tempo
+
 - **Sana** - سنة = Ano
 - **Seneen** - سنين = Anos (plural)
 - **Sanateen** - سنتين = Dois anos
@@ -45,6 +49,7 @@
 - **Sa3at** - ساعات = Horas (plural) / Às vezes
 
 ## Profissões
+
 - **Doktor/a** - دكتور/ة = Médico/a
 - **Modares/a** - مدرس/ة = Professor/a
 - **Modaresa** - مدرسة = Professora
@@ -54,6 +59,7 @@
 - **A5asa2y nasfsy** - أخصائي نفسي = Terapeuta psicólogo (m.)
 
 ## Lugares
+
 - **Maktab** - مكتب = Escritório
 - **Mostashfa** - مستشفى = Hospital
 - **Madrasa** - مدرسة = Escola
@@ -63,6 +69,7 @@
 - **Beety** - بيتي = Minha casa
 
 ## Países e Idiomas
+
 - **Masr** - مصر = Egipto
 - **El kahera** - القاهرة = Cairo
 - **Masry/a** - مصري/ة = Egípcio/a
@@ -79,11 +86,13 @@
 - **Rusy** - روسي = Russo
 
 ## Família e Pessoas
+
 - **3eela** - عيلة = Família
 - **3elty** - عيلتي = Minha família
 - **Lewa7dy** - لوحدي = Sozinho/a / Por minha conta
 
 ## Comida e Bebida
+
 - **2ahwa / Qahwa** - قهوة = Café
   - Nota: Q é lido como 2 no Egipto
 - **Shay** - شاي = Chá
@@ -92,6 +101,7 @@
 - **Samna** - سمنة = Manteiga/Ghee
 
 ## Adjectivos
+
 - **Kwayes/Kwayesa** - كويس/كويسة = Bom/Boa
 - **3'aali/3'aliya** - غالي/غالية = Caro/Cara
 - **Re5ees/Re5eesa** - رخيص/رخيصة = Barato/Barata
@@ -101,6 +111,7 @@
 - **7ar** - حر = Quente (clima)
 
 ## Palavras Funcionais
+
 - **Msh** - مش = Não
 - **Be** - ب = Com / Por
 - **Sho3'l** - شغل = Trabalho
@@ -110,15 +121,17 @@
 - **Majesteer** - ماجستير = Mestrado
 
 ## Ciência e Estudo
+
 - **3elm** - علم = Ciência
 - **3elm el a3sab** - علم الأعصاب = Neurociência
   - **A3sab** - أعصاب = Nervos
 - **3elm nafs** - علم نفس = Psicologia (literalmente: ciência da alma)
 
 ## Outras Palavras Úteis
+
 - **Lo3'a/Lo3'at** - لغة/لغات = Idioma/Idiomas
 - **7ob** - حب = Amor
 - **2alb** - قلب = Coração
 - **Kalb** - كلب = Cão
 
----
+------------------------------------------------------------------------

@@ -1,209 +1,210 @@
-# Frases de Polidez {.unnumbered}
+# Politeness Phrases {.unnumbered}
 
----
+------------------------------------------------------------------------
 
-## Expressões Essenciais (Resumo Rápido)
+## Essential Expressions (Quick Summary)
 
-| Árabe | Franco | Português |
-|-------|--------|-----------|
-| أهلا | ahlan | Olá |
-| صباح الخير | saba7 el 5eer | Bom dia |
-| صباح النور | saba7 el noor | Bom dia (resposta) |
-| مساء الخير | masa2 el 5eer | Boa tarde/noite |
-| إزيك؟ | ezayak? (m.) / ezayek? (f.) | Como estás? |
-| أنا كويس | ana kewayes (m.) | Estou bem |
-| أنا كويسة | ana kwayesa (f.) | Estou bem |
-| الحمد لله | el7amdulelah | Graças a Deus |
-| تمام | tamam | Tudo bem / OK |
-| أشوفك بكرة! | ashofak bokra! | Vejo-te amanhã! |
-| مع السلامة! | ma3asallama! | Adeus / Até logo |
+| Arabic      | Franco                      | English            |
+|-------------|-----------------------------|--------------------|
+| أهلا        | ahlan                       | Hello              |
+| صباح الخير  | saba7 el 5eer               | Good morning       |
+| صباح النور  | saba7 el noor               | Good morning (reply) |
+| مساء الخير  | masa2 el 5eer               | Good afternoon/evening |
+| إزيك؟       | ezayak? (m.) / ezayek? (f.) | How are you?       |
+| أنا كويس    | ana kewayes (m.)            | I'm fine           |
+| أنا كويسة   | ana kwayesa (f.)            | I'm fine           |
+| الحمد لله   | el7amdulelah                | Thank God          |
+| تمام        | tamam                       | All good / OK      |
+| أشوفك بكرة! | ashofak bokra!              | See you tomorrow!  |
+| مع السلامة! | ma3asallama!                | Goodbye / See you  |
 
----
+------------------------------------------------------------------------
 
-## Diálogo Inicial: Duas Pessoas a Cumprimentar-se
+## Opening Dialogue: Two People Greeting Each Other
 
-| Pessoa | Árabe | Franco | Português |
-|--------|-------|--------|-----------|
-| أحمد | أهلا! صباح الخير! | ahlan! saba7 el 5eer! | Olá! Bom dia! |
-| سارة | صباح النور! إزيك؟ | saba7 el noor! ezayak? | Bom dia! Como estás? |
-| أحمد | أنا كويس، الحمد لله. وإنتي؟ | ana kewayes, el7amdulelah. wenti? | Estou bem, graças a Deus. E tu? |
-| سارة | تمام، الحمد لله | tamam, el7amdulelah | Tudo bem, graças a Deus |
-| أحمد | أشوفك بكرة! | ashofak bokra! | Vejo-te amanhã! |
-| سارة | إن شاء الله! مع السلامة! | in sha2 allah! ma3asallama! | Se Deus quiser! Adeus! |
-| أحمد | مع السلامة! | ma3asallama! | Adeus! |
+| Person | Arabic | Franco | English |
+|-----------------|-----------------|-----------------|----------------------|
+| أحمد | أهلا! صباح الخير! | ahlan! saba7 el 5eer! | Hello! Good morning! |
+| سارة | صباح النور! إزيك؟ | saba7 el noor! ezayak? | Good morning! How are you? |
+| أحمد | أنا كويس، الحمد لله. وإنتي؟ | ana kewayes, el7amdulelah. wenti? | I'm fine, thank God. And you? |
+| سارة | تمام، الحمد لله | tamam, el7amdulelah | All good, thank God |
+| أحمد | أشوفك بكرة! | ashofak bokra! | See you tomorrow! |
+| سارة | إن شاء الله! مع السلامة! | in sha2 allah! ma3asallama! | God willing! Goodbye! |
+| أحمد | مع السلامة! | ma3asallama! | Goodbye! |
 
----
+------------------------------------------------------------------------
 
-## Cumprimentos Básicos
+## Basic Greetings
 
-| Árabe | Franco | Português |
-|-------|--------|-----------|
-| أهلا | ahlan | Olá |
-| سلام | salam | Olá (lit. paz) |
-| السلام عليكم | el-salamu ʻaleikum | A paz esteja convosco (formal) |
-| وعليكم السلام | wa ʻaleikum el-salam | E convosco a paz (resposta) |
+| Arabic        | Franco               | English                        |
+|---------------|----------------------|--------------------------------|
+| أهلا          | ahlan                | Hello                          |
+| سلام          | salam                | Hello (lit. peace)             |
+| السلام عليكم  | el-salamu 3aleikum   | Peace be upon you (formal)     |
+| وعليكم السلام | wa 3aleikum el-salam | And upon you peace (reply)     |
 
----
+------------------------------------------------------------------------
 
-## Bom Dia / Boa Tarde / Boa Noite
+## Good Morning / Good Afternoon / Good Night
 
-| Árabe | Franco | Português | Resposta |
-|-------|--------|-----------|----------|
-| صباح الخير | saba7 el 5eer | Bom dia | صباح النور (saba7 el noor) |
-| مساء الخير | masa2 el 5eer | Boa tarde/noite (formal) | مساء النور (masa2 el noor) |
-| تصبح على خير | tesbaḥ ʻala kheir | Boa noite (ao despedir) | وإنت من أهله (wenta men ahlo) |
+| Arabic | Franco | English | Response |
+|-----------------|-----------------|---------------------|-------------------|
+| صباح الخير | saba7 el 5eer | Good morning | صباح النور (saba7 el noor) |
+| مساء الخير | masa2 el 5eer | Good afternoon/evening (formal) | مساء النور (masa2 el noor) |
+| تصبح على خير | tesba7 3ala 5eir | Good night (when parting) | وإنت من أهله (wenta men ahlo) |
 
----
+------------------------------------------------------------------------
 
-## Como Vai?
+## How Are You?
 
-| Árabe | Franco | Português |
-|-------|--------|-----------|
-| إزيك؟ | ezayak? | Como estás? (para homem) |
-| إزيك؟ | ezayek? | Como estás? (para mulher) |
-| إزيكم؟ | ezaykum? | Como estão? (plural) |
-| عامل إيه؟ | ʻamel eih? | Como estás? (para homem) |
-| عاملة إيه؟ | ʻamla eih? | Como estás? (para mulher) |
+| Arabic     | Franco     | English                   |
+|------------|------------|---------------------------|
+| إزيك؟      | ezayak?    | How are you? (to a man)   |
+| إزيك؟      | ezayek?    | How are you? (to a woman) |
+| إزيكم؟     | ezaykum?   | How are you? (plural)     |
+| عامل إيه؟  | 3amel eih? | How are you? (to a man)   |
+| عاملة إيه؟ | 3amla eih? | How are you? (to a woman) |
 
-### Respostas
+### Responses
 
-| Árabe | Franco | Português |
-|-------|--------|-----------|
-| أنا كويس | ana kewayes | Estou bem (masc.) |
-| أنا كويسة | ana kwayesa | Estou bem (fem.) |
-| كويس، الحمد لله | kewayes, el7amdulelah | Bem, graças a Deus (masc.) |
-| كويسة، الحمد لله | kwayesa, el7amdulelah | Bem, graças a Deus (fem.) |
-| تمام | tamam | Tudo bem / OK |
-| مش بطال | mesh baṭṭal | Nada mal |
+| Arabic           | Franco                | English                    |
+|------------------|-----------------------|----------------------------|
+| أنا كويس         | ana kewayes           | I'm fine (m.)              |
+| أنا كويسة        | ana kwayesa           | I'm fine (f.)              |
+| كويس، الحمد لله  | kewayes, el7amdulelah | Fine, thank God (m.)       |
+| كويسة، الحمد لله | kwayesa, el7amdulelah | Fine, thank God (f.)       |
+| تمام             | tamam                 | All good / OK              |
+| مش بطال          | mesh battal           | Not bad                    |
 
----
+------------------------------------------------------------------------
 
-## Prazer em Conhecer / Ver
+## Nice to Meet / See You
 
-| Árabe | Franco | Português |
-|-------|--------|-----------|
-| فرصة سعيدة | forsa saʻida | Prazer em conhecer-te |
-| أنا كمان | ana kaman | Igualmente |
-| نورت | nawwart | Iluminaste (o lugar) — Bom te ver (para homem) |
-| نورتي | nawwarti | Iluminaste — Bom te ver (para mulher) |
-| وحشتني | waḥashtini | Tive saudades tuas |
+| Arabic     | Franco       | English                                          |
+|------------|--------------|--------------------------------------------------|
+| فرصة سعيدة | forsa sa3ida | Nice to meet you                                 |
+| أنا كمان   | ana kaman    | Likewise                                         |
+| نورت       | nawwart      | You lit up (the place) — Good to see you (to a man) |
+| نورتي      | nawwarti     | You lit up — Good to see you (to a woman)        |
+| وحشتني     | wa7ashtini   | I missed you                                     |
 
----
+------------------------------------------------------------------------
 
-## Por Favor / Obrigado
+## Please / Thank You
 
-| Árabe | Franco | Português |
-|-------|--------|-----------|
-| من فضلك | men faḍlak | Por favor (para homem) |
-| من فضلك | men faḍlik | Por favor (para mulher) |
-| لو سمحت | law samaḥt | Por favor / Com licença (para homem) |
-| لو سمحتي | law samaḥti | Por favor / Com licença (para mulher) |
-| شكراً | shukran | Obrigado |
-| متشكر | mutashakker | Muito obrigado (masc.) |
-| متشكرة | mutashakkera | Muito obrigada (fem.) |
-| العفو | el-ʻafw | De nada |
+| Arabic   | Franco       | English                            |
+|----------|--------------|------------------------------------|
+| من فضلك  | men fadlak   | Please (to a man)                  |
+| من فضلك  | men fadlik   | Please (to a woman)                |
+| لو سمحت  | law sama7t   | Please / Excuse me (to a man)      |
+| لو سمحتي | law sama7ti  | Please / Excuse me (to a woman)    |
+| شكراً     | shukran      | Thank you                          |
+| متشكر    | mutashakker  | Thank you very much (m.)           |
+| متشكرة   | mutashakkera | Thank you very much (f.)           |
+| العفو    | el-3afw      | You're welcome                     |
 
----
+------------------------------------------------------------------------
 
-## Desculpa / Perdão
+## Sorry / Excuse Me
 
-| Árabe | Franco | Português |
-|-------|--------|-----------|
-| آسف | asef | Desculpa (masc.) |
-| آسفة | asfa | Desculpa (fem.) |
-| معلش | ma3lesh | Não faz mal / Desculpa |
-| مفيش مشكلة | mafish mushkela | Sem problema |
+| Arabic     | Franco          | English                |
+|------------|-----------------|------------------------|
+| آسف        | asef            | Sorry (m.)             |
+| آسفة       | asfa            | Sorry (f.)             |
+| معلش       | ma3lesh         | Never mind / Sorry     |
+| مفيش مشكلة | mafish mushkela | No problem             |
 
----
+------------------------------------------------------------------------
 
-## Expressões de Empatia e Condolências
+## Expressions of Empathy and Condolences
 
-### Empatia Geral (Sinto Muito / Lamento)
+### General Empathy (I'm Sorry)
 
-| Árabe | Franco | Português | Uso |
-|-------|--------|-----------|-----|
-| آسف | asef (m.) | Sinto muito / Lamento | Geral |
-| آسفة | asfa (f.) | Sinto muito / Lamento | Geral |
-| متأسف | muta2asef (m.) | Lamento muito | Mais formal |
-| متأسفة | muta2asfa (f.) | Lamento muito | Mais formal |
-| أنا آسف جداً | ana asef giddan | Sinto muito mesmo | Enfático |
+| Arabic      | Franco          | English             | Usage       |
+|-------------|-----------------|---------------------|-------------|
+| آسف         | asef (m.)       | I'm sorry           | General     |
+| آسفة        | asfa (f.)       | I'm sorry           | General     |
+| متأسف       | muta2asef (m.)  | I'm very sorry      | More formal |
+| متأسفة      | muta2asfa (f.)  | I'm very sorry      | More formal |
+| أنا آسف جداً | ana asef giddan | I'm truly sorry     | Emphatic    |
 
-### Solidariedade
+### Solidarity
 
-| Árabe | Franco | Português |
-|-------|--------|-----------|
-| أنا معاك | ana ma3ak (m.) / ana ma3aki (f.) | Estou contigo |
-| قلبي معاك | 2albi ma3ak | O meu coração está contigo |
-| ربنا معاك | rabbena ma3ak | Deus está contigo |
-| لو محتاج حاجة، قولي | law me7tag 7aga, 2olli | Se precisares de algo, diz-me |
+| Arabic | Franco | English |
+|--------------------|----------------------|------------------------------|
+| أنا معاك | ana ma3ak (m.) / ana ma3aki (f.) | I'm with you |
+| قلبي معاك | 2albi ma3ak | My heart is with you |
+| ربنا معاك | rabbena ma3ak | God is with you |
+| لو محتاج حاجة، قولي | law me7tag 7aga, 2olli | If you need anything, tell me |
 
-### Doença / Acidente
+### Illness / Accident
 
-| Árabe | Franco | Português |
-|-------|--------|-----------|
-| سلامتك | salamtak (m.) / salamtek (f.) | As melhoras |
-| ألف سلامة | alf salama | Mil melhoras |
+| Arabic    | Franco                        | English      |
+|-----------|-------------------------------|--------------|
+| سلامتك    | salamtak (m.) / salamtek (f.) | Get well soon |
+| ألف سلامة | alf salama                    | A thousand wishes for your recovery |
 
-### Condolências (Falecimento)
+### Condolences (Death)
 
-| Árabe | Franco | Português |
-|-------|--------|-----------|
-| الله يرحمه | allah yer7amo | Que Deus o tenha (dele) |
-| الله يرحمها | allah yer7amha | Que Deus a tenha (dela) |
-| البقاء لله | el-baqa2 lelah | A eternidade pertence a Deus |
-| ربنا يصبركم | rabbena yesabbarkum | Que Deus vos dê paciência |
+| Arabic      | Franco              | English                      |
+|-------------|---------------------|------------------------------|
+| الله يرحمه  | allah yer7amo       | May God have mercy on him    |
+| الله يرحمها | allah yer7amha      | May God have mercy on her    |
+| البقاء لله  | el-ba2a2 lelah      | Eternity belongs to God      |
+| ربنا يصبركم | rabbena yesabbarkum | May God grant you patience   |
 
-### Consolo Geral
+### General Comfort
 
-| Árabe | Franco | Português |
-|-------|--------|-----------|
-| معلش | ma3lesh | Não faz mal / Paciência |
-| حصل خير | 7asal kheir | Aconteceu para o bem |
+| Arabic  | Franco      | English                 |
+|---------|-------------|-------------------------|
+| معلش    | ma3lesh     | Never mind / Patience   |
+| حصل خير | 7asal 5eir  | It happened for the best |
 
----
+------------------------------------------------------------------------
 
-## Despedidas
+## Farewells
 
-| Árabe | Franco | Português |
-|-------|--------|-----------|
-| مع السلامة | ma3asallama | Adeus / Até logo |
-| باي | bye | Tchau |
-| يلا باي | yalla bye | Tchau então |
-| إلى اللقاء | ila el-leqaʼ | Até à próxima |
-| أشوفك بكرة! | ashofak bokra! | Vejo-te amanhã! (para homem) |
-| أشوفك بكرة! | ashofek bokra! | Vejo-te amanhã! (para mulher) |
-| شوفك بعدين | shufak baʻdein | Vejo-te depois (para homem) |
-| شوفك بعدين | shufik baʻdein | Vejo-te depois (para mulher) |
+| Arabic      | Franco         | English                       |
+|-------------|----------------|-------------------------------|
+| مع السلامة  | ma3asallama    | Goodbye / See you             |
+| باي         | bye            | Bye                           |
+| يلا باي     | yalla bye      | Bye then                      |
+| إلى اللقاء  | ila el-le2a2   | Until next time               |
+| أشوفك بكرة! | ashofak bokra! | See you tomorrow! (to a man)  |
+| أشوفك بكرة! | ashofek bokra! | See you tomorrow! (to a woman) |
+| شوفك بعدين  | shufak ba3dein | See you later (to a man)      |
+| شوفك بعدين  | shufik ba3dein | See you later (to a woman)    |
 
----
+------------------------------------------------------------------------
 
-## Votos e Expressões Úteis
+## Well-Wishes and Useful Expressions
 
-| Árabe | Franco | Português |
-|-------|--------|-----------|
-| كل سنة وإنت طيب | kull sana wenta ṭayyeb | Feliz aniversário (para homem) |
-| كل سنة وإنتي طيبة | kull sana wenti ṭayyeba | Feliz aniversário (para mulher) |
-| مبروك | mabruk | Parabéns |
-| الله يبارك فيك | allah yibarek fik | Que Deus te abençoe (resposta) |
-| سلامتك | salamtak | As melhoras (para homem) |
-| سلامتك | salamtik | As melhoras (para mulher) |
-| ربنا يخليك | rabbena yikhallik | Que Deus te guarde |
+| Arabic            | Franco                  | English                         |
+|--------------------|----------------------|------------------------------|
+| كل سنة وإنت طيب   | kull sana wenta tayyeb  | Happy birthday (to a man)       |
+| كل سنة وإنتي طيبة | kull sana wenti tayyeba | Happy birthday (to a woman)     |
+| مبروك             | mabruk                  | Congratulations                 |
+| الله يبارك فيك    | allah yibarek fik       | May God bless you (reply)       |
+| سلامتك            | salamtak                | Get well soon (to a man)        |
+| سلامتك            | salamtik                | Get well soon (to a woman)      |
+| ربنا يخليك        | rabbena yi5allik        | May God keep you                |
 
----
+------------------------------------------------------------------------
 
-## Mini Diálogo (Versão Curta)
+## Mini Dialogue (Short Version)
 
-| Pessoa | Árabe | Franco | Português |
-|--------|-------|--------|-----------|
-| A | صباح الخير! | saba7 el 5eer! | Bom dia! |
-| B | صباح النور! إزيك؟ | saba7 el noor! ezayak? | Bom dia! Como estás? |
-| A | كويس، الحمد لله. وإنت؟ | kewayes, el7amdulelah. wenta? | Bem, graças a Deus. E tu? |
-| B | تمام، شكراً | tamam, shukran | Tudo bem, obrigado |
-| A | يلا، مع السلامة | yalla, ma3asallama | Então, adeus |
-| B | مع السلامة! | ma3asallama! | Adeus! |
+| Person | Arabic | Franco | English |
+|-----------------|-----------------|-----------------|----------------------|
+| A | صباح الخير! | saba7 el 5eer! | Good morning! |
+| B | صباح النور! إزيك؟ | saba7 el noor! ezayak? | Good morning! How are you? |
+| A | كويس، الحمد لله. وإنت؟ | kewayes, el7amdulelah. wenta? | Fine, thank God. And you? |
+| B | تمام، شكراً | tamam, shukran | All good, thank you |
+| A | يلا، مع السلامة | yalla, ma3asallama | Well, goodbye |
+| B | مع السلامة! | ma3asallama! | Goodbye! |
 
----
+------------------------------------------------------------------------
 
-**Dica:** الحمد لله (el-ḥamdu lillah = graças a Deus) é usado constantemente nas respostas, independentemente da religião. É cultural!
+**Tip:** الحمد لله (el-7amdu lillah = thank God) is used constantly in responses, regardless of religion. It's cultural!
 
----
+------------------------------------------------------------------------
+

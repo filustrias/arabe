@@ -1,0 +1,280 @@
+# Speaking and Understanding {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+These are two of the first verbs you'll ever need: **to speak** (اتكلم) and **to understand** (فهم). "I speak a little Arabic" and "I don't understand" come up on day one. Tap any sentence to reveal its franco and English.
+
+## How it works
+
+**The present and past you already know:** بـ for the present (*batkallim* = "I speak"), endings for the past (*itkallimt* = "I spoke"). The future is just **ها +** the present stem without بـ: *hatkallim* ("I'll speak"), *hafham* ("I'll understand").
+
+**Understanding likes the participle.** Just like *raye7* / *gayy* from the movement lessons, the verb فهم has an adjective-like form **فاهم (fahim)** that you use for the *state* of understanding right now. "I understand" is far more often **أنا فاهم (ana fahim)** than the full present *bafham*. Its negative, **مش فاهم (mesh fahim)** = "I don't understand", is one of the most useful phrases in the language.
+
+**Two ways to say "not".** With the participle, put مش in front: *mesh fahim*. With the verb itself, wrap it in **ما...ش**: *mabatkallimsh* = "I don't speak", *mafhemtesh* = "I didn't understand".
+
+## Examples
+
+<details class="frase">
+<summary>أنا بتكلم عربي شوية</summary>
+<span class="fr">ana batkallim 3araby shwayya</span>
+<span class="en">I speak a little Arabic</span>
+</details>
+
+<details class="frase">
+<summary>أنا فاهم</summary>
+<span class="fr">ana fahim</span>
+<span class="en">I understand / I get it</span>
+</details>
+
+<details class="frase">
+<summary>أنا مش فاهم</summary>
+<span class="fr">ana mesh fahim</span>
+<span class="en">I don't understand</span>
+</details>
+
+<details class="frase">
+<summary>هي بتفهم عربي بس مبتتكلمش</summary>
+<span class="fr">heyya bitifham 3araby bas mabtitkallimsh</span>
+<span class="en">she understands Arabic but doesn't speak</span>
+</details>
+
+## To speak — اتكلم — itkallim
+
+**Root:** ك-ل-م (k-l-m) — reflexive verb. Future: ها + stem (*ana hatkallim, huwwa hayitkallim*).
+
+| Present | Past |
+|---|---|
+| أنا باتكلم - ana batkallim | أنا اتكلمت - ana itkallimt |
+| إنت بتتكلم - inta bititkallim | إنت اتكلمت - inta itkallimt |
+| إنتِ بتتكلمي - inti bititkallimi | إنتِ اتكلمتي - inti itkallimti |
+| هو بيتكلم - huwwa biyitkallim | هو اتكلم - huwwa itkallim |
+| هي بتتكلم - hiyya bititkallim | هي اتكلمت - hiyya itkallimet |
+| إحنا بنتكلم - e7na binitkallim | إحنا اتكلمنا - e7na itkallimna |
+| إنتو بتتكلموا - intu bititkallimu | إنتو اتكلمتوا - intu itkallimtu |
+| هم بيتكلموا - humma biyitkallimu | هم اتكلموا - humma itkallimu |
+
+## To understand — فهم — fehem
+
+**Root:** ف-ه-م (f-h-m) — regular verb. Future: ها + stem (*ana hafham, huwwa hayifham*).
+
+| Present | Past |
+|---|---|
+| أنا بفهم - ana bafham | أنا فهمت - ana fehemt |
+| إنت بتفهم - inta bitifham | إنت فهمت - inta fehemt |
+| إنتِ بتفهمي - inti bitifhami | إنتِ فهمتي - inti fehemti |
+| هو بيفهم - huwwa biyifham | هو فهم - huwwa fehem |
+| هي بتفهم - hiyya bitifham | هي فهمت - hiyya fehmet |
+| إحنا بنفهم - e7na binifham | إحنا فهمنا - e7na fehemna |
+| إنتو بتفهموا - intu bitifhamu | إنتو فهمتوا - intu fehemtu |
+| هم بيفهموا - humma biyifhamu | هم فهموا - humma fehmu |
+
+**Participle of فهم:** فاهم / فاهمة / فاهمين — fahim / fahma / fahmeen — "understanding / I get it" (m. / f. / pl.)
+
+## Languages
+
+| Arabic - franco | English |
+|---|---|
+| عربي - 3araby | Arabic |
+| إنجليزي - engelizi | English |
+| فرنساوي - faransawi | French |
+| ألماني - almani | German |
+| إيطالي - itali | Italian |
+| إسباني - esbani | Spanish |
+| برتغالي - borto8ali | Portuguese |
+| صيني - sini | Chinese |
+| لغة / لغات - lo8a / lo8at | language / languages |
+
+## Helper words
+
+| Arabic - franco | English |
+|---|---|
+| شوية - shwayya | a little |
+| كويس - kwayyes | well / good |
+| كل حاجة - koll 7aga | everything |
+| بسرعة - bisor3a | fast / quickly |
+| بالراحة - bera7a | slowly / take it easy |
+| تاني - tani | again / another |
+
+## Useful phrases
+
+<details class="frase">
+<summary>بتتكلم إنجليزي؟</summary>
+<span class="fr">bititkallim engelizi?</span>
+<span class="en">Do you speak English?</span>
+</details>
+
+<details class="frase">
+<summary>ممكن تتكلم بالراحة؟</summary>
+<span class="fr">momken titkallim bera7a?</span>
+<span class="en">Can you speak slowly?</span>
+</details>
+
+<details class="frase">
+<summary>مش فاهم، ممكن تاني؟</summary>
+<span class="fr">mesh fahim, momken tani?</span>
+<span class="en">I don't understand — again, please?</span>
+</details>
+
+## Dialogue: "Do you speak Arabic?"
+
+Youssef chats with Nour about languages.
+
+<span class="rotulo">يوسف — Youssef</span>
+<details class="frase">
+<summary>بتتكلمي عربي؟</summary>
+<span class="fr">bititkallimi 3araby?</span>
+<span class="en">Do you speak Arabic?</span>
+</details>
+
+<span class="rotulo">نور — Nour</span>
+<details class="frase">
+<summary>أيوة، بتكلم شوية</summary>
+<span class="fr">aywa, batkallim shwayya</span>
+<span class="en">Yes, I speak a little</span>
+</details>
+
+<span class="rotulo">يوسف — Youssef</span>
+<details class="frase">
+<summary>وبتفهمي كل حاجة؟</summary>
+<span class="fr">we bitifhami koll 7aga?</span>
+<span class="en">And do you understand everything?</span>
+</details>
+
+<span class="rotulo">نور — Nour</span>
+<details class="frase">
+<summary>لأ، بفهم بس لسة مبتكلمش كويس</summary>
+<span class="fr">la2, bafham bas lessa mabatkallimsh kwayyes</span>
+<span class="en">No — I understand, but I still don't speak well</span>
+</details>
+
+<span class="rotulo">يوسف — Youssef</span>
+<details class="frase">
+<summary>بتتكلمي لغات تانية؟</summary>
+<span class="fr">bititkallimi lo8at tanya?</span>
+<span class="en">Do you speak other languages?</span>
+</details>
+
+<span class="rotulo">نور — Nour</span>
+<details class="frase">
+<summary>أيوة، بتكلم إنجليزي وفرنساوي</summary>
+<span class="fr">aywa, batkallim engelizi we faransawi</span>
+<span class="en">Yes, I speak English and French</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Conjugate
+
+**1.** أنا + فهم *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بفهم</span>
+<span class="fr">ana bafham</span>
+</details>
+
+**2.** هي + اتكلم *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتتكلم</span>
+<span class="fr">hiyya bititkallim</span>
+</details>
+
+**3.** هم + فهم *(past)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">فهموا</span>
+<span class="fr">humma fehmu</span>
+</details>
+
+**4.** إنتِ + اتكلم *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتتكلمي</span>
+<span class="fr">inti bititkallimi</span>
+</details>
+
+**5.** أنا + فهم *(past)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">فهمت</span>
+<span class="fr">ana fehemt</span>
+</details>
+
+**6.** إحنا + اتكلم *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بنتكلم</span>
+<span class="fr">e7na binitkallim</span>
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** I speak a little Arabic.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا بتكلم عربي شوية</span>
+<span class="fr">ana batkallim 3araby shwayya</span>
+</details>
+
+**2.** I don't understand.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا مش فاهم</span>
+<span class="fr">ana mesh fahim</span>
+</details>
+
+**3.** Do you (m.) speak English?
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتتكلم إنجليزي؟</span>
+<span class="fr">bititkallim engelizi?</span>
+</details>
+
+**4.** She understands but doesn't speak well.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">هي بتفهم بس مبتتكلمش كويس</span>
+<span class="fr">heyya bitifham bas mabtitkallimsh kwayyes</span>
+</details>
+
+### Exercise 3 — Build your own (no answer key)
+
+Say which languages you speak and how well, using **بتكلم + a language + شوية / كويس / نص نص**. Model:
+
+<details class="frase">
+<summary>بتكلم برتغالي كويس وعربي شوية</summary>
+<span class="fr">batkallim borto8ali kwayyes we 3araby shwayya</span>
+<span class="en">I speak Portuguese well and Arabic a little</span>
+</details>

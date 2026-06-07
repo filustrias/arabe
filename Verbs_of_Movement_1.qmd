@@ -1,0 +1,308 @@
+# Verbs of Movement 1: Go, Come, Return {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+details.ans { margin: 0.2em 0 1em 0; }
+details.ans > summary { cursor: pointer; list-style: none; font-size: 0.95em; font-weight: 600; opacity: 0.6; }
+details.ans > summary::-webkit-details-marker { display: none; }
+details.ans > summary::after { content: " ▾"; opacity: 0.45; }
+details.ans[open] > summary::after { content: " ▴"; }
+.ans .ar { display: block; font-size: 1.3em; line-height: 1.6; }
+.ans .fr { display: block; font-size: 0.85em; font-style: italic; }
+.ans .en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+</style>
+```
+
+This lesson builds the three everyday verbs — **go** (راح), **come** (جه) and **return** (رجع) — plus the basic words for *near* and *far* and the prepositions you need to say where you're heading. Tap any sentence to reveal its franco and English.
+
+## How movement works
+
+**Three tense markers.** Egyptian Arabic glues a prefix onto the verb to mark tense. The present takes **بـ (be-)** for a habit or an action happening now (*baru7* = "I go / I'm going"). The future takes **هـ (ha-)** (*haru7* = "I'll go"). The past has no prefix — it uses endings instead (*ro7t* = "I went").
+
+**The three verbs are three different shapes,** and the shape tells you what to expect. راح (go) is a **hollow verb** — its middle root letter (و) shifts around, so *ro7t* ("I went") barely resembles *ra7* ("he went"). جه (come) is **irregular** — its present ييجي looks unrelated to its past جه, so just memorise both. رجع (return) is a **regular sound verb** — the stem stays put (*rege3* / *yirga3*), making it the easiest of the three.
+
+**The participle — your most useful shortcut.** Instead of the full present, Egyptians very often use an adjective-like form to say "(I'm) on my way": **رايح (raye7)** going, **جاي (gayy)** coming, **راجع (rage3)** heading back. It agrees in gender and number, and it's how you actually say "I'm coming!" — *ana gayy!*
+
+**Saying where.** Use **لـ (le)** = "to", or just drop in the bare place (*raye7 esh-sho8l* = "going to work"). **من (men)** = "from".
+
+## Examples
+
+The same verb across the three tenses.
+
+<details class="frase">
+<summary>أنا بروح الشغل كل يوم</summary>
+<span class="fr">ana baru7 esh-sho8l kol yom</span>
+<span class="en">I go to work every day (habit — بـ)</span>
+</details>
+
+<details class="frase">
+<summary>أنا هروح الشغل بكرة</summary>
+<span class="fr">ana haru7 esh-sho8l bukra</span>
+<span class="en">I'll go to work tomorrow (future — هـ)</span>
+</details>
+
+<details class="frase">
+<summary>أنا رحت الشغل إمبارح</summary>
+<span class="fr">ana ro7t esh-sho8l embare7</span>
+<span class="en">I went to work yesterday (past — endings)</span>
+</details>
+
+## To go — راح — ra7
+
+**Root:** ر-و-ح (r-w-7) — hollow verb
+
+| Present | Future | Past |
+|---|---|---|
+| أنا بروح - ana baru7 | أنا هروح - ana haru7 | أنا رحت - ana ro7t |
+| إنت بتروح - inta bitru7 | إنت هتروح - inta hatru7 | إنت رحت - inta ro7t |
+| إنتِ بتروحي - inti bitru7i | إنتِ هتروحي - inti hatru7i | إنتِ رحتي - inti ro7ti |
+| هو بيروح - huwwa biyru7 | هو هيروح - huwwa hayru7 | هو راح - huwwa ra7 |
+| هي بتروح - hiyya bitru7 | هي هتروح - hiyya hatru7 | هي راحت - hiyya ra7et |
+| إحنا بنروح - e7na binru7 | إحنا هنروح - e7na hanru7 | إحنا رحنا - e7na ro7na |
+| إنتو بتروحوا - intu bitru7u | إنتو هتروحوا - intu hatru7u | إنتو رحتوا - intu ro7tu |
+| هم بيروحوا - humma biyru7u | هم هيروحوا - humma hayru7u | هم راحوا - humma ra7u |
+
+## To come — جه — geh
+
+**Root:** ج-ي-ء (g-y-2) — irregular verb
+
+| Present | Future | Past |
+|---|---|---|
+| أنا باجي - ana bagi | أنا هاجي - ana hagi | أنا جيت - ana geet |
+| إنت بتيجي - inta bitigi | إنت هتيجي - inta hatigi | إنت جيت - inta geet |
+| إنتِ بتيجي - inti bitigi | إنتِ هتيجي - inti hatigi | إنتِ جيتي - inti geeti |
+| هو بييجي - huwwa biyigi | هو هييجي - huwwa hayigi | هو جه - huwwa geh |
+| هي بتيجي - hiyya bitigi | هي هتيجي - hiyya hatigi | هي جت - hiyya gat |
+| إحنا بنيجي - e7na binigi | إحنا هنيجي - e7na hanigi | إحنا جينا - e7na geena |
+| إنتو بتيجوا - intu bitigu | إنتو هتيجوا - intu hatigu | إنتو جيتوا - intu geetu |
+| هم بييجوا - humma biyigu | هم هييجوا - humma hayigu | هم جم - humma gum |
+
+## To return — رجع — rege3
+
+**Root:** ر-ج-ع (r-g-3) — regular verb
+
+| Present | Future | Past |
+|---|---|---|
+| أنا برجع - ana barga3 | أنا هرجع - ana harga3 | أنا رجعت - ana rege3t |
+| إنت بترجع - inta bitirga3 | إنت هترجع - inta hatirga3 | إنت رجعت - inta rege3t |
+| إنتِ بترجعي - inti bitirga3i | إنتِ هترجعي - inti hatirga3i | إنتِ رجعتي - inti rege3ti |
+| هو بيرجع - huwwa biyirga3 | هو هيرجع - huwwa hayirga3 | هو رجع - huwwa rege3 |
+| هي بترجع - hiyya bitirga3 | هي هترجع - hiyya hatirga3 | هي رجعت - hiyya reg3et |
+| إحنا بنرجع - e7na binirga3 | إحنا هنرجع - e7na hanirga3 | إحنا رجعنا - e7na rege3na |
+| إنتو بترجعوا - intu bitirga3u | إنتو هترجعوا - intu hatirga3u | إنتو رجعتوا - intu rege3tu |
+| هم بيرجعوا - humma biyirga3u | هم هيرجعوا - humma hayirga3u | هم رجعوا - humma reg3u |
+
+## The participle: "on my way"
+
+This replaces the full present in everyday speech. It agrees with the speaker in gender and number.
+
+| Verb | Participle (m. / f. / pl.) - franco | Meaning |
+|---|---|---|
+| راح | رايح / رايحة / رايحين - raye7 / ray7a / ray7een | going / on the way to |
+| جه | جاي / جاية / جايين - gayy / gayya / gayyeen | coming / on the way |
+| رجع | راجع / راجعة / راجعين - rage3 / rag3a / rag3een | returning / on the way back |
+
+<details class="frase">
+<summary>أنا جاي!</summary>
+<span class="fr">ana gayy!</span>
+<span class="en">I'm coming! (right now)</span>
+</details>
+
+<details class="frase">
+<summary>إحنا راجعين البيت</summary>
+<span class="fr">e7na rag3een el-bet</span>
+<span class="en">we're on our way back home</span>
+</details>
+
+## Place words: here, there, near, far
+
+| Arabic - franco | English |
+|---|---|
+| هنا - hena | here |
+| هناك - henak | there / over there |
+| قريب - 2orayyeb | near / close |
+| بعيد - be3eed | far |
+
+> For "way over there", say **هناك بعيد (henak be3eed)** — literally "there, far".
+
+## Prepositions of movement
+
+| Arabic - franco | English |
+|---|---|
+| لـ - le | to |
+| من - men | from |
+| في - fi | in / at |
+| على - 3ala | to / onto / at |
+| لحد - le7add | up to / until |
+
+## Time adverbs
+
+Mix these in to set the tense.
+
+| Arabic - franco | English |
+|---|---|
+| دلوقتي - delwa2ti | now |
+| النهارده - en-naharda | today |
+| بكرة - bukra | tomorrow |
+| إمبارح - embare7 | yesterday |
+| بعدين - ba3dein | later |
+| من شوية - min shuwayya | a little while ago |
+| بعد شوية - ba3d shuwayya | in a little while |
+| الأسبوع اللي فات - el-osbo3 elli fat | last week |
+| الأسبوع الجاي - el-osbo3 el-gay | next week |
+| بالليل - bel-leil | at night |
+
+## Dialogue: "Where are you going?"
+
+Karim catches Mona on her way out.
+
+<span class="rotulo">كريم — Karim</span>
+<details class="frase">
+<summary>رايحة فين يا منى؟</summary>
+<span class="fr">ray7a feen ya Mona?</span>
+<span class="en">Where are you going, Mona?</span>
+</details>
+
+<span class="rotulo">منى — Mona</span>
+<details class="frase">
+<summary>رايحة الشغل. إنت جاي معايا؟</summary>
+<span class="fr">ray7a esh-sho8l. inta gayy ma3aya?</span>
+<span class="en">I'm going to work. Are you coming with me?</span>
+</details>
+
+<span class="rotulo">كريم — Karim</span>
+<details class="frase">
+<summary>لأ، أنا هروح بعدين. الشغل بعيد؟</summary>
+<span class="fr">la2, ana haru7 ba3dein. esh-sho8l be3eed?</span>
+<span class="en">No, I'll go later. Is work far?</span>
+</details>
+
+<span class="rotulo">منى — Mona</span>
+<details class="frase">
+<summary>لأ، قريب من البيت.</summary>
+<span class="fr">la2, 2orayyeb men el-bet.</span>
+<span class="en">No, it's near the house.</span>
+</details>
+
+<span class="rotulo">كريم — Karim</span>
+<details class="frase">
+<summary>هترجعي امتى؟</summary>
+<span class="fr">hatirga3i emta?</span>
+<span class="en">When will you come back?</span>
+</details>
+
+<span class="rotulo">منى — Mona</span>
+<details class="frase">
+<summary>هرجع بالليل.</summary>
+<span class="fr">harga3 bel-leil.</span>
+<span class="en">I'll come back at night.</span>
+</details>
+
+## Exercises
+
+Try each one out loud first, then tap **Show answer**.
+
+### Exercise 1 — Conjugate
+
+Give the right form for the pronoun and tense in brackets.
+
+**1.** هو + راح *(future)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">هيروح</span>
+<span class="fr">huwwa hayru7</span>
+</details>
+
+**2.** أنا + جه *(past)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">جيت</span>
+<span class="fr">ana geet</span>
+</details>
+
+**3.** إحنا + رجع *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بنرجع</span>
+<span class="fr">e7na binirga3</span>
+</details>
+
+**4.** إنتِ + راح *(present)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">بتروحي</span>
+<span class="fr">inti bitru7i</span>
+</details>
+
+**5.** هي + رجع *(past)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">رجعت</span>
+<span class="fr">hiyya reg3et</span>
+</details>
+
+**6.** هم + جه *(future)*
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">هييجوا</span>
+<span class="fr">humma hayigu</span>
+</details>
+
+### Exercise 2 — Translate into Arabic
+
+**1.** I'm going to work now.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا رايح الشغل دلوقتي</span>
+<span class="fr">ana raye7 esh-sho8l delwa2ti</span>
+</details>
+
+**2.** Work is far from the house.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">الشغل بعيد من البيت</span>
+<span class="fr">esh-sho8l be3eed men el-bet</span>
+</details>
+
+**3.** We'll come back next week.
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">إحنا هنرجع الأسبوع الجاي</span>
+<span class="fr">e7na hanirga3 el-osbo3 el-gay</span>
+</details>
+
+**4.** I'm coming!
+
+<details class="ans">
+<summary>Show answer</summary>
+<span class="ar">أنا جاي!</span>
+<span class="fr">ana gayy!</span>
+</details>
+
+### Exercise 3 — Build your own (no answer key)
+
+Write two sentences about your day, each using **one movement verb + one time adverb**. Model:
+
+<details class="frase">
+<summary>أنا هرجع البيت بعد شوية</summary>
+<span class="fr">ana harga3 el-bet ba3d shuwayya</span>
+<span class="en">I'll go back home in a little while</span>
+</details>
