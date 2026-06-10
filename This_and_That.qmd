@@ -41,179 +41,256 @@ So *el-ketab da* (this book) and *da ketab* (this is a book) are different sente
 
 ## Demonstratives
 
-| Arabic - franco | English |
-|---|---|
-| ده - da | this / that (m.) |
-| دي - di | this / that (f.) |
-| دول - dol | these / those (pl.) |
-| هنا - hena | here |
-| هناك - henak | there |
+| Arabic - franco | English             |
+|-----------------|---------------------|
+| ده - da         | this / that (m.)    |
+| دي - di         | this / that (f.)    |
+| دول - dol       | these / those (pl.) |
+| هنا - hena      | here                |
+| هناك - henak    | there               |
 
 ## The two structures
 
 <details class="frase">
+
 <summary>الكتاب ده</summary>
-<span class="fr">el-ketab da</span>
-<span class="en">this book (noun + demonstrative)</span>
+
+[el-ketab da]{.fr} [this book (noun + demonstrative)]{.en}
+
 </details>
 
 <details class="frase">
+
 <summary>ده كتاب</summary>
-<span class="fr">da ketab</span>
-<span class="en">this is a book (demonstrative as subject)</span>
+
+[da ketab]{.fr} [this is a book (demonstrative as subject)]{.en}
+
 </details>
 
 <details class="frase">
+
 <summary>دي شنطة</summary>
-<span class="fr">di shanta</span>
-<span class="en">this is a bag</span>
+
+[di shanta]{.fr} [this is a bag]{.en}
+
 </details>
 
 <details class="frase">
+
 <summary>دول كتب</summary>
-<span class="fr">dol kutob</span>
-<span class="en">these are books</span>
+
+[dol kutob]{.fr} [these are books]{.en}
+
 </details>
 
 ## Objects around you
 
 **Clothes**
 
-| Arabic - franco | English |
-|---|---|
-| قميص - 2amis (m.) | shirt |
-| فستان - fustan (m.) | dress |
-| جزمة - gazma (f.) | shoes |
+| English | Arabic | franco | Gender |
+|---------|--------|--------|--------|
+| shirt   | قميص   | 2amis  | m.     |
+| dress   | فستان  | fustan | m.     |
+| shoes   | جزمة   | gazma  | f.     |
 
 **Furniture**
 
-| Arabic - franco | English |
-|---|---|
-| ترابيزة - tarabeza (f.) | table |
-| كرسي - korsi (m.) | chair |
-| سرير - sereer (m.) | bed |
+| English | Arabic  | franco   | Gender |
+|---------|---------|----------|--------|
+| table   | ترابيزة | tarabeza | f.     |
+| chair   | كرسي    | korsi    | m.     |
+| bed     | سرير    | sereer   | m.     |
 
 **Animals**
 
-| Arabic - franco | English |
-|---|---|
-| كلب - kalb (m.) | dog |
-| قطة - 2otta (f.) | cat |
-| حصان - 7osan (m.) | horse |
+| English | Arabic | franco | Gender |
+|---------|--------|--------|--------|
+| dog     | كلب    | kalb   | m.     |
+| cat     | قطة    | 2otta  | f.     |
+| horse   | حصان   | 7osan  | m.     |
 
 **Everyday things**
 
-| Arabic - franco | English |
-|---|---|
-| كتاب - ketab (m.) | book |
-| قلم - 2alam (m.) | pen |
-| شنطة - shanta (f.) | bag |
-| موبايل - mobile (m.) | phone |
-| ساعة - sa3a (f.) | watch / clock |
+| English       | Arabic | franco | Gender |
+|---------------|--------|--------|--------|
+| book          | كتاب   | ketab  | m.     |
+| pen           | قلم    | 2alam  | m.     |
+| bag           | شنطة   | shanta | f.     |
+| phone         | موبايل | mobail | m.     |
+| watch / clock | ساعة   | sa3a   | f.     |
 
 ## What is this?
 
 <details class="frase">
+
 <summary>ده إيه؟</summary>
-<span class="fr">da eh?</span>
-<span class="en">what's this? (m.)</span>
+
+[da eh?]{.fr} [what's this? (m.)]{.en}
+
 </details>
 
 <details class="frase">
+
 <summary>دي إيه؟</summary>
-<span class="fr">di eh?</span>
-<span class="en">what's this? (f.)</span>
+
+[di eh?]{.fr} [what's this? (f.)]{.en}
+
 </details>
 
 <details class="frase">
+
 <summary>ده كلب</summary>
-<span class="fr">da kalb</span>
-<span class="en">this is a dog</span>
+
+[da kalb]{.fr} [this is a dog]{.en}
+
 </details>
 
 <details class="frase">
+
 <summary>دي ترابيزة</summary>
-<span class="fr">di tarabeza</span>
-<span class="en">this is a table</span>
+
+[di tarabeza]{.fr} [this is a table]{.en}
+
 </details>
 
 ## Using demonstratives in a sentence
 
-For "I want / I see / it's mine" you can use a couple of words that just agree in gender (the full verbs come in their own chapters). Negate them with **مش (mesh)**.
+For "I want / I see / it's mine" you can use a couple of words that just agree
+in gender (the full verbs come in their own chapters). Negate them with
+**مش (mesh)**.
 
-| Arabic - franco | English |
-|---|---|
-| عايز / عايزة - 3ayez / 3ayza | wanting (m. / f.) |
-| شايف / شايفة - shayef / shayfa | seeing (m. / f.) |
+| English | Masculine | franco | Feminine | franco |
+|---------|-----------|--------|----------|--------|
+| wanting | عايز      | 3ayez  | عايزة    | 3ayza  |
+| seeing  | شايف      | shayef | شايفة    | shayfa |
+
+**Negative forms with مش:**
+
+| English     | Masculine | franco     | Feminine  | franco     |
+|-------------|-----------|------------|-----------|------------|
+| not wanting | مش عايز   | mesh 3ayez | مش عايزة  | mesh 3ayza |
+| not seeing  | مش شايف   | mesh shayef| مش شايفة  | mesh shayfa|
+
+**Examples:**
 
 <details class="frase">
+<summary>أنا مش عايز عربية، أنا عايز عجلة.</summary>
+<span class="fr">ana mesh 3ayez 3arabiyya, ana 3ayez 3agala.</span>
+<span class="en">I don't want a car, I want a bicycle. (m.)</span>
+</details>
+
+<details class="frase">
+<summary>هي عايزة فستان، مش عايزة قميص.</summary>
+<span class="fr">heyya 3ayza fustan, mesh 3ayza 2amis.</span>
+<span class="en">She wants a dress, not a shirt.</span>
+</details>
+
+<details class="frase">
+<summary>أنا مش شايف الموبايل.</summary>
+<span class="fr">ana mesh shayef el-mobail.</span>
+<span class="en">I don't see the phone. (m.)</span>
+</details>
+
+<details class="frase">
+<summary>إنتي شايفة القطة؟ لا، أنا مش شايفة القطة.</summary>
+<span class="fr">enti shayfa el-2otta? la2, ana mesh shayfa el-2otta.</span>
+<span class="en">Do you see the cat? No, I don't see the cat. (f.)</span>
+</details>
+
+<details class="frase">
+
 <summary>عايز الكرسي ده</summary>
-<span class="fr">3ayez el-korsi da</span>
-<span class="en">I want this chair</span>
+
+[3ayez el-korsi da]{.fr} [I want this chair]{.en}
+
 </details>
 
 <details class="frase">
+
 <summary>شايف الحصان هناك</summary>
-<span class="fr">shayef el-7osan henak</span>
-<span class="en">I see that horse (over there)</span>
+
+[shayef el-7osan henak]{.fr} [I see that horse (over there)]{.en}
+
 </details>
 
 <details class="frase">
+
 <summary>الشنطة دي بتاعتي</summary>
-<span class="fr">el-shanta di bta3ti</span>
-<span class="en">this bag is mine</span>
+
+[el-shanta di bta3ti]{.fr} [this bag is mine]{.en}
+
 </details>
 
 <details class="frase">
+
 <summary>مش عايز القميص ده</summary>
-<span class="fr">mesh 3ayez el-2amis da</span>
-<span class="en">I don't want this shirt</span>
+
+[mesh 3ayez el-2amis da]{.fr} [I don't want this shirt]{.en}
+
 </details>
 
 ## Dialogue: "What's this?"
 
 Sherif is looking around Nadia's place.
 
-<span class="rotulo">شريف — Sherif</span>
+[شريف — Sherif]{.rotulo}
+
 <details class="frase">
+
 <summary>ده إيه؟</summary>
-<span class="fr">da eh?</span>
-<span class="en">What's this?</span>
+
+[da eh?]{.fr} [What's this?]{.en}
+
 </details>
 
-<span class="rotulo">نادية — Nadia</span>
+[نادية — Nadia]{.rotulo}
+
 <details class="frase">
+
 <summary>ده موبايل</summary>
-<span class="fr">da mobile</span>
-<span class="en">It's a phone</span>
+
+[da mobile]{.fr} [It's a phone]{.en}
+
 </details>
 
-<span class="rotulo">شريف — Sherif</span>
+[شريف — Sherif]{.rotulo}
+
 <details class="frase">
+
 <summary>الموبايل ده بتاعك؟</summary>
-<span class="fr">el-mobile da bta3ek?</span>
-<span class="en">Is this phone yours?</span>
+
+[el-mobile da bta3ek?]{.fr} [Is this phone yours?]{.en}
+
 </details>
 
-<span class="rotulo">نادية — Nadia</span>
+[نادية — Nadia]{.rotulo}
+
 <details class="frase">
+
 <summary>لأ، ده مش بتاعي. ده بتاع أختي</summary>
-<span class="fr">la2, da mesh bta3i. da bta3 o5ti</span>
-<span class="en">No, it's not mine. It's my sister's</span>
+
+[la2, da mesh bta3i. da bta3 o5ti]{.fr} [No, it's not mine. It's my sister's]{.en}
+
 </details>
 
-<span class="rotulo">شريف — Sherif</span>
+[شريف — Sherif]{.rotulo}
+
 <details class="frase">
+
 <summary>والقطة دي؟</summary>
-<span class="fr">wel-2otta di?</span>
-<span class="en">And this cat?</span>
+
+[wel-2otta di?]{.fr} [And this cat?]{.en}
+
 </details>
 
-<span class="rotulo">نادية — Nadia</span>
+[نادية — Nadia]{.rotulo}
+
 <details class="frase">
+
 <summary>أيوة، دي بتاعتي</summary>
-<span class="fr">aywa, di bta3ti</span>
-<span class="en">Yes, she's mine</span>
+
+[aywa, di bta3ti]{.fr} [Yes, she's mine]{.en}
+
 </details>
 
 ## Exercises
@@ -224,44 +301,54 @@ Try each one out loud first, then tap **Show answer**.
 
 Choose the demonstrative that agrees with the noun.
 
-**1.** الكتاب ___ *(book, m.)*
+**1.** الكتاب \_\_\_ *(book, m.)*
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">ده</span>
-<span class="fr">el-ketab da</span>
+
+[ده]{.ar} [el-ketab da]{.fr}
+
 </details>
 
-**2.** الترابيزة ___ *(table, f.)*
+**2.** الترابيزة \_\_\_ *(table, f.)*
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">دي</span>
-<span class="fr">el-tarabeza di</span>
+
+[دي]{.ar} [el-tarabeza di]{.fr}
+
 </details>
 
-**3.** الكلاب ___ *(dogs, pl.)*
+**3.** الكلاب \_\_\_ *(dogs, pl.)*
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">دول</span>
-<span class="fr">el-kilab dol</span>
+
+[دول]{.ar} [el-kilab dol]{.fr}
+
 </details>
 
-**4.** القطة ___ *(cat, f.)*
+**4.** القطة \_\_\_ *(cat, f.)*
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">دي</span>
-<span class="fr">el-2otta di</span>
+
+[دي]{.ar} [el-2otta di]{.fr}
+
 </details>
 
-**5.** الكرسي ___ *(chair, m.)*
+**5.** الكرسي \_\_\_ *(chair, m.)*
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">ده</span>
-<span class="fr">el-korsi da</span>
+
+[ده]{.ar} [el-korsi da]{.fr}
+
 </details>
 
 ### Exercise 2 — Translate into Arabic
@@ -269,75 +356,93 @@ Choose the demonstrative that agrees with the noun.
 **1.** What is this? (m.)
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">ده إيه؟</span>
-<span class="fr">da eh?</span>
+
+[ده إيه؟]{.ar} [da eh?]{.fr}
+
 </details>
 
 **2.** This is a dog.
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">ده كلب</span>
-<span class="fr">da kalb</span>
+
+[ده كلب]{.ar} [da kalb]{.fr}
+
 </details>
 
 **3.** This bag is mine.
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">الشنطة دي بتاعتي</span>
-<span class="fr">el-shanta di bta3ti</span>
+
+[الشنطة دي بتاعتي]{.ar} [el-shanta di bta3ti]{.fr}
+
 </details>
 
 **4.** I want this chair.
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">عايز الكرسي ده</span>
-<span class="fr">3ayez el-korsi da</span>
+
+[عايز الكرسي ده]{.ar} [3ayez el-korsi da]{.fr}
+
 </details>
 
 **5.** I see that horse (over there).
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">شايف الحصان هناك</span>
-<span class="fr">shayef el-7osan henak</span>
+
+[شايف الحصان هناك]{.ar} [shayef el-7osan henak]{.fr}
+
 </details>
 
 ### Exercise 3 — The two structures
 
-Watch the word order: "this is a ___" vs "this ___".
+Watch the word order: "this is a ***" vs "this*** ".
 
 **1.** this is a table
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">دي ترابيزة</span>
-<span class="fr">di tarabeza</span>
+
+[دي ترابيزة]{.ar} [di tarabeza]{.fr}
+
 </details>
 
 **2.** this table
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">الترابيزة دي</span>
-<span class="fr">el-tarabeza di</span>
+
+[الترابيزة دي]{.ar} [el-tarabeza di]{.fr}
+
 </details>
 
 **3.** this is a cat
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">دي قطة</span>
-<span class="fr">di 2otta</span>
+
+[دي قطة]{.ar} [di 2otta]{.fr}
+
 </details>
 
 **4.** this cat
 
 <details class="ans">
+
 <summary>Show answer</summary>
-<span class="ar">القطة دي</span>
-<span class="fr">el-2otta di</span>
+
+[القطة دي]{.ar} [el-2otta di]{.fr}
+
 </details>

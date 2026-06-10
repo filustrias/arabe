@@ -29,7 +29,7 @@ This chapter is about working: the verb **to work** (اشتغل — eshta8al), t
 اشتغل is a regular verb. The two things you'll say most are *what* you do and *where* you do it, and they use two simple patterns:
 
 | Pattern | Example | Meaning |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | بشتغل + profession | بشتغل دكتور — bashta8al doktor | I work as a doctor |
 | بشتغل في + place | بشتغل في مستشفى — bashta8al fi mostashfa | I work in a hospital |
 | بشتغل من + place | بشتغل من البيت — bashta8al men el-bet | I work from home |

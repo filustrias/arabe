@@ -1,0 +1,213 @@
+# Expressing possession — عندك إيه؟ {.unnumbered}
+
+```{=html}
+<style>
+main { text-align: right; }
+details.frase { margin: 0.3em 0 0.9em 0; }
+details.frase > summary { cursor: pointer; list-style: none; font-size: 1.45em; line-height: 1.7; }
+details.frase > summary::-webkit-details-marker { display: none; }
+details.frase > summary::after { content: " ▾"; font-size: 0.5em; opacity: 0.45; }
+details.frase[open] > summary::after { content: " ▴"; }
+.fr { display: block; font-size: 0.85em; font-style: italic; margin-top: 0.25em; }
+.en { display: block; font-size: 0.85em; font-style: italic; opacity: 0.75; }
+.rotulo { font-weight: 600; display: block; margin-top: 0.6em; }
+</style>
+```
+
+*Kallimni Arabi Bishweesh — Unit 1 (lessons 1–3). Learning to express possession in Egyptian Arabic.*
+
+## Warm-up
+
+What do you have in your bag?
+
+<details class="frase">
+
+<summary>تخيل إنك بتفتح شنطتك دلوقتي.. يا ترى فيها إيه؟</summary>
+
+[ta5ayyel ennak betefta7 shantetak delwa2ti.. ya tara fiha eh?]{.fr} [Imagine you're opening your bag right now… what's inside?]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>موبايل؟ مفاتيح؟ كتاب؟</summary>
+
+[mobail? mafati7? ketab?]{.fr} [A phone? Keys? A book?]{.en}
+
+</details>
+
+In this lesson we learn how to say which things we have with us — and which things we don't.
+
+## Dialogue
+
+<details class="frase">
+
+<summary>— هي عندها أصحاب؟</summary>
+
+[heyya 3andaha as7ab?]{.fr} [Does she have friends?]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>— أيوه، عندها أصحاب كتير في الفصل.</summary>
+
+[aywa, 3andaha as7ab kitir fel fasl.]{.fr} [Yes, she has many friends in the class.]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>— هي عندها ساعة؟</summary>
+
+[heyya 3andaha sa3a?]{.fr} [Does she have a watch?]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>— لا، هي ماعندهاش ساعة، عندها موبايل.</summary>
+
+[la2, heyya ma3andahash sa3a, 3andaha mobail.]{.fr} [No, she doesn't have a watch, she has a phone.]{.en}
+
+</details>
+
+## Key vocabulary
+
+| English        | Arabic | franco  |
+|----------------|--------|---------|
+| friends        | أصحاب  | as7ab   |
+| neighbors      | جيران  | giran   |
+| colleague (m.) | زميل   | zimil   |
+| colleague (f.) | زميلة  | zimila  |
+| watch / hour   | ساعة   | sa3a    |
+| mobile phone   | موبايل | mobail  |
+| class(room)    | فصل    | fasl    |
+| bag            | شنطة   | shanta  |
+| keys           | مفاتيح | mafati7 |
+| book           | كتاب   | ketab   |
+
+## The rule: عند
+
+In Egyptian Arabic, possession is expressed with **عند** (*3and*) plus a pronoun suffix. There is no verb "to have".
+
+| English  | Pronoun | franco | Possession (عند) | franco  | Negation (ما…ش) | franco      |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| I        | أنا     | ana    | عندي             | 3andi   | ماعنديش         | ma3andish   |
+| you (m.) | إنتَ     | enta   | عندك             | 3andak  | ماعندكش         | ma3andaksh  |
+| you (f.) | إنتي    | enti   | عندك             | 3andik  | ماعندكيش        | ma3andikish |
+| he       | هو      | huwwa  | عنده             | 3andu   | ماعندوش         | ma3andush   |
+| she      | هي      | heyya  | عندها            | 3andaha | ماعندهاش        | ma3andahash |
+| we       | إحنا    | e7na   | عندنا            | 3andina | ماعندناش        | ma3andinash |
+
+## The negation rule
+
+::: {.callout-note appearance="simple"}
+**ما + عند + pronoun + ش**
+
+*ma + 3and + pronoun + sh*
+:::
+
+<details class="frase">
+
+<summary>أنا ماعنديش عربية.</summary>
+
+[ana ma3andish 3arabiyya.]{.fr} [I don't have a car.]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>هو ماعندوش وقت.</summary>
+
+[huwwa ma3andush wa2t.]{.fr} [He doesn't have time.]{.en}
+
+</details>
+
+## What students have most
+
+Survey results from the lesson:
+
+| Item         | Arabic | franco    | \%  |
+|--------------|--------|-----------|-----|
+| mobile phone | موبايل | mobail    | 95% |
+| watch        | ساعة   | sa3a      | 60% |
+| laptop       | لابتوب | labtob    | 45% |
+| car          | عربية  | 3arabiyya | 20% |
+
+<details class="frase">
+
+<summary>أغلب الطلاب عندهم موبايلات، لكن قليل اللي عندهم عربيات.</summary>
+
+[a8lab et-tollab 3andohom mobailat, lakin 2alil elli 3andohom 3arabiyyat.]{.fr} [Most students have mobile phones, but few have cars.]{.en}
+
+</details>
+
+## Exercise: عندك إيه؟ (1-3-ج)
+
+Choose 5 pictures and ask a classmate: **عندك ….؟**
+
+| English  | Arabic  | franco    |
+|----------|---------|-----------|
+| cat      | قطة     | 2otta     |
+| ball     | كورة    | kora      |
+| camera   | كاميرا  | kamera    |
+| glasses  | نظارة   | naddara   |
+| car      | عربية   | 3arabiyya |
+| computer | كمبيوتر | kombyuter |
+
+Model conversation:
+
+<details class="frase">
+
+<summary>— يا أحمد، عندك كاميرا؟</summary>
+
+[ya A7mad, 3andak kamera?]{.fr} [Ahmed, do you have a camera?]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>— لا، ماعنديش كاميرا، بس عندي موبايل.</summary>
+
+[la2, ma3andish kamera, bas 3andi mobail.]{.fr} [No, I don't have a camera, but I have a phone.]{.en}
+
+</details>
+
+## Group activity
+
+Ask the person next to you 3 questions about things they have in their bag or at home. Example questions:
+
+<details class="frase">
+
+<summary>عندك أخوات؟</summary>
+
+[3andak a5awat?]{.fr} [Do you have siblings?]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>عندك عجلة؟</summary>
+
+[3andak 3agala?]{.fr} [Do you have a bicycle?]{.en}
+
+</details>
+
+<details class="frase">
+
+<summary>عندك قاموس عربي؟</summary>
+
+[3andak 2amus 3arabi?]{.fr} [Do you have an Arabic dictionary?]{.en}
+
+</details>
+
+## Summary
+
+<details class="frase">
+
+<summary>دلوقتي إحنا نقدر نعبر عن الملكية والنفي بالعامية المصرية!</summary>
+
+[delwa2ti e7na ne2dar ne3abbar 3an el-melkeyya wen-nafy bel-3ammeyya el-masreyya!]{.fr} [Now we can express possession and negation in Egyptian Arabic!]{.en}
+
+</details>

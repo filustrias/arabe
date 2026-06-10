@@ -35,6 +35,7 @@ book:
     - Everyday_Verbs.qmd
     - samar_futuro.qmd
     - samar_futuro_improved.qmd
+    - samar_3and_possession.qmd
 
 bibliography: references.bib
 format:
