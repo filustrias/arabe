@@ -36,6 +36,10 @@ book:
     - samar_futuro.qmd
     - samar_futuro_improved.qmd
     - samar_3and_possession.qmd
+    - part: "Pimsleur"
+      chapters:
+        - pimsleur_lesson_01.qmd
+        - pimsleur_lesson_02.qmd
 
 bibliography: references.bib
 format:

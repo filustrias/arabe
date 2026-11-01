@@ -1,0 +1,59 @@
+# Pimsleur — Lição 01 {.unnumbered}
+
+## Diálogo
+
+Um americano aborda uma egípcia na rua.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">لا مؤاخذة، إنتي بتفهمي إنجليزي؟</span> | la mo2a5za, enti betefhami engelizi? | Com licença, a senhora entende inglês? |
+| Mulher | <span dir="rtl">لأ يا أستاذ، أنا ما بفهمش إنجليزي.</span> | la2 ya ostaz, ana mabafhamsh engelizi. | Não, senhor, eu não entendo inglês. |
+| Homem | <span dir="rtl">أنا بفهم عربي شوية.</span> | ana bafham 3arabi shwayya. | Eu entendo um pouco de árabe. |
+| Mulher | <span dir="rtl">إنتَ أمريكي؟</span> | enta amriki? | O senhor é americano? |
+| Homem | <span dir="rtl">أيوه يا آنسة.</span> | aywa ya 2anesa. | Sim, senhorita. |
+
+## Do que trata
+
+Um estrangeiro pede licença, pergunta se a pessoa fala inglês e diz que entende um pouco de árabe. O diálogo é educado: usa *la mo2a5za* e trata as pessoas por *ya ostaz* e *ya 2anesa*.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">لا مؤاخذة</span> | la mo2a5za | com licença / desculpe |
+| <span dir="rtl">إنجليزي</span> | engelizi | inglês |
+| <span dir="rtl">عربي</span> | 3arabi | árabe |
+| <span dir="rtl">أمريكي</span> | amriki | americano |
+| <span dir="rtl">شوية</span> | shwayya | um pouco |
+| <span dir="rtl">أيوه</span> | aywa | sim |
+| <span dir="rtl">لأ</span> | la2 | não |
+| <span dir="rtl">أستاذ</span> | ostaz | senhor |
+| <span dir="rtl">آنسة</span> | 2anesa | senhorita |
+
+### Conceitos
+
+**Verbo فهم (fehem, entender) no presente.** Leva o prefixo **b-**:
+
+| Pessoa | Árabe | Franco |
+|:--|--:|:--|
+| eu | <span dir="rtl">أنا بفهم</span> | ana bafham |
+| você (m) | <span dir="rtl">إنتَ بتفهم</span> | enta betefham |
+| você (f) | <span dir="rtl">إنتي بتفهمي</span> | enti betefhami |
+
+**Negação ma-…-sh.** O verbo fica entre as duas partes: *bafham* → *mabafhamsh* (não entendo).
+
+**Pergunta sim/não.** A frase não muda; só a entoação sobe: *enta amriki?*
+
+**Vocativo ya.** Usa-se *ya* antes de um título ou nome para chamar a pessoa: *ya ostaz*, *ya 2anesa*.
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">لو سمحتي، بتفهمي إنجليزي؟</span> | law sama7ti, betefhami engelizi? | Por favor, você entende inglês? |
+| Mulher | <span dir="rtl">لأ، ما بفهمش إنجليزي.</span> | la2, mabafhamsh engelizi. | Não, não entendo inglês. |
+| Homem | <span dir="rtl">أنا بفهم عربي شوية.</span> | ana bafham 3arabi shwayya. | Eu entendo um pouco de árabe. |
+| Mulher | <span dir="rtl">إنتَ أمريكي؟</span> | enta amriki? | Você é americano? |
+| Homem | <span dir="rtl">أيوه.</span> | aywa. | Sim. |
+
+*Law sama7t* (لو سمحت) é a forma usada com um homem; *law sama7ti* (لو سمحتي) é a forma usada com uma mulher.

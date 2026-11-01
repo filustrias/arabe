@@ -1,0 +1,42 @@
+# Pimsleur — Lição 02 {.unnumbered}
+
+## Diálogo
+
+Agora é a egípcia quem aborda o americano.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Mulher | <span dir="rtl">لا مؤاخذة يا أستاذ، إنتَ بتفهم عربي؟</span> | la mo2a5za ya ostaz, enta betefham 3arabi? | Com licença, senhor, o senhor entende árabe? |
+| Homem | <span dir="rtl">شوية.</span> | shwayya. | Um pouco. |
+| Mulher | <span dir="rtl">إنتَ أمريكي؟</span> | enta amriki? | O senhor é americano? |
+| Homem | <span dir="rtl">أيوه. إنتي بتفهمي إنجليزي يا آنسة؟</span> | aywa. enti betefhami engelizi ya 2anesa? | Sim. A senhorita entende inglês? |
+| Mulher | <span dir="rtl">لأ يا أستاذ، أنا ما بفهمش إنجليزي.</span> | la2 ya ostaz, ana mabafhamsh engelizi. | Não, senhor, eu não entendo inglês. |
+
+## Do que trata
+
+É uma revisão da Lição 01 com os papéis trocados: ela pergunta primeiro e ele responde. Não há palavras novas.
+
+### Conceitos
+
+**Resposta curta.** Basta uma palavra: *shwayya* (um pouco), *aywa* (sim).
+
+**«Você» muda com o gênero.** O pronome e o verbo concordam com quem ouve:
+
+| Para | Árabe | Franco |
+|:--|--:|:--|
+| homem | <span dir="rtl">إنتَ بتفهم؟</span> | enta betefham? |
+| mulher | <span dir="rtl">إنتي بتفهمي؟</span> | enti betefhami? |
+
+**Ya no fim da frase.** O vocativo pode vir no fim: *enti betefhami engelizi ya 2anesa?*
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Mulher | <span dir="rtl">لو سمحت، بتفهم عربي؟</span> | law sama7t, betefham 3arabi? | Por favor, você entende árabe? |
+| Homem | <span dir="rtl">شوية.</span> | shwayya. | Um pouco. |
+| Mulher | <span dir="rtl">إنتَ أمريكي؟</span> | enta amriki? | Você é americano? |
+| Homem | <span dir="rtl">أيوه. وإنتي، بتفهمي إنجليزي؟</span> | aywa. w enti, betefhami engelizi? | Sim. E você, entende inglês? |
+| Mulher | <span dir="rtl">لأ، ما بفهمش.</span> | la2, mabafhamsh. | Não, não entendo. |
+
+Aqui ela fala com um homem, por isso usa *law sama7t*, sem o *-i* final.
