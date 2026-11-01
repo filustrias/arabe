@@ -1,0 +1,59 @@
+# Pimsleur — Lição 05 {.unnumbered}
+
+## Diálogo
+
+O americano pede informação a uma moça na rua.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">يا آنسة، يا آنسة!</span> | ya 2anesa, ya 2anesa! | Senhorita, senhorita! |
+| Mulher | <span dir="rtl">أيوه يا أستاذ؟</span> | aywa ya ostaz? | Pois não, senhor? |
+| Homem | <span dir="rtl">شارع أبو عباس فين، من فضلك؟</span> | share3 abu 3abbas fein, men fadlek? | Onde fica a rua Abu Abbas, por favor? |
+| Mulher | <span dir="rtl">هو هناك.</span> | howwa hnak. | É ali. |
+| Homem | <span dir="rtl">ومحطة أبو سعيد؟</span> | w ma7attet abu se3id? | E a estação Abu Said? |
+| Mulher | <span dir="rtl">هي هنا.</span> | heyya hena. | É aqui. |
+| Homem | <span dir="rtl">شكرًا يا آنسة. مع السلامة.</span> | shokran ya 2anesa. ma3a salama. | Obrigado, senhorita. Até logo. |
+| Mulher | <span dir="rtl">مع السلامة يا أستاذ.</span> | ma3a salama ya ostaz. | Até logo, senhor. |
+
+## Do que trata
+
+Perguntar onde fica um lugar e entender a resposta: aqui ou ali. Termina com a despedida.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">فين؟</span> | fein? | onde? |
+| <span dir="rtl">شارع</span> | share3 | rua |
+| <span dir="rtl">محطة</span> | ma7atta | estação |
+| <span dir="rtl">هنا</span> | hena | aqui |
+| <span dir="rtl">هناك</span> | hnak | ali / lá |
+| <span dir="rtl">من فضلك</span> | men fadlek | por favor (a mulher) |
+| <span dir="rtl">مع السلامة</span> | ma3a salama | até logo / tchau |
+
+### Conceitos
+
+**Fein no fim.** O lugar vem primeiro e *fein* depois: *share3 … fein?*
+
+**Howwa / heyya = «ele / ela» e também «é».** Concordam com o gênero da coisa:
+
+| Palavra | Gênero | Resposta |
+|:--|:--|:--|
+| share3 | masculino | howwa hnak |
+| ma7atta | feminino | heyya hena |
+
+**Palavras femininas em -a.** Na expressão «estação X», *ma7atta* vira *ma7attet*: *ma7attet abu se3id*.
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">لو سمحتي!</span> | law sama7ti! | Com licença! |
+| Mulher | <span dir="rtl">أيوه؟</span> | aywa? | Sim? |
+| Homem | <span dir="rtl">شارع أبو عباس فين؟</span> | share3 abu 3abbas fein? | Onde é a rua Abu Abbas? |
+| Mulher | <span dir="rtl">هناك.</span> | hnak. | Ali. |
+| Homem | <span dir="rtl">والمحطة؟</span> | wel ma7atta? | E a estação? |
+| Mulher | <span dir="rtl">هنا.</span> | hena. | Aqui. |
+| Homem | <span dir="rtl">شكرًا! سلام.</span> | shokran! salam. | Obrigado! Tchau. |
+
+*Salam* (سلام) é a despedida curta e informal.

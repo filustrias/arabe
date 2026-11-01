@@ -1,0 +1,59 @@
+# Pimsleur — Lição 04 {.unnumbered}
+
+## Diálogo
+
+Agora a americana é uma mulher e o egípcio é um homem.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Mulher | <span dir="rtl">لا مؤاخذة يا أستاذ، إنتَ مصري؟</span> | la mo2a5za ya ostaz, enta masri? | Com licença, senhor, o senhor é egípcio? |
+| Homem | <span dir="rtl">أيوه يا آنسة، أنا مصري. وإنتي؟</span> | aywa ya 2anesa, ana masri. w enti? | Sim, senhorita, sou egípcio. E a senhorita? |
+| Mulher | <span dir="rtl">أنا أمريكية.</span> | ana amrikeyya. | Sou americana. |
+| Homem | <span dir="rtl">لكن إنتي بتفهمي عربي.</span> | lakin enti betefhami 3arabi. | Mas a senhorita entende árabe. |
+| Mulher | <span dir="rtl">شوية. أنا ما بفهمش كويس أوي.</span> | shwayya. ana mabafhamsh kwayyes awi. | Um pouco. Não entendo muito bem. |
+| Homem | <span dir="rtl">أيوه أيوه، إنتي بتتكلمي كويس أوي.</span> | aywa aywa, enti betetkallemi kwayyes awi. | Sim, sim, a senhorita fala muito bem. |
+| Mulher | <span dir="rtl">شكرًا يا أستاذ.</span> | shokran ya ostaz. | Obrigada, senhor. |
+
+## Do que trata
+
+Uma pergunta sobre nacionalidade e um elogio a quem fala árabe. Os egípcios costumam repetir *aywa aywa* para dar ênfase.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">مصري</span> | masri | egípcio |
+| <span dir="rtl">أمريكية</span> | amrikeyya | americana |
+| <span dir="rtl">وإنتي؟</span> | w enti? | e você (f)? |
+| <span dir="rtl">بتتكلمي</span> | betetkallemi | você (f) fala |
+
+### Conceitos
+
+**Nacionalidade no feminino.** Acrescenta-se *-eyya*:
+
+| Masculino | Feminino | Português |
+|:--|:--|:--|
+| masri | masreyya | egípcio/a |
+| amriki | amrikeyya | americano/a |
+
+**Verbo اتكلم (etkallem, falar) no presente.**
+
+| Pessoa | Árabe | Franco |
+|:--|--:|:--|
+| eu | <span dir="rtl">أنا بتكلم</span> | ana batkallem |
+| você (m) | <span dir="rtl">إنتَ بتتكلم</span> | enta betetkallem |
+| você (f) | <span dir="rtl">إنتي بتتكلمي</span> | enti betetkallemi |
+
+**Devolver a pergunta.** *w enta?* / *w enti?* = «e você?».
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Mulher | <span dir="rtl">لو سمحت، إنتَ مصري؟</span> | law sama7t, enta masri? | Por favor, você é egípcio? |
+| Homem | <span dir="rtl">أيوه. وإنتي؟</span> | aywa. w enti? | Sim. E você? |
+| Mulher | <span dir="rtl">أمريكية.</span> | amrikeyya. | Americana. |
+| Homem | <span dir="rtl">بس بتتكلمي عربي كويس أوي!</span> | bas betetkallemi 3arabi kwayyes awi! | Mas você fala árabe muito bem! |
+| Mulher | <span dir="rtl">شوية بس. شكرًا!</span> | shwayya bas. shokran! | Só um pouco. Obrigada! |
+
+*Shwayya bas* = «só um pouco». Aqui *bas* quer dizer «só», e não «mas».

@@ -41,6 +41,8 @@ book:
         - pimsleur_lesson_01.qmd
         - pimsleur_lesson_02.qmd
         - pimsleur_lesson_03.qmd
+        - pimsleur_lesson_04.qmd
+        - pimsleur_lesson_05.qmd
 
 bibliography: references.bib
 format:
