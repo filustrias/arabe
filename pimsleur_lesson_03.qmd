@@ -1,0 +1,58 @@
+# Pimsleur — Lição 03 {.unnumbered}
+
+## Diálogo
+
+Uma senhora egípcia cumprimenta o americano pela manhã.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Mulher | <span dir="rtl">صباح الخير يا أستاذ. إزيك؟</span> | saba7 el5eir ya ostaz. ezzayyak? | Bom dia, senhor. Como está? |
+| Homem | <span dir="rtl">كويس يا مدام، شكرًا.</span> | kwayyes ya madam, shokran. | Bem, senhora, obrigado. |
+| Mulher | <span dir="rtl">آه، إنتَ بتفهم عربي؟</span> | ah, enta betefham 3arabi? | Ah, o senhor entende árabe? |
+| Homem | <span dir="rtl">أيوه يا مدام، شوية. مش كويس أوي.</span> | aywa ya madam, shwayya. mesh kwayyes awi. | Sim, senhora, um pouco. Não muito bem. |
+| Mulher | <span dir="rtl">إنتَ أمريكي يا أستاذ؟</span> | enta amriki ya ostaz? | O senhor é americano? |
+| Homem | <span dir="rtl">أيوه.</span> | aywa. | Sim. |
+| Mulher | <span dir="rtl">لكن إنتَ بتفهم عربي كويس أوي.</span> | lakin enta betefham 3arabi kwayyes awi. | Mas o senhor entende árabe muito bem. |
+
+## Do que trata
+
+Uma saudação de manhã, a pergunta «como está?» e um elogio ao árabe do americano.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">صباح الخير</span> | saba7 el5eir | bom dia |
+| <span dir="rtl">إزيك</span> | ezzayyak | como está? (a homem) |
+| <span dir="rtl">كويس</span> | kwayyes | bem / bom |
+| <span dir="rtl">شكرًا</span> | shokran | obrigado |
+| <span dir="rtl">مدام</span> | madam | senhora |
+| <span dir="rtl">أوي</span> | awi | muito |
+| <span dir="rtl">لكن</span> | lakin | mas |
+
+### Conceitos
+
+**Negação com mesh.** Antes de adjetivos usa-se *mesh*: *mesh kwayyes* (não está bem). Com verbos continua *ma-…-sh*: *mabafhamsh*.
+
+**Awi depois do adjetivo.** O intensificador vem depois: *kwayyes awi* (muito bem).
+
+**Gênero.** Algumas palavras mudam conforme se fala com um homem ou com uma mulher:
+
+| Para | Árabe | Franco |
+|:--|--:|:--|
+| homem | <span dir="rtl">إزيك؟ — كويس</span> | ezzayyak? — kwayyes |
+| mulher | <span dir="rtl">إزيك؟ — كويسة</span> | ezzayyek? — kwayyesa |
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Mulher | <span dir="rtl">صباح الخير! إزيك؟</span> | saba7 el5eir! ezzayyak? | Bom dia! Como vai? |
+| Homem | <span dir="rtl">كويس، الحمد لله.</span> | kwayyes, el7amdu lellah. | Bem, graças a Deus. |
+| Mulher | <span dir="rtl">بتفهم عربي؟</span> | betefham 3arabi? | Entende árabe? |
+| Homem | <span dir="rtl">شوية، مش أوي.</span> | shwayya, mesh awi. | Um pouco, não muito. |
+| Mulher | <span dir="rtl">أمريكي؟</span> | amriki? | Americano? |
+| Homem | <span dir="rtl">أيوه.</span> | aywa. | Sim. |
+| Mulher | <span dir="rtl">بس عربيك كويس أوي!</span> | bas 3arabeyyak kwayyes awi! | Mas o seu árabe é muito bom! |
+
+*Bas* (بس) é o «mas» do dia a dia; *lakin* é mais formal. Responder *el7amdu lellah* a *ezzayyak?* é muito comum.

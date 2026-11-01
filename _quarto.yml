@@ -40,6 +40,7 @@ book:
       chapters:
         - pimsleur_lesson_01.qmd
         - pimsleur_lesson_02.qmd
+        - pimsleur_lesson_03.qmd
 
 bibliography: references.bib
 format:
