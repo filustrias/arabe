@@ -1,0 +1,62 @@
+# Pimsleur — Lição 09 {.unnumbered}
+
+## Diálogo
+
+Hani e Mona decidem onde comer.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Hani | <span dir="rtl">صباح الخير يا منى. إزيك؟</span> | saba7 el5eir ya mona. ezzayyek? | Bom dia, Mona. Como está? |
+| Mona | <span dir="rtl">كويسة يا هاني، شكرًا.</span> | kwayyesa ya hani, shokran. | Bem, Hani, obrigada. |
+| Hani | <span dir="rtl">قوليلي يا منى، تحبي تعملي إيه دلوقتي؟</span> | 2olili ya mona, te7ebbi te3mili eih delwa2ti? | Diga-me, Mona, o que você quer fazer agora? |
+| Mona | <span dir="rtl">أنا؟ معرفش. وإنتَ؟</span> | ana? ma3rafsh. w enta? | Eu? Não sei. E você? |
+| Hani | <span dir="rtl">أنا أحب آكل دلوقتي. تحبي تاكلي معايا؟</span> | ana a7ebb akol delwa2ti. te7ebbi takli ma3aya? | Eu queria comer agora. Quer comer comigo? |
+| Mona | <span dir="rtl">أيوه، لكن أحب آكل في مطعم الهرم. طيب؟</span> | aywa, lakin a7ebb akol fi mat3am el haram. tayyeb? | Sim, mas queria comer no restaurante Al-Haram. Pode ser? |
+| Hani | <span dir="rtl">مطعم الهرم فين؟</span> | mat3am el haram fein? | Onde fica o restaurante Al-Haram? |
+| Mona | <span dir="rtl">هو هناك، في شارع أبو عباس.</span> | howwa hnak, fi share3 abu 3abbas. | Fica ali, na rua Abu Abbas. |
+| Hani | <span dir="rtl">آه، أيوه، عارف. طيب.</span> | ah, aywa, 3aref. tayyeb. | Ah, sim, sei. Está bem. |
+
+## Do que trata
+
+Combinar o que fazer e onde comer. Introduz «saber / não saber» e «comigo».
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">قوليلي</span> | 2olili | diga-me (a mulher) |
+| <span dir="rtl">تعملي إيه؟</span> | te3mili eih? | (você f) fazer o quê? |
+| <span dir="rtl">دلوقتي</span> | delwa2ti | agora |
+| <span dir="rtl">معرفش</span> | ma3rafsh | não sei |
+| <span dir="rtl">عارف</span> | 3aref | sei (homem) |
+| <span dir="rtl">معايا</span> | ma3aya | comigo |
+| <span dir="rtl">مطعم</span> | mat3am | restaurante |
+| <span dir="rtl">في</span> | fi | em |
+| <span dir="rtl">طيب</span> | tayyeb | está bem / pode ser |
+
+### Conceitos
+
+**Eih no fim.** A pergunta «o quê?» vem depois do verbo: *te3mili eih?*
+
+**Saber.** Usa-se o particípio *3aref*, que concorda com quem fala:
+
+| Pessoa | Afirmativo | Negativo |
+|:--|:--|:--|
+| homem | 3aref | ma3rafsh |
+| mulher | 3arfa | ma3rafsh |
+
+**Tayyeb?** No fim da frase pede acordo: «está bem?».
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Hani | <span dir="rtl">إزيك يا منى؟</span> | ezzayyek ya mona? | Tudo bem, Mona? |
+| Mona | <span dir="rtl">تمام.</span> | tamam. | Tudo. |
+| Hani | <span dir="rtl">عايزة تعملي إيه؟</span> | 3ayza te3mili eih? | O que você quer fazer? |
+| Mona | <span dir="rtl">معرفش. إنتَ؟</span> | ma3rafsh. enta? | Não sei. E você? |
+| Hani | <span dir="rtl">جعان. ناكل سوا؟</span> | ga3an. nakol sawa? | Estou com fome. Comemos juntos? |
+| Mona | <span dir="rtl">ماشي، في الهرم.</span> | mashi, fel haram. | Combinado, no Al-Haram. |
+| Hani | <span dir="rtl">عارف. يلا.</span> | 3aref. yalla. | Sei onde é. Vamos. |
+
+*3ayez / 3ayza* (quero) é mais comum no dia a dia que *a7ebb*. *Sawa* = juntos.

@@ -1,0 +1,47 @@
+# Pimsleur — Lição 07 {.unnumbered}
+
+## Diálogo
+
+Um homem pergunta a uma moça quando ela quer comer.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">يا آنسة.</span> | ya 2anesa. | Senhorita. |
+| Mulher | <span dir="rtl">أيوه يا أستاذ.</span> | aywa ya ostaz. | Pois não, senhor. |
+| Homem | <span dir="rtl">تحبي تاكلي إمتى يا آنسة؟ دلوقتي؟</span> | te7ebbi takli emta ya 2anesa? delwa2ti? | Quando quer comer, senhorita? Agora? |
+| Mulher | <span dir="rtl">لأ يا أستاذ، مش دلوقتي. بعدين من فضلك. لكن أحب أشرب حاجة دلوقتي.</span> | la2 ya ostaz, mesh delwa2ti. ba3dein men fadlak. lakin a7ebb ashrab 7aga delwa2ti. | Não, senhor, agora não. Depois, por favor. Mas queria beber algo agora. |
+| Homem | <span dir="rtl">فين؟</span> | fein? | Onde? |
+| Mulher | <span dir="rtl">معرفش.</span> | ma3rafsh. | Não sei. |
+| Homem | <span dir="rtl">في المطعم؟</span> | fel mat3am? | No restaurante? |
+| Mulher | <span dir="rtl">أيوه، كويس أوي.</span> | aywa, kwayyes awi. | Sim, muito bem. |
+
+## Do que trata
+
+Perguntar e responder «quando?»: agora ou depois.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">إمتى؟</span> | emta? | quando? |
+| <span dir="rtl">دلوقتي</span> | delwa2ti | agora |
+| <span dir="rtl">بعدين</span> | ba3dein | depois |
+| <span dir="rtl">من فضلك</span> | men fadlak | por favor (a homem) |
+| <span dir="rtl">في المطعم</span> | fel mat3am | no restaurante |
+
+### Conceitos
+
+**Emta no fim.** Como *fein* e *eih*, a palavra interrogativa vem depois: *te7ebbi takli emta?*
+
+**Mesh + advérbio.** *mesh delwa2ti* = «agora não».
+
+**Men fadlak / men fadlek.** Muda com quem ouve: *-ak* para homem, *-ek* para mulher.
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">تاكلي دلوقتي؟</span> | takli delwa2ti? | Come agora? |
+| Mulher | <span dir="rtl">لأ، بعدين. بس عايزة أشرب حاجة.</span> | la2, ba3dein. bas 3ayza ashrab 7aga. | Não, depois. Mas quero beber algo. |
+| Homem | <span dir="rtl">فين؟ في المطعم؟</span> | fein? fel mat3am? | Onde? No restaurante? |
+| Mulher | <span dir="rtl">ماشي.</span> | mashi. | Combinado. |

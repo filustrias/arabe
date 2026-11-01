@@ -1,0 +1,55 @@
+# Pimsleur — Lição 10 {.unnumbered}
+
+## Diálogo
+
+Duas pessoas combinam a hora de comer juntas.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">يا عباس، أحب آكل معاك. طيب؟</span> | ya 3abbas, a7ebb akol ma3ak. tayyeb? | Abbas, queria comer com você. Pode ser? |
+| Abbas | <span dir="rtl">أيوه، لكن الساعة كام؟ الساعة اتنين؟</span> | aywa, lakin essa3a kam? essa3a etnein? | Sim, mas a que horas? Às duas? |
+| A | <span dir="rtl">لأ، بعدين.</span> | la2, ba3dein. | Não, mais tarde. |
+| Abbas | <span dir="rtl">آه، فاهم. الساعة تمانية أو الساعة تسعة؟</span> | ah, fahem. essa3a tamanya aw essa3a tes3a? | Ah, entendo. Às oito ou às nove? |
+| A | <span dir="rtl">أيوه، الساعة تسعة.</span> | aywa, essa3a tes3a. | Sim, às nove. |
+| Abbas | <span dir="rtl">طيب، مع السلامة.</span> | tayyeb, ma3a salama. | Está bem, até logo. |
+
+## Do que trata
+
+Marcar um horário. Introduz as horas e «com você».
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">معاك</span> | ma3ak | com você (m) |
+| <span dir="rtl">الساعة كام؟</span> | essa3a kam? | a que horas? / que horas são? |
+| <span dir="rtl">اتنين</span> | etnein | dois |
+| <span dir="rtl">تمانية</span> | tamanya | oito |
+| <span dir="rtl">تسعة</span> | tes3a | nove |
+| <span dir="rtl">فاهم</span> | fahem | entendo (homem) |
+| <span dir="rtl">أو</span> | aw | ou |
+
+### Conceitos
+
+**Horas.** Diz-se *essa3a* + número: *essa3a tes3a* = «às nove / são nove».
+
+**Ma3a + pessoa.**
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">معايا</span> | ma3aya | comigo |
+| <span dir="rtl">معاك</span> | ma3ak | com você (m) |
+| <span dir="rtl">معاكي</span> | ma3aki | com você (f) |
+
+**Fahem / fahma.** Como *3aref*, concorda com quem fala: *fahem* (homem), *fahma* (mulher).
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">ناكل سوا يا عباس؟</span> | nakol sawa ya 3abbas? | Comemos juntos, Abbas? |
+| Abbas | <span dir="rtl">ماشي. الساعة اتنين؟</span> | mashi. essa3a etnein? | Combinado. Às duas? |
+| A | <span dir="rtl">لأ، بالليل.</span> | la2, bel leil. | Não, à noite. |
+| Abbas | <span dir="rtl">تمانية ولا تسعة؟</span> | tamanya walla tes3a? | Oito ou nove? |
+| A | <span dir="rtl">تسعة.</span> | tes3a. | Nove. |
+| Abbas | <span dir="rtl">تمام، سلام.</span> | tamam, salam. | Certo, tchau. |

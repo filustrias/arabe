@@ -43,6 +43,11 @@ book:
         - pimsleur_lesson_03.qmd
         - pimsleur_lesson_04.qmd
         - pimsleur_lesson_05.qmd
+        - pimsleur_lesson_06.qmd
+        - pimsleur_lesson_07.qmd
+        - pimsleur_lesson_08.qmd
+        - pimsleur_lesson_09.qmd
+        - pimsleur_lesson_10.qmd
 
 bibliography: references.bib
 format:
