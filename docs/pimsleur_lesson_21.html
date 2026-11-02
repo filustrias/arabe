@@ -897,6 +897,75 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<style>
+.franco-todos { background: none; border: 1px solid currentColor; border-radius: 0.3em; color: inherit; cursor: pointer; font: inherit; font-size: 0.85em; margin: 0.5em 0 1em 0; padding: 0.25em 0.7em; }
+.franco-celula { background: none; border: none; border-radius: 0.3em; color: inherit; font: inherit; padding: 0 0.35em; text-align: inherit; cursor: pointer; }
+.franco-celula[aria-expanded="false"] { background: rgba(128, 128, 128, 0.3); }
+.franco-celula[aria-expanded="false"] .franco-texto { visibility: hidden; }
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var celulas = [];
+  var primeiraTabela = null;
+
+  document.querySelectorAll("main table").forEach(function (tabela) {
+    var titulos = Array.from(tabela.querySelectorAll("thead th"));
+    var coluna = titulos.findIndex(function (th) {
+      return th.textContent.trim().toLowerCase() === "franco";
+    });
+    if (coluna === -1) return;
+    primeiraTabela = primeiraTabela || tabela;
+
+    tabela.querySelectorAll("tbody tr").forEach(function (linha) {
+      var td = linha.cells[coluna];
+      if (!td) return;
+      var botao = document.createElement("button");
+      var texto = document.createElement("span");
+      botao.type = "button";
+      botao.className = "franco-celula";
+      texto.className = "franco-texto";
+      while (td.firstChild) texto.appendChild(td.firstChild);
+      botao.appendChild(texto);
+      td.appendChild(botao);
+      botao.addEventListener("click", function () {
+        definir(botao, botao.getAttribute("aria-expanded") === "false");
+        atualizarGeral();
+      });
+      celulas.push(botao);
+    });
+  });
+
+  if (!primeiraTabela) return;
+
+  var geral = document.createElement("button");
+  geral.type = "button";
+  geral.className = "franco-todos";
+  primeiraTabela.parentNode.insertBefore(geral, primeiraTabela);
+
+  function definir(botao, visivel) {
+    botao.setAttribute("aria-expanded", visivel ? "true" : "false");
+    if (visivel) botao.removeAttribute("aria-label");
+    else botao.setAttribute("aria-label", "Mostrar franco");
+  }
+
+  function atualizarGeral() {
+    var todosVisiveis = celulas.every(function (b) {
+      return b.getAttribute("aria-expanded") === "true";
+    });
+    geral.textContent = todosVisiveis ? "Ocultar todo o franco" : "Mostrar todo o franco";
+    geral.dataset.mostrar = todosVisiveis ? "nao" : "sim";
+  }
+
+  geral.addEventListener("click", function () {
+    var visivel = geral.dataset.mostrar === "sim";
+    celulas.forEach(function (b) { definir(b, visivel); });
+    atualizarGeral();
+  });
+
+  celulas.forEach(function (b) { definir(b, false); });
+  atualizarGeral();
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
