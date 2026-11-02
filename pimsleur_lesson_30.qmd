@@ -1,3 +1,9 @@
+---
+format:
+  html:
+    include-after-body: pimsleur_franco.html
+---
+
 # Pimsleur — Lição 30 {.unnumbered}
 
 ## Diálogo
