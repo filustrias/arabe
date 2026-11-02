@@ -1,0 +1,58 @@
+# Pimsleur — Lição 19 {.unnumbered}
+
+## Diálogo
+
+Uma americana e o marido, Jack, num restaurante no Cairo.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Garçom | <span dir="rtl">مساء الخير يا مدام.</span> | masa2 el5eir ya madam. | Boa noite, senhora. |
+| Mulher | <span dir="rtl">مساء الخير يا أستاذ.</span> | masa2 el5eir ya ostaz. | Boa noite, senhor. |
+| Garçom | <span dir="rtl">تحبوا تشربوا حاجة؟</span> | te7ebbu teshrabu 7aga? | Querem beber alguma coisa? |
+| Mulher | <span dir="rtl">أيوه، من فضلك. عندك إيه؟</span> | aywa, men fadlak. 3andak eih? | Sim, por favor. O que tem? |
+| Garçom | <span dir="rtl">شاي أو قهوة يا مدام.</span> | shay aw 2ahwa ya madam. | Chá ou café, senhora. |
+| Mulher | <span dir="rtl">جاك، تحب تشرب شوية قهوة؟</span> | jack, te7ebb teshrab shwayyet 2ahwa? | Jack, quer beber um pouco de café? |
+| Jack | <span dir="rtl">لأ، مش قهوة. شاي. أحب أشرب شوية شاي.</span> | la2, mesh 2ahwa. shay. a7ebb ashrab shwayyet shay. | Não, café não. Chá. Queria beber um pouco de chá. |
+| Mulher | <span dir="rtl">جوزي يحب يشرب شاي.</span> | gozi ye7ebb yeshrab shay. | Meu marido quer beber chá. |
+| Garçom | <span dir="rtl">طيب، واحد شاي. وإنتي يا مدام؟</span> | tayyeb, wa7ed shay. w enti ya madam? | Está bem, um chá. E a senhora? |
+| Mulher | <span dir="rtl">أنا هشرب قهوة.</span> | ana hashrab 2ahwa. | Eu vou beber café. |
+| Garçom | <span dir="rtl">يبقى واحد شاي وواحد قهوة.</span> | yeb2a wa7ed shay w wa7ed 2ahwa. | Então um chá e um café. |
+
+## Do que trata
+
+Pedir bebidas para duas pessoas. Introduz o «vocês», o «ele» e «meu marido».
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">تحبوا تشربوا</span> | te7ebbu teshrabu | vocês querem beber |
+| <span dir="rtl">عندك إيه؟</span> | 3andak eih? | o que você (m) tem? |
+| <span dir="rtl">جوزي</span> | gozi | meu marido |
+| <span dir="rtl">يحب يشرب</span> | ye7ebb yeshrab | ele quer beber |
+| <span dir="rtl">واحد</span> | wa7ed | um |
+
+### Conceitos
+
+**Mais pessoas no verbo 7abb.**
+
+| Pessoa | Árabe | Franco |
+|:--|--:|:--|
+| ele | <span dir="rtl">يحب يشرب</span> | ye7ebb yeshrab |
+| vocês | <span dir="rtl">تحبوا تشربوا</span> | te7ebbu teshrabu |
+
+**Pedir com wa7ed.** *wa7ed shay* = «um chá». Como *etnein shay*, a bebida fica no singular.
+
+**Futuro com ha-.** *ana hashrab 2ahwa* = «vou beber café».
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Garçom | <span dir="rtl">تشربوا إيه؟</span> | teshrabu eih? | O que vão beber? |
+| Mulher | <span dir="rtl">عندك إيه؟</span> | 3andak eih? | O que tem? |
+| Garçom | <span dir="rtl">شاي، قهوة…</span> | shay, 2ahwa… | Chá, café… |
+| Mulher | <span dir="rtl">واحد شاي لجوزي وواحد قهوة ليا.</span> | wa7ed shay le gozi w wa7ed 2ahwa leyya. | Um chá para o meu marido e um café para mim. |
+| Garçom | <span dir="rtl">حاضر.</span> | 7ader. | Pois não. |
+
+*Leyya* = para mim; *7ader* = «às ordens», resposta comum de quem atende.

@@ -1,0 +1,50 @@
+# Pimsleur — Lição 16 {.unnumbered}
+
+## Diálogo
+
+Samir telefona para Mona à noite.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Samir | <span dir="rtl">ألو، منى؟ مساء الخير.</span> | alo, mona? masa2 el5eir. | Alô, Mona? Boa noite. |
+| Mona | <span dir="rtl">مساء النور يا سمير. إزاي الحال؟</span> | masa2 ennur ya samir. ezzay el7al? | Boa noite, Samir. Como vão as coisas? |
+| Samir | <span dir="rtl">كويس، شكرًا. قوليلي يا منى، تحبي تاكلي معايا؟</span> | kwayyes, shokran. 2olili ya mona, te7ebbi takli ma3aya? | Bem, obrigado. Diga, Mona, quer comer comigo? |
+| Mona | <span dir="rtl">أيوه. إمتى؟ مش النهارده بالليل؟</span> | aywa. emta? mesh ennaharda bel leil? | Sim. Quando? Não é hoje à noite? |
+| Samir | <span dir="rtl">لأ، بكره بالليل.</span> | la2, bokra bel leil. | Não, amanhã à noite. |
+| Mona | <span dir="rtl">طيب.</span> | tayyeb. | Está bem. |
+| Samir | <span dir="rtl">الساعة سبعة؟</span> | essa3a sab3a? | Às sete? |
+| Mona | <span dir="rtl">طيب.</span> | tayyeb. | Está bem. |
+| Samir | <span dir="rtl">تحبي تاكلي فين يا منى؟</span> | te7ebbi takli fein ya mona? | Onde quer comer, Mona? |
+| Mona | <span dir="rtl">في مطعم الهرم. طيب؟</span> | fi mat3am el haram. tayyeb? | No restaurante Al-Haram. Pode ser? |
+| Samir | <span dir="rtl">طيب. مع السلامة يا منى.</span> | tayyeb. ma3a salama ya mona. | Está bem. Tchau, Mona. |
+
+## Do que trata
+
+Revisão de convite e horário, agora à noite. Novo: o cumprimento da noite e *ezzay el7al?*
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">مساء الخير</span> | masa2 el5eir | boa noite / boa tarde |
+| <span dir="rtl">مساء النور</span> | masa2 ennur | boa noite (resposta) |
+| <span dir="rtl">إزاي الحال؟</span> | ezzay el7al? | como vão as coisas? |
+
+### Conceitos
+
+**Par de cumprimento.** Como de manhã: *masa2 el5eir* → *masa2 ennur*.
+
+**Ezzay el7al?** Não muda com o gênero, ao contrário de *ezzayyak / ezzayyek*.
+
+**Três perguntas no fim.** *emta?* (quando), *fein?* (onde), *kam?* (quanto): *te7ebbi takli fein?*
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Samir | <span dir="rtl">مساء الخير يا منى! إزيك؟</span> | masa2 el5eir ya mona! ezzayyek? | Boa noite, Mona! Tudo bem? |
+| Mona | <span dir="rtl">تمام. وإنتَ؟</span> | tamam. w enta? | Tudo. E você? |
+| Samir | <span dir="rtl">نتعشى سوا بكره؟</span> | net3asha sawa bokra? | Jantamos juntos amanhã? |
+| Mona | <span dir="rtl">ماشي. فين؟</span> | mashi. fein? | Combinado. Onde? |
+| Samir | <span dir="rtl">في الهرم، الساعة سبعة.</span> | fel haram, essa3a sab3a. | No Al-Haram, às sete. |
+| Mona | <span dir="rtl">تمام. سلام.</span> | tamam. salam. | Certo. Tchau. |

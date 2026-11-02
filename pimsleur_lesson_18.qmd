@@ -1,0 +1,54 @@
+# Pimsleur — Lição 18 {.unnumbered}
+
+## Diálogo
+
+Charles e Anne estão no Egito. Ela quer comprar um livro.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Anne | <span dir="rtl">يا شارل!</span> | ya sharl! | Charles! |
+| Charles | <span dir="rtl">أيوه، عايزة إيه؟</span> | aywa, 3ayza eih? | Sim, o que você quer? |
+| Anne | <span dir="rtl">عايزة أشتري حاجة يا شارل.</span> | 3ayza ashteri 7aga ya sharl. | Quero comprar uma coisa, Charles. |
+| Charles | <span dir="rtl">آه، عايزة تشتري إيه؟</span> | ah, 3ayza teshteri eih? | Ah, quer comprar o quê? |
+| Anne | <span dir="rtl">كتاب. كتاب جميل أوي.</span> | ketab. ketab gamil awi. | Um livro. Um livro muito bonito. |
+| Charles | <span dir="rtl">أيوه. وبكام الكتاب ده؟</span> | aywa. w bekam elketab da? | Sim. E quanto custa esse livro? |
+| Anne | <span dir="rtl">مش غالي أوي. خمسين جنيه.</span> | mesh 8ali awi. 5amsin geneih. | Não é muito caro. Cinquenta libras. |
+| Charles | <span dir="rtl">خمسين جنيه؟ ده عشرين دولار!</span> | 5amsin geneih? da 3eshrin dolar! | Cinquenta libras? Isso são vinte dólares! |
+| Anne | <span dir="rtl">لأ، ده مش غالي أوي. يبقى اديلي شوية فلوس من فضلك.</span> | la2, da mesh 8ali awi. yeb2a eddili shwayyet felus men fadlak. | Não, não é muito caro. Então me dê um pouco de dinheiro, por favor. |
+| Charles | <span dir="rtl">طيب، اتفضلي تلاتين جنيه. ده كفاية؟</span> | tayyeb, etfaddali talatin geneih. da kefaya? | Está bem, tome trinta libras. Chega? |
+| Anne | <span dir="rtl">أيوه، ده كفاية. أنا كمان عندي شوية فلوس. شكرًا يا شارل.</span> | aywa, da kefaya. ana kaman 3andi shwayyet felus. shokran ya sharl. | Sim, chega. Eu também tenho um pouco de dinheiro. Obrigada, Charles. |
+
+## Do que trata
+
+Dizer o que se quer, perguntar o preço de algo e discutir se é caro.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عايز / عايزة</span> | 3ayez / 3ayza | quero (m / f) |
+| <span dir="rtl">كتاب</span> | ketab | livro |
+| <span dir="rtl">جميل</span> | gamil | bonito |
+| <span dir="rtl">غالي</span> | 8ali | caro |
+| <span dir="rtl">خمسين</span> | 5amsin | cinquenta |
+
+### Conceitos
+
+**3ayez + verbo.** Como *a7ebb*, mas mais direto: *3ayza ashteri* (quero comprar). Concorda com quem quer: *3ayez* (m), *3ayza* (f).
+
+**Substantivo + da.** «Este livro» = *elketab da*. O demonstrativo vem depois, e o substantivo leva *el-*.
+
+**Da kefaya?** «Isto chega?» A resposta é *aywa, da kefaya*.
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Anne | <span dir="rtl">شارل، شوف الكتاب ده!</span> | sharl, shouf elketab da! | Charles, olha este livro! |
+| Charles | <span dir="rtl">حلو. بكام؟</span> | 7elw. bekam? | Bonito. Quanto custa? |
+| Anne | <span dir="rtl">بخمسين.</span> | be5amsin. | Cinquenta. |
+| Charles | <span dir="rtl">غالي!</span> | 8ali! | Caro! |
+| Anne | <span dir="rtl">لأ، مش أوي. اديلي تلاتين.</span> | la2, mesh awi. eddili talatin. | Não muito. Me dê trinta. |
+| Charles | <span dir="rtl">ماشي، اتفضلي.</span> | mashi, etfaddali. | Está bem, tome. |
+
+*7elw* = bonito / bom (muito usado); *shouf* = olha.

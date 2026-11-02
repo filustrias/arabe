@@ -1,0 +1,52 @@
+# Pimsleur — Lição 17 {.unnumbered}
+
+## Diálogo
+
+O Sr. Peters conversa com a Sra. Peters.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Sr. Peters | <span dir="rtl">هتعملي إيه النهارده؟</span> | hate3mili eih ennaharda? | O que você vai fazer hoje? |
+| Sra. Peters | <span dir="rtl">هشتري حاجة النهارده.</span> | hashteri 7aga ennaharda. | Vou comprar uma coisa hoje. |
+| Sr. Peters | <span dir="rtl">لكن عندك فلوس؟</span> | lakin 3andek felus? | Mas você tem dinheiro? |
+| Sra. Peters | <span dir="rtl">لأ، ما عنديش كتير.</span> | la2, ma3andish ketir. | Não, não tenho muito. |
+| Sr. Peters | <span dir="rtl">عندك كام جنيه؟</span> | 3andek kam geneih? | Quantas libras você tem? |
+| Sra. Peters | <span dir="rtl">خمسة وتلاتين أو أربعين.</span> | 5amsa w talatin aw arba3in. | Trinta e cinco ou quarenta. |
+| Sr. Peters | <span dir="rtl">وعندك كام دولار؟</span> | w 3andek kam dolar? | E quantos dólares você tem? |
+| Sra. Peters | <span dir="rtl">عندي خمستاشر أو عشرين دولار. ده مش كفاية. اديلي شوية فلوس من فضلك.</span> | 3andi 5amastashar aw 3eshrin dolar. da mesh kefaya. eddili shwayyet felus men fadlak. | Tenho quinze ou vinte dólares. Não é suficiente. Me dê um pouco de dinheiro, por favor. |
+| Sr. Peters | <span dir="rtl">طيب.</span> | tayyeb. | Está bem. |
+
+## Do que trata
+
+Planos para o dia e quanto dinheiro se tem.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هتعملي إيه؟</span> | hate3mili eih? | o que você (f) vai fazer? |
+| <span dir="rtl">فلوس</span> | felus | dinheiro |
+| <span dir="rtl">كتير</span> | ketir | muito |
+| <span dir="rtl">عشرين</span> | 3eshrin | vinte |
+| <span dir="rtl">تلاتين</span> | talatin | trinta |
+| <span dir="rtl">أربعين</span> | arba3in | quarenta |
+| <span dir="rtl">كفاية</span> | kefaya | suficiente |
+| <span dir="rtl">اديلي</span> | eddili | me dê |
+
+### Conceitos
+
+**Dezenas.** Terminam em *-in*: *3eshrin* (20), *talatin* (30), *arba3in* (40). O 35 diz-se «cinco e trinta»: *5amsa w talatin*.
+
+**Ma3andish ketir.** «Não tenho muito»: a negação de *3andi* + *ketir*.
+
+**Shwayyet + substantivo.** «Um pouco de»: *shwayyet felus* (um pouco de dinheiro).
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Sr. Peters | <span dir="rtl">رايحة فين النهارده؟</span> | ray7a fein ennaharda? | Aonde vai hoje? |
+| Sra. Peters | <span dir="rtl">هشتري شوية حاجات.</span> | hashteri shwayyet 7agat. | Vou comprar umas coisas. |
+| Sr. Peters | <span dir="rtl">معاكي فلوس؟</span> | ma3aki felus? | Tem dinheiro aí? |
+| Sra. Peters | <span dir="rtl">مش كفاية. اديلي شوية.</span> | mesh kefaya. eddili shwayya. | Não o suficiente. Me dê um pouco. |
+| Sr. Peters | <span dir="rtl">اتفضلي.</span> | etfaddali. | Tome. |

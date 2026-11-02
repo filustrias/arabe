@@ -1,0 +1,55 @@
+# Pimsleur — Lição 20 {.unnumbered}
+
+## Diálogo
+
+O Sr. Jones visita a casa do casal Ramzi.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Jones | <span dir="rtl">مدام رمزي؟</span> | madam ramzi? | Sra. Ramzi? |
+| Sra. Ramzi | <span dir="rtl">آه، أستاذ جونز! أهلًا وسهلًا. إزيك؟</span> | ah, ostaz jones! ahlan w sahlan. ezzayyak? | Ah, Sr. Jones! Seja bem-vindo. Como está? |
+| Jones | <span dir="rtl">كويس أوي، شكرًا. وإنتي؟</span> | kwayyes awi, shokran. w enti? | Muito bem, obrigado. E a senhora? |
+| Sra. Ramzi | <span dir="rtl">أنا كويسة أوي.</span> | ana kwayyesa awi. | Estou muito bem. |
+| Jones | <span dir="rtl">يا مدام، أحب أتكلم مع الأستاذ رمزي. هو هنا؟</span> | ya madam, a7ebb atkallem ma3a el ostaz ramzi. howwa hena? | Senhora, gostaria de falar com o Sr. Ramzi. Ele está? |
+| Sra. Ramzi | <span dir="rtl">جوزي؟ أيوه، هو هنا. سمير! الأستاذ جونز هنا.</span> | gozi? aywa, howwa hena. samir! el ostaz jones hena. | Meu marido? Sim, está aqui. Samir! O Sr. Jones está aqui. |
+| Jones | <span dir="rtl">اتشرفت يا أستاذ رمزي.</span> | etsharraft ya ostaz ramzi. | Muito prazer, Sr. Ramzi. |
+| Sra. Ramzi | <span dir="rtl">تحب تشرب إيه يا أستاذ جونز؟ قهوة؟ شاي؟</span> | te7ebb teshrab eih ya ostaz jones? 2ahwa? shay? | O que quer beber, Sr. Jones? Café? Chá? |
+| Jones | <span dir="rtl">لأ، شكرًا يا مدام. أحب أشرب شوية مية من فضلك.</span> | la2, shokran ya madam. a7ebb ashrab shwayyet mayya men fadlek. | Não, obrigado, senhora. Queria beber um pouco de água, por favor. |
+| Sr. Ramzi | <span dir="rtl">قولّي يا أستاذ جونز، المدام جونز فين؟ هي معاك؟</span> | 2olli ya ostaz jones, el madam jones fein? heyya ma3ak? | Diga, Sr. Jones, onde está a Sra. Jones? Ela está com o senhor? |
+| Jones | <span dir="rtl">لأ، مراتي مش معايا. هي في أمريكا.</span> | la2, merati mesh ma3aya. heyya fi amrika. | Não, minha esposa não está comigo. Ela está nos Estados Unidos. |
+
+## Do que trata
+
+Uma visita: receber alguém, apresentar-se e oferecer bebida.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أهلًا وسهلًا</span> | ahlan w sahlan | seja bem-vindo |
+| <span dir="rtl">اتشرفت</span> | etsharraft | muito prazer |
+| <span dir="rtl">مية</span> | mayya | água |
+| <span dir="rtl">مراتي</span> | merati | minha esposa |
+| <span dir="rtl">قولّي</span> | 2olli | diga-me (a homem) |
+| <span dir="rtl">أمريكا</span> | amrika | Estados Unidos |
+
+### Conceitos
+
+**«Meu / minha» com -i.** *gozi* (meu marido), *merati* (minha esposa). *Merat* vem de *mara*: o *-a* final vira *-at* antes do sufixo.
+
+**Estar em algum lugar.** Não há verbo: *howwa hena* (ele está aqui), *heyya fi amrika* (ela está nos EUA).
+
+**2olli / 2olili.** «Diga-me» muda com quem ouve: *2olli* (homem), *2olili* (mulher).
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Sra. Ramzi | <span dir="rtl">أهلًا! اتفضل.</span> | ahlan! etfaddal. | Olá! Entre. |
+| Jones | <span dir="rtl">سمير موجود؟</span> | samir mawgoud? | O Samir está? |
+| Sra. Ramzi | <span dir="rtl">أيوه، جوه. تشرب إيه؟</span> | aywa, gowwa. teshrab eih? | Está, lá dentro. Bebe o quê? |
+| Jones | <span dir="rtl">مية بس، شكرًا.</span> | mayya bas, shokran. | Só água, obrigado. |
+| Samir | <span dir="rtl">ومراتك فين؟</span> | w meratak fein? | E sua esposa, onde está? |
+| Jones | <span dir="rtl">في أمريكا.</span> | fi amrika. | Nos Estados Unidos. |
+
+*Etfaddal* também quer dizer «entre / fique à vontade»; *gowwa* = lá dentro; *meratak* = sua esposa.
