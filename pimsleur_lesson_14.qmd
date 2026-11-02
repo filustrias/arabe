@@ -1,0 +1,52 @@
+# Pimsleur — Lição 14 {.unnumbered}
+
+## Diálogo
+
+Um americano compra um jornal.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">يا مدام، عندك جريدة أمريكية من فضلك؟</span> | ya madam, 3andek gerida amrikeyya men fadlek? | Senhora, tem um jornal americano, por favor? |
+| Vendedora | <span dir="rtl">أيوه يا أستاذ، اتفضل.</span> | aywa ya ostaz, etfaddal. | Sim, senhor, aqui está. |
+| Homem | <span dir="rtl">شكرًا. بكام ده؟</span> | shokran. bekam da? | Obrigado. Quanto custa? |
+| Vendedora | <span dir="rtl">خمسة جنيه من فضلك.</span> | 5amsa geneih men fadlak. | Cinco libras, por favor. |
+| Homem | <span dir="rtl">خمستاشر جنيه؟</span> | 5amastashar geneih? | Quinze libras? |
+| Vendedora | <span dir="rtl">لأ يا أستاذ، إنتَ مش فاهم. ده بخمسة جنيه.</span> | la2 ya ostaz, enta mesh fahem. da be5amsa geneih. | Não, senhor, o senhor não entendeu. Custa cinco libras. |
+| Homem | <span dir="rtl">فاهم دلوقتي. اتفضلي خمسة جنيه، وشكرًا.</span> | fahem delwa2ti. etfaddali 5amsa geneih, w shokran. | Agora entendi. Aqui estão cinco libras, obrigado. |
+
+## Do que trata
+
+Comprar algo e perguntar o preço.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عندك</span> | 3andek | você (f) tem |
+| <span dir="rtl">جريدة</span> | gerida | jornal |
+| <span dir="rtl">اتفضل / اتفضلي</span> | etfaddal / etfaddali | aqui está (m / f) |
+| <span dir="rtl">بكام؟</span> | bekam? | quanto custa? |
+| <span dir="rtl">ده</span> | da | isto (m) |
+| <span dir="rtl">جنيه</span> | geneih | libra egípcia |
+| <span dir="rtl">خمسة</span> | 5amsa | cinco |
+| <span dir="rtl">خمستاشر</span> | 5amastashar | quinze |
+
+### Conceitos
+
+**Etfaddal.** Usa-se ao entregar algo a alguém: *etfaddal* para homem, *etfaddali* para mulher.
+
+**Preço com be-.** *da be5amsa geneih* = «isto custa cinco libras». Para perguntar: *bekam?*
+
+**Mesh + particípio.** *enta mesh fahem* = «você não entende».
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">في جرايد أمريكاني؟</span> | fi garayed amrikani? | Tem jornais americanos? |
+| Vendedora | <span dir="rtl">أيوه، اتفضل.</span> | aywa, etfaddal. | Tem, aqui está. |
+| Homem | <span dir="rtl">بكام؟</span> | bekam? | Quanto é? |
+| Vendedora | <span dir="rtl">بخمسة.</span> | be5amsa. | Cinco. |
+| Homem | <span dir="rtl">اتفضلي. شكرًا.</span> | etfaddali. shokran. | Aqui está. Obrigado. |
+
+*Fi …?* = «tem …?» (existe). No dia a dia, o preço muitas vezes se diz sem a moeda: *be5amsa*.

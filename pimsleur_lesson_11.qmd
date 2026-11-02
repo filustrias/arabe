@@ -1,0 +1,56 @@
+# Pimsleur — Lição 11 {.unnumbered}
+
+## Diálogo
+
+Um homem tenta marcar a hora de comer com uma moça.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">يا آنسة، تحبي تاكلي معايا الساعة كام؟</span> | ya 2anesa, te7ebbi takli ma3aya essa3a kam? | Senhorita, a que horas quer comer comigo? |
+| Mulher | <span dir="rtl">الساعة واحدة يا أستاذ.</span> | essa3a wa7da ya ostaz. | À uma, senhor. |
+| Homem | <span dir="rtl">لأ، مش الساعة واحدة. الساعة اتنين؟</span> | la2, mesh essa3a wa7da. essa3a etnein? | Não, à uma não. Às duas? |
+| Mulher | <span dir="rtl">لأ، مش الساعة اتنين، لكن الساعة تلاتة.</span> | la2, mesh essa3a etnein, lakin essa3a talata. | Não, às duas não, mas às três. |
+| Homem | <span dir="rtl">لأ، مش الساعة تلاتة. الساعة أربعة؟</span> | la2, mesh essa3a talata. essa3a arba3a? | Não, às três não. Às quatro? |
+| Mulher | <span dir="rtl">لأ يا أستاذ.</span> | la2 ya ostaz. | Não, senhor. |
+| Homem | <span dir="rtl">الساعة خمسة؟</span> | essa3a 5amsa? | Às cinco? |
+| Mulher | <span dir="rtl">لأ، بعدين من فضلك.</span> | la2, ba3dein men fadlak. | Não, mais tarde, por favor. |
+| Homem | <span dir="rtl">يبقى الساعة تمانية. طيب؟</span> | yeb2a essa3a tamanya. tayyeb? | Então às oito. Pode ser? |
+| Mulher | <span dir="rtl">لأ يا أستاذ، مش الساعة تمانية، لكن الساعة تسعة. طيب؟</span> | la2 ya ostaz, mesh essa3a tamanya, lakin essa3a tes3a. tayyeb? | Não, senhor, às oito não, mas às nove. Pode ser? |
+| Homem | <span dir="rtl">طيب… مش الساعة تسعة؟</span> | tayyeb… mesh essa3a tes3a? | Está bem… não às nove? |
+
+## Do que trata
+
+Um vaivém de horários: as horas de 1 a 9 e o padrão «não X, mas Y».
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">واحدة</span> | wa7da | uma (hora) |
+| <span dir="rtl">اتنين</span> | etnein | duas |
+| <span dir="rtl">تلاتة</span> | talata | três |
+| <span dir="rtl">أربعة</span> | arba3a | quatro |
+| <span dir="rtl">خمسة</span> | 5amsa | cinco |
+| <span dir="rtl">تمانية</span> | tamanya | oito |
+| <span dir="rtl">تسعة</span> | tes3a | nove |
+| <span dir="rtl">يبقى</span> | yeb2a | então |
+
+### Conceitos
+
+**Mesh X, lakin Y.** «Não X, mas Y»: *mesh essa3a etnein, lakin essa3a talata*.
+
+**Hora com essa3a.** *essa3a* + número: *essa3a wa7da* (à uma), *essa3a talata* (às três). Para «uma hora» usa-se *wa7da*, no feminino.
+
+**Yeb2a = «então».** Conclui a partir do que foi dito: *yeb2a essa3a tamanya*.
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">ناكل الساعة كام؟</span> | nakol essa3a kam? | Comemos a que horas? |
+| Mulher | <span dir="rtl">واحدة؟</span> | wa7da? | À uma? |
+| Homem | <span dir="rtl">لأ، بدري. خمسة؟</span> | la2, badri. 5amsa? | Não, é cedo. Às cinco? |
+| Mulher | <span dir="rtl">لأ، متأخر شوية. تسعة.</span> | la2, mit2a5ar shwayya. tes3a. | Não, um pouco mais tarde. Às nove. |
+| Homem | <span dir="rtl">ماشي، تسعة.</span> | mashi, tes3a. | Combinado, às nove. |
+
+*Badri* = cedo; *mit2a5ar* = tarde.

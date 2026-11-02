@@ -1,0 +1,52 @@
+# Pimsleur — Lição 13 {.unnumbered}
+
+## Diálogo
+
+Abbas telefona para Nada. Aparece também o nome de outra mulher, Warda.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Abbas | <span dir="rtl">ألو، أحب أتكلم مع ندى من فضلك.</span> | alo, a7ebb atkallem ma3a nada men fadlek. | Alô, gostaria de falar com a Nada, por favor. |
+| Abbas | <span dir="rtl">آه، إنتي ندى؟ صباح الخير. أنا عباس.</span> | ah, enti nada? saba7 el5eir. ana 3abbas. | Ah, é você, Nada? Bom dia. É o Abbas. |
+| Nada | <span dir="rtl">صباح النور يا عباس. إنتَ كويس؟</span> | saba7 ennur ya 3abbas. enta kwayyes? | Bom dia, Abbas. Você está bem? |
+| Abbas | <span dir="rtl">أيوه، شكرًا. قوليلي يا ندى، تحبي تاكلي معايا النهارده بالليل الساعة ستة؟</span> | aywa, shokran. 2olili ya nada, te7ebbi takli ma3aya ennaharda bel leil essa3a setta? | Sim, obrigado. Diga-me, Nada, quer jantar comigo hoje às seis? |
+| Nada | <span dir="rtl">لأ يا عباس، هاكل مع وردة بالليل. لكن تحب تشرب حاجة في المطعم بعدين؟</span> | la2 ya 3abbas, hakol ma3a warda bel leil. lakin te7ebb teshrab 7aga fel mat3am ba3dein? | Não, Abbas, vou jantar com a Warda. Mas quer beber algo no restaurante depois? |
+| Abbas | <span dir="rtl">أيوه، أحب أشرب حاجة. الساعة كام؟</span> | aywa, a7ebb ashrab 7aga. essa3a kam? | Sim, gostaria de beber algo. A que horas? |
+| Nada | <span dir="rtl">الساعة تسعة؟ أو بعدين، الساعة عشرة؟</span> | essa3a tes3a? aw ba3dein, essa3a 3ashara? | Às nove? Ou mais tarde, às dez? |
+| Abbas | <span dir="rtl">الساعة عشرة. طيب، الساعة عشرة في المطعم.</span> | essa3a 3ashara. tayyeb, essa3a 3ashara fel mat3am. | Às dez. Está bem, às dez no restaurante. |
+| Abbas | <span dir="rtl">مع السلامة يا ندى.</span> | ma3a salama ya nada. | Tchau, Nada. |
+| Nada | <span dir="rtl">مع السلامة يا عباس.</span> | ma3a salama ya 3abbas. | Tchau, Abbas. |
+
+## Do que trata
+
+Pedir para falar com alguém ao telefone, recusar um convite e propor outro programa.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أتكلم مع</span> | atkallem ma3a | falar com |
+| <span dir="rtl">هاكل</span> | hakol | vou comer |
+| <span dir="rtl">ستة</span> | setta | seis |
+| <span dir="rtl">عشرة</span> | 3ashara | dez |
+
+### Conceitos
+
+**Pedir alguém ao telefone.** *a7ebb atkallem ma3a …, men fadlek*.
+
+**Futuro com ha-.** O prefixo *ha-* vai direto no verbo: *akol* → *hakol* (vou comer).
+
+**Recusar e propor.** *la2 …, lakin te7ebb …?* = «não …, mas você quer …?»
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Abbas | <span dir="rtl">ألو، ندى موجودة؟</span> | alo, nada mawgouda? | Alô, a Nada está? |
+| Nada | <span dir="rtl">أيوه، أنا. أهلًا يا عباس!</span> | aywa, ana. ahlan ya 3abbas! | Sim, sou eu. Oi, Abbas! |
+| Abbas | <span dir="rtl">نتعشى سوا النهارده؟</span> | net3asha sawa ennaharda? | Jantamos juntos hoje? |
+| Nada | <span dir="rtl">مش هقدر، هتعشى مع وردة. نشرب حاجة بعدين؟</span> | mesh ha2dar, hat3asha ma3a warda. neshrab 7aga ba3dein? | Não vou poder, vou jantar com a Warda. Bebemos algo depois? |
+| Abbas | <span dir="rtl">ماشي، عشرة؟</span> | mashi, 3ashara? | Combinado, às dez? |
+| Nada | <span dir="rtl">تمام. سلام.</span> | tamam. salam. | Certo. Tchau. |
+
+*Mawgoud / mawgouda* = «está (aí)?» ao telefone; *mesh ha2dar* = «não vou poder».

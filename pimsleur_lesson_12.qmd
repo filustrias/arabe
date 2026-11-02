@@ -1,0 +1,57 @@
+# Pimsleur — Lição 12 {.unnumbered}
+
+## Diálogo
+
+Hisham telefona para Nada.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Hisham | <span dir="rtl">ألو، ندى؟</span> | alo, nada? | Alô, Nada? |
+| Nada | <span dir="rtl">أيوه؟</span> | aywa? | Sim? |
+| Hisham | <span dir="rtl">أنا هشام. إزيك؟</span> | ana hesham. ezzayyek? | É o Hisham. Como está? |
+| Nada | <span dir="rtl">كويسة أوي يا هشام، شكرًا.</span> | kwayyesa awi ya hesham, shokran. | Muito bem, Hisham, obrigada. |
+| Hisham | <span dir="rtl">يا ندى، تحبي تاكلي معايا النهارده بالليل؟</span> | ya nada, te7ebbi takli ma3aya ennaharda bel leil? | Nada, quer jantar comigo hoje à noite? |
+| Nada | <span dir="rtl">مش النهارده بالليل يا هشام، لكن أحب آكل معاك بكره بالليل.</span> | mesh ennaharda bel leil ya hesham, lakin a7ebb akol ma3ak bokra bel leil. | Hoje à noite não, Hisham, mas gostaria de jantar com você amanhã à noite. |
+| Hisham | <span dir="rtl">طيب، الساعة كام؟ الساعة سبعة؟</span> | tayyeb, essa3a kam? essa3a sab3a? | Está bem, a que horas? Às sete? |
+| Nada | <span dir="rtl">لأ، بعدين من فضلك.</span> | la2, ba3dein men fadlak. | Não, mais tarde, por favor. |
+| Hisham | <span dir="rtl">يبقى الساعة تمانية؟</span> | yeb2a essa3a tamanya? | Então às oito? |
+| Nada | <span dir="rtl">طيب، بكره بالليل الساعة تمانية في المطعم.</span> | tayyeb, bokra bel leil essa3a tamanya fel mat3am. | Está bem, amanhã à noite, às oito, no restaurante. |
+| Hisham | <span dir="rtl">مع السلامة يا ندى.</span> | ma3a salama ya nada. | Tchau, Nada. |
+| Nada | <span dir="rtl">مع السلامة يا هشام.</span> | ma3a salama ya hesham. | Tchau, Hisham. |
+
+## Do que trata
+
+Um telefonema para marcar um jantar: hoje ou amanhã, e a que horas.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ألو</span> | alo | alô |
+| <span dir="rtl">النهارده</span> | ennaharda | hoje |
+| <span dir="rtl">بكره</span> | bokra | amanhã |
+| <span dir="rtl">بالليل</span> | bel leil | à noite |
+| <span dir="rtl">سبعة</span> | sab3a | sete |
+| <span dir="rtl">يبقى</span> | yeb2a | então |
+
+### Conceitos
+
+**Sem verbo «ser».** *ana hesham* = «(eu) sou o Hisham». Ao telefone, é assim que alguém se apresenta.
+
+**Yeb2a = «então».** Abre uma conclusão: *yeb2a essa3a tamanya?*
+
+**Ordem do tempo.** Do geral para o específico: *bokra bel leil essa3a tamanya* (amanhã, à noite, às oito).
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Hisham | <span dir="rtl">ألو، ندى؟ أنا هشام.</span> | alo, nada? ana hesham. | Alô, Nada? É o Hisham. |
+| Nada | <span dir="rtl">أهلًا يا هشام!</span> | ahlan ya hesham! | Oi, Hisham! |
+| Hisham | <span dir="rtl">نتعشى سوا النهارده؟</span> | net3asha sawa ennaharda? | Jantamos juntos hoje? |
+| Nada | <span dir="rtl">لأ، بكره.</span> | la2, bokra. | Não, amanhã. |
+| Hisham | <span dir="rtl">سبعة؟</span> | sab3a? | Às sete? |
+| Nada | <span dir="rtl">لأ، تمانية.</span> | la2, tamanya. | Não, às oito. |
+| Hisham | <span dir="rtl">تمام. سلام.</span> | tamam. salam. | Certo. Tchau. |
+
+*Ahlan* = «oi»; *net3asha* = «jantamos».

@@ -1,0 +1,61 @@
+# Pimsleur — Lição 15 {.unnumbered}
+
+## Diálogo
+
+Kamal conversa com a esposa, que vai sair.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Esposa | <span dir="rtl">مع السلامة يا كمال.</span> | ma3a salama ya kamal. | Tchau, Kamal. |
+| Kamal | <span dir="rtl">مع السلامة؟ لكن هتروحي فين؟</span> | ma3a salama? lakin hatro7i fein? | Tchau? Mas aonde você vai? |
+| Esposa | <span dir="rtl">أنا؟ هشتري حاجة.</span> | ana? hashteri 7aga. | Eu? Vou comprar uma coisa. |
+| Kamal | <span dir="rtl">لكن ما عندكيش أي جنيهات.</span> | lakin ma3andekish ay geneihat. | Mas você não tem nenhuma libra. |
+| Esposa | <span dir="rtl">عارفة. ما عنديش أي جنيهات، لكن عندي دولارات.</span> | 3arfa. ma3andish ay geneihat, lakin 3andi dolarat. | Eu sei. Não tenho libras, mas tenho dólares. |
+| Kamal | <span dir="rtl">كام دولار عندك؟</span> | kam dolar 3andek? | Quantos dólares você tem? |
+| Esposa | <span dir="rtl">أربعتاشر أو خمستاشر.</span> | arba3tashar aw 5amastashar. | Catorze ou quinze. |
+| Kamal | <span dir="rtl">اتفضلي عشرة دولار، وجنيهات كمان. اتفضلي.</span> | etfaddali 3ashara dolar, w geneihat kaman. etfaddali. | Tome dez dólares, e libras também. Tome. |
+| Esposa | <span dir="rtl">شكرًا يا كمال.</span> | shokran ya kamal. | Obrigada, Kamal. |
+
+## Do que trata
+
+Falar do que se vai fazer (futuro) e do que se tem ou não tem.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هتروحي فين؟</span> | hatro7i fein? | aonde você (f) vai? |
+| <span dir="rtl">هشتري</span> | hashteri | vou comprar |
+| <span dir="rtl">أي</span> | ay | nenhum / qualquer |
+| <span dir="rtl">جنيهات</span> | geneihat | libras |
+| <span dir="rtl">دولارات</span> | dolarat | dólares |
+| <span dir="rtl">كام؟</span> | kam? | quantos? |
+| <span dir="rtl">أربعتاشر</span> | arba3tashar | catorze |
+| <span dir="rtl">عشرة</span> | 3ashara | dez |
+
+### Conceitos
+
+**Futuro com ha-.** O prefixo *ha-* entra no lugar do *b-*: *bashteri* (compro) → *hashteri* (vou comprar).
+
+**Ter = 3and + pessoa.**
+
+| Pessoa | Afirmativo | Negativo |
+|:--|:--|:--|
+| eu | 3andi | ma3andish |
+| você (m) | 3andak | ma3andaksh |
+| você (f) | 3andek | ma3andekish |
+
+**Kam + singular.** *kam dolar?* = «quantos dólares?». O substantivo fica no singular.
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Esposa | <span dir="rtl">أنا نازلة.</span> | ana nazla. | Estou saindo. |
+| Kamal | <span dir="rtl">رايحة فين؟</span> | ray7a fein? | Vai aonde? |
+| Esposa | <span dir="rtl">هشتري حاجة.</span> | hashteri 7aga. | Vou comprar uma coisa. |
+| Kamal | <span dir="rtl">معاكي فلوس؟</span> | ma3aki felus? | Tem dinheiro aí? |
+| Esposa | <span dir="rtl">دولارات بس.</span> | dolarat bas. | Só dólares. |
+| Kamal | <span dir="rtl">خدي، اتفضلي.</span> | 5odi, etfaddali. | Pegue, tome. |
+
+*Felus* = dinheiro. *Ma3aki* («com você») é a forma comum de perguntar se a pessoa tem algo consigo agora.
