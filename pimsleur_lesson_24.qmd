@@ -1,0 +1,43 @@
+# Pimsleur — Lição 24 {.unnumbered}
+
+## Diálogo
+
+Duas pessoas falam do preço da gasolina nos Estados Unidos.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">البنزين غالي في أمريكا؟</span> | elbenzin 8ali fi amrika? | A gasolina é cara nos Estados Unidos? |
+| B | <span dir="rtl">أيوه، البنزين غالي.</span> | aywa, elbenzin 8ali. | Sim, a gasolina é cara. |
+| A | <span dir="rtl">بكام؟</span> | bekam? | Quanto custa? |
+| B | <span dir="rtl">معرفش، لكن غالي أوي.</span> | ma3rafsh, lakin 8ali awi. | Não sei, mas é muito cara. |
+| A | <span dir="rtl">عندك عربية؟</span> | 3andak 3arabeyya? | Você tem carro? |
+| B | <span dir="rtl">أيوه، عندي عربية كبيرة أوي.</span> | aywa, 3andi 3arabeyya kbira awi. | Sim, tenho um carro muito grande. |
+
+## Do que trata
+
+Comparar preços e dizer o que se tem.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">بنزين</span> | benzin | gasolina |
+| <span dir="rtl">عربية</span> | 3arabeyya | carro |
+| <span dir="rtl">كبيرة</span> | kbira | grande (f) |
+
+### Conceitos
+
+**Frase sem verbo.** *elbenzin 8ali* = «a gasolina é cara». Com *el-*, o substantivo vira sujeito; o adjetivo, sem *el-*, faz de predicado.
+
+**Gênero no adjetivo.** *3arabeyya* é feminino, por isso *kbira*. No masculino seria *kbir*.
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">البنزين عندكم غالي؟</span> | elbenzin 3andoko 8ali? | A gasolina aí é cara? |
+| B | <span dir="rtl">آه، نار!</span> | ah, nar! | Ah, caríssima! |
+| A | <span dir="rtl">وعندك عربية؟</span> | w 3andak 3arabeyya? | E você tem carro? |
+| B | <span dir="rtl">آه، كبيرة كمان.</span> | ah, kbira kaman. | Tenho, e grande. |
+
+*Nar* («fogo») é a forma coloquial de dizer que algo está muito caro.

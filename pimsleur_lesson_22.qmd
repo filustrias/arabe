@@ -1,0 +1,44 @@
+# Pimsleur — Lição 22 {.unnumbered}
+
+## Diálogo
+
+Uma conversa curta sobre filhos.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">عندكم كام طفل؟</span> | 3andoko kam tefl? | Quantos filhos vocês têm? |
+| B | <span dir="rtl">عندنا تلات أطفال: ولد وبنتين.</span> | 3andena talat atfal: walad w bentein. | Temos três filhos: um menino e duas meninas. |
+| A | <span dir="rtl">ابنك هناك؟</span> | ebnek hnak? | O seu filho está ali? |
+| B | <span dir="rtl">أيوه، ده ابني.</span> | aywa, da ebni. | Sim, aquele é o meu filho. |
+
+## Do que trata
+
+Contar os filhos. A partir desta lição, algumas instruções do curso passam a vir em árabe, como *rodd* (رد, responda).
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">طفل / أطفال</span> | tefl / atfal | criança / crianças |
+| <span dir="rtl">ولد</span> | walad | menino / filho |
+| <span dir="rtl">بنت / بنتين</span> | bent / bentein | menina / duas meninas |
+| <span dir="rtl">ابن</span> | ebn | filho |
+| <span dir="rtl">ابني / ابنك</span> | ebni / ebnek | meu filho / seu (f) filho |
+| <span dir="rtl">رد</span> | rodd | responda |
+
+### Conceitos
+
+**Kam + singular, número + plural.** Pergunta: *kam tefl?*. Resposta com 3 a 10: *talat atfal*. Antes do substantivo, *talata* vira *talat*.
+
+**Dual com -ein.** «Dois / duas» vai no próprio substantivo: *bent* → *bentein* (duas meninas).
+
+**Possessivo.** *ebni* (meu filho), *ebnak* (seu, a homem), *ebnek* (seu, a mulher).
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">عندك ولاد؟</span> | 3andek wlad? | Tem filhos? |
+| B | <span dir="rtl">تلاتة: ولد وبنتين.</span> | talata: walad w bentein. | Três: um menino e duas meninas. |
+| A | <span dir="rtl">ده ابنك؟</span> | da ebnek? | Esse é o seu filho? |
+| B | <span dir="rtl">أيوه.</span> | aywa. | Sim. |

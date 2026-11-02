@@ -1,0 +1,49 @@
+# Pimsleur — Lição 23 {.unnumbered}
+
+## Diálogo
+
+Uma mulher e um homem falam das suas famílias.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Mulher | <span dir="rtl">في كام شخص في عيلتك يا أستاذ؟</span> | fi kam sha5s fi 3eltak ya ostaz? | Quantas pessoas há na sua família, senhor? |
+| Homem | <span dir="rtl">في تلات أشخاص في عيلتي.</span> | fi talat ash5as fi 3elti. | Há três pessoas na minha família. |
+| Mulher | <span dir="rtl">عندكم بنت أو ولد؟</span> | 3andoko bent aw walad? | Vocês têm uma filha ou um filho? |
+| Homem | <span dir="rtl">عندنا بنت.</span> | 3andena bent. | Temos uma filha. |
+| Mulher | <span dir="rtl">آه، بجد؟</span> | ah, begad? | Ah, é mesmo? |
+| Homem | <span dir="rtl">أيوه، بنت صغيرة أوي.</span> | aywa, bent so8ayyara awi. | Sim, uma menina bem pequena. |
+
+## Do que trata
+
+Perguntar quantas pessoas há numa família.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">في</span> | fi | há (existe) / em |
+| <span dir="rtl">شخص / أشخاص</span> | sha5s / ash5as | pessoa / pessoas |
+| <span dir="rtl">عيلة</span> | 3ela | família |
+| <span dir="rtl">عيلتي / عيلتك</span> | 3elti / 3eltak | minha / sua (m) família |
+| <span dir="rtl">بجد؟</span> | begad? | é mesmo? / sério? |
+| <span dir="rtl">صغيرة</span> | so8ayyara | pequena |
+
+### Conceitos
+
+**Fi com dois sentidos.** No começo da frase quer dizer «há»: *fi talat ash5as* (há três pessoas). Antes de um lugar quer dizer «em»: *fi 3elti* (na minha família).
+
+**3ela → 3elti.** O *-a* final vira *-t* antes do possessivo: *3elti*, *3eltak*, *3eltek*. É o mesmo padrão de *mara* → *merati*.
+
+**Adjetivo concorda.** *bent so8ayyara* (f), *walad so8ayyar* (m).
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Mulher | <span dir="rtl">عيلتك كبيرة؟</span> | 3eltak kbira? | Sua família é grande? |
+| Homem | <span dir="rtl">لأ، إحنا تلاتة بس.</span> | la2, e7na talata bas. | Não, somos só três. |
+| Mulher | <span dir="rtl">عندك ولاد؟</span> | 3andak wlad? | Tem filhos? |
+| Homem | <span dir="rtl">بنت صغيرة.</span> | bent so8ayyara. | Uma menina pequena. |
+| Mulher | <span dir="rtl">ربنا يخليهالك!</span> | rabbena ye5alliha-lak! | Deus a guarde! |
+
+*E7na* = nós. *Rabbena ye5alliha-lak* é a reação habitual quando alguém fala de um filho.

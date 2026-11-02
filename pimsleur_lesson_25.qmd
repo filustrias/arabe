@@ -1,0 +1,48 @@
+# Pimsleur — Lição 25 {.unnumbered}
+
+## Diálogo
+
+Uma mulher pede o caminho para o Cairo.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">رايحة فين يا مدام؟</span> | ray7a fein ya madam? | Aonde vai, senhora? |
+| Mulher | <span dir="rtl">رايحة القاهرة. طريق القاهرة فين؟</span> | ray7a el2ahera. tari2 el2ahera fein? | Vou para o Cairo. Onde é a estrada do Cairo? |
+| Homem | <span dir="rtl">الطريق المظبوط هناك.</span> | ettari2 elmazbout hnak. | A estrada certa é ali. |
+| Mulher | <span dir="rtl">فين؟</span> | fein? | Onde? |
+| Homem | <span dir="rtl">خدي شمال، وبعدين خدي يمين.</span> | 5odi shmal, w ba3dein 5odi yemin. | Vire à esquerda, e depois vire à direita. |
+| Mulher | <span dir="rtl">شكرًا يا أستاذ.</span> | shokran ya ostaz. | Obrigada, senhor. |
+
+## Do que trata
+
+Perguntar o caminho e entender direções simples.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">رايح / رايحة</span> | raye7 / ray7a | indo (m / f) |
+| <span dir="rtl">القاهرة</span> | el2ahera | Cairo |
+| <span dir="rtl">طريق</span> | tari2 | estrada / caminho |
+| <span dir="rtl">مظبوط</span> | mazbout | certo / correto |
+| <span dir="rtl">خد / خدي</span> | 5od / 5odi | pegue / vire (m / f) |
+| <span dir="rtl">شمال</span> | shmal | esquerda |
+| <span dir="rtl">يمين</span> | yemin | direita |
+
+### Conceitos
+
+**Raye7 fein?** O particípio *raye7 / ray7a* indica para onde a pessoa está indo agora.
+
+**Imperativo.** *5od* (a homem), *5odi* (a mulher): *5odi shmal* = «vire à esquerda».
+
+**Adjetivo com el-.** Se o substantivo tem *el-*, o adjetivo também leva: *ettari2 elmazbout* (a estrada certa).
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Mulher | <span dir="rtl">لو سمحت، القاهرة منين؟</span> | law sama7t, el2ahera mnein? | Por favor, por onde se vai ao Cairo? |
+| Homem | <span dir="rtl">شمال، وبعدين يمين.</span> | shmal, w ba3dein yemin. | Esquerda, depois direita. |
+| Mulher | <span dir="rtl">متشكرة!</span> | motashakkera! | Obrigada! |
+
+*Mnein?* = «por onde?». *Motashakker / motashakkera* é outro jeito comum de agradecer.

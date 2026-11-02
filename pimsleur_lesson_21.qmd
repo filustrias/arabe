@@ -1,0 +1,57 @@
+# Pimsleur — Lição 21 {.unnumbered}
+
+## Diálogo
+
+George Jones chega à casa dos Ramzi e fala com a Sra. Ramzi.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Sra. Ramzi | <span dir="rtl">صباح الخير يا أستاذ. إنتَ مين؟</span> | saba7 el5eir ya ostaz. enta min? | Bom dia, senhor. Quem é o senhor? |
+| Jones | <span dir="rtl">أنا جورج جونز. أنا أمريكي، لكن بفهم عربي شوية.</span> | ana george jones. ana amriki, lakin bafham 3arabi shwayya. | Sou George Jones. Sou americano, mas entendo um pouco de árabe. |
+| Sra. Ramzi | <span dir="rtl">آه، إنتَ الأستاذ جونز. أهلًا وسهلًا يا أستاذ جونز. اتشرفت.</span> | ah, enta el ostaz jones. ahlan w sahlan ya ostaz jones. etsharraft. | Ah, o senhor é o Sr. Jones. Seja bem-vindo, Sr. Jones. Muito prazer. |
+| Jones | <span dir="rtl">اتشرفت يا مدام. الأستاذ رمزي هنا؟</span> | etsharraft ya madam. el ostaz ramzi hena? | Muito prazer, senhora. O Sr. Ramzi está? |
+| Sra. Ramzi | <span dir="rtl">لأ، هو مش هنا. لكن ممكن تستنى، مش كده؟</span> | la2, howwa mesh hena. lakin momken testanna, mesh keda? | Não, ele não está. Mas o senhor pode esperar, não é? |
+| Jones | <span dir="rtl">أيوه، ممكن أستنى.</span> | aywa, momken astanna. | Sim, posso esperar. |
+| Sra. Ramzi | <span dir="rtl">قولّي يا أستاذ، المدام جونز هنا معاك؟</span> | 2olli ya ostaz, el madam jones hena ma3ak? | Diga, senhor, a Sra. Jones está aqui com o senhor? |
+| Jones | <span dir="rtl">أيوه، هي هنا.</span> | aywa, heyya hena. | Sim, está aqui. |
+| Sra. Ramzi | <span dir="rtl">والأطفال، هما هنا؟</span> | wel atfal, homma hena? | E as crianças, estão aqui? |
+| Jones | <span dir="rtl">لأ، هما في أمريكا يا مدام.</span> | la2, homma fi amrika ya madam. | Não, estão nos Estados Unidos, senhora. |
+| Sra. Ramzi | <span dir="rtl">عندكم أطفال كتير؟</span> | 3andoko atfal ketir? | Vocês têm muitos filhos? |
+| Jones | <span dir="rtl">عندنا تلات أطفال. هما كبار.</span> | 3andena talat atfal. homma kobar. | Temos três filhos. Já são grandes. |
+
+## Do que trata
+
+Apresentar-se a um desconhecido, pedir para esperar e falar dos filhos.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">مين؟</span> | min? | quem? |
+| <span dir="rtl">ممكن</span> | momken | é possível / pode |
+| <span dir="rtl">أستنى / تستنى</span> | astanna / testanna | (eu) esperar / (você) esperar |
+| <span dir="rtl">مش كده؟</span> | mesh keda? | não é? |
+| <span dir="rtl">أطفال</span> | atfal | crianças / filhos |
+| <span dir="rtl">هما</span> | homma | eles / elas |
+| <span dir="rtl">كبار</span> | kobar | grandes / adultos |
+
+### Conceitos
+
+**Momken + verbo.** «Poder»: *momken astanna* (posso esperar). *Momken* não muda.
+
+**Mesh keda?** Vai no fim da frase e pede confirmação, como «não é?».
+
+**Ter no plural.** *3andena* (nós temos), *3andoko* (vocês têm).
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Sra. Ramzi | <span dir="rtl">مين حضرتك؟</span> | min 7adretak? | Quem é o senhor? |
+| Jones | <span dir="rtl">جورج جونز.</span> | george jones. | George Jones. |
+| Sra. Ramzi | <span dir="rtl">أهلًا! سمير مش هنا، تستنى؟</span> | ahlan! samir mesh hena, testanna? | Olá! O Samir não está, quer esperar? |
+| Jones | <span dir="rtl">ماشي.</span> | mashi. | Pode ser. |
+| Sra. Ramzi | <span dir="rtl">عندك ولاد؟</span> | 3andak wlad? | Tem filhos? |
+| Jones | <span dir="rtl">تلاتة، كبار.</span> | talata, kobar. | Três, já grandes. |
+
+*7adretak* = «o senhor» (forma educada); *wlad* = filhos (o mais usado no dia a dia).
