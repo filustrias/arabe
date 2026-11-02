@@ -1,0 +1,54 @@
+# Pimsleur — Lição 28 {.unnumbered}
+
+## Diálogo
+
+Abbas não está se sentindo bem.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Abbas | <span dir="rtl">صباح الخير يا منى.</span> | saba7 el5eir ya mona. | Bom dia, Mona. |
+| Mona | <span dir="rtl">صباح النور يا عباس.</span> | saba7 ennur ya 3abbas. | Bom dia, Abbas. |
+| Abbas | <span dir="rtl">إزيك؟</span> | ezzayyek? | Como está? |
+| Mona | <span dir="rtl">كويسة. وإنتَ؟</span> | kwayyesa. w enta? | Bem. E você? |
+| Abbas | <span dir="rtl">أنا مش كويس.</span> | ana mesh kwayyes. | Não estou bem. |
+| Mona | <span dir="rtl">ليه؟ في إيه؟</span> | leih? fi eih? | Por quê? O que houve? |
+| Abbas | <span dir="rtl">معرفش، لكن أنا مش كويس.</span> | ma3rafsh, lakin ana mesh kwayyes. | Não sei, mas não estou bem. |
+| Mona | <span dir="rtl">جايز بتشتغل كتير أوي.</span> | gayez beteshta8al ketir awi. | Talvez você trabalhe demais. |
+| Abbas | <span dir="rtl">أيوه، جايز.</span> | aywa, gayez. | Sim, talvez. |
+
+## Do que trata
+
+Dizer que não se está bem e perguntar o que houve.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">في إيه؟</span> | fi eih? | o que houve? |
+| <span dir="rtl">بتشتغل</span> | beteshta8al | você (m) trabalha |
+| <span dir="rtl">كتير أوي</span> | ketir awi | demais / muito |
+
+### Conceitos
+
+**Fi eih?** Ao pé da letra, «o que há?». É a pergunta comum para «o que aconteceu?».
+
+**Verbo eshta8al (trabalhar).**
+
+| Pessoa | Presente | Futuro |
+|:--|:--|:--|
+| eu | bashta8al | hashta8al |
+| você (m) | beteshta8al | hateshta8al |
+| você (f) | beteshta8ali | hateshta8ali |
+
+**Ketir depois do verbo.** *beteshta8al ketir* = «você trabalha muito».
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Mona | <span dir="rtl">مالك يا عباس؟</span> | malak ya 3abbas? | O que você tem, Abbas? |
+| Abbas | <span dir="rtl">تعبان شوية.</span> | ta3ban shwayya. | Estou um pouco cansado. |
+| Mona | <span dir="rtl">من الشغل؟</span> | men elsho8l? | Do trabalho? |
+| Abbas | <span dir="rtl">آه، جايز.</span> | ah, gayez. | Sim, talvez. |
+
+*Malak?* = «o que você tem?» (a homem; a mulher: *malek?*). *Ta3ban* = cansado ou doente.

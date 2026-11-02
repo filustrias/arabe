@@ -1,0 +1,39 @@
+# Pimsleur — Lição 29 {.unnumbered}
+
+## Diálogo
+
+Um diálogo bem curto: ele traz um livro para Mona.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">صباح الخير يا منى. إزيك؟</span> | saba7 el5eir ya mona. ezzayyek? | Bom dia, Mona. Como está? |
+| Mona | <span dir="rtl">كويسة. وإنتَ؟</span> | kwayyesa. w enta? | Bem. E você? |
+| Homem | <span dir="rtl">كويس، شكرًا. عندي كتاب ليكي.</span> | kwayyes, shokran. 3andi ketab leeki. | Bem, obrigado. Tenho um livro para você. |
+
+## Do que trata
+
+Oferecer algo a alguém. Esta lição também ensina a perguntar o que uma palavra quer dizer.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ليكي / ليك</span> | leeki / leek | para você (f / m) |
+| <span dir="rtl">يعني إيه؟</span> | ya3ni eih? | o que quer dizer? |
+| <span dir="rtl">كلمة</span> | kelma | palavra |
+| <span dir="rtl">يعني</span> | ya3ni | quer dizer |
+
+### Conceitos
+
+**Le- + pessoa = «para».** *leeya* (para mim), *leek* (para você, m), *leeki* (para você, f).
+
+**Perguntar significado.** *«ketab» ya3ni eih?* — *ya3ni «livro»*.
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">إزيك يا منى؟ جبتلك كتاب.</span> | ezzayyek ya mona? gebtelek ketab. | Tudo bem, Mona? Trouxe um livro para você. |
+| Mona | <span dir="rtl">بجد؟ شكرًا!</span> | begad? shokran! | Sério? Obrigada! |
+
+*Gebtelek* = «trouxe para você» (f).

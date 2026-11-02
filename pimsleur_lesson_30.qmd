@@ -1,0 +1,44 @@
+# Pimsleur — Lição 30 {.unnumbered}
+
+## Diálogo
+
+Uma pergunta sobre há quanto tempo alguém está na cidade.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">إنتي هنا من إمتى؟</span> | enti hena men emta? | Desde quando você está aqui? |
+| B | <span dir="rtl">من يومين.</span> | men yomein. | Há dois dias. |
+| A | <span dir="rtl">وهتقضي كام يوم هنا؟</span> | w hate2addi kam yom hena? | E quantos dias vai passar aqui? |
+| B | <span dir="rtl">معرفش. جايز أسبوع.</span> | ma3rafsh. gayez esbou3. | Não sei. Talvez uma semana. |
+
+## Do que trata
+
+Falar de tempo: há quanto tempo e por quanto tempo.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">من إمتى؟</span> | men emta? | desde quando? |
+| <span dir="rtl">يوم / يومين</span> | yom / yomein | dia / dois dias |
+| <span dir="rtl">هتقضي</span> | hate2addi | você (f) vai passar |
+| <span dir="rtl">أسبوع</span> | esbou3 | semana |
+
+### Conceitos
+
+**Men = «desde / há».** *men yomein* = «há dois dias».
+
+**Dual de novo.** *yom* → *yomein*, como *bent* → *bentein*.
+
+**Kam yom?** *Kam* + singular: «quantos dias?».
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">وصلتي إمتى؟</span> | wselti emta? | Quando você chegou? |
+| B | <span dir="rtl">من يومين.</span> | men yomein. | Há dois dias. |
+| A | <span dir="rtl">قاعدة قد إيه؟</span> | 2a3da 2add eih? | Vai ficar quanto tempo? |
+| B | <span dir="rtl">أسبوع تقريبًا.</span> | esbou3 ta2riban. | Uma semana, mais ou menos. |
+
+*Wselti* = você chegou (f); *2a3da* = ficando (f); *ta2riban* = mais ou menos.

@@ -1,0 +1,51 @@
+# Pimsleur — Lição 27 {.unnumbered}
+
+## Diálogo
+
+Uma mulher conta a um homem que vai para Alexandria.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Mulher | <span dir="rtl">صباح الخير. إنتَ كويس النهارده؟</span> | saba7 el5eir. enta kwayyes ennaharda? | Bom dia. Você está bem hoje? |
+| Homem | <span dir="rtl">أيوه، أنا كويس. وإنتي؟</span> | aywa, ana kwayyes. w enti? | Sim, estou bem. E você? |
+| Mulher | <span dir="rtl">أنا كويسة أوي.</span> | ana kwayyesa awi. | Estou muito bem. |
+| Homem | <span dir="rtl">رايحة إسكندرية؟</span> | ray7a eskendereyya? | Vai para Alexandria? |
+| Mulher | <span dir="rtl">أيوه، رايحة النهارده.</span> | aywa, ray7a ennaharda. | Sim, vou hoje. |
+| Homem | <span dir="rtl">هتعملي إيه هناك، في إسكندرية؟</span> | hate3mili eih hnak, fi eskendereyya? | O que vai fazer lá, em Alexandria? |
+| Mulher | <span dir="rtl">هشوف أصحابي.</span> | hashouf as7abi. | Vou ver os meus amigos. |
+| Homem | <span dir="rtl">هتشتغلي كمان؟</span> | hateshta8ali kaman? | Vai trabalhar também? |
+| Mulher | <span dir="rtl">أنا؟ أيوه، جايز.</span> | ana? aywa, gayez. | Eu? Sim, talvez. |
+
+## Do que trata
+
+Falar de uma viagem e do que se vai fazer lá.
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">إسكندرية</span> | eskendereyya | Alexandria |
+| <span dir="rtl">هناك</span> | hnak | lá |
+| <span dir="rtl">هشوف</span> | hashouf | vou ver |
+| <span dir="rtl">أصحابي</span> | as7abi | meus amigos |
+| <span dir="rtl">هتشتغلي</span> | hateshta8ali | você (f) vai trabalhar |
+| <span dir="rtl">جايز</span> | gayez | talvez |
+
+### Conceitos
+
+**Futuro com ha- para «você».** *ha-* + *te-*: *hate3mili* (vai fazer), *hateshta8ali* (vai trabalhar).
+
+**Ray7a + lugar.** Não precisa de preposição: *ray7a eskendereyya* (vai para Alexandria).
+
+**Gayez = «talvez».** Responde sem se comprometer.
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">مسافرة إسكندرية؟</span> | msafra eskendereyya? | Vai viajar para Alexandria? |
+| Mulher | <span dir="rtl">آه، النهارده.</span> | ah, ennaharda. | Vou, hoje. |
+| Homem | <span dir="rtl">شغل ولا فسحة؟</span> | sho8l walla fos7a? | Trabalho ou passeio? |
+| Mulher | <span dir="rtl">الاتنين.</span> | el etnein. | Os dois. |
+
+*Msafra* = viajando (f); *sho8l* = trabalho; *fos7a* = passeio.

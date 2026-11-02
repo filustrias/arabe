@@ -1,0 +1,49 @@
+# Pimsleur — Lição 26 {.unnumbered}
+
+## Diálogo
+
+Alguém quer fazer compras no Cairo, mas já é tarde.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">ممكن أشتري حاجة في القاهرة؟</span> | momken ashteri 7aga fel 2ahera? | Posso comprar alguma coisa no Cairo? |
+| B | <span dir="rtl">لأ، مش ممكن.</span> | la2, mesh momken. | Não, não dá. |
+| A | <span dir="rtl">ليه؟</span> | leih? | Por quê? |
+| B | <span dir="rtl">لأن المحلات مقفولة.</span> | la2en elma7allat ma2fula. | Porque as lojas estão fechadas. |
+| A | <span dir="rtl">ليه؟</span> | leih? | Por quê? |
+| B | <span dir="rtl">لأنه متأخر.</span> | la2enno met2a5ar. | Porque é tarde. |
+| A | <span dir="rtl">مش متأخر!</span> | mesh met2a5ar! | Não é tarde! |
+| B | <span dir="rtl">أيوه أيوه، متأخر دلوقتي.</span> | aywa aywa, met2a5ar delwa2ti. | Sim, sim, agora é tarde. |
+
+## Do que trata
+
+Perguntar «por quê?» e justificar com «porque».
+
+### Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ليه؟</span> | leih? | por quê? |
+| <span dir="rtl">لأن</span> | la2en | porque |
+| <span dir="rtl">محلات</span> | ma7allat | lojas |
+| <span dir="rtl">مقفولة</span> | ma2fula | fechadas |
+| <span dir="rtl">متأخر</span> | met2a5ar | tarde / atrasado |
+
+### Conceitos
+
+**Leih? → la2en …** Pergunta e resposta: *leih?* — *la2en elma7allat ma2fula*.
+
+**La2enno.** Com sujeito implícito («porque é…»), usa-se *la2enno*: *la2enno met2a5ar*.
+
+**Mesh momken.** «Não é possível», a negação de *momken*.
+
+## Versão informal
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">ننزل نشتري حاجة؟</span> | nenzel neshteri 7aga? | Vamos sair para comprar algo? |
+| B | <span dir="rtl">لأ، المحلات قفلت.</span> | la2, elma7allat 2afalet. | Não, as lojas já fecharam. |
+| A | <span dir="rtl">ليه؟ لسه بدري!</span> | leih? lessa badri! | Por quê? Ainda é cedo! |
+| B | <span dir="rtl">لأ، الوقت اتأخر.</span> | la2, elwa2t et2a5ar. | Não, já ficou tarde. |
+
+*Lessa* = ainda; *2afalet* = fecharam.
