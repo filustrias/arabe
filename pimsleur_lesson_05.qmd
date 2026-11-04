@@ -43,12 +43,42 @@ Perguntar onde fica um lugar e entender a resposta: aqui ou ali. Termina com a d
 
 **Howwa / heyya = «ele / ela» e também «é».** Concordam com o gênero da coisa:
 
-| Palavra | Gênero | Resposta |
-|:--|:--|:--|
-| share3 | masculino | howwa hnak |
-| ma7atta | feminino | heyya hena |
+| Palavra | Gênero | Árabe | Franco | Português |
+|:--|:--|--:|:--|:--|
+| share3 | masculino | <span dir="rtl">هو هناك</span> | howwa hnak | é ali |
+| ma7atta | feminino | <span dir="rtl">هي هنا</span> | heyya hena | é aqui |
 
-**Palavras femininas em -a.** Na expressão «estação X», *ma7atta* vira *ma7attet*: *ma7attet abu se3id*.
+Em português, «rua» e «estação» são femininas. Em árabe, *share3* é masculino, por isso leva *howwa*.
+
+**Palavras femininas em -a (ة).** Muitas palavras femininas terminam em ـة. Sozinha, essa letra soa *-a*: *ma7atta*. Quando a palavra vem colada a outra que a especifica («estação **de** X»), ela soa *-et*:
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">محطة</span> | ma7atta | estação |
+| <span dir="rtl">المحطة</span> | elma7atta | a estação |
+| <span dir="rtl">محطة أبو سعيد</span> | ma7attet abu se3id | a estação Abu Said |
+
+Não existe palavra para «de»: basta pôr uma palavra ao lado da outra. A escrita árabe não muda (continua ة); só a pronúncia muda.
+
+**Verbo «saber / conhecer» (3aref).** É um particípio: muda com o gênero de quem sabe, não com a pessoa. O negativo usa *mesh*.
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu (homem) | <span dir="rtl">أنا عارف</span> | ana 3aref | eu sei / conheço |
+| eu (homem) | <span dir="rtl">أنا مش عارف</span> | ana mesh 3aref | eu não sei / não conheço |
+| eu (mulher) | <span dir="rtl">أنا عارفة</span> | ana 3arfa | eu sei / conheço |
+| eu (mulher) | <span dir="rtl">أنا مش عارفة</span> | ana mesh 3arfa | eu não sei / não conheço |
+| tu (homem) | <span dir="rtl">إنتَ عارف</span> | enta 3aref | tu sabes / conheces |
+| tu (homem) | <span dir="rtl">إنتَ مش عارف</span> | enta mesh 3aref | tu não sabes / não conheces |
+| tu (mulher) | <span dir="rtl">إنتي عارفة</span> | enti 3arfa | tu sabes / conheces |
+| tu (mulher) | <span dir="rtl">إنتي مش عارفة</span> | enti mesh 3arfa | tu não sabes / não conheces |
+
+*Ma3rafsh* (معرفش) também quer dizer «não sei». É a forma curta, igual para homem e mulher.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">إنتي عارفة شارع أبو عباس فين؟</span> | enti 3arfa share3 abu 3abbas fein? | Sabes onde fica a rua Abu Abbas? |
+| <span dir="rtl">لأ، معرفش.</span> | la2, ma3rafsh. | Não, não sei. |
 
 ## Versão informal
 

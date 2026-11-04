@@ -42,13 +42,29 @@ Uma pergunta sobre nacionalidade e um elogio a quem fala árabe. Os egípcios co
 | masri | masreyya | egípcio/a |
 | amriki | amrikeyya | americano/a |
 
+**Verbo فهم (fehem, entender) no presente.**
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">أنا بفهم</span> | ana bafham | eu entendo |
+| eu | <span dir="rtl">أنا ما بفهمش</span> | ana mabafhamsh | eu não entendo |
+| tu (m) | <span dir="rtl">إنتَ بتفهم</span> | enta betefham | tu entendes |
+| tu (m) | <span dir="rtl">إنتَ ما بتفهمش</span> | enta mabtefhamsh | tu não entendes |
+| tu (f) | <span dir="rtl">إنتي بتفهمي</span> | enti betefhami | tu entendes |
+| tu (f) | <span dir="rtl">إنتي ما بتفهميش</span> | enti mabtefhamish | tu não entendes |
+
 **Verbo اتكلم (etkallem, falar) no presente.**
 
-| Pessoa | Árabe | Franco |
-|:--|--:|:--|
-| eu | <span dir="rtl">أنا بتكلم</span> | ana batkallem |
-| você (m) | <span dir="rtl">إنتَ بتتكلم</span> | enta betetkallem |
-| você (f) | <span dir="rtl">إنتي بتتكلمي</span> | enti betetkallemi |
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">أنا بتكلم</span> | ana batkallem | eu falo |
+| eu | <span dir="rtl">أنا ما بتكلمش</span> | ana mabatkallemsh | eu não falo |
+| tu (m) | <span dir="rtl">إنتَ بتتكلم</span> | enta betetkallem | tu falas |
+| tu (m) | <span dir="rtl">إنتَ ما بتتكلمش</span> | enta mabtetkallemsh | tu não falas |
+| tu (f) | <span dir="rtl">إنتي بتتكلمي</span> | enti betetkallemi | tu falas |
+| tu (f) | <span dir="rtl">إنتي ما بتتكلميش</span> | enti mabtetkallemish | tu não falas |
+
+**Negação ma-…-sh.** O verbo fica entre *ma-* e *-sh*. Quando o verbo termina em *-i* (feminino), o *-sh* vira *-ish*: *mabtefhamish*.
 
 **Devolver a pergunta.** *w enta?* / *w enti?* = «e você?».
 
