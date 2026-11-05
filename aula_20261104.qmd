@@ -1,0 +1,307 @@
+# Aula Ammar — 04 de novembro de 2026 {.unnumbered}
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">درس عمّار — ٤ نوفمبر ٢٠٢٦</span> | dars 3ammar — 4 nofember 2026 | Aula de Ammar — 4 de novembro de 2026 |
+
+## Diálogo
+
+Mona e Karim estão numa festa. Mona pergunta quem são as pessoas.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Mona | <span dir="rtl">مين الأستاذ ده؟</span> | meen el-ostaaz da? | Quem é este senhor? |
+| Karim | <span dir="rtl">ده صاحبي. اسمه أحمد.</span> | da sa7bi. esmo A7mad. | Este é o meu amigo. Chama-se Ahmed. |
+| Mona | <span dir="rtl">هو بيشتغل إيه؟</span> | howwa beyeshta8al eh? | Em que é que ele trabalha? |
+| Karim | <span dir="rtl">هو مهندس.</span> | howwa mohandes. | Ele é engenheiro. |
+| Mona | <span dir="rtl">والمدام دي؟ إنتَ عارفها؟</span> | wel-madaam di? enta 3arfaha? | E esta senhora? Conhece-la? |
+| Karim | <span dir="rtl">أيوه، أنا عارفها. دي صاحبتي. اسمها سلمى.</span> | aywa, ana 3arfaha. di sa7biti. esmaha Salma. | Sim, conheço-a. É a minha amiga. Chama-se Salma. |
+| Mona | <span dir="rtl">هي دكتورة؟</span> | heyya doktoora? | Ela é médica? |
+| Karim | <span dir="rtl">لأ، هي مش دكتورة. هي محامية.</span> | la2, heyya mesh doktoora. heyya mo7ameya. | Não, ela não é médica. É advogada. |
+| Mona | <span dir="rtl">والراجل ده؟</span> | wer-ragel da? | E este homem? |
+| Karim | <span dir="rtl">مش عارف. أنا مش عارفه.</span> | mesh 3aref. ana mesh 3arfo. | Não sei. Não o conheço. |
+
+## Conceitos
+
+### Demonstrativos: ده e دي
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ده</span> | da | este / isto (masculino) |
+| <span dir="rtl">دي</span> | di | esta (feminino) |
+
+A escolha segue o género do substantivo, não de quem fala. Palavras terminadas em ة (*-a*) são normalmente femininas e levam *di*.
+
+**Duas posições, dois sentidos.** Antes do substantivo sem *el-*, forma uma frase completa. Depois do substantivo com *el-*, significa «este/esta».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ده راجل</span> | da ragel | Isto é um homem. |
+| <span dir="rtl">الراجل ده</span> | er-ragel da | este homem |
+| <span dir="rtl">دي ست</span> | di sett | Esta é uma mulher. |
+| <span dir="rtl">الست دي</span> | es-sett di | esta mulher |
+
+### Sem verbo «ser» no presente
+
+O presente não usa verbo de ligação: *howwa doktoor* = «ele [é] médico».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هو دكتور</span> | howwa doktoor | ele é médico |
+| <span dir="rtl">هي دكتورة</span> | heyya doktoora | ela é médica |
+| <span dir="rtl">ده صاحبي</span> | da sa7bi | este é o meu amigo |
+| <span dir="rtl">دي صاحبتي</span> | di sa7biti | esta é a minha amiga |
+
+Com o possessivo, o ة do feminino volta a soar como *t*: *sa7ba* → *sa7biti*.
+
+### Perguntar quem é
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">مين ده؟</span> | meen da? | Quem é este? |
+| <span dir="rtl">مين الراجل ده؟</span> | meen er-ragel da? | Quem é este homem? |
+| <span dir="rtl">مين الأستاذ ده؟</span> | meen el-ostaaz da? | Quem é este senhor? |
+| <span dir="rtl">مين دي؟</span> | meen di? | Quem é esta? |
+| <span dir="rtl">مين الست دي؟</span> | meen es-sett di? | Quem é esta mulher / senhora? |
+| <span dir="rtl">مين المدام دي؟</span> | meen el-madaam di? | Quem é esta senhora? |
+
+*Meen* também pode ir para o fim: *da meen?*
+
+### Nome: «chamar-se»
+
+Não há verbo. Diz-se «o nome dele/dela é»: *esmo* / *esmaha*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">صاحبك اسمه إيه؟</span> | sa7bak esmo eh? | Como se chama o teu amigo? (a um homem) |
+| <span dir="rtl">صاحبِك اسمه إيه؟</span> | sa7bek esmo eh? | Como se chama o teu amigo? (a uma mulher) |
+| <span dir="rtl">صاحبي اسمه أحمد</span> | sa7bi esmo A7mad | O meu amigo chama-se Ahmed. |
+| <span dir="rtl">صاحبتي اسمها سلمى</span> | sa7biti esmaha Salma | A minha amiga chama-se Salma. |
+
+### Perguntar a profissão
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هو بيشتغل إيه؟</span> | howwa beyeshta8al eh? | Em que é que ele trabalha? |
+| <span dir="rtl">هي بتشتغل إيه؟</span> | heyya beteshta8al eh? | Em que é que ela trabalha? |
+
+### Negação com مش
+
+Frases sem verbo (identidade, profissão) negam-se com *mesh* antes do predicado. Os verbos conjugados usam *ma-…-sh* (ver Pimsleur, Lição 04).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ده مش صاحبي</span> | da mesh sa7bi | Este não é o meu amigo. |
+| <span dir="rtl">دي مش صاحبتي</span> | di mesh sa7biti | Esta não é a minha amiga. |
+| <span dir="rtl">هو مش دكتور</span> | howwa mesh doktoor | Ele não é médico. |
+| <span dir="rtl">هي مش دكتورة</span> | heyya mesh doktoora | Ela não é médica. |
+| <span dir="rtl">ده مش راجل</span> | da mesh ragel | Isto não é um homem. |
+
+### Feminino das profissões
+
+Regra geral: acrescenta-se *-a*. Palavras que terminam em *-i* recebem *-eya*.
+
+| Masculino | Feminino | Português |
+|:--|:--|:--|
+| mohandes | mohandesa | engenheiro/a |
+| mo7ami | mo7ameya | advogado/a |
+| musii2i | musii2eyya | músico/a |
+| la3eb kora | la3bet kora | jogador/a de futebol |
+
+Em *la3bet kora*, o ة soa como *t* porque a palavra está ligada a *kora*.
+
+### Verbo عرف (3eref, conhecer / saber)
+
+O mesmo verbo cobre «conhecer» uma pessoa e «saber» um facto.
+
+**Presente habitual.**
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">أنا بعرف</span> | ana ba3raf | eu conheço |
+| tu (m) | <span dir="rtl">إنتَ بتعرف</span> | enta bete3raf | tu conheces |
+| tu (f) | <span dir="rtl">إنتي بتعرفي</span> | enti bete3rafi | tu conheces |
+| ele | <span dir="rtl">هو بيعرف</span> | howwa beye3raf | ele conhece |
+| ela | <span dir="rtl">هي بتعرف</span> | heyya bete3raf | ela conhece |
+| nós | <span dir="rtl">إحنا بنعرف</span> | e7na bene3raf | nós conhecemos |
+| vós | <span dir="rtl">إنتو بتعرفوا</span> | ento bete3rafu | vós conheceis |
+| eles | <span dir="rtl">هم بيعرفوا</span> | homma beye3rafu | eles conhecem |
+
+**Particípio ativo.** É a forma mais usada para «conheço / sei» neste momento. Concorda com quem fala: *3aref* (M), *3arfa* (F), *3arfiin* (Pl).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">إنتَ عارف الراجل ده؟</span> | enta 3aref er-ragel da? | Conheces este homem? (a um homem) |
+| <span dir="rtl">إنتي عارفة الست دي؟</span> | enti 3arfa es-sett di? | Conheces esta mulher? (a uma mulher) |
+| <span dir="rtl">أنا عارفه</span> | ana 3arfo | Conheço-o. (homem a falar) |
+| <span dir="rtl">أنا عارفها</span> | ana 3arfaha | Conheço-a. (homem a falar) |
+| <span dir="rtl">أنا مش عارفه</span> | ana mesh 3arfo | Não o conheço. |
+| <span dir="rtl">مش عارف</span> | mesh 3aref | Não sei. (homem) |
+| <span dir="rtl">مش عارفة</span> | mesh 3arfa | Não sei. (mulher) |
+
+O particípio nega-se com *mesh*, como as frases sem verbo.
+
+### Senhor e senhora
+
+Não há um «senhor» neutro de uso corrente. No dia a dia, *ostaaz* e *madaam* cumprem essa função.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أستاذ</span> | ostaaz | senhor (tratamento corrente e respeitoso) |
+| <span dir="rtl">مدام</span> | madaam | senhora (sobretudo mulher casada) |
+| <span dir="rtl">ست</span> | sett | mulher / senhora (neutro e educado) |
+| <span dir="rtl">هانم</span> | haanem | senhora (formal, um pouco antiquado) |
+| <span dir="rtl">حاجّ</span> | 7ag | senhor idoso |
+| <span dir="rtl">حاجّة</span> | 7agga | senhora idosa |
+
+## Vocabulário
+
+### Pessoas
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">صاحب</span> | sa7eb | amigo |
+| <span dir="rtl">صاحبة</span> | sa7ba | amiga |
+| <span dir="rtl">راجل</span> | ragel | homem |
+| <span dir="rtl">ست</span> | sett | mulher |
+| <span dir="rtl">هو</span> | howwa | ele |
+| <span dir="rtl">هي</span> | heyya | ela |
+| <span dir="rtl">اسم</span> | esm | nome |
+
+### Profissões
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">دكتور</span> | doktoor | médico |
+| <span dir="rtl">دكتورة</span> | doktoora | médica |
+| <span dir="rtl">مهندس</span> | mohandes | engenheiro |
+| <span dir="rtl">مهندسة</span> | mohandesa | engenheira |
+| <span dir="rtl">محامي</span> | mo7ami | advogado |
+| <span dir="rtl">محامية</span> | mo7ameya | advogada |
+| <span dir="rtl">مدرّس</span> | modarres | professor (escola) |
+| <span dir="rtl">مدرّسة</span> | modarresa | professora (escola) |
+| <span dir="rtl">أستاذ</span> | ostaaz | professor (universidade) |
+| <span dir="rtl">أستاذة</span> | ostaaza | professora (universidade) |
+| <span dir="rtl">دبلوماسي</span> | deblomaasi | diplomata (m) |
+| <span dir="rtl">دبلوماسية</span> | deblomaseyya | diplomata (f) |
+| <span dir="rtl">تاجر</span> | tager | comerciante (m) |
+| <span dir="rtl">تاجرة</span> | tagra | comerciante (f) |
+| <span dir="rtl">فرّان</span> | farraan | padeiro |
+| <span dir="rtl">فرّانة</span> | farraana | padeira |
+| <span dir="rtl">طبّاخ</span> | tabbaa5 | cozinheiro |
+| <span dir="rtl">طبّاخة</span> | tabbaa5a | cozinheira |
+| <span dir="rtl">سوّاق</span> | sawwaa2 | motorista (m) |
+| <span dir="rtl">سوّاقة</span> | sawwaa2a | motorista (f) |
+| <span dir="rtl">جرسون</span> | garsoon | empregado de mesa (garçom) |
+| <span dir="rtl">جرسونة</span> | garsoona | empregada de mesa (garçonete) |
+| <span dir="rtl">مُمَثِّل</span> | momassel | ator |
+| <span dir="rtl">مُمَثِّلة</span> | momassela | atriz |
+| <span dir="rtl">لاعب كورة</span> | la3eb kora | jogador de futebol |
+| <span dir="rtl">لاعبة كورة</span> | la3bet kora | jogadora de futebol |
+| <span dir="rtl">مُغَنّي</span> | mo8anni | cantor |
+| <span dir="rtl">مُغَنِّية</span> | mo8anneya | cantora |
+| <span dir="rtl">موسيقي</span> | musii2i | músico |
+| <span dir="rtl">موسيقية</span> | musii2eyya | música (profissional) |
+| <span dir="rtl">مُذيع</span> | mozee3 | locutor / apresentador |
+| <span dir="rtl">مُذيعة</span> | mozee3a | locutora / apresentadora |
+
+Notas de pronúncia: em *momassel* o ث diz-se *s*; em *musii2i* e *sawwaa2* o ق diz-se como hamza (*2*). *Kora* é a palavra egípcia para futebol. *Garsoona* é informal; também se ouve *weiter* para ambos.
+
+### Outras palavras
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">مين؟</span> | meen? | quem? |
+| <span dir="rtl">إيه؟</span> | eh? | o quê? |
+| <span dir="rtl">مش</span> | mesh | não (antes de nome/adjetivo) |
+| <span dir="rtl">أيوه</span> | aywa | sim |
+| <span dir="rtl">لأ</span> | la2 | não |
+| <span dir="rtl">و</span> | w / we | e |
+
+## Exercícios
+
+### 1. Traduza para árabe
+
+1. Quem é este senhor?
+2. Este é o meu amigo. Chama-se Karim.
+3. Em que é que ela trabalha?
+4. Ela é cozinheira.
+5. Ele não é motorista, é comerciante.
+6. Conheces esta senhora? (a um homem)
+
+::: {.callout-tip collapse="true"}
+## Respostas
+
+| Nº | Árabe | Franco |
+|:--|--:|:--|
+| 1 | <span dir="rtl">مين الأستاذ ده؟</span> | meen el-ostaaz da? |
+| 2 | <span dir="rtl">ده صاحبي. اسمه كريم.</span> | da sa7bi. esmo Kareem. |
+| 3 | <span dir="rtl">هي بتشتغل إيه؟</span> | heyya beteshta8al eh? |
+| 4 | <span dir="rtl">هي طبّاخة.</span> | heyya tabbaa5a. |
+| 5 | <span dir="rtl">هو مش سوّاق، هو تاجر.</span> | howwa mesh sawwaa2, howwa tager. |
+| 6 | <span dir="rtl">إنتَ عارف المدام دي؟</span> | enta 3aref el-madaam di? |
+:::
+
+### 2. Passe para o feminino
+
+| Nº | Árabe | Franco |
+|:--|--:|:--|
+| 1 | <span dir="rtl">ده صاحبي</span> | da sa7bi |
+| 2 | <span dir="rtl">هو مهندس</span> | howwa mohandes |
+| 3 | <span dir="rtl">هو محامي</span> | howwa mo7ami |
+| 4 | <span dir="rtl">ده لاعب كورة</span> | da la3eb kora |
+| 5 | <span dir="rtl">هو مش جرسون</span> | howwa mesh garsoon |
+
+::: {.callout-tip collapse="true"}
+## Respostas
+
+| Nº | Árabe | Franco |
+|:--|--:|:--|
+| 1 | <span dir="rtl">دي صاحبتي</span> | di sa7biti |
+| 2 | <span dir="rtl">هي مهندسة</span> | heyya mohandesa |
+| 3 | <span dir="rtl">هي محامية</span> | heyya mo7ameya |
+| 4 | <span dir="rtl">دي لاعبة كورة</span> | di la3bet kora |
+| 5 | <span dir="rtl">هي مش جرسونة</span> | heyya mesh garsoona |
+:::
+
+### 3. Passe para a negativa
+
+| Nº | Árabe | Franco |
+|:--|--:|:--|
+| 1 | <span dir="rtl">هو فرّان</span> | howwa farraan |
+| 2 | <span dir="rtl">دي صاحبتي</span> | di sa7biti |
+| 3 | <span dir="rtl">هي مُذيعة</span> | heyya mozee3a |
+| 4 | <span dir="rtl">أنا عارفه</span> | ana 3arfo |
+
+::: {.callout-tip collapse="true"}
+## Respostas
+
+| Nº | Árabe | Franco |
+|:--|--:|:--|
+| 1 | <span dir="rtl">هو مش فرّان</span> | howwa mesh farraan |
+| 2 | <span dir="rtl">دي مش صاحبتي</span> | di mesh sa7biti |
+| 3 | <span dir="rtl">هي مش مُذيعة</span> | heyya mesh mozee3a |
+| 4 | <span dir="rtl">أنا مش عارفه</span> | ana mesh 3arfo |
+:::
+
+### 4. Complete com ده ou دي
+
+| Nº | Árabe | Franco |
+|:--|--:|:--|
+| 1 | <span dir="rtl">___ سوّاقة</span> | ___ sawwaa2a |
+| 2 | <span dir="rtl">___ دبلوماسي</span> | ___ deblomaasi |
+| 3 | <span dir="rtl">الست ___</span> | es-sett ___ |
+| 4 | <span dir="rtl">الأستاذ ___</span> | el-ostaaz ___ |
+| 5 | <span dir="rtl">___ مُغَنِّية</span> | ___ mo8anneya |
+
+::: {.callout-tip collapse="true"}
+## Respostas
+
+| Nº | Árabe | Franco |
+|:--|--:|:--|
+| 1 | <span dir="rtl">دي سوّاقة</span> | di sawwaa2a |
+| 2 | <span dir="rtl">ده دبلوماسي</span> | da deblomaasi |
+| 3 | <span dir="rtl">الست دي</span> | es-sett di |
+| 4 | <span dir="rtl">الأستاذ ده</span> | el-ostaaz da |
+| 5 | <span dir="rtl">دي مُغَنِّية</span> | di mo8anneya |
+:::

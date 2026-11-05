@@ -68,6 +68,9 @@ book:
         - pimsleur_lesson_28.qmd
         - pimsleur_lesson_29.qmd
         - pimsleur_lesson_30.qmd
+    - part: "Aulas 3mmar Sayed"
+      chapters:
+        - aula_20261104.qmd
 
 bibliography: references.bib
 format:

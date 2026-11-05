@@ -6,7 +6,7 @@
 </style>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  if (!/pimsleur_lesson_\d+/.test(location.pathname)) return;
+  if (!/pimsleur_lesson_\d+|aula_\d+/.test(location.pathname)) return;
 
   var celulas = [];
   var primeiraTabela = null;
