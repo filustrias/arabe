@@ -17,7 +17,7 @@ Um homem pergunta a uma moça quando ela quer comer.
 
 ## Do que trata
 
-Perguntar e responder «quando?»: agora ou depois.
+Combinar quando e onde comer ou beber. Novidades: *eih?* (o quê?), *tayyeb* (está bem), café, chá e *shwayyet* (um pouco de).
 
 ### Vocabulário
 
@@ -26,22 +26,85 @@ Perguntar e responder «quando?»: agora ou depois.
 | <span dir="rtl">إمتى؟</span> | emta? | quando? |
 | <span dir="rtl">دلوقتي</span> | delwa2ti | agora |
 | <span dir="rtl">بعدين</span> | ba3dein | depois |
-| <span dir="rtl">من فضلك</span> | men fadlak | por favor (a homem) |
-| <span dir="rtl">في المطعم</span> | fel mat3am | no restaurante |
+| <span dir="rtl">هنا / هناك</span> | hena / hnak | aqui / ali |
+| <span dir="rtl">إيه؟</span> | eih? | o quê? |
+| <span dir="rtl">طيب</span> | tayyeb | está bem / combinado |
+| <span dir="rtl">قهوة</span> | 2ahwa | café |
+| <span dir="rtl">شاي</span> | shay | chá |
+| <span dir="rtl">شوية</span> | shwayya | um pouco |
+| <span dir="rtl">الهرم</span> | elharam | a pirâmide |
 
 ### Conceitos
 
-**Emta no fim.** Como *fein* e *eih*, a palavra interrogativa vem depois: *te7ebbi takli emta?*
+**1. Agora e depois.**
 
-**Mesh + advérbio.** *mesh delwa2ti* = «agora não».
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">تحبي تاكلي دلوقتي؟</span> | te7ebbi takli delwa2ti? | gostarias de comer agora? (f) |
+| <span dir="rtl">أيوه، أحب آكل دلوقتي.</span> | aywa, a7ebb akol delwa2ti. | sim, gostaria de comer agora. |
+| <span dir="rtl">مش دلوقتي، بعدين.</span> | mesh delwa2ti, ba3dein. | agora não, depois. |
+| <span dir="rtl">لكن بعدين.</span> | lakin ba3dein. | mas depois. |
+| <span dir="rtl">بعدين يا آنسة.</span> | ba3dein ya 2anesa. | depois, senhorita. |
+| <span dir="rtl">طيب، إمتى؟</span> | tayyeb, emta? | está bem, quando? |
+| <span dir="rtl">دلوقتي من فضلك.</span> | delwa2ti men fadlak. | agora, por favor. |
 
-**Men fadlak / men fadlek.** Muda com quem ouve: *-ak* para homem, *-ek* para mulher.
+**2. Aqui e ali.**
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أحب آكل هنا.</span> | a7ebb akol hena. | gostaria de comer aqui. |
+| <span dir="rtl">مش هنا.</span> | mesh hena. | aqui não. |
+| <span dir="rtl">هناك؟</span> | hnak? | ali? |
+| <span dir="rtl">لأ، مش هناك.</span> | la2, mesh hnak. | não, ali não. |
+| <span dir="rtl">هو هناك.</span> | howwa hnak. | é lá adiante. |
+
+**3. Gostaria de comer / beber algo.** Revisão, com a pergunta «o quê?» (*eih*, no fim).
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">أحب آكل حاجة</span> | a7ebb akol 7aga | gostaria de comer algo |
+| eu | <span dir="rtl">أحب أشرب حاجة</span> | a7ebb ashrab 7aga | gostaria de beber algo |
+| tu (m) | <span dir="rtl">تحب تاكل إيه؟</span> | te7ebb takol eih? | o que gostarias de comer? |
+| tu (f) | <span dir="rtl">تحبي تاكلي إيه؟</span> | te7ebbi takli eih? | o que gostarias de comer? |
+| tu (f) | <span dir="rtl">تحبي تشربي إيه؟</span> | te7ebbi teshrabi eih? | o que gostarias de beber? |
+| tu (m) | <span dir="rtl">وإنتَ، تحب تشرب حاجة؟</span> | w enta, te7ebb teshrab 7aga? | e tu, gostarias de beber algo? |
+
+**4. Um pouco de café / chá.** *Shwayya* (ة) colada a outra palavra vira *shwayyet* — a mesma regra de *ma7attet* (lição 5).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">شوية قهوة</span> | shwayyet 2ahwa | um pouco de café |
+| <span dir="rtl">شوية شاي</span> | shwayyet shay | um pouco de chá |
+| <span dir="rtl">أحب أشرب شوية قهوة.</span> | a7ebb ashrab shwayyet 2ahwa. | gostaria de beber um café. |
+| <span dir="rtl">تحبي تشربي شوية شاي؟</span> | te7ebbi teshrabi shwayyet shay? | gostarias de beber um chá? (f) |
+| <span dir="rtl">لأ شكرًا، مش دلوقتي.</span> | la2 shokran, mesh delwa2ti. | não, obrigada, agora não. |
+
+O ق de قهوة soa *2* no Cairo: *2ahwa*.
+
+**5. No restaurante / onde fica o restaurante?**
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">في المطعم، من فضلك.</span> | fel mat3am, men fadlak. | no restaurante, por favor. |
+| <span dir="rtl">في مطعم الهرم</span> | fi mat3am elharam | no restaurante Al-Haram |
+| <span dir="rtl">المطعم فين؟</span> | elmat3am fein? | onde fica o restaurante? |
+| <span dir="rtl">تعرفي؟</span> | te3rafi? | sabes? (f) |
+| <span dir="rtl">أيوه، عارفة.</span> | aywa, 3arfa. | sim, sei. (mulher) |
+| <span dir="rtl">في شارع أبو عباس</span> | fi share3 abu 3abbas | na rua Abu Abbas |
+
+*Fi* = «em / no / na». Com *el* vira *fel* (*fel mat3am*); sem *el* fica *fi* (*fi share3…*, *fi mat3am…*).
+
+**6. Tayyeb = «está bem / combinado».** Usado para aceitar: *tayyeb.* — *aywa, kwayyes awi.*
 
 ## Versão informal
 
 | Quem | Árabe | Franco | Português |
 |:--|--:|:--|:--|
-| Homem | <span dir="rtl">تاكلي دلوقتي؟</span> | takli delwa2ti? | Come agora? |
+| Homem | <span dir="rtl">تاكلي دلوقتي؟</span> | takli delwa2ti? | Comes agora? |
 | Mulher | <span dir="rtl">لأ، بعدين. بس عايزة أشرب حاجة.</span> | la2, ba3dein. bas 3ayza ashrab 7aga. | Não, depois. Mas quero beber algo. |
+| Homem | <span dir="rtl">قهوة ولا شاي؟</span> | 2ahwa walla shay? | Café ou chá? |
+| Mulher | <span dir="rtl">قهوة.</span> | 2ahwa. | Café. |
 | Homem | <span dir="rtl">فين؟ في المطعم؟</span> | fein? fel mat3am? | Onde? No restaurante? |
-| Mulher | <span dir="rtl">ماشي.</span> | mashi. | Combinado. |
+| Mulher | <span dir="rtl">طيب.</span> | tayyeb. | Está bem. |
+
+*Bas* = «mas» (informal, no lugar de *lakin*); *walla* = «ou».
