@@ -6,51 +6,100 @@ Sami e Dina num restaurante. Sami chama a garçonete de *ya 2anesa*.
 
 | Quem | Árabe | Franco | Português |
 |:--|--:|:--|:--|
-| Sami | <span dir="rtl">يا دينا، تحبي تاكلي دلوقتي؟</span> | ya dina, te7ebbi takli delwa2ti? | Dina, quer comer agora? |
-| Dina | <span dir="rtl">لأ، شكرًا يا سامي، مش دلوقتي. لكن أحب أشرب حاجة.</span> | la2, shokran ya sami, mesh delwa2ti. lakin a7ebb ashrab 7aga. | Não, obrigada, Sami, agora não. Mas queria beber algo. |
-| Sami | <span dir="rtl">طيب، تحبي تشربي إيه؟</span> | tayyeb, te7ebbi teshrabi eih? | Está bem, o que quer beber? |
+| Sami | <span dir="rtl">يا دينا، تحبي تاكلي دلوقتي؟</span> | ya dina, te7ebbi takli delwa2ti? | Dina, queres comer agora? |
+| Dina | <span dir="rtl">لأ، شكرًا يا سامي، مش دلوقتي. لكن أحب أشرب حاجة.</span> | la2, shokran ya sami, mesh delwa2ti. lakin a7ebb ashrab 7aga. | Não, obrigada, Sami, agora não. Mas gostaria de beber algo. |
+| Sami | <span dir="rtl">طيب، تحبي تشربي إيه؟</span> | tayyeb, te7ebbi teshrabi eih? | Está bem, o que gostarias de beber? |
 | Dina | <span dir="rtl">معرفش. قهوة؟ لأ، شاي.</span> | ma3rafsh. 2ahwa? la2, shay. | Não sei. Café? Não, chá. |
-| Sami | <span dir="rtl">أنا كمان أحب أشرب شاي.</span> | ana kaman a7ebb ashrab shay. | Eu também queria beber chá. |
+| Sami | <span dir="rtl">أنا كمان أحب أشرب شاي.</span> | ana kaman a7ebb ashrab shay. | Eu também gostaria de beber chá. |
 | Sami | <span dir="rtl">يا آنسة، اتنين شاي من فضلك.</span> | ya 2anesa, etnein shay men fadlek. | Senhorita, dois chás, por favor. |
 | Garçonete | <span dir="rtl">لا مؤاخذة، أكل؟</span> | la mo2a5za, akl? | Desculpe, e comida? |
 | Sami | <span dir="rtl">لأ، مش دلوقتي. بعدين من فضلك.</span> | la2, mesh delwa2ti. ba3dein men fadlek. | Não, agora não. Depois, por favor. |
 
 ## Do que trata
 
-Pedir bebida num restaurante.
+Pedir bebida num restaurante. Ao longo da aula entram: dois, «ou», fazer, comprar, hotel, «com quem?» e «comigo / contigo».
 
 ### Vocabulário
 
 | Árabe | Franco | Português |
 |--:|:--|:--|
-| <span dir="rtl">إيه؟</span> | eih? | o quê? |
-| <span dir="rtl">قهوة</span> | 2ahwa | café |
-| <span dir="rtl">شاي</span> | shay | chá |
 | <span dir="rtl">اتنين</span> | etnein | dois |
+| <span dir="rtl">أو</span> | aw | ou |
 | <span dir="rtl">أكل</span> | akl | comida |
+| <span dir="rtl">فندق</span> | fondo2 | hotel |
+| <span dir="rtl">في الفندق</span> | fel fondo2 | no hotel |
+| <span dir="rtl">مين؟</span> | min? | quem? |
+| <span dir="rtl">مع مين؟</span> | ma3a min? | com quem? |
+| <span dir="rtl">معايا</span> | ma3aya | comigo |
+| <span dir="rtl">معاك</span> | ma3ak | contigo (m) |
+| <span dir="rtl">معاكي</span> | ma3aki | contigo (f) |
 
 ### Conceitos
 
-**Pedir quantidades.** O número vem antes, e a bebida fica no singular: *etnein shay* = «dois chás».
+**1. Dois chás.** O número vem antes e a bebida fica no singular.
 
-**Verbo beber (ashrab).**
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">اتنين شاي من فضلك يا آنسة.</span> | etnein shay men fadlek ya 2anesa. | dois chás, por favor, senhorita. |
 
-| Pessoa | Árabe | Franco |
-|:--|--:|:--|
-| eu | <span dir="rtl">أحب أشرب</span> | a7ebb ashrab |
-| você (m) | <span dir="rtl">تحب تشرب</span> | te7ebb teshrab |
-| você (f) | <span dir="rtl">تحبي تشربي</span> | te7ebbi teshrabi |
+**2. «Ou» — aw.**
 
-**Akol × akl.** *akol* = (eu) comer; *akl* = comida.
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">قهوة أو شاي؟</span> | 2ahwa aw shay? | café ou chá? |
+| <span dir="rtl">تحبي شوية شاي؟ أو قهوة؟</span> | te7ebbi shwayyet shay? aw 2ahwa? | queres um chá? ou café? (f) |
+| <span dir="rtl">شوية قهوة أو شوية شاي</span> | shwayyet 2ahwa aw shwayyet shay | um café ou um chá |
+
+**3. Fazer (3amal) e comprar (eshtara).** Mesma estrutura de *a7ebb* + verbo. *Teshteri* é igual para homem e mulher (já termina em *-i*).
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">أحب أعمل حاجة</span> | a7ebb a3mel 7aga | gostaria de fazer algo |
+| tu (m) | <span dir="rtl">تحب تعمل إيه؟</span> | te7ebb te3mel eih? | o que gostarias de fazer? |
+| tu (f) | <span dir="rtl">تحبي تعملي إيه؟</span> | te7ebbi te3meli eih? | o que gostarias de fazer? |
+| eu | <span dir="rtl">أحب أشتري حاجة</span> | a7ebb ashteri 7aga | gostaria de comprar algo |
+| tu (m / f) | <span dir="rtl">تحب تشتري إيه؟</span> | te7ebb teshteri eih? | o que gostarias de comprar? |
+| tu (m) | <span dir="rtl">تحب تشتري حاجة؟</span> | te7ebb teshteri 7aga? | gostarias de comprar algo? |
+
+**4. Com quem? — comigo / contigo.** *Ma3a* (com) + terminação de pessoa.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">لكن مع مين؟</span> | lakin ma3a min? | mas com quem? |
+| <span dir="rtl">معاك يا آنسة.</span> | ma3ak ya 2anesa. | contigo, senhorita. |
+| <span dir="rtl">تحبي تاكلي حاجة معايا؟</span> | te7ebbi takli 7aga ma3aya? | gostarias de comer algo comigo? |
+| <span dir="rtl">تحبي تشربي حاجة معايا؟</span> | te7ebbi teshrabi 7aga ma3aya? | gostarias de beber algo comigo? |
+| <span dir="rtl">وأحب آكل معاكي.</span> | w a7ebb akol ma3aki. | e gostaria de comer contigo. (a uma mulher) |
+| <span dir="rtl">أنا كمان أحب آكل معاك.</span> | ana kaman a7ebb akol ma3ak. | eu também gostaria de comer contigo. (a um homem) |
+
+**5. Onde? Hotel e restaurante.** *Fi + el = fel*. Com nome próprio, fica só *fi*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">في الفندق؟</span> | fel fondo2? | no hotel? |
+| <span dir="rtl">لأ، مش في الفندق.</span> | la2, mesh fel fondo2. | não, no hotel não. |
+| <span dir="rtl">في مطعم الهرم، من فضلك.</span> | fi mat3am elharam, men fadlak. | no restaurante Al-Haram, por favor. |
+| <span dir="rtl">مطعم الهرم فين؟</span> | mat3am elharam fein? | onde fica o restaurante Al-Haram? |
+| <span dir="rtl">هو في شارع أبو عباس.</span> | howwa fi share3 abu 3abbas. | fica na rua Abu Abbas. |
+
+**6. Agora e depois (revisão).**
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">مش دلوقتي، أحب آكل بعدين.</span> | mesh delwa2ti, a7ebb akol ba3dein. | agora não, gostaria de comer depois. |
+| <span dir="rtl">طيب، بعدين.</span> | tayyeb, ba3dein. | está bem, depois. |
+| <span dir="rtl">طيب، لكن إمتى؟</span> | tayyeb, lakin emta? | está bem, mas quando? |
+
+**7. Akol × akl.** *akol* = (eu) comer; *akl* = comida.
 
 ## Versão informal
 
 | Quem | Árabe | Franco | Português |
 |:--|--:|:--|:--|
-| Sami | <span dir="rtl">جعانة؟</span> | ga3ana? | Está com fome? |
+| Sami | <span dir="rtl">جعانة؟</span> | ga3ana? | Estás com fome? |
 | Dina | <span dir="rtl">لأ، بس عايزة أشرب حاجة.</span> | la2, bas 3ayza ashrab 7aga. | Não, só quero beber algo. |
 | Sami | <span dir="rtl">قهوة ولا شاي؟</span> | 2ahwa walla shay? | Café ou chá? |
 | Dina | <span dir="rtl">شاي.</span> | shay. | Chá. |
 | Sami | <span dir="rtl">اتنين شاي لو سمحتي.</span> | etnein shay law sama7ti. | Dois chás, por favor. |
 
-*Walla* = «ou» em perguntas.
+*Walla* = «ou» em perguntas, mais comum na fala do que *aw*.
