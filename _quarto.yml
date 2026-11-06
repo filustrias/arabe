@@ -5,6 +5,8 @@ book:
   title: ""
   author: ""
   date: ""
+  sidebar:
+    collapse-level: 1
   chapters:
     - index.qmd
     - intro.qmd

@@ -1,4 +1,4 @@
-# Aula com 3mmar — 6 de novembro de 2026 {.unnumbered}
+# 6 de novembro de 2026 {.unnumbered}
 
 <style>
 .fr { transition: filter .2s; }
