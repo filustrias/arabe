@@ -71,6 +71,7 @@ book:
     - part: "Aulas 3mmar Sayed"
       chapters:
         - aula_20261104.qmd
+        - aula_3mmar_2026-11-06.qmd
 
 bibliography: references.bib
 format:

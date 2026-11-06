@@ -1,0 +1,171 @@
+# Aula com 3mmar — 6 de novembro de 2026 {.unnumbered}
+
+<style>
+.fr { transition: filter .2s; }
+body.fr-coberto .fr { filter: blur(6px); cursor: pointer; user-select: none; }
+body.fr-coberto .fr.aberto { filter: none; }
+#btn-fr {
+  position: fixed; bottom: 1.2rem; right: 1.2rem; z-index: 1000;
+  padding: .5rem .9rem; border: none; border-radius: 6px;
+  background: #1f3a68; color: #fff; font-size: .9rem; cursor: pointer;
+}
+</style>
+
+<button id="btn-fr" type="button">Cobrir franco</button>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var b = document.getElementById('btn-fr');
+  b.addEventListener('click', function () {
+    var coberto = document.body.classList.toggle('fr-coberto');
+    document.querySelectorAll('.fr.aberto').forEach(function (e) { e.classList.remove('aberto'); });
+    b.textContent = coberto ? 'Descobrir franco' : 'Cobrir franco';
+  });
+  document.querySelectorAll('.fr').forEach(function (e) {
+    e.addEventListener('click', function () {
+      if (document.body.classList.contains('fr-coberto')) e.classList.toggle('aberto');
+    });
+  });
+});
+</script>
+
+O botão no canto inferior direito cobre ou descobre todo o franco. Com o franco coberto, um clique numa célula revela só aquela.
+
+## Diálogo: o koshari
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Cliente | <span dir="rtl">لو سمحت. إيه ده؟</span> | <span class="fr">law sama7t. eh da?</span> | Com licença. O que é isto? |
+| Cozinheiro | <span dir="rtl">ده إسمه كشري.</span> | <span class="fr">da esmo koshari.</span> | Isto se chama koshari. |
+| Cliente | <span dir="rtl">ده طعمه حلو؟</span> | <span class="fr">da ta3mo 7elw?</span> | É gostoso? (literalmente: o sabor dele é bom?) |
+| Cozinheiro | <span dir="rtl">طبعاً يا مدام.</span> | <span class="fr">tab3an ya madam.</span> | Claro, senhora. |
+
+## A semana
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">اُسبوعَك كان عامِل اِزاي؟</span> | <span class="fr">osbo3ak kan 3amel ezzay?</span> | Como foi a sua semana? |
+| <span dir="rtl">اُسْبوعي كان كويس.</span> | <span class="fr">osbo3i kan kwayyes.</span> | Minha semana foi boa. |
+| <span dir="rtl">ازاي؟</span> | <span class="fr">ezzay?</span> | Como? |
+| <span dir="rtl">ليه؟</span> | <span class="fr">leh?</span> | Por quê? |
+| <span dir="rtl">عشان لولا فاز في الاِنْتِخَابات.</span> | <span class="fr">3ashan lula faz fel-enti5abat.</span> | Porque o Lula ganhou as eleições. |
+| <span dir="rtl">اِزايَّك؟</span> | <span class="fr">ezzayyak?</span> | Como vai? |
+| <span dir="rtl">عامل ايه؟</span> | <span class="fr">3amel eh?</span> | Como vai? (= ezzayyak) |
+| <span dir="rtl">اِنْتَ عَمَلت اِيه اِمْبارِح؟</span> | <span class="fr">enta 3amalt eh embare7?</span> | O que você fez ontem? |
+| <span dir="rtl">أنا شِرِبْت كِتير اِمبارح.</span> | <span class="fr">ana shrebt ketir embare7.</span> | Eu bebi muito ontem. |
+
+## Tempo
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">اِمبارح</span> | <span class="fr">embare7</span> | ontem |
+| <span dir="rtl">النهاردة</span> | <span class="fr">ennaharda</span> | hoje |
+| <span dir="rtl">دلوقتي</span> | <span class="fr">delwa2ti</span> | agora |
+| <span dir="rtl">بُكرة</span> | <span class="fr">bokra</span> | amanhã |
+
+## Data e hora
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">النهاردة ٦ نوفَمْبِر.</span> | <span class="fr">ennaharda setta novembir.</span> | Hoje é 6 de novembro. |
+| <span dir="rtl">الساعة هنا ٩:٣٠.</span> | <span class="fr">essa3a hena tes3a w noss.</span> | Aqui são nove e meia. |
+| <span dir="rtl">الساعة واحدة ونُص.</span> | <span class="fr">essa3a wa7da w noss.</span> | É uma e meia. |
+
+## Cortesia
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">السلامُ عليكم</span> | <span class="fr">essalamu 3aleikom</span> | A paz esteja convosco (saudação) |
+| <span dir="rtl">لو سمحت</span> | <span class="fr">law sama7t</span> | Por favor / com licença |
+| <span dir="rtl">أنا آسف</span> | <span class="fr">ana asef</span> | Sinto muito / desculpe |
+| <span dir="rtl">ولا يهمك</span> | <span class="fr">wala yhemmak</span> | Não tem problema / não se preocupe |
+| <span dir="rtl">اديني شوية وقت</span> | <span class="fr">eddini shwayyet wa2t</span> | Me dá um pouco de tempo |
+
+## Querer e saber
+
+São particípios: mudam com o gênero e o número de quem fala, não com a pessoa.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عايز</span> | <span class="fr">3ayez</span> | quero (homem) |
+| <span dir="rtl">عايزة</span> | <span class="fr">3ayza</span> | quero (mulher) |
+| <span dir="rtl">عايزين</span> | <span class="fr">3ayzin</span> | queremos / querem |
+| <span dir="rtl">عارف</span> | <span class="fr">3aref</span> | sei (homem) |
+| <span dir="rtl">عارفة</span> | <span class="fr">3arfa</span> | sei (mulher) |
+| <span dir="rtl">عارفين</span> | <span class="fr">3arfin</span> | sabemos / sabem |
+| <span dir="rtl">أنا مش عارف</span> | <span class="fr">ana mesh 3aref</span> | Eu não sei |
+
+## Presente com ba-
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أنا باكل</span> | <span class="fr">ana bakol</span> | eu como |
+| <span dir="rtl">أنا بحب</span> | <span class="fr">ana ba7ebb</span> | eu gosto / amo |
+| <span dir="rtl">أنا بشوف</span> | <span class="fr">ana bashuf</span> | eu vejo |
+| <span dir="rtl">أنا باكل كتير</span> | <span class="fr">ana bakol ketir</span> | Eu como muito |
+
+## Onde estou: عند e في
+
+*3and* = junto de, na casa ou no local de alguém. *Fi* = dentro de.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أنا عَنْد الدكتور</span> | <span class="fr">ana 3and eddoktor</span> | Estou no médico |
+| <span dir="rtl">أنا عند المطعم</span> | <span class="fr">ana 3and elmat3am</span> | Estou no restaurante (junto dele) |
+| <span dir="rtl">أنا في المطعم</span> | <span class="fr">ana fel-mat3am</span> | Estou dentro do restaurante |
+| <span dir="rtl">أنا عند بيت صحبي</span> | <span class="fr">ana 3and beit sa7bi</span> | Estou na casa do meu amigo |
+
+## Ter: عند + sufixo
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">أنا عَنْدِي</span> | <span class="fr">ana 3andi</span> | eu tenho |
+| você (m) | <span dir="rtl">انت عَنْدَك</span> | <span class="fr">enta 3andak</span> | você tem |
+| você (f) | <span dir="rtl">انتي عَنْدِك</span> | <span class="fr">enti 3andek</span> | você tem |
+| ele | <span dir="rtl">هو عَنْدُه</span> | <span class="fr">howwa 3ando</span> | ele tem |
+| ela | <span dir="rtl">هي عَنْدَها</span> | <span class="fr">heyya 3andaha</span> | ela tem |
+| nós | <span dir="rtl">احنا عَنْدِنا</span> | <span class="fr">e7na 3andena</span> | nós temos |
+| vocês | <span dir="rtl">انتوا عَنْدُكوا</span> | <span class="fr">entu 3andoku</span> | vocês têm |
+| eles | <span dir="rtl">هما عَنْدُهُم</span> | <span class="fr">homma 3andohom</span> | eles têm |
+
+## Posse: sufixo e «X de Y»
+
+Não existe palavra para «de»: as duas palavras ficam lado a lado. Palavras em ة soam *-et* quando vem outra palavra depois (*3arabeyya* → *3arabeyyet sa7bi*).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">كتابي</span> | <span class="fr">ketabi</span> | meu livro |
+| <span dir="rtl">شَنْطِتي</span> | <span class="fr">shanteti</span> | minha bolsa |
+| <span dir="rtl">ده كتاب أديلسون</span> | <span class="fr">da ketab adelson</span> | Este é o livro do Adelson |
+| <span dir="rtl">دي عربية أديلسون</span> | <span class="fr">di 3arabeyyet adelson</span> | Este é o carro do Adelson |
+| <span dir="rtl">دي عربية صحبي</span> | <span class="fr">di 3arabeyyet sa7bi</span> | Este é o carro do meu amigo |
+| <span dir="rtl">دي شنطة صحبي</span> | <span class="fr">di shantet sa7bi</span> | Esta é a bolsa do meu amigo |
+
+## Vocabulário
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ماية</span> | <span class="fr">mayya</span> | água |
+| <span dir="rtl">قهوة</span> | <span class="fr">2ahwa</span> | café |
+| <span dir="rtl">الحنفية</span> | <span class="fr">el7anafeyya</span> | a torneira |
+| <span dir="rtl">لبن البقرة لذيذ</span> | <span class="fr">laban elba2ara lazeez</span> | O leite de vaca é gostoso |
+
+## Nunca: ما…ش قبل كدا e عمري ما
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أنا ما أكلتش … قبل كدا</span> | <span class="fr">ana makaltesh … 2abl keda</span> | Eu nunca comi … (não comi antes) |
+| <span dir="rtl">أنا عمري ما شربت …</span> | <span class="fr">ana 3omri ma shrebt …</span> | Eu nunca bebi … |
+
+## Gostar e querer + verbo
+
+O segundo verbo vem no presente sem *b-*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أنا عايز أحب</span> | <span class="fr">ana 3ayez a7ebb</span> | Eu quero amar |
+| <span dir="rtl">أنا عايز أكل</span> | <span class="fr">ana 3ayez akol</span> | Eu quero comer |
+| <span dir="rtl">أنا بحب اكل كتير</span> | <span class="fr">ana ba7ebb akol ketir</span> | Eu gosto muito de comer |
+| <span dir="rtl">انت بتحب تاكل ايه؟</span> | <span class="fr">enta bet7ebb takol eh?</span> | O que você gosta de comer? |
+| <span dir="rtl">مِرَاتَك بتحب تاكل ايه؟</span> | <span class="fr">mratak bet7ebb takol eh?</span> | O que sua esposa gosta de comer? |
+| <span dir="rtl">يَعني ايه لحمة؟</span> | <span class="fr">ya3ni eh la7ma?</span> | O que quer dizer «la7ma»? (carne) |
