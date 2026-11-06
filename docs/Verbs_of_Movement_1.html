@@ -1312,7 +1312,7 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 <style>
 .audio-licao { position: sticky; top: 0; z-index: 10; background: var(--bs-body-bg); padding: 0.5em 0; margin-bottom: 1em; }
-.audio-licao iframe { border: none; display: block; height: 80px; width: 100%; }
+.audio-licao iframe { border: none; display: block; height: 110px; width: 100%; }
 .audio-licao a { font-size: 0.85em; }
 </style>
 <script>
@@ -1336,7 +1336,7 @@ document.addEventListener("DOMContentLoaded", function () {
   link.href = "https://drive.google.com/file/d/" + id + "/view";
   link.target = "_blank";
   link.rel = "noopener";
-  link.textContent = "Abrir o áudio numa nova aba";
+  link.textContent = "Áudio de lição " + parseInt(licao[1], 10);
   caixa.appendChild(player);
   caixa.appendChild(link);
 
