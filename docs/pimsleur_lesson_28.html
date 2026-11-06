@@ -968,7 +968,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <style>
 .audio-licao { position: sticky; top: 0; z-index: 10; background: var(--bs-body-bg); padding: 0.5em 0; margin-bottom: 1em; }
 .audio-licao iframe { border: none; display: block; height: 110px; width: 100%; }
-.audio-licao a { font-size: 0.85em; }
+.audio-licao .audio-rotulo { font-size: 0.85em; font-weight: 600; margin-bottom: 0.3em; }
 </style>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -983,17 +983,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
   var caixa = document.createElement("div");
   var player = document.createElement("iframe");
-  var link = document.createElement("a");
+  var rotulo = document.createElement("div");
   caixa.className = "audio-licao";
   player.src = "https://drive.google.com/file/d/" + id + "/preview";
   player.title = "Áudio da lição";
   player.allow = "autoplay";
-  link.href = "https://drive.google.com/file/d/" + id + "/view";
-  link.target = "_blank";
-  link.rel = "noopener";
-  link.textContent = "Áudio de lição " + parseInt(licao[1], 10);
+  rotulo.className = "audio-rotulo";
+  rotulo.textContent = "Áudio de lição " + parseInt(licao[1], 10);
+  caixa.appendChild(rotulo);
   caixa.appendChild(player);
-  caixa.appendChild(link);
 
   var cabecalho = document.getElementById("title-block-header");
   if (cabecalho) cabecalho.after(caixa);
