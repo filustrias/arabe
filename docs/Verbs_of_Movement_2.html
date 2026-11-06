@@ -1067,28 +1067,31 @@ document.addEventListener("DOMContentLoaded", function () {
 
   document.querySelectorAll("main table").forEach(function (tabela) {
     var titulos = Array.from(tabela.querySelectorAll("thead th"));
-    var coluna = titulos.findIndex(function (th) {
-      return th.textContent.trim().toLowerCase() === "franco";
+    var colunas = [];
+    titulos.forEach(function (th, i) {
+      if (th.textContent.trim().toLowerCase().startsWith("franco")) colunas.push(i);
     });
-    if (coluna === -1) return;
+    if (!colunas.length) return;
     primeiraTabela = primeiraTabela || tabela;
 
     tabela.querySelectorAll("tbody tr").forEach(function (linha) {
-      var td = linha.cells[coluna];
-      if (!td) return;
-      var botao = document.createElement("button");
-      var texto = document.createElement("span");
-      botao.type = "button";
-      botao.className = "franco-celula";
-      texto.className = "franco-texto";
-      while (td.firstChild) texto.appendChild(td.firstChild);
-      botao.appendChild(texto);
-      td.appendChild(botao);
-      botao.addEventListener("click", function () {
-        definir(botao, botao.getAttribute("aria-expanded") === "false");
-        atualizarGeral();
+      colunas.forEach(function (coluna) {
+        var td = linha.cells[coluna];
+        if (!td) return;
+        var botao = document.createElement("button");
+        var texto = document.createElement("span");
+        botao.type = "button";
+        botao.className = "franco-celula";
+        texto.className = "franco-texto";
+        while (td.firstChild) texto.appendChild(td.firstChild);
+        botao.appendChild(texto);
+        td.appendChild(botao);
+        botao.addEventListener("click", function () {
+          definir(botao, botao.getAttribute("aria-expanded") === "false");
+          atualizarGeral();
+        });
+        celulas.push(botao);
       });
-      celulas.push(botao);
     });
   });
 

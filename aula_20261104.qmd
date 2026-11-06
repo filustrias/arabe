@@ -170,40 +170,24 @@ Não há um «senhor» neutro de uso corrente. No dia a dia, *ostaaz* e *madaam*
 
 ### Profissões
 
-| Árabe | Franco | Português |
-|--:|:--|:--|
-| <span dir="rtl">دكتور</span> | doktoor | médico |
-| <span dir="rtl">دكتورة</span> | doktoora | médica |
-| <span dir="rtl">مهندس</span> | mohandes | engenheiro |
-| <span dir="rtl">مهندسة</span> | mohandesa | engenheira |
-| <span dir="rtl">محامي</span> | mo7ami | advogado |
-| <span dir="rtl">محامية</span> | mo7ameya | advogada |
-| <span dir="rtl">مدرّس</span> | modarres | professor (escola) |
-| <span dir="rtl">مدرّسة</span> | modarresa | professora (escola) |
-| <span dir="rtl">أستاذ</span> | ostaaz | professor (universidade) |
-| <span dir="rtl">أستاذة</span> | ostaaza | professora (universidade) |
-| <span dir="rtl">دبلوماسي</span> | deblomaasi | diplomata (m) |
-| <span dir="rtl">دبلوماسية</span> | deblomaseyya | diplomata (f) |
-| <span dir="rtl">تاجر</span> | tager | comerciante (m) |
-| <span dir="rtl">تاجرة</span> | tagra | comerciante (f) |
-| <span dir="rtl">فرّان</span> | farraan | padeiro |
-| <span dir="rtl">فرّانة</span> | farraana | padeira |
-| <span dir="rtl">طبّاخ</span> | tabbaa5 | cozinheiro |
-| <span dir="rtl">طبّاخة</span> | tabbaa5a | cozinheira |
-| <span dir="rtl">سوّاق</span> | sawwaa2 | motorista (m) |
-| <span dir="rtl">سوّاقة</span> | sawwaa2a | motorista (f) |
-| <span dir="rtl">جرسون</span> | garsoon | empregado de mesa (garçom) |
-| <span dir="rtl">جرسونة</span> | garsoona | empregada de mesa (garçonete) |
-| <span dir="rtl">مُمَثِّل</span> | momassel | ator |
-| <span dir="rtl">مُمَثِّلة</span> | momassela | atriz |
-| <span dir="rtl">لاعب كورة</span> | la3eb kora | jogador de futebol |
-| <span dir="rtl">لاعبة كورة</span> | la3bet kora | jogadora de futebol |
-| <span dir="rtl">مُغَنّي</span> | mo8anni | cantor |
-| <span dir="rtl">مُغَنِّية</span> | mo8anneya | cantora |
-| <span dir="rtl">موسيقي</span> | musii2i | músico |
-| <span dir="rtl">موسيقية</span> | musii2eyya | música (profissional) |
-| <span dir="rtl">مُذيع</span> | mozee3 | locutor / apresentador |
-| <span dir="rtl">مُذيعة</span> | mozee3a | locutora / apresentadora |
+| Português | Árabe (m) | Franco (m) | Árabe (f) | Franco (f) |
+|:--|--:|:--|--:|:--|
+| médico / médica | <span dir="rtl">دكتور</span> | doktoor | <span dir="rtl">دكتورة</span> | doktoora |
+| engenheiro / engenheira | <span dir="rtl">مهندس</span> | mohandes | <span dir="rtl">مهندسة</span> | mohandesa |
+| advogado / advogada | <span dir="rtl">محامي</span> | mo7ami | <span dir="rtl">محامية</span> | mo7ameya |
+| professor / professora (escola) | <span dir="rtl">مدرّس</span> | modarres | <span dir="rtl">مدرّسة</span> | modarresa |
+| professor / professora (universidade) | <span dir="rtl">أستاذ</span> | ostaaz | <span dir="rtl">أستاذة</span> | ostaaza |
+| diplomata | <span dir="rtl">دبلوماسي</span> | deblomaasi | <span dir="rtl">دبلوماسية</span> | deblomaseyya |
+| comerciante | <span dir="rtl">تاجر</span> | tager | <span dir="rtl">تاجرة</span> | tagra |
+| padeiro / padeira | <span dir="rtl">فرّان</span> | farraan | <span dir="rtl">فرّانة</span> | farraana |
+| cozinheiro / cozinheira | <span dir="rtl">طبّاخ</span> | tabbaa5 | <span dir="rtl">طبّاخة</span> | tabbaa5a |
+| motorista | <span dir="rtl">سوّاق</span> | sawwaa2 | <span dir="rtl">سوّاقة</span> | sawwaa2a |
+| empregado / empregada de mesa (garçom / garçonete) | <span dir="rtl">جرسون</span> | garsoon | <span dir="rtl">جرسونة</span> | garsoona |
+| ator / atriz | <span dir="rtl">مُمَثِّل</span> | momassel | <span dir="rtl">مُمَثِّلة</span> | momassela |
+| jogador / jogadora de futebol | <span dir="rtl">لاعب كورة</span> | la3eb kora | <span dir="rtl">لاعبة كورة</span> | la3bet kora |
+| cantor / cantora | <span dir="rtl">مُغَنّي</span> | mo8anni | <span dir="rtl">مُغَنِّية</span> | mo8anneya |
+| músico / música | <span dir="rtl">موسيقي</span> | musii2i | <span dir="rtl">موسيقية</span> | musii2eyya |
+| locutor / locutora (apresentador / apresentadora) | <span dir="rtl">مُذيع</span> | mozee3 | <span dir="rtl">مُذيعة</span> | mozee3a |
 
 Notas de pronúncia: em *momassel* o ث diz-se *s*; em *musii2i* e *sawwaa2* o ق diz-se como hamza (*2*). *Kora* é a palavra egípcia para futebol. *Garsoona* é informal; também se ouve *weiter* para ambos.
 
