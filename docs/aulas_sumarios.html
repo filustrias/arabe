@@ -2006,6 +2006,40 @@ document.addEventListener("DOMContentLoaded", function () {
   atualizarGeral();
 });
 </script>
+<style>
+.audio-licao { position: sticky; top: 0; z-index: 10; background: var(--bs-body-bg); padding: 0.5em 0; margin-bottom: 1em; }
+.audio-licao iframe { border: none; display: block; height: 80px; width: 100%; }
+.audio-licao a { font-size: 0.85em; }
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // Número da lição do Pimsleur -> ID do arquivo de áudio no Google Drive
+  var audios = {
+    "08": "1t7XVkX1D9xFM34wxhm-ERiKKSfXDhMa8"
+  };
+
+  var licao = location.pathname.match(/pimsleur_lesson_(\d+)/);
+  var id = licao && audios[licao[1]];
+  if (!id) return;
+
+  var caixa = document.createElement("div");
+  var player = document.createElement("iframe");
+  var link = document.createElement("a");
+  caixa.className = "audio-licao";
+  player.src = "https://drive.google.com/file/d/" + id + "/preview";
+  player.title = "Áudio da lição";
+  player.allow = "autoplay";
+  link.href = "https://drive.google.com/file/d/" + id + "/view";
+  link.target = "_blank";
+  link.rel = "noopener";
+  link.textContent = "Abrir o áudio numa nova aba";
+  caixa.appendChild(player);
+  caixa.appendChild(link);
+
+  var cabecalho = document.getElementById("title-block-header");
+  if (cabecalho) cabecalho.after(caixa);
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

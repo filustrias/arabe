@@ -90,7 +90,9 @@ format:
     toc-depth: 3
     code-copy: true
     smooth-scroll: true
-    include-after-body: pimsleur_franco.html
+    include-after-body:
+      - pimsleur_franco.html
+      - pimsleur_audio.html
   pdf:
     documentclass: scrreprt
 editor: visual
