@@ -2,61 +2,143 @@
 
 ## Diálogo
 
-Hani e Mona decidem onde comer.
+Hani e Mona combinam onde comer.
 
 | Quem | Árabe | Franco | Português |
 |:--|--:|:--|:--|
-| Hani | <span dir="rtl">صباح الخير يا منى. إزيك؟</span> | saba7 el5eir ya mona. ezzayyek? | Bom dia, Mona. Como está? |
+| Hani | <span dir="rtl">صباح الخير يا منى، إزيك؟</span> | saba7 el5eir ya mona, ezzayyek? | Bom dia, Mona, como estás? |
 | Mona | <span dir="rtl">كويسة يا هاني، شكرًا.</span> | kwayyesa ya hani, shokran. | Bem, Hani, obrigada. |
-| Hani | <span dir="rtl">قوليلي يا منى، تحبي تعملي إيه دلوقتي؟</span> | 2olili ya mona, te7ebbi te3mili eih delwa2ti? | Diga-me, Mona, o que você quer fazer agora? |
-| Mona | <span dir="rtl">أنا؟ معرفش. وإنتَ؟</span> | ana? ma3rafsh. w enta? | Eu? Não sei. E você? |
-| Hani | <span dir="rtl">أنا أحب آكل دلوقتي. تحبي تاكلي معايا؟</span> | ana a7ebb akol delwa2ti. te7ebbi takli ma3aya? | Eu queria comer agora. Quer comer comigo? |
-| Mona | <span dir="rtl">أيوه، لكن أحب آكل في مطعم الهرم. طيب؟</span> | aywa, lakin a7ebb akol fi mat3am el haram. tayyeb? | Sim, mas queria comer no restaurante Al-Haram. Pode ser? |
-| Hani | <span dir="rtl">مطعم الهرم فين؟</span> | mat3am el haram fein? | Onde fica o restaurante Al-Haram? |
+| Hani | <span dir="rtl">قوليلي يا منى، تحبي تعملي إيه دلوقتي؟</span> | 2olili ya mona, te7ebbi te3meli eih delwa2ti? | Diz-me, Mona, o que gostarias de fazer agora? |
+| Mona | <span dir="rtl">أنا؟ معرفش. وإنتَ؟</span> | ana? ma3rafsh. w enta? | Eu? Não sei. E tu? |
+| Hani | <span dir="rtl">أنا أحب آكل دلوقتي. تحبي تاكلي معايا؟</span> | ana a7ebb akol delwa2ti. te7ebbi takli ma3aya? | Eu gostaria de comer agora. Gostarias de comer comigo? |
+| Mona | <span dir="rtl">أيوه، لكن أحب آكل في مطعم الهرم. طيب؟</span> | aywa, lakin a7ebb akol fi mat3am elharam. tayyeb? | Sim, mas gostaria de comer no restaurante Al-Haram. Pode ser? |
+| Hani | <span dir="rtl">مطعم الهرم فين؟</span> | mat3am elharam fein? | Onde fica o restaurante Al-Haram? |
 | Mona | <span dir="rtl">هو هناك، في شارع أبو عباس.</span> | howwa hnak, fi share3 abu 3abbas. | Fica ali, na rua Abu Abbas. |
-| Hani | <span dir="rtl">آه، أيوه، عارف. طيب.</span> | ah, aywa, 3aref. tayyeb. | Ah, sim, sei. Está bem. |
+| Hani | <span dir="rtl">آه، أيوه، عارف. طيب.</span> | aah, aywa, 3aref. tayyeb. | Ah, sim, sei. Está bem. |
 
 ## Do que trata
 
-Combinar o que fazer e onde comer. Introduz «saber / não saber» e «comigo».
+Combinar com quem, onde e a que horas. Revê fazer, comprar, café/chá e «comigo / contigo». Novidades: horas, «quero / não quero» e «entender».
 
 ### Vocabulário
 
 | Árabe | Franco | Português |
 |--:|:--|:--|
-| <span dir="rtl">قوليلي</span> | 2olili | diga-me (a mulher) |
-| <span dir="rtl">تعملي إيه؟</span> | te3mili eih? | (você f) fazer o quê? |
-| <span dir="rtl">دلوقتي</span> | delwa2ti | agora |
-| <span dir="rtl">معرفش</span> | ma3rafsh | não sei |
-| <span dir="rtl">عارف</span> | 3aref | sei (homem) |
-| <span dir="rtl">معايا</span> | ma3aya | comigo |
-| <span dir="rtl">مطعم</span> | mat3am | restaurante |
-| <span dir="rtl">في</span> | fi | em |
-| <span dir="rtl">طيب</span> | tayyeb | está bem / pode ser |
+| <span dir="rtl">قوليلي</span> | 2olili | diz-me (a uma mulher) |
+| <span dir="rtl">مع مين؟</span> | ma3a min? | com quem? |
+| <span dir="rtl">معايا / معاك / معاكي</span> | ma3aya / ma3ak / ma3aki | comigo / contigo (m) / contigo (f) |
+| <span dir="rtl">فندق</span> | fondo2 | hotel |
+| <span dir="rtl">الساعة كام؟</span> | essa3a kam? | a que horas? / que horas são? |
+| <span dir="rtl">واحدة</span> | wa7da | uma |
+| <span dir="rtl">اتنين</span> | etnein | duas |
+| <span dir="rtl">تمانية</span> | tamanya | oito |
+| <span dir="rtl">تسعة</span> | tes3a | nove |
+| <span dir="rtl">عايزة / مش عايزة</span> | 3ayza / mesh 3ayza | quero / não quero (mulher) |
+| <span dir="rtl">فاهم</span> | fahem | entendo / entendes (homem) |
+| <span dir="rtl">مدام</span> | madam | senhora |
 
 ### Conceitos
 
-**Eih no fim.** A pergunta «o quê?» vem depois do verbo: *te3mili eih?*
+**1. Fazer e comprar.** *Teshteri* é igual para homem e mulher.
 
-**Saber.** Usa-se o particípio *3aref*, que concorda com quem fala:
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| tu (m) | <span dir="rtl">تحب تعمل إيه؟</span> | te7ebb te3mel eih? | o que gostarias de fazer? |
+| tu (f) | <span dir="rtl">تحبي تعملي إيه؟</span> | te7ebbi te3meli eih? | o que gostarias de fazer? |
+| tu (m) | <span dir="rtl">تحب تشتري حاجة؟</span> | te7ebb teshteri 7aga? | gostarias de comprar algo? |
+| tu (f) | <span dir="rtl">تحبي تشتري إيه؟</span> | te7ebbi teshteri eih? | o que gostarias de comprar? |
+| eu | <span dir="rtl">أحب أشتري حاجة</span> | a7ebb ashteri 7aga | gostaria de comprar algo |
 
-| Pessoa | Afirmativo | Negativo |
-|:--|:--|:--|
-| homem | 3aref | ma3rafsh |
-| mulher | 3arfa | ma3rafsh |
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">لأ، مش دلوقتي.</span> | la2, mesh delwa2ti. | não, agora não. |
+| <span dir="rtl">إنتي كمان تحبي تاكلي؟</span> | enti kaman te7ebbi takli? | tu também gostarias de comer? (f) |
+| <span dir="rtl">لأ، مش أنا.</span> | la2, mesh ana. | não, eu não. |
 
-**Tayyeb?** No fim da frase pede acordo: «está bem?».
+**2. Café ou chá.**
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أحب أشتري شوية قهوة.</span> | a7ebb ashteri shwayyet 2ahwa. | gostaria de comprar um pouco de café. |
+| <span dir="rtl">أو شوية شاي.</span> | aw shwayyet shay. | ou um pouco de chá. |
+| <span dir="rtl">أحب أشرب حاجة، شوية قهوة أو شوية شاي.</span> | a7ebb ashrab 7aga, shwayyet 2ahwa aw shwayyet shay. | gostaria de beber algo, um café ou um chá. |
+| <span dir="rtl">اتنين شاي.</span> | etnein shay. | dois chás. |
+
+**3. Com quem? — comigo / contigo.**
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">مع مين؟</span> | ma3a min? | com quem? |
+| <span dir="rtl">معايا؟</span> | ma3aya? | comigo? |
+| <span dir="rtl">أيوه، معاك.</span> | aywa, ma3ak. | sim, contigo. (a um homem) |
+| <span dir="rtl">أحب أشرب حاجة معاك.</span> | a7ebb ashrab 7aga ma3ak. | gostaria de beber algo contigo. |
+| <span dir="rtl">تحبي تاكلي معايا؟</span> | te7ebbi takli ma3aya? | gostarias de comer comigo? (f) |
+| <span dir="rtl">لكن تحب تشرب حاجة معايا؟</span> | lakin te7ebb teshrab 7aga ma3aya? | mas gostarias de beber algo comigo? (m) |
+
+**4. Aqui, ali, no hotel.**
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">لكن مش هنا.</span> | lakin mesh hena. | mas aqui não. |
+| <span dir="rtl">ومش هناك في الفندق.</span> | w mesh hnak fel fondo2. | e não ali no hotel. |
+| <span dir="rtl">لأ، مش في الفندق.</span> | la2, mesh fel fondo2. | não, no hotel não. |
+| <span dir="rtl">لكن أنا كمان أحب آكل، في الفندق.</span> | lakin ana kaman a7ebb akol, fel fondo2. | mas eu também gostaria de comer, no hotel. |
+| <span dir="rtl">فندق الهرم فين؟</span> | fondo2 elharam fein? | onde fica o hotel Al-Haram? |
+| <span dir="rtl">هو هناك، في شارع أبو عباس.</span> | howwa hnak, fi share3 abu 3abbas. | fica ali, na rua Abu Abbas. |
+
+**5. As horas — essa3a kam?** Literalmente «a hora quanto?». A hora: *essa3a* + número.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">الساعة كام؟</span> | essa3a kam? | a que horas? |
+| <span dir="rtl">الساعة واحدة</span> | essa3a wa7da | à uma hora |
+| <span dir="rtl">الساعة اتنين</span> | essa3a etnein | às duas |
+| <span dir="rtl">الساعة تمانية</span> | essa3a tamanya | às oito |
+| <span dir="rtl">الساعة تسعة</span> | essa3a tes3a | às nove |
+| <span dir="rtl">الساعة واحدة أو الساعة اتنين؟</span> | essa3a wa7da aw essa3a etnein? | à uma ou às duas? |
+| <span dir="rtl">لأ، الساعة تسعة.</span> | la2, essa3a tes3a. | não, às nove. |
+| <span dir="rtl">الساعة اتنين، طيب؟</span> | essa3a etnein, tayyeb? | às duas, pode ser? |
+| <span dir="rtl">معرفش الساعة كام.</span> | ma3rafsh essa3a kam. | não sei a que horas. |
+| <span dir="rtl">بعدين، الساعة تمانية.</span> | ba3dein, essa3a tamanya. | mais tarde, às oito. |
+| <span dir="rtl">مش الساعة واحدة ومش الساعة اتنين.</span> | mesh essa3a wa7da w mesh essa3a etnein. | nem à uma nem às duas. |
+
+**6. Quero / não quero — 3ayza.** A aula só ensina a forma da mulher. Para homem: *3ayez*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عايزة</span> | 3ayza | quero |
+| <span dir="rtl">مش عايزة</span> | mesh 3ayza | não quero |
+| <span dir="rtl">لأ شكرًا، مش عايزة.</span> | la2 shokran, mesh 3ayza. | não, obrigada, não quero. |
+| <span dir="rtl">ومش بعدين.</span> | w mesh ba3dein. | e depois também não. |
+| <span dir="rtl">لأ يا أستاذ، مش عايزة أشرب حاجة معاك.</span> | la2 ya ostaz, mesh 3ayza ashrab 7aga ma3ak. | não, senhor, não quero beber nada contigo. |
+
+**7. Entender — fahem.** Igual para «eu» e «tu» (homem).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">آه، فاهم دلوقتي.</span> | aah, fahem delwa2ti. | ah, agora entendo. |
+| <span dir="rtl">كويس أوي، فاهم دلوقتي؟</span> | kwayyes awi, fahem delwa2ti? | muito bem, agora entendes? |
+| <span dir="rtl">أيوه، فاهم.</span> | aywa, fahem. | sim, entendo. |
+| <span dir="rtl">مش فاهم يا أستاذ.</span> | mesh fahem ya ostaz. | não entendes, senhor. |
+| <span dir="rtl">مش فاهم إيه؟</span> | mesh fahem eih? | o que é que não entendo? |
+| <span dir="rtl">ما بتفهمش عربي يا أستاذ.</span> | mabtefhamsh 3arabi ya ostaz. | não entendes árabe, senhor. |
+
+**8. Senhorita × senhora.**
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">مش يا آنسة، يا مدام.</span> | mesh ya 2anesa, ya madam. | senhorita não, senhora. |
+| <span dir="rtl">لا مؤاخذة يا مدام.</span> | la mo2a5za ya madam. | desculpe, senhora. |
+| <span dir="rtl">صباح الخير يا مدام.</span> | saba7 el5eir ya madam. | bom dia, senhora. |
 
 ## Versão informal
 
 | Quem | Árabe | Franco | Português |
 |:--|--:|:--|:--|
-| Hani | <span dir="rtl">إزيك يا منى؟</span> | ezzayyek ya mona? | Tudo bem, Mona? |
-| Mona | <span dir="rtl">تمام.</span> | tamam. | Tudo. |
-| Hani | <span dir="rtl">عايزة تعملي إيه؟</span> | 3ayza te3mili eih? | O que você quer fazer? |
-| Mona | <span dir="rtl">معرفش. إنتَ؟</span> | ma3rafsh. enta? | Não sei. E você? |
-| Hani | <span dir="rtl">جعان. ناكل سوا؟</span> | ga3an. nakol sawa? | Estou com fome. Comemos juntos? |
-| Mona | <span dir="rtl">ماشي، في الهرم.</span> | mashi, fel haram. | Combinado, no Al-Haram. |
-| Hani | <span dir="rtl">عارف. يلا.</span> | 3aref. yalla. | Sei onde é. Vamos. |
+| Hani | <span dir="rtl">ناكل سوا؟</span> | nakol sawa? | Comemos juntos? |
+| Mona | <span dir="rtl">ماشي، بس في مطعم الهرم.</span> | mashi, bas fi mat3am elharam. | Combinado, mas no restaurante Al-Haram. |
+| Hani | <span dir="rtl">الساعة كام؟</span> | essa3a kam? | A que horas? |
+| Mona | <span dir="rtl">الساعة تمانية.</span> | essa3a tamanya. | Às oito. |
+| Hani | <span dir="rtl">تمام.</span> | tamam. | Está bem. |
 
-*3ayez / 3ayza* (quero) é mais comum no dia a dia que *a7ebb*. *Sawa* = juntos.
+*Sawa* = juntos; *mashi* / *tamam* = combinado.
