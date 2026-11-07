@@ -949,7 +949,9 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 <style>
 .audio-licao { position: sticky; top: 0; z-index: 10; background: var(--bs-body-bg); padding: 0.5em 0; margin-bottom: 1em; }
-.audio-licao iframe { border: none; display: block; height: 110px; width: 100%; }
+/* Mostra só a faixa do player do Drive: corta as bordas laterais escuras e o espaço vazio de baixo */
+.audio-licao .audio-moldura { border-radius: 14px; height: 56px; overflow: hidden; }
+.audio-licao iframe { border: none; display: block; height: 110px; margin-left: -12px; width: calc(100% + 24px); }
 .audio-licao .audio-rotulo { font-size: 0.85em; font-weight: 600; margin-bottom: 0.3em; }
 </style>
 <script>
@@ -995,6 +997,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var caixa = document.createElement("div");
   var player = document.createElement("iframe");
   var rotulo = document.createElement("div");
+  var moldura = document.createElement("div");
   caixa.className = "audio-licao";
   player.src = "https://drive.google.com/file/d/" + id + "/preview";
   player.title = "Áudio da lição";
@@ -1002,7 +1005,9 @@ document.addEventListener("DOMContentLoaded", function () {
   rotulo.className = "audio-rotulo";
   rotulo.textContent = "Áudio de lição " + parseInt(licao[1], 10);
   caixa.appendChild(rotulo);
-  caixa.appendChild(player);
+  moldura.className = "audio-moldura";
+  moldura.appendChild(player);
+  caixa.appendChild(moldura);
 
   var cabecalho = document.getElementById("title-block-header");
   if (cabecalho) cabecalho.after(caixa);
