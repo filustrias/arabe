@@ -2,54 +2,122 @@
 
 ## Diálogo
 
-Duas pessoas combinam a hora de comer juntas.
+Uma moça combina com Abbas a hora de comer.
 
 | Quem | Árabe | Franco | Português |
 |:--|--:|:--|:--|
-| A | <span dir="rtl">يا عباس، أحب آكل معاك. طيب؟</span> | ya 3abbas, a7ebb akol ma3ak. tayyeb? | Abbas, queria comer com você. Pode ser? |
+| Moça | <span dir="rtl">يا عباس، أحب آكل معاك. طيب؟</span> | ya 3abbas, a7ebb akol ma3ak. tayyeb? | Abbas, gostaria de comer contigo. Pode ser? |
 | Abbas | <span dir="rtl">أيوه، لكن الساعة كام؟ الساعة اتنين؟</span> | aywa, lakin essa3a kam? essa3a etnein? | Sim, mas a que horas? Às duas? |
-| A | <span dir="rtl">لأ، بعدين.</span> | la2, ba3dein. | Não, mais tarde. |
-| Abbas | <span dir="rtl">آه، فاهم. الساعة تمانية أو الساعة تسعة؟</span> | ah, fahem. essa3a tamanya aw essa3a tes3a? | Ah, entendo. Às oito ou às nove? |
-| A | <span dir="rtl">أيوه، الساعة تسعة.</span> | aywa, essa3a tes3a. | Sim, às nove. |
-| Abbas | <span dir="rtl">طيب، مع السلامة.</span> | tayyeb, ma3a salama. | Está bem, até logo. |
+| Moça | <span dir="rtl">لأ، بعدين.</span> | la2, ba3dein. | Não, mais tarde. |
+| Abbas | <span dir="rtl">آه، فاهم. الساعة تمانية أو الساعة تسعة؟</span> | aah, fahem. essa3a tamanya aw essa3a tes3a? | Ah, entendo. Às oito ou às nove? |
+| Moça | <span dir="rtl">أيوه، الساعة تسعة.</span> | aywa, essa3a tes3a. | Sim, às nove. |
+| Abbas | <span dir="rtl">طيب. مع السلامة.</span> | tayyeb. ma3a salama. | Está bem. Até logo. |
 
 ## Do que trata
 
-Marcar um horário. Introduz as horas e «com você».
+Marcar e perguntar as horas. Novidades: números 3, 4 e 5, o futuro com *ha-*, *fahma* (entendes, mulher) e «entender uma língua».
 
 ### Vocabulário
 
 | Árabe | Franco | Português |
 |--:|:--|:--|
-| <span dir="rtl">معاك</span> | ma3ak | com você (m) |
-| <span dir="rtl">الساعة كام؟</span> | essa3a kam? | a que horas? / que horas são? |
-| <span dir="rtl">اتنين</span> | etnein | dois |
-| <span dir="rtl">تمانية</span> | tamanya | oito |
-| <span dir="rtl">تسعة</span> | tes3a | nove |
-| <span dir="rtl">فاهم</span> | fahem | entendo (homem) |
-| <span dir="rtl">أو</span> | aw | ou |
+| <span dir="rtl">الساعة كام؟</span> | essa3a kam? | que horas são? / a que horas? |
+| <span dir="rtl">تلاتة</span> | talata | três |
+| <span dir="rtl">أربعة</span> | arba3a | quatro |
+| <span dir="rtl">خمسة</span> | 5amsa | cinco |
+| <span dir="rtl">فاهم / فاهمة</span> | fahem / fahma | entendo, entendes (homem / mulher) |
+| <span dir="rtl">هاكل</span> | hakol | vou comer |
+| <span dir="rtl">هاشرب</span> | hashrab | vou beber |
+| <span dir="rtl">مع السلامة</span> | ma3a salama | até logo / adeus |
 
 ### Conceitos
 
-**Horas.** Diz-se *essa3a* + número: *essa3a tes3a* = «às nove / são nove».
-
-**Ma3a + pessoa.**
+**1. Que horas são? — essa3a kam?** A mesma pergunta serve para «a que horas?».
 
 | Árabe | Franco | Português |
 |--:|:--|:--|
-| <span dir="rtl">معايا</span> | ma3aya | comigo |
-| <span dir="rtl">معاك</span> | ma3ak | com você (m) |
-| <span dir="rtl">معاكي</span> | ma3aki | com você (f) |
+| <span dir="rtl">لا مؤاخذة يا أستاذ، الساعة كام؟</span> | la mo2a5za ya ostaz, essa3a kam? | desculpe, senhor, que horas são? |
+| <span dir="rtl">الساعة كام دلوقتي؟</span> | essa3a kam delwa2ti? | que horas são agora? |
+| <span dir="rtl">الساعة واحدة دلوقتي.</span> | essa3a wa7da delwa2ti. | agora é uma hora. |
+| <span dir="rtl">الساعة اتنين</span> | essa3a etnein | são duas |
+| <span dir="rtl">الساعة تلاتة</span> | essa3a talata | são três |
+| <span dir="rtl">الساعة أربعة</span> | essa3a arba3a | são quatro |
+| <span dir="rtl">الساعة خمسة يا أستاذ.</span> | essa3a 5amsa ya ostaz. | são cinco, senhor. |
+| <span dir="rtl">الساعة أربعة؟ لأ، الساعة تلاتة.</span> | essa3a arba3a? la2, essa3a talata. | são quatro? não, são três. |
+| <span dir="rtl">الساعة تلاتة أو الساعة أربعة.</span> | essa3a talata aw essa3a arba3a. | às três ou às quatro. |
+| <span dir="rtl">مش الساعة اتنين، الساعة تلاتة.</span> | mesh essa3a etnein, essa3a talata. | às duas não, às três. |
 
-**Fahem / fahma.** Como *3aref*, concorda com quem fala: *fahem* (homem), *fahma* (mulher).
+O خ de *5amsa* é o mesmo de *5eir*.
+
+**2. Futuro — ha- + verbo.** Põe-se *ha-* antes do verbo.
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">هاكل</span> | hakol | vou comer |
+| tu (m) | <span dir="rtl">هتاكل</span> | hatakol | vais comer |
+| tu (f) | <span dir="rtl">هتاكلي</span> | hatakli | vais comer |
+| eu | <span dir="rtl">هاشرب</span> | hashrab | vou beber |
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هاكل دلوقتي.</span> | hakol delwa2ti. | vou comer agora. |
+| <span dir="rtl">هاكل بعدين.</span> | hakol ba3dein. | vou comer mais tarde. |
+| <span dir="rtl">هتاكل الساعة خمسة؟</span> | hatakol essa3a 5amsa? | vais comer às cinco? (m) |
+| <span dir="rtl">لأ، الساعة تمانية.</span> | la2, essa3a tamanya. | não, às oito. |
+| <span dir="rtl">لكن هاشرب حاجة.</span> | lakin hashrab 7aga. | mas vou beber algo. |
+| <span dir="rtl">هاشرب حاجة الساعة تسعة.</span> | hashrab 7aga essa3a tes3a. | vou beber algo às nove. |
+| <span dir="rtl">هتاكلي معايا؟</span> | hatakli ma3aya? | vais comer comigo? (f) |
+| <span dir="rtl">أيوه، هاكل معاك.</span> | aywa, hakol ma3ak. | sim, vou comer contigo. |
+| <span dir="rtl">شكرًا، هاكل.</span> | shokran, hakol. | obrigado, vou comer. |
+
+**3. Entender — fahem / fahma.** Homem: *fahem*; mulher: *fahma*. Serve para «eu» e «tu».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">لأ يا آنسة، مش فاهمة.</span> | la2 ya 2anesa, mesh fahma. | não, senhorita, não entendes. |
+| <span dir="rtl">مش فاهمة إيه؟</span> | mesh fahma eih? | o que é que não entendo? (mulher) |
+| <span dir="rtl">لأ يا أستاذ، مش فاهم.</span> | la2 ya ostaz, mesh fahem. | não, senhor, não entendes. |
+| <span dir="rtl">آه، فاهم.</span> | aah, fahem. | ah, entendo. (homem) |
+
+**4. Entender e falar uma língua.** *Befham* = entendo (uma língua); *batkallem* = falo.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">بتفهمي إنجليزي؟</span> | betefhami engelizi? | entendes inglês? (f) |
+| <span dir="rtl">أيوه، بفهم إنجليزي شوية.</span> | aywa, befham engelizi shwayya. | sim, entendo um pouco de inglês. |
+| <span dir="rtl">وبتكلم شوية.</span> | w batkallem shwayya. | e falo um pouco. |
+| <span dir="rtl">بتتكلم عربي يا أستاذ؟</span> | betetkallem 3arabi ya ostaz? | falas árabe, senhor? |
+| <span dir="rtl">أيوه، لكن ما بتكلمش كويس.</span> | aywa, lakin mabatkallemsh kwayyes. | sim, mas não falo bem. |
+| <span dir="rtl">أنا مش مصري / مصرية.</span> | ana mesh masri / masreyya. | não sou egípcio / egípcia. |
+| <span dir="rtl">أنا أمريكي / أمريكية.</span> | ana amriki / amrikeyya. | sou americano / americana. |
+| <span dir="rtl">لكن بتكلم عربي شوية.</span> | lakin batkallem 3arabi shwayya. | mas falo um pouco de árabe. |
+
+**5. Fazer, comprar, com quem (revisão).**
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أحب أعمل حاجة.</span> | a7ebb a3mel 7aga. | gostaria de fazer algo. |
+| <span dir="rtl">تحبي تشتري إيه؟</span> | te7ebbi teshteri eih? | o que gostarias de comprar? (f) |
+| <span dir="rtl">أحب آكل في الفندق، الساعة اتنين.</span> | a7ebb akol fel fondo2, essa3a etnein. | gostaria de comer no hotel, às duas. |
+| <span dir="rtl">مع مين؟ — معاك.</span> | ma3a min? — ma3ak. | com quem? — contigo. |
+| <span dir="rtl">تحبي تشربي حاجة؟ أو تحبي تاكلي حاجة؟</span> | te7ebbi teshrabi 7aga? aw te7ebbi takli 7aga? | queres beber algo? ou comer algo? (f) |
+| <span dir="rtl">معرفش، لكن أحب آكل حاجة.</span> | ma3rafsh, lakin a7ebb akol 7aga. | não sei, mas gostaria de comer algo. |
+
+**6. Estação e despedida.**
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">محطة أبو سعيد فين، من فضلك؟</span> | ma7attet abu se3id fein, men fadlak? | onde fica a estação Abu Said, por favor? |
+| <span dir="rtl">هي هناك. هي مش هنا.</span> | heyya hnak. heyya mesh hena. | é ali. não é aqui. |
+| <span dir="rtl">مع السلامة يا مدام.</span> | ma3a salama ya madam. | até logo, senhora. |
 
 ## Versão informal
 
 | Quem | Árabe | Franco | Português |
 |:--|--:|:--|:--|
-| A | <span dir="rtl">ناكل سوا يا عباس؟</span> | nakol sawa ya 3abbas? | Comemos juntos, Abbas? |
-| Abbas | <span dir="rtl">ماشي. الساعة اتنين؟</span> | mashi. essa3a etnein? | Combinado. Às duas? |
-| A | <span dir="rtl">لأ، بالليل.</span> | la2, bel leil. | Não, à noite. |
-| Abbas | <span dir="rtl">تمانية ولا تسعة؟</span> | tamanya walla tes3a? | Oito ou nove? |
-| A | <span dir="rtl">تسعة.</span> | tes3a. | Nove. |
-| Abbas | <span dir="rtl">تمام، سلام.</span> | tamam, salam. | Certo, tchau. |
+| Moça | <span dir="rtl">ناكل سوا؟</span> | nakol sawa? | Comemos juntos? |
+| Abbas | <span dir="rtl">ماشي. الساعة كام؟ اتنين؟</span> | mashi. essa3a kam? etnein? | Combinado. A que horas? Duas? |
+| Moça | <span dir="rtl">لأ، بعدين. تسعة.</span> | la2, ba3dein. tes3a. | Não, mais tarde. Nove. |
+| Abbas | <span dir="rtl">تمام. سلام.</span> | tamam. salam. | Está bem. Tchau. |
+
+*Salam* = tchau (informal).
