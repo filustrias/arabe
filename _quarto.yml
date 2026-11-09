@@ -38,6 +38,7 @@ book:
     - samar_futuro.qmd
     - samar_futuro_improved.qmd
     - samar_3and_possession.qmd
+    - horas_e_tempo.qmd
     - part: "Pimsleur"
       chapters:
         - pimsleur_lesson_01.qmd

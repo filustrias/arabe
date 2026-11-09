@@ -1,0 +1,100 @@
+# Horas e tempo {.unnumbered}
+
+## Perguntas
+
+| Português | Árabe | Franco |
+|:--|--:|:--|
+| Quando? | <span dir="rtl">إمتى؟</span> | emta? |
+| A que horas? / Que horas são? | <span dir="rtl">الساعة كام؟</span> | essa3a kam? |
+
+A mesma pergunta serve para «a que horas?» e «que horas são?».
+
+## As horas
+
+*Essa3a* (a hora) + número.
+
+| Português | Árabe | Franco |
+|:--|--:|:--|
+| À 1 hora | <span dir="rtl">الساعة واحدة</span> | essa3a wa7da |
+| Às 2 horas | <span dir="rtl">الساعة اتنين</span> | essa3a etnein |
+| Às 3 horas | <span dir="rtl">الساعة تلاتة</span> | essa3a talata |
+| Às 4 horas | <span dir="rtl">الساعة أربعة</span> | essa3a arba3a |
+| Às 5 horas | <span dir="rtl">الساعة خمسة</span> | essa3a 5amsa |
+| Às 6 horas | <span dir="rtl">الساعة ستة</span> | essa3a setta |
+| Às 7 horas | <span dir="rtl">الساعة سبعة</span> | essa3a sab3a |
+| Às 8 horas | <span dir="rtl">الساعة تمانية</span> | essa3a tamanya |
+| Às 9 horas | <span dir="rtl">الساعة تسعة</span> | essa3a tes3a |
+| Às 10 horas | <span dir="rtl">الساعة عشرة</span> | essa3a 3ashara |
+| Às 11 horas | <span dir="rtl">الساعة حداشر</span> | essa3a 7edashar |
+| Às 12 horas | <span dir="rtl">الساعة اتناشر</span> | essa3a etnashar |
+
+## Frações de hora
+
+*W* = e; *ella* = menos.
+
+| Português | Árabe | Franco |
+|:--|--:|:--|
+| 3h15 (e um quarto) | <span dir="rtl">الساعة تلاتة وربع</span> | essa3a talata w rob3 |
+| 3h20 (e um terço) | <span dir="rtl">الساعة تلاتة وتلت</span> | essa3a talata w telt |
+| 3h30 (e meia) | <span dir="rtl">الساعة تلاتة ونص</span> | essa3a talata w nos |
+| 3h40 (vinte para as 4) | <span dir="rtl">الساعة أربعة إلا تلت</span> | essa3a arba3a ella telt |
+| 3h45 (um quarto para as 4) | <span dir="rtl">الساعة أربعة إلا ربع</span> | essa3a arba3a ella rob3 |
+
+## Quando: dias e momentos
+
+| Português | Árabe | Franco |
+|:--|--:|:--|
+| agora | <span dir="rtl">دلوقتي</span> | delwa2ti |
+| hoje | <span dir="rtl">النهاردة</span> | ennaharda |
+| ontem | <span dir="rtl">امبارح</span> | embare7 |
+| amanhã | <span dir="rtl">بكرة</span> | bokra |
+| antes (de) | <span dir="rtl">قبل</span> | 2abl |
+| depois (de) | <span dir="rtl">بعد</span> | ba3d |
+| depois / mais tarde | <span dir="rtl">بعدين</span> | ba3dein |
+| cedo | <span dir="rtl">بدري</span> | badri |
+| tarde (atrasado) | <span dir="rtl">متأخر</span> | met2a5ar |
+| de manhã | <span dir="rtl">الصبح</span> | essob7 |
+| ao meio-dia / à tarde | <span dir="rtl">الضهر / بعد الضهر</span> | eddohr / ba3d eddohr |
+| à noite | <span dir="rtl">بالليل</span> | belleil |
+
+*Ba3d* vem antes de uma palavra (*ba3d essa3a sab3a*); *ba3dein* fica sozinho (*hakol ba3dein*).
+
+## Como foi a tua semana?
+
+O final muda conforme a pessoa: *-ak* (homem), *-ek* (mulher).
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| tu (m) | <span dir="rtl">أسبوعك كان عامل إزاي؟</span> | osbo3ak kan 3amel ezzay? | como foi a tua semana? |
+| tu (f) | <span dir="rtl">أسبوعك كان عامل إزاي؟</span> | osbo3ek kan 3amel ezzay? | como foi a tua semana? |
+
+## Frases com *emta?*
+
+*Emta* vai no fim da frase.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هتوصل إمتى؟</span> | hatewsal emta? | quando vais chegar? (m) |
+| <span dir="rtl">الساعة تلاتة ونص.</span> | essa3a talata w nos. | às 3h30. |
+| <span dir="rtl">وصلت إمتى؟</span> | weselt emta? | quando chegaste? (m) |
+| <span dir="rtl">وصلت بدري، قبل الساعة أربعة.</span> | weselt badri, 2abl essa3a arba3a. | cheguei cedo, antes das 4. |
+| <span dir="rtl">الاجتماع إمتى؟</span> | elegtema3 emta? | quando é a reunião? |
+| <span dir="rtl">الساعة حداشر الصبح.</span> | essa3a 7edashar essob7. | às 11 da manhã. |
+| <span dir="rtl">هنخرج إمتى؟</span> | hano5rog emta? | quando vamos sair? |
+| <span dir="rtl">بعد الساعة سبعة بالليل.</span> | ba3d essa3a sab3a belleil. | depois das 7 da noite. |
+
+## Exemplos: agora, hoje, ontem, amanhã
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">الساعة كام دلوقتي؟</span> | essa3a kam delwa2ti? | que horas são agora? |
+| <span dir="rtl">الساعة اتنين ونص دلوقتي.</span> | essa3a etnein w nos delwa2ti. | agora são duas e meia. |
+| <span dir="rtl">هاكل دلوقتي.</span> | hakol delwa2ti. | vou comer agora. |
+| <span dir="rtl">إزيك النهاردة؟</span> | ezzayyak ennaharda? | como estás hoje? (m) |
+| <span dir="rtl">النهاردة بالليل، الساعة تمانية.</span> | ennaharda belleil, essa3a tamanya. | hoje à noite, às 8. |
+| <span dir="rtl">وصلت امبارح بالليل.</span> | weselt embare7 belleil. | cheguei ontem à noite. |
+| <span dir="rtl">امبارح الصبح، الساعة تسعة وربع.</span> | embare7 essob7, essa3a tes3a w rob3. | ontem de manhã, às 9h15. |
+| <span dir="rtl">مش النهاردة، بكرة.</span> | mesh ennaharda, bokra. | hoje não, amanhã. |
+| <span dir="rtl">بكرة الصبح، الساعة عشرة إلا ربع.</span> | bokra essob7, essa3a 3ashara ella rob3. | amanhã de manhã, às 9h45. |
+| <span dir="rtl">هاشرب قهوة معاك بكرة بعد الضهر.</span> | hashrab 2ahwa ma3ak bokra ba3d eddohr. | vou beber café contigo amanhã à tarde. |
+| <span dir="rtl">أنا متأخر، آسف.</span> | ana met2a5ar, asef. | estou atrasado, desculpa. |
