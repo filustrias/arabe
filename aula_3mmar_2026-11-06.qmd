@@ -83,17 +83,20 @@ O botão no canto inferior direito cobre ou descobre todo o franco. Com o franco
 
 ## Querer e saber
 
-São particípios: mudam com o gênero e o número de quem fala, não com a pessoa.
+São particípios ativos: mudam com o gênero e o número de quem fala, não com a pessoa. A negativa é só *mesh* antes do particípio.
 
-| Árabe | Franco | Português |
-|--:|:--|:--|
-| <span dir="rtl">عايز</span> | <span class="fr">3ayez</span> | quero (homem) |
-| <span dir="rtl">عايزة</span> | <span class="fr">3ayza</span> | quero (mulher) |
-| <span dir="rtl">عايزين</span> | <span class="fr">3ayzin</span> | queremos / querem |
-| <span dir="rtl">عارف</span> | <span class="fr">3aref</span> | sei (homem) |
-| <span dir="rtl">عارفة</span> | <span class="fr">3arfa</span> | sei (mulher) |
-| <span dir="rtl">عارفين</span> | <span class="fr">3arfin</span> | sabemos / sabem |
-| <span dir="rtl">أنا مش عارف</span> | <span class="fr">ana mesh 3aref</span> | Eu não sei |
+| Árabe | Franco | Negativa (árabe) | Negativa (franco) | Português |
+|--:|:--|--:|:--|:--|
+| <span dir="rtl">عايز</span> | <span class="fr">3ayez</span> | <span dir="rtl">مش عايز</span> | <span class="fr">mesh 3ayez</span> | quero / não quero (homem) |
+| <span dir="rtl">عايزة</span> | <span class="fr">3ayza</span> | <span dir="rtl">مش عايزة</span> | <span class="fr">mesh 3ayza</span> | quero / não quero (mulher) |
+| <span dir="rtl">عايزين</span> | <span class="fr">3ayzin</span> | <span dir="rtl">مش عايزين</span> | <span class="fr">mesh 3ayzin</span> | queremos, querem / não queremos, não querem |
+| <span dir="rtl">عارف</span> | <span class="fr">3aref</span> | <span dir="rtl">مش عارف</span> | <span class="fr">mesh 3aref</span> | sei / não sei (homem) |
+| <span dir="rtl">عارفة</span> | <span class="fr">3arfa</span> | <span dir="rtl">مش عارفة</span> | <span class="fr">mesh 3arfa</span> | sei / não sei (mulher) |
+| <span dir="rtl">عارفين</span> | <span class="fr">3arfin</span> | <span dir="rtl">مش عارفين</span> | <span class="fr">mesh 3arfin</span> | sabemos, sabem / não sabemos, não sabem |
+| <span dir="rtl">فاهم</span> | <span class="fr">fahem</span> | <span dir="rtl">مش فاهم</span> | <span class="fr">mesh fahem</span> | compreendo / não compreendo (homem) |
+| <span dir="rtl">فاهمة</span> | <span class="fr">fahma</span> | <span dir="rtl">مش فاهمة</span> | <span class="fr">mesh fahma</span> | compreendo / não compreendo (mulher) |
+| <span dir="rtl">فاهمين</span> | <span class="fr">fahmin</span> | <span dir="rtl">مش فاهمين</span> | <span class="fr">mesh fahmin</span> | compreendemos, compreendem / não compreendemos, não compreendem |
+| <span dir="rtl">أنا مش عارف</span> | <span class="fr">ana mesh 3aref</span> | | | Eu não sei |
 
 ## Presente com ba-
 
