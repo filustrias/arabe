@@ -81,7 +81,7 @@ O botão no canto inferior direito cobre ou descobre todo o franco. Com o franco
 | <span dir="rtl">ولا يهمك</span> | <span class="fr">wala yhemmak</span> | Não tem problema / não se preocupe |
 | <span dir="rtl">اديني شوية وقت</span> | <span class="fr">eddini shwayyet wa2t</span> | Me dá um pouco de tempo |
 
-## Querer e saber
+## Querer, saber e compreender
 
 São particípios ativos: mudam com o gênero e o número de quem fala, não com a pessoa. A negativa é só *mesh* antes do particípio.
 
@@ -96,7 +96,8 @@ São particípios ativos: mudam com o gênero e o número de quem fala, não com
 | <span dir="rtl">فاهم</span> | <span class="fr">fahem</span> | <span dir="rtl">مش فاهم</span> | <span class="fr">mesh fahem</span> | compreendo / não compreendo (homem) |
 | <span dir="rtl">فاهمة</span> | <span class="fr">fahma</span> | <span dir="rtl">مش فاهمة</span> | <span class="fr">mesh fahma</span> | compreendo / não compreendo (mulher) |
 | <span dir="rtl">فاهمين</span> | <span class="fr">fahmin</span> | <span dir="rtl">مش فاهمين</span> | <span class="fr">mesh fahmin</span> | compreendemos, compreendem / não compreendemos, não compreendem |
-| <span dir="rtl">أنا مش عارف</span> | <span class="fr">ana mesh 3aref</span> | | | Eu não sei |
+
+: {tbl-colwidths="[11,11,15,16,47]"}
 
 ## Presente com ba-
 

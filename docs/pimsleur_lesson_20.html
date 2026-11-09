@@ -927,7 +927,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var titulos = Array.from(tabela.querySelectorAll("thead th"));
     var colunas = [];
     titulos.forEach(function (th, i) {
-      if (th.textContent.trim().toLowerCase().startsWith("franco")) colunas.push(i);
+      if (th.textContent.toLowerCase().indexOf("franco") !== -1) colunas.push(i);
     });
     if (!colunas.length) return;
     primeiraTabela = primeiraTabela || tabela;
