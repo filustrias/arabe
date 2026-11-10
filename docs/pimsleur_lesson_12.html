@@ -1062,6 +1062,25 @@ document.addEventListener("DOMContentLoaded", function () {
   if (cabecalho) cabecalho.after(caixa);
 });
 </script>
+<style>
+.ammar-doc { border: 1px solid currentColor; border-radius: 0.4em; display: inline-block; font-size: 0.9em; margin: 0 0 1em 0; padding: 0.3em 0.8em; text-decoration: none; }
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // Documento das aulas do Ammar no Google Docs, mostrado no topo de cada aula
+  if (!/aula_/.test(location.pathname)) return;
+  var titulo = document.querySelector("main h1");
+  if (!titulo) return;
+  var link = document.createElement("a");
+  link.className = "ammar-doc";
+  link.href = "https://docs.google.com/document/d/1dssv83SUsAuzCU6n_kDl9bKE6pVBXb8wqFQoBFlFd84/edit?tab=t.0";
+  link.target = "_blank";
+  link.rel = "noopener";
+  link.textContent = "Documento das aulas do Ammar (Google Docs)";
+  var bloco = titulo.closest("header") || titulo;
+  bloco.insertAdjacentElement("afterend", link);
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

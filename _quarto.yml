@@ -94,6 +94,7 @@ format:
     include-after-body:
       - pimsleur_franco.html
       - pimsleur_audio.html
+      - ammar_doc.html
   pdf:
     documentclass: scrreprt
 editor: visual
