@@ -1,5 +1,19 @@
 # Pimsleur — Lição 25 {.unnumbered}
 
+## Comandos da aula
+
+O narrador repete estes comandos em todas as aulas.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">اسمع المحادثة التليفونية دي</span> | esma3 elmo7adsa ettelefoneyya di | Ouça esta conversa telefônica. |
+| <span dir="rtl">اسمع وعيد</span> | esma3 w 3id | Ouça e repita. |
+| <span dir="rtl">اسمع مرة تانية</span> | esma3 marra tanya | Ouça mais uma vez. |
+| <span dir="rtl">اسمع دلوقتي</span> | esma3 delwa2ti | Ouça agora. |
+| <span dir="rtl">قوليلي</span> | 2olili | Diga-me (a uma mulher). |
+
+*3id* (عيد) = «repete, faz de novo»; o *3* é o ع. Em *2olili*, o *2* é a hamza que no Cairo substitui o ق.
+
 ## Diálogo
 
 Uma mulher pede o caminho para o Cairo.

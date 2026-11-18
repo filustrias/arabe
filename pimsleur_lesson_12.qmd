@@ -1,5 +1,19 @@
 # Pimsleur — Lição 12 {.unnumbered}
 
+## Comandos da aula
+
+O narrador repete estes comandos em todas as aulas.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">اسمع المحادثة التليفونية دي</span> | esma3 elmo7adsa ettelefoneyya di | Ouça esta conversa telefônica. |
+| <span dir="rtl">اسمع وعيد</span> | esma3 w 3id | Ouça e repita. |
+| <span dir="rtl">اسمع مرة تانية</span> | esma3 marra tanya | Ouça mais uma vez. |
+| <span dir="rtl">اسمع دلوقتي</span> | esma3 delwa2ti | Ouça agora. |
+| <span dir="rtl">قوليلي</span> | 2olili | Diga-me (a uma mulher). |
+
+*3id* (عيد) = «repete, faz de novo»; o *3* é o ع. Em *2olili*, o *2* é a hamza que no Cairo substitui o ق.
+
 ## Diálogo
 
 Hisham telefona para Nada.
@@ -21,26 +35,98 @@ Hisham telefona para Nada.
 
 ## Do que trata
 
-Um telefonema para marcar um jantar: hoje ou amanhã, e a que horas.
+Um telefonema para marcar um jantar, e uma pechincha no mercado. Novidades: hoje/amanhã à noite, o futuro com *ha-*, *2olili* (diz-me), perguntar o preço, a libra egípcia e os números 11, 12 e 13.
 
 ### Vocabulário
 
 | Árabe | Franco | Português |
 |--:|:--|:--|
 | <span dir="rtl">ألو</span> | alo | alô |
-| <span dir="rtl">النهارده</span> | ennaharda | hoje |
-| <span dir="rtl">بكره</span> | bokra | amanhã |
-| <span dir="rtl">بالليل</span> | bel leil | à noite |
-| <span dir="rtl">سبعة</span> | sab3a | sete |
-| <span dir="rtl">يبقى</span> | yeb2a | então |
+| <span dir="rtl">النهارده بالليل</span> | ennaharda bel leil | hoje à noite |
+| <span dir="rtl">بكره بالليل</span> | bokra bel leil | amanhã à noite |
+| <span dir="rtl">بعدين</span> | ba3dein | mais tarde / depois |
+| <span dir="rtl">إذن / يبقى</span> | ezan / yeb2a | então / nesse caso |
+| <span dir="rtl">هاكل / هاشرب</span> | hakol / hashrab | vou comer / vou beber |
+| <span dir="rtl">قوليلي</span> | 2olili | diz-me (a uma mulher) |
+| <span dir="rtl">بكام ده؟</span> | bekam da? | quanto custa isto? |
+| <span dir="rtl">جنيه</span> | geneih | libra egípcia |
+| <span dir="rtl">حداشر</span> | 7edashar | onze |
+| <span dir="rtl">اتناشر</span> | etnashar | doze |
+| <span dir="rtl">تلاتاشر</span> | talattashar | treze |
 
 ### Conceitos
 
-**Sem verbo «ser».** *ana hesham* = «(eu) sou o Hisham». Ao telefone, é assim que alguém se apresenta.
+**1. Ao telefone.** Não há verbo «ser»: *ana hesham* = «(eu) sou o Hisham». É assim que alguém se apresenta ao telefone.
 
-**Yeb2a = «então».** Abre uma conclusão: *yeb2a essa3a tamanya?*
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ألو، ندى؟</span> | alo, nada? | alô, Nada? |
+| <span dir="rtl">أيوه؟</span> | aywa? | sim? |
+| <span dir="rtl">أنا هشام. إزيك؟</span> | ana hesham. ezzayyek? | é o Hisham. como estás? (f) |
+| <span dir="rtl">كويسة أوي، شكرًا.</span> | kwayyesa awi, shokran. | muito bem, obrigada. |
 
-**Ordem do tempo.** Do geral para o específico: *bokra bel leil essa3a tamanya* (amanhã, à noite, às oito).
+**2. Hoje, amanhã, à noite.** Do geral para o específico: dia → parte do dia → hora → lugar.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">النهارده بالليل</span> | ennaharda bel leil | hoje à noite |
+| <span dir="rtl">بكره بالليل</span> | bokra bel leil | amanhã à noite |
+| <span dir="rtl">بكره بالليل الساعة تمانية في المطعم</span> | bokra bel leil essa3a tamanya fel mat3am | amanhã à noite, às oito, no restaurante |
+| <span dir="rtl">مش النهارده بالليل، لكن بكره بالليل.</span> | mesh ennaharda bel leil, lakin bokra bel leil. | hoje à noite não, mas amanhã à noite. |
+| <span dir="rtl">الساعة كام؟ الساعة سبعة؟</span> | essa3a kam? essa3a sab3a? | a que horas? às sete? |
+| <span dir="rtl">لأ، بعدين من فضلك.</span> | la2, ba3dein men fadlak. | não, mais tarde, por favor. |
+
+**3. Então — ezan / yeb2a.** Os dois fecham uma conclusão. O Pimsleur usa *ezan*; na fala do dia a dia, *yeb2a* é mais comum.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">إذن الساعة تمانية.</span> | ezan essa3a tamanya. | então às oito. |
+| <span dir="rtl">يبقى الساعة تمانية؟</span> | yeb2a essa3a tamanya? | então às oito? |
+
+**4. Futuro — ha- + verbo.** Põe-se *ha-* antes do verbo do presente. Também se ouve *7a-* (حـ), com o mesmo sentido. A negativa é *mesh* antes.
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">هاكل</span> | hakol | vou comer |
+| tu (m) | <span dir="rtl">هتاكل</span> | hatakol | vais comer |
+| tu (f) | <span dir="rtl">هتاكلي</span> | hatakli | vais comer |
+| eu | <span dir="rtl">هاشرب</span> | hashrab | vou beber |
+| tu (f) | <span dir="rtl">هتشربي</span> | hateshrabi | vais beber |
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">حآكل / هاكل</span> | 7akol / hakol | vou comer (as duas formas) |
+| <span dir="rtl">مش هاشرب شاي النهارده.</span> | mesh hashrab shay ennaharda. | não vou beber chá hoje. |
+| <span dir="rtl">هتاكلي معايا بكره بالليل؟</span> | hatakli ma3aya bokra bel leil? | vais comer comigo amanhã à noite? (f) |
+
+**5. Diz-me — 2olili.** Imperativo dirigido a uma mulher. O *2* é a hamza (parada glótica): no Cairo, o ق de *2al* (dizer) soa assim.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">قوليلي يا ندى…</span> | 2olili ya nada… | diz-me, Nada… |
+| <span dir="rtl">قوليلي، الساعة كام؟</span> | 2olili, essa3a kam? | diz-me, que horas são? |
+
+**6. Quanto custa? — bekam?** *Be-* + número + *geneih*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">بكام ده؟</span> | bekam da? | quanto custa isto? |
+| <span dir="rtl">ده بخمسة جنيه.</span> | da be5amsa geneih. | isto custa cinco libras. |
+| <span dir="rtl">حداشر</span> | 7edashar | onze |
+| <span dir="rtl">اتناشر</span> | etnashar | doze |
+| <span dir="rtl">تلاتاشر</span> | talattashar | treze |
+
+**7. Pechinchar.** No fim da aula, um comprador e uma vendedora negociam o preço.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Comprador | <span dir="rtl">بكام ده؟</span> | bekam da? | Quanto custa isto? |
+| Vendedora | <span dir="rtl">ده بتلاتاشر جنيه يا أستاذ.</span> | da betalattashar geneih ya ostaz. | Custa treze libras, senhor. |
+| Comprador | <span dir="rtl">لأ يا آنسة، ده باتناشر جنيه.</span> | la2 ya 2anesa, da betnashar geneih. | Não, senhorita, são doze libras. |
+| Vendedora | <span dir="rtl">لأ يا أستاذ، ده بحداشر جنيه.</span> | la2 ya ostaz, da be7edashar geneih. | Não, senhor, são onze libras. |
+| Comprador | <span dir="rtl">لأ يا آنسة، ده بعشرة جنيه.</span> | la2 ya 2anesa, da be3ashara geneih. | Não, senhorita, são dez libras. |
+| Vendedora | <span dir="rtl">ده بتمانية جنيه.</span> | da betamanya geneih. | Custa oito libras. |
+| Comprador | <span dir="rtl">طيب، كويس أوي. إذن ده بتمانية جنيه. مع السلامة.</span> | tayyeb, kwayyes awi. ezan da betamanya geneih. ma3a salama. | Está bem, muito bom. Então são oito libras. Até logo. |
 
 ## Versão informal
 
