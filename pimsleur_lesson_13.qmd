@@ -33,24 +33,99 @@ Abbas telefona para Nada. Aparece também o nome de outra mulher, Warda.
 
 ## Do que trata
 
-Pedir para falar com alguém ao telefone, recusar um convite e propor outro programa.
+Pedir para falar com alguém ao telefone, recusar um convite e propor outro programa. Novidades: a saudação da tarde e da noite, «ter» com *3and*, o dólar e o pagamento com *bel-*, e os números 14, 15 e 16.
 
 ### Vocabulário
 
 | Árabe | Franco | Português |
 |--:|:--|:--|
-| <span dir="rtl">أتكلم مع</span> | atkallem ma3a | falar com |
-| <span dir="rtl">هاكل</span> | hakol | vou comer |
-| <span dir="rtl">ستة</span> | setta | seis |
-| <span dir="rtl">عشرة</span> | 3ashara | dez |
+| <span dir="rtl">أحب أتكلم مع…</span> | a7ebb atkallem ma3a… | gostaria de falar com… |
+| <span dir="rtl">مساء الخير</span> | masa2 el5eir | boa tarde / boa noite |
+| <span dir="rtl">مساء النور</span> | masa2 ennur | boa tarde / boa noite (resposta) |
+| <span dir="rtl">عندي</span> | 3andi | tenho |
+| <span dir="rtl">عندك</span> | 3andak / 3andek | você tem (homem / mulher) |
+| <span dir="rtl">كام؟</span> | kam? | quantos? / quantas? |
+| <span dir="rtl">دولار</span> | dollar | dólar |
+| <span dir="rtl">بالدولار / بالجنيه</span> | bel dollar / bel geneih | em dólares / em libras |
+| <span dir="rtl">أربعتاشر</span> | arba3tashar | catorze |
+| <span dir="rtl">خمستاشر</span> | 5amastashar | quinze |
+| <span dir="rtl">ستاشر</span> | settashar | dezesseis |
 
 ### Conceitos
 
-**Pedir alguém ao telefone.** *a7ebb atkallem ma3a …, men fadlek*.
+**1. Pedir alguém ao telefone.** *A7ebb atkallem ma3a* + nome + *men fadlak / men fadlek*.
 
-**Futuro com ha-.** O prefixo *ha-* vai direto no verbo: *akol* → *hakol* (vou comer).
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ألو، أحب أتكلم مع ندى من فضلك.</span> | alo, a7ebb atkallem ma3a nada men fadlek. | alô, gostaria de falar com a Nada, por favor. |
+| <span dir="rtl">آه، إنتي ندى؟</span> | ah, enti nada? | ah, é você, Nada? |
+| <span dir="rtl">أنا عباس.</span> | ana 3abbas. | é o Abbas. |
 
-**Recusar e propor.** *la2 …, lakin te7ebb …?* = «não …, mas você quer …?»
+**2. Boa tarde, boa noite — masa2 el5eir.** Vale da tarde até a noite. A resposta troca *el5eir* (o bem) por *ennur* (a luz), como em *saba7 el5eir* → *saba7 ennur*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">صباح الخير / صباح النور</span> | saba7 el5eir / saba7 ennur | bom dia / bom dia (resposta) |
+| <span dir="rtl">مساء الخير يا مدام.</span> | masa2 el5eir ya madam. | boa tarde, senhora. |
+| <span dir="rtl">مساء النور يا أستاذ.</span> | masa2 ennur ya ostaz. | boa tarde, senhor. |
+
+**3. Recusar e propor.** *La2 …, lakin te7ebb …?* = «não …, mas você quer …?». O futuro com *ha-* explica a recusa.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">لأ، هاكل مع وردة بالليل.</span> | la2, hakol ma3a warda bel leil. | não, vou jantar com a Warda. |
+| <span dir="rtl">لكن تحب تشرب حاجة في المطعم بعدين؟</span> | lakin te7ebb teshrab 7aga fel mat3am ba3dein? | mas quer beber algo no restaurante depois? (m) |
+| <span dir="rtl">أيوه، أحب أشرب حاجة.</span> | aywa, a7ebb ashrab 7aga. | sim, gostaria de beber algo. |
+
+**4. Ter — 3and + terminação.** Não há verbo «ter»: usa-se *3and* (junto de) com a terminação da pessoa. A pergunta de quantidade é *3andak kam …?*
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">عندي</span> | 3andi | tenho |
+| você (m) | <span dir="rtl">عندك</span> | 3andak | você tem |
+| você (f) | <span dir="rtl">عندك</span> | 3andek | você tem |
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عندك كام جنيه؟</span> | 3andak kam geneih? | quantas libras você tem? (m) |
+| <span dir="rtl">عندي أربعتاشر جنيه.</span> | 3andi arba3tashar geneih. | tenho catorze libras. |
+| <span dir="rtl">عندك كام دولار؟</span> | 3andak kam dollar? | quantos dólares você tem? (m) |
+| <span dir="rtl">عندي خمستاشر دولار.</span> | 3andi 5amastashar dollar. | tenho quinze dólares. |
+
+**5. Pagar em dólar ou em libra — bel-.** *Be-* + *el* = *bel*: «com o / em».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">بالدولار؟</span> | bel dollar? | em dólares? |
+| <span dir="rtl">لأ، بالجنيه من فضلك.</span> | la2, bel geneih men fadlak. | não, em libras, por favor. |
+
+**6. Catorze, quinze, dezesseis.** Os números de 11 a 19 terminam em *-tashar*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أربعتاشر</span> | arba3tashar | catorze |
+| <span dir="rtl">خمستاشر</span> | 5amastashar | quinze |
+| <span dir="rtl">ستاشر</span> | settashar | dezesseis |
+
+**7. Diz-me — para homem e para mulher.** O instrutor muda o imperativo conforme fala com um homem ou com uma mulher.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">قولّي</span> | 2olli | diga-me (a um homem) |
+| <span dir="rtl">قوليلي</span> | 2olili | diga-me (a uma mulher) |
+
+**8. Na loja.** Um comprador e uma vendedora falam de preço e moeda.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Comprador | <span dir="rtl">مساء الخير يا مدام.</span> | masa2 el5eir ya madam. | Boa tarde, senhora. |
+| Vendedora | <span dir="rtl">مساء النور يا أستاذ.</span> | masa2 ennur ya ostaz. | Boa tarde, senhor. |
+| Comprador | <span dir="rtl">بكام ده؟</span> | bekam da? | Quanto custa isto? |
+| Vendedora | <span dir="rtl">ده بستاشر جنيه يا أستاذ.</span> | da besettashar geneih ya ostaz. | Custa dezesseis libras, senhor. |
+| Vendedora | <span dir="rtl">عندك كام جنيه؟</span> | 3andak kam geneih? | Quantas libras o senhor tem? |
+| Comprador | <span dir="rtl">عندي أربعتاشر جنيه، لكن عندي خمستاشر دولار.</span> | 3andi arba3tashar geneih, lakin 3andi 5amastashar dollar. | Tenho catorze libras, mas tenho quinze dólares. |
+| Comprador | <span dir="rtl">بالدولار؟</span> | bel dollar? | Em dólares? |
+| Vendedora | <span dir="rtl">لأ، بالجنيه من فضلك.</span> | la2, bel geneih men fadlak. | Não, em libras, por favor. |
 
 ## Versão informal
 

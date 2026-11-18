@@ -7,6 +7,7 @@ O narrador repete estes comandos em todas as aulas.
 | Árabe | Franco | Português |
 |--:|:--|:--|
 | <span dir="rtl">اسمع المحادثة التليفونية دي</span> | esma3 elmo7adsa ettelefoneyya di | Ouça esta conversa telefônica. |
+| <span dir="rtl">اسمع المحادثة العربية دي</span> | esma3 elmo7adsa el3arabeyya di | Ouça esta conversa em árabe. |
 | <span dir="rtl">اسمع وعيد</span> | esma3 w 3id | Ouça e repita. |
 | <span dir="rtl">اسمع مرة تانية</span> | esma3 marra tanya | Ouça mais uma vez. |
 | <span dir="rtl">اسمع دلوقتي</span> | esma3 delwa2ti | Ouça agora. |
@@ -30,28 +31,82 @@ Um americano compra um jornal.
 
 ## Do que trata
 
-Comprar algo e perguntar o preço.
+Comprar um jornal, desfazer uma confusão com o preço e descobrir que não se tem a moeda certa. Novidades: *etfaddal / etfaddali*, o plural *geneihat* e *dollarat*, *ayy* (nenhum), *ketir* (muito) e os números 17, 18 e 19.
 
 ### Vocabulário
 
 | Árabe | Franco | Português |
 |--:|:--|:--|
-| <span dir="rtl">عندك</span> | 3andek | você (f) tem |
 | <span dir="rtl">جريدة</span> | gerida | jornal |
-| <span dir="rtl">اتفضل / اتفضلي</span> | etfaddal / etfaddali | aqui está (m / f) |
-| <span dir="rtl">بكام؟</span> | bekam? | quanto custa? |
-| <span dir="rtl">ده</span> | da | isto (m) |
-| <span dir="rtl">جنيه</span> | geneih | libra egípcia |
-| <span dir="rtl">خمسة</span> | 5amsa | cinco |
-| <span dir="rtl">خمستاشر</span> | 5amastashar | quinze |
+| <span dir="rtl">جريدة أمريكية</span> | gerida amrikeyya | jornal americano |
+| <span dir="rtl">اتفضل / اتفضلي</span> | etfaddal / etfaddali | aqui está, por favor (a homem / a mulher) |
+| <span dir="rtl">جنيهات</span> | geneihat | libras |
+| <span dir="rtl">دولارات</span> | dollarat | dólares |
+| <span dir="rtl">أي</span> | ayy | nenhum / qualquer |
+| <span dir="rtl">كتير / كتيرة</span> | ketir / ketira | muito / muitos, muitas |
+| <span dir="rtl">ما عنديش</span> | ma3andish | não tenho |
+| <span dir="rtl">سبعتاشر</span> | saba3tashar | dezessete |
+| <span dir="rtl">تمنتاشر</span> | tamantashar | dezoito |
+| <span dir="rtl">تسعتاشر</span> | tesa3tashar | dezenove |
 
 ### Conceitos
 
-**Etfaddal.** Usa-se ao entregar algo a alguém: *etfaddal* para homem, *etfaddali* para mulher.
+**1. O jornal.** O adjetivo vem depois do nome e concorda com ele: *gerida* é feminino, então *amrikeyya*.
 
-**Preço com be-.** *da be5amsa geneih* = «isto custa cinco libras». Para perguntar: *bekam?*
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عندك جريدة أمريكية من فضلك؟</span> | 3andek gerida amrikeyya men fadlek? | tem um jornal americano, por favor? (f) |
+| <span dir="rtl">أيوه يا أستاذ، اتفضل.</span> | aywa ya ostaz, etfaddal. | sim, senhor, aqui está. |
 
-**Mesh + particípio.** *enta mesh fahem* = «você não entende».
+**2. Aqui está — etfaddal / etfaddali.** Usa-se ao entregar algo, ao convidar alguém a entrar ou a sentar-se: *etfaddal* para homem, *etfaddali* para mulher.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">اتفضل.</span> | etfaddal. | aqui está. (a um homem) |
+| <span dir="rtl">اتفضلي خمسة جنيه، وشكرًا.</span> | etfaddali 5amsa geneih, w shokran. | aqui estão cinco libras, obrigado. (a uma mulher) |
+
+**3. Cinco ou quinze?** *5amsa* (5) e *5amastashar* (15) soam parecido. A vendedora corrige com *mesh fahem* (não entende).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">خمسة جنيه من فضلك.</span> | 5amsa geneih men fadlak. | cinco libras, por favor. |
+| <span dir="rtl">خمستاشر جنيه؟</span> | 5amastashar geneih? | quinze libras? |
+| <span dir="rtl">لأ، إنتَ مش فاهم. ده بخمسة جنيه.</span> | la2, enta mesh fahem. da be5amsa geneih. | não, você não entendeu. custa cinco libras. |
+| <span dir="rtl">فاهم دلوقتي.</span> | fahem delwa2ti. | agora entendi. |
+
+**4. Libras e dólares no plural.** *Geneih* → *geneihat*; *dollar* → *dollarat*. Com um número, a moeda fica no singular (*5amsa geneih*); sem número, vai para o plural.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">جنيه / جنيهات</span> | geneih / geneihat | libra / libras |
+| <span dir="rtl">دولار / دولارات</span> | dollar / dollarat | dólar / dólares |
+
+**5. Nenhum — ayy; muito — ketir.** *Ma…sh* nega «ter»: *3andi* → *ma3andish*. *Ayy* depois da negativa vira «nenhum». *Ketir* concorda com o nome: *dollarat ketira*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ما عنديش أي جنيهات.</span> | ma3andish ayy geneihat. | não tenho nenhuma libra. |
+| <span dir="rtl">ما عنديش أي دولارات.</span> | ma3andish ayy dollarat. | não tenho nenhum dólar. |
+| <span dir="rtl">عندي دولارات كتيرة.</span> | 3andi dollarat ketira. | tenho muitos dólares. |
+| <span dir="rtl">ده مش كتير.</span> | da mesh ketir. | isso não é muito. |
+
+**6. Dezessete, dezoito, dezenove.** Fecham a série em *-tashar* (11 a 19).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">سبعتاشر</span> | saba3tashar | dezessete |
+| <span dir="rtl">تمنتاشر</span> | tamantashar | dezoito |
+| <span dir="rtl">تسعتاشر</span> | tesa3tashar | dezenove |
+
+**7. Sem libras.** Um cliente quer comprar, mas só tem dólares.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Cliente | <span dir="rtl">مساء الخير يا مدام، أحب أشتري حاجة.</span> | masa2 el5eir ya madam, a7ebb ashteri 7aga. | Boa tarde, senhora, gostaria de comprar algo. |
+| Vendedora | <span dir="rtl">مساء النور يا أستاذ.</span> | masa2 ennur ya ostaz. | Boa tarde, senhor. |
+| Vendedora | <span dir="rtl">ده بحداشر جنيه. عندك كام جنيه؟</span> | da be7edashar geneih. 3andak kam geneih? | Custa onze libras. Quantas libras o senhor tem? |
+| Cliente | <span dir="rtl">ما عنديش أي جنيهات، عندي دولارات كتيرة.</span> | ma3andish ayy geneihat, 3andi dollarat ketira. | Não tenho nenhuma libra, tenho muitos dólares. |
+| Vendedora | <span dir="rtl">ده مش كتير… مع السلامة.</span> | da mesh ketir… ma3a salama. | Isso não é muito… Até logo. |
 
 ## Versão informal
 
