@@ -99,6 +99,8 @@ In Egyptian Arabic, possession is expressed with **عند** (*3and*) plus a pron
 | he       | هو      | huwwa  | عنده             | 3andu   | ماعندوش         | ma3andush   |
 | she      | هي      | heyya  | عندها            | 3andaha | ماعندهاش        | ma3andahash |
 | we       | إحنا    | e7na   | عندنا            | 3andina | ماعندناش        | ma3andinash |
+| you (pl.) | إنتو    | entu   | عندكو            | 3andoku | ماعندكوش        | ma3andokush |
+| they     | هما     | homma  | عندهم            | 3andohom | ماعندهمش        | ma3andohomsh |
 
 ## The negation rule
 
@@ -121,25 +123,6 @@ In Egyptian Arabic, possession is expressed with **عند** (*3and*) plus a pron
 <summary>هو ماعندوش وقت.</summary>
 
 [huwwa ma3andush wa2t.]{.fr} [He doesn't have time.]{.en}
-
-</details>
-
-## What students have most
-
-Survey results from the lesson:
-
-| Item         | Arabic | franco    | \%  |
-|--------------|--------|-----------|-----|
-| mobile phone | موبايل | mobail    | 95% |
-| watch        | ساعة   | sa3a      | 60% |
-| laptop       | لابتوب | labtob    | 45% |
-| car          | عربية  | 3arabiyya | 20% |
-
-<details class="frase">
-
-<summary>أغلب الطلاب عندهم موبايلات، لكن قليل اللي عندهم عربيات.</summary>
-
-[a8lab et-tollab 3andohom mobailat, lakin 2alil elli 3andohom 3arabiyyat.]{.fr} [Most students have mobile phones, but few have cars.]{.en}
 
 </details>
 
@@ -174,40 +157,3 @@ Model conversation:
 
 </details>
 
-## Group activity
-
-Ask the person next to you 3 questions about things they have in their bag or at home. Example questions:
-
-<details class="frase">
-
-<summary>عندك أخوات؟</summary>
-
-[3andak a5awat?]{.fr} [Do you have siblings?]{.en}
-
-</details>
-
-<details class="frase">
-
-<summary>عندك عجلة؟</summary>
-
-[3andak 3agala?]{.fr} [Do you have a bicycle?]{.en}
-
-</details>
-
-<details class="frase">
-
-<summary>عندك قاموس عربي؟</summary>
-
-[3andak 2amus 3arabi?]{.fr} [Do you have an Arabic dictionary?]{.en}
-
-</details>
-
-## Summary
-
-<details class="frase">
-
-<summary>دلوقتي إحنا نقدر نعبر عن الملكية والنفي بالعامية المصرية!</summary>
-
-[delwa2ti e7na ne2dar ne3abbar 3an el-melkeyya wen-nafy bel-3ammeyya el-masreyya!]{.fr} [Now we can express possession and negation in Egyptian Arabic!]{.en}
-
-</details>
