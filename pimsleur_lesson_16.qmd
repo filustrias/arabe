@@ -34,7 +34,7 @@ Samir telefona para Mona à noite.
 
 ## Do que trata
 
-Revisão de convite e horário, agora à noite. Novo: o cumprimento da noite e *ezzay el7al?*
+Revisão de convite e horário, agora à noite. Novidades: *ezzay el7al?*, *felus* (dinheiro), *kefaya* (basta), *adilak* (te dou), as dezenas 20, 30 e 40 e mais contas de somar.
 
 ### Vocabulário
 
@@ -43,14 +43,92 @@ Revisão de convite e horário, agora à noite. Novo: o cumprimento da noite e *
 | <span dir="rtl">مساء الخير</span> | masa2 el5eir | boa noite / boa tarde |
 | <span dir="rtl">مساء النور</span> | masa2 ennur | boa noite (resposta) |
 | <span dir="rtl">إزاي الحال؟</span> | ezzay el7al? | como vão as coisas? |
+| <span dir="rtl">فلوس</span> | felus | dinheiro |
+| <span dir="rtl">كفاية</span> | kefaya | basta / é suficiente |
+| <span dir="rtl">أديلك</span> | adilak / adilek | dou-te, te dou (a homem / a mulher) |
+| <span dir="rtl">عشرين</span> | 3eshrin | vinte |
+| <span dir="rtl">تلاتين</span> | talatin | trinta |
+| <span dir="rtl">أربعين</span> | arbe3in | quarenta |
 
 ### Conceitos
 
-**Par de cumprimento.** Como de manhã: *masa2 el5eir* → *masa2 ennur*.
+**1. Par de cumprimento.** Como de manhã: *masa2 el5eir* → *masa2 ennur*.
 
-**Ezzay el7al?** Não muda com o gênero, ao contrário de *ezzayyak / ezzayyek*.
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ألو، منى؟ مساء الخير.</span> | alo, mona? masa2 el5eir. | alô, Mona? boa noite. |
+| <span dir="rtl">مساء النور يا سمير.</span> | masa2 ennur ya samir. | boa noite, Samir. |
 
-**Três perguntas no fim.** *emta?* (quando), *fein?* (onde), *kam?* (quanto): *te7ebbi takli fein?*
+**2. Ezzay el7al?** «Como vão as coisas?». Não muda com o gênero, ao contrário de *ezzayyak / ezzayyek*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">إزاي الحال؟</span> | ezzay el7al? | como vão as coisas? |
+| <span dir="rtl">كويس، شكرًا.</span> | kwayyes, shokran. | bem, obrigado. |
+
+**3. Três perguntas no fim.** *Emta?* (quando), *fein?* (onde), *kam?* (quanto) vão no fim da frase.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">تحبي تاكلي معايا إمتى؟</span> | te7ebbi takli ma3aya emta? | quando quer comer comigo? (f) |
+| <span dir="rtl">تحبي تاكلي فين؟</span> | te7ebbi takli fein? | onde quer comer? (f) |
+| <span dir="rtl">ده بكام؟</span> | da bekam? | isto custa quanto? |
+
+**4. Dinheiro — felus.** Concorda no feminino: *di felus ketira* (isto é muito dinheiro).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">فلوس</span> | felus | dinheiro |
+| <span dir="rtl">عندك فلوس؟</span> | 3andak felus? | você tem dinheiro? (m) |
+| <span dir="rtl">شوية فلوس</span> | shwayyet felus | um pouco de dinheiro |
+| <span dir="rtl">فلوس كتيرة</span> | felus ketira | muito dinheiro |
+| <span dir="rtl">دي فلوس كتيرة أوي!</span> | di felus ketira awi! | isto é muito dinheiro! |
+
+**5. Basta — kefaya.** *Da kefaya?* = «isto basta?». A negativa é *mesh kefaya*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ده كفاية؟</span> | da kefaya? | isto é suficiente? |
+| <span dir="rtl">أيوه، ده كفاية.</span> | aywa, da kefaya. | sim, é suficiente. |
+| <span dir="rtl">لأ، ده مش كفاية.</span> | la2, da mesh kefaya. | não, não é suficiente. |
+
+**6. Te dou — adilak / adilek.** *Adi* (dou) + *-lak* (a você, homem) ou *-lek* (a você, mulher). Para mulher também se ouve *adiki*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ممكن أديلك دولارات؟</span> | momken adilek dolarat? | posso te dar dólares? (a uma mulher) |
+| <span dir="rtl">مش عايز أي دولارات.</span> | mesh 3ayez ay dolarat. | não quero nenhum dólar. (homem) |
+| <span dir="rtl">أديلك ستة وأربعين دولار.</span> | adilak setta w arbe3in dolar. | te dou quarenta e seis dólares. (a um homem) |
+
+**7. Dezenas — 20, 30, 40.** Diz-se primeiro a unidade e depois a dezena, ligadas por *w*: *arba3a w 3eshrin* = «quatro e vinte» = 24.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عشرين</span> | 3eshrin | 20 |
+| <span dir="rtl">أربعة وعشرين</span> | arba3a w 3eshrin | 24 |
+| <span dir="rtl">خمسة وعشرين</span> | 5amsa w 3eshrin | 25 |
+| <span dir="rtl">ستة وعشرين</span> | setta w 3eshrin | 26 |
+| <span dir="rtl">تسعة وعشرين</span> | tes3a w 3eshrin | 29 |
+| <span dir="rtl">تلاتين</span> | talatin | 30 |
+| <span dir="rtl">اتنين وتلاتين</span> | etnein w talatin | 32 |
+| <span dir="rtl">أربعة وتلاتين</span> | arba3a w talatin | 34 |
+| <span dir="rtl">خمسة وتلاتين</span> | 5amsa w talatin | 35 |
+| <span dir="rtl">أربعين</span> | arbe3in | 40 |
+| <span dir="rtl">تلاتة وأربعين</span> | talata w arbe3in | 43 |
+| <span dir="rtl">ستة وأربعين</span> | setta w arbe3in | 46 |
+| <span dir="rtl">سبعة وأربعين</span> | sab3a w arbe3in | 47 |
+
+**8. Contas — X w Y kam?**
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ستاشر وأربعة كام؟ — عشرين.</span> | settashar w arba3a kam? — 3eshrin. | 16 + 4? — 20. |
+| <span dir="rtl">عشرين وستة كام؟ — ستة وعشرين.</span> | 3eshrin w setta kam? — setta w 3eshrin. | 20 + 6? — 26. |
+| <span dir="rtl">تمانية وعشرين وأربعة كام؟ — اتنين وتلاتين.</span> | tamanya w 3eshrin w arba3a kam? — etnein w talatin. | 28 + 4? — 32. |
+| <span dir="rtl">اتنين وتلاتين واتنين كام؟ — أربعة وتلاتين.</span> | etnein w talatin w etnein kam? — arba3a w talatin. | 32 + 2? — 34. |
+| <span dir="rtl">أربعة وتلاتين واتناشر كام؟ — ستة وأربعين.</span> | arba3a w talatin w etnashar kam? — setta w arbe3in. | 34 + 12? — 46. |
+| <span dir="rtl">تلاتة وتلاتين وعشرة كام؟ — تلاتة وأربعين.</span> | talata w talatin w 3ashara kam? — talata w arbe3in. | 33 + 10? — 43. |
+| <span dir="rtl">خمسة وعشرين وحداشر كام؟ — ستة وتلاتين.</span> | 5amsa w 3eshrin w 7edashar kam? — setta w talatin. | 25 + 11? — 36. |
 
 ## Versão informal
 
