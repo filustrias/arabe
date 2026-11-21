@@ -32,7 +32,7 @@ Kamal conversa com a esposa, que vai sair.
 
 ## Do que trata
 
-Falar do que se vai fazer (futuro) e do que se tem ou não tem.
+Falar do que se vai fazer e do que se tem ou não tem. Novidades: *momken* (posso? / é possível?), «para mim / para você», o preço com *be-* e contas simples de somar.
 
 ### Vocabulário
 
@@ -41,17 +41,26 @@ Falar do que se vai fazer (futuro) e do que se tem ou não tem.
 | <span dir="rtl">هتروحي فين؟</span> | hatro7i fein? | aonde você (f) vai? |
 | <span dir="rtl">هشتري</span> | hashteri | vou comprar |
 | <span dir="rtl">أي</span> | ay | nenhum / qualquer |
-| <span dir="rtl">جنيهات</span> | geneihat | libras |
-| <span dir="rtl">دولارات</span> | dolarat | dólares |
-| <span dir="rtl">كام؟</span> | kam? | quantos? |
-| <span dir="rtl">أربعتاشر</span> | arba3tashar | catorze |
-| <span dir="rtl">عشرة</span> | 3ashara | dez |
+| <span dir="rtl">جنيهات / دولارات</span> | geneihat / dolarat | libras / dólares |
+| <span dir="rtl">كام؟</span> | kam? | quantos? / quanto é? |
+| <span dir="rtl">ممكن؟</span> | momken? | posso? / é possível? |
+| <span dir="rtl">مش ممكن</span> | mesh momken | não é possível |
+| <span dir="rtl">ليا</span> | leyya | para mim |
+| <span dir="rtl">ليك / ليكي</span> | leek / leeki | para você (m / f) |
+| <span dir="rtl">بجنيه</span> | begeneih | por uma libra |
+| <span dir="rtl">جنيهين</span> | geneihein | duas libras |
+| <span dir="rtl">و</span> | w | e / mais |
 
 ### Conceitos
 
-**Futuro com ha-.** O prefixo *ha-* entra no lugar do *b-*: *bashteri* (compro) → *hashteri* (vou comprar).
+**1. Futuro com ha-.** O prefixo *ha-* entra no lugar do *b-*: *bashteri* (compro) → *hashteri* (vou comprar).
 
-**Ter = 3and + pessoa.**
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هتروحي فين؟</span> | hatro7i fein? | aonde você vai? (f) |
+| <span dir="rtl">هشتري حاجة.</span> | hashteri 7aga. | vou comprar uma coisa. |
+
+**2. Ter = 3and + pessoa.**
 
 | Pessoa | Afirmativo | Negativo |
 |:--|:--|:--|
@@ -59,7 +68,70 @@ Falar do que se vai fazer (futuro) e do que se tem ou não tem.
 | você (m) | 3andak | ma3andaksh |
 | você (f) | 3andek | ma3andekish |
 
-**Kam + singular.** *kam dolar?* = «quantos dólares?». O substantivo fica no singular.
+**3. Kam + singular.** *Kam dolar?* = «quantos dólares?». O substantivo fica no singular.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">كام دولار عندك؟</span> | kam dolar 3andek? | quantos dólares você tem? (f) |
+| <span dir="rtl">عندك كام جنيه؟</span> | 3andak kam geneih? | quantas libras você tem? (m) |
+
+**4. Posso? É possível? — momken.** Serve para pedir licença e para perguntar se algo dá para fazer. *Momken* + verbo sem *b-*. A negativa é *mesh momken*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ممكن؟</span> | momken? | posso? / é possível? |
+| <span dir="rtl">ممكن آكل دلوقتي؟</span> | momken akol delwa2ti? | posso comer agora? |
+| <span dir="rtl">ممكن أشرب شاي؟</span> | momken ashrab shay? | posso beber um chá? |
+| <span dir="rtl">أيوه، ممكن.</span> | aywa, momken. | sim, pode. |
+| <span dir="rtl">لأ، مش ممكن دلوقتي.</span> | la2, mesh momken delwa2ti. | não, agora não é possível. |
+
+**5. Para mim, para você — le- + pessoa.**
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">ليا</span> | leyya | para mim |
+| você (m) | <span dir="rtl">ليك</span> | leek | para você |
+| você (f) | <span dir="rtl">ليكي</span> | leeki | para você |
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">الشاي ليا والقهوة ليك.</span> | elshay leyya wel 2ahwa leek. | o chá é para mim e o café é para você. (m) |
+| <span dir="rtl">ده ليكي.</span> | da leeki. | isto é para você. (f) |
+
+**6. Preço com be-.** *Be-* + quantia = «custa…». Para duas libras, usa-se o dual *geneihein*, não *etnein geneih*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">الشاي بجنيه.</span> | elshay begeneih. | o chá custa uma libra. |
+| <span dir="rtl">القهوة بجنيهين.</span> | el2ahwa begeneihein. | o café custa duas libras. |
+| <span dir="rtl">ده بخمسة جنيه.</span> | da be5amsa geneih. | isto custa cinco libras. |
+
+**7. No café.** Um cliente quer comer, pede um chá e tenta pagar em dólares.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Cliente | <span dir="rtl">مساء الخير يا مدام.</span> | masa2 el5eir ya madam. | Boa noite, senhora. |
+| Atendente | <span dir="rtl">مساء النور يا أستاذ.</span> | masa2 ennur ya ostaz. | Boa noite, senhor. |
+| Cliente | <span dir="rtl">ممكن آكل دلوقتي؟</span> | momken akol delwa2ti? | Posso comer agora? |
+| Atendente | <span dir="rtl">لأ يا أستاذ، مش ممكن دلوقتي.</span> | la2 ya ostaz, mesh momken delwa2ti. | Não, senhor, agora não é possível. |
+| Cliente | <span dir="rtl">طيب، ممكن أشرب شاي؟</span> | tayyeb, momken ashrab shay? | Está bem, posso beber um chá? |
+| Atendente | <span dir="rtl">أيوه ممكن، الشاي بجنيه.</span> | aywa momken, elshay begeneih. | Sim, pode, o chá custa uma libra. |
+| Cliente | <span dir="rtl">ما عنديش أي جنيهات. ممكن أديكي دولارات؟</span> | ma3andish ay geneihat. momken adiki dolarat? | Não tenho nenhuma libra. Posso lhe dar dólares? |
+| Atendente | <span dir="rtl">لأ، مش ممكن.</span> | la2, mesh momken. | Não, não é possível. |
+
+*Adiki* = «dou-lhe» (a uma mulher); a um homem, *adilak*.
+
+**8. Contas — X w Y kam?** *W* (e) faz as vezes de «mais»; *kam?* pergunta o resultado.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أربعة وأربعة كام؟ — تمانية.</span> | arba3a w arba3a kam? — tamanya. | quatro mais quatro? — oito. |
+| <span dir="rtl">تلاتة وأربعة كام؟ — سبعة.</span> | talata w arba3a kam? — sab3a. | três mais quatro? — sete. |
+| <span dir="rtl">ستة وسبعة كام؟ — تلاتاشر.</span> | setta w sab3a kam? — talattashar. | seis mais sete? — treze. |
+| <span dir="rtl">تلاتاشر واتنين كام؟ — خمستاشر.</span> | talattashar w etnein kam? — 5amastashar. | treze mais dois? — quinze. |
+| <span dir="rtl">تلاتاشر وتلاتة كام؟ — ستاشر.</span> | talattashar w talata kam? — settashar. | treze mais três? — dezesseis. |
+| <span dir="rtl">خمستاشر واتنين كام؟ — سبعتاشر.</span> | 5amastashar w etnein kam? — saba3tashar. | quinze mais dois? — dezessete. |
+| <span dir="rtl">سبعتاشر واتنين كام؟ — تسعتاشر.</span> | saba3tashar w etnein kam? — tesa3tashar. | dezessete mais dois? — dezenove. |
 
 ## Versão informal
 
