@@ -29,7 +29,7 @@ Uma mulher e um homem falam das suas famílias.
 
 ## Do que trata
 
-Perguntar quantas pessoas há numa família.
+Família e estrada. Perguntar quantas pessoas há numa família e, na viagem, dizer para onde se está indo com *raye7 / ray7a*, perguntar pela estrada, entender «longe» e «em frente», pedir gasolina com *7ott* e contar até 70.
 
 ### Vocabulário
 
@@ -41,14 +41,91 @@ Perguntar quantas pessoas há numa família.
 | <span dir="rtl">عيلتي / عيلتك</span> | 3elti / 3eltak | minha / sua (m) família |
 | <span dir="rtl">بجد؟</span> | begad? | é mesmo? / sério? |
 | <span dir="rtl">صغيرة</span> | so8ayyara | pequena |
+| <span dir="rtl">رايح / رايحة</span> | raye7 / ray7a | indo (m / f) |
+| <span dir="rtl">طريق</span> | tari2 | estrada / caminho |
+| <span dir="rtl">القاهرة</span> | el2ahera | Cairo |
+| <span dir="rtl">بعيد / بعيدة</span> | ba3id / ba3ida | longe (m / f) |
+| <span dir="rtl">على طول</span> | 3ala tul | direto, sempre em frente |
+| <span dir="rtl">حط</span> | 7ott | ponha, coloque (a um homem) |
+| <span dir="rtl">سبعين</span> | sab3in | setenta |
 
 ### Conceitos
 
-**Fi com dois sentidos.** No começo da frase quer dizer «há»: *fi talat ash5as* (há três pessoas). Antes de um lugar quer dizer «em»: *fi 3elti* (na minha família).
+**1. Fi com dois sentidos.** No começo da frase quer dizer «há»: *fi talat ash5as* (há três pessoas). Antes de um lugar quer dizer «em»: *fi 3elti* (na minha família).
 
-**3ela → 3elti.** O *-a* final vira *-t* antes do possessivo: *3elti*, *3eltak*, *3eltek*. É o mesmo padrão de *mara* → *merati*.
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">في كام شخص في عيلتك يا أستاذ؟</span> | fi kam sha5s fi 3eltak ya ostaz? | quantas pessoas há na sua família, senhor? |
+| <span dir="rtl">في تلات أشخاص في عيلتي.</span> | fi talat ash5as fi 3elti. | há três pessoas na minha família. |
 
-**Adjetivo concorda.** *bent so8ayyara* (f), *walad so8ayyar* (m).
+**2. 3ela → 3elti.** O *-a* final vira *-t* antes do possessivo: *3elti*, *3eltak*, *3eltek*. É o mesmo padrão de *mara* → *merati*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عيلتي</span> | 3elti | minha família |
+| <span dir="rtl">عيلتك</span> | 3eltak | sua família (a um homem) |
+| <span dir="rtl">عيلتك</span> | 3eltek | sua família (a uma mulher) |
+| <span dir="rtl">مراتي</span> | merati | minha esposa |
+
+**3. Adjetivo concorda.** O adjetivo segue o gênero do substantivo.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">بنت صغيرة</span> | bent so8ayyara | uma menina pequena |
+| <span dir="rtl">ولد صغير</span> | walad so8ayyar | um menino pequeno |
+| <span dir="rtl">أيوه، بنت صغيرة أوي.</span> | aywa, bent so8ayyara awi. | sim, uma menina bem pequena. |
+
+**4. Indo — raye7 / ray7a.** O particípio diz para onde a pessoa está indo agora. Concorda com quem vai: *raye7* (homem), *ray7a* (mulher). O destino vem logo depois, sem preposição.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">رايحة فين يا مدام؟</span> | ray7a fein ya madam? | aonde a senhora está indo? |
+| <span dir="rtl">رايحة القاهرة.</span> | ray7a el2ahera. | estou indo para o Cairo. (mulher) |
+| <span dir="rtl">رايح فين يا أستاذ؟</span> | raye7 fein ya ostaz? | aonde o senhor está indo? |
+| <span dir="rtl">رايح القاهرة.</span> | raye7 el2ahera. | estou indo para o Cairo. (homem) |
+
+**5. A estrada — tari2.** *Tari2 el2ahera* = «a estrada do Cairo»: o segundo nome especifica o primeiro, sem preposição. *Tari2* é masculino, por isso *howwa*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">طريق القاهرة فين؟</span> | tari2 el2ahera fein? | onde fica a estrada do Cairo? |
+| <span dir="rtl">طريق القاهرة هناك.</span> | tari2 el2ahera hnak. | a estrada do Cairo é ali. |
+| <span dir="rtl">هو على طول.</span> | howwa 3ala tul. | é sempre em frente. |
+
+**6. Longe — ba3id / ba3ida.** Cidades são femininas: *el2ahera ba3ida*. Com *mesh … awi*, «não tão longe».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">القاهرة بعيدة.</span> | el2ahera ba3ida. | o Cairo fica longe. |
+| <span dir="rtl">القاهرة بعيدة، سبعين كيلو متر.</span> | el2ahera ba3ida, sab3in kilometr. | o Cairo fica longe, a 70 quilômetros. |
+| <span dir="rtl">القاهرة مش بعيدة أوي.</span> | el2ahera mesh ba3ida awi. | o Cairo não é tão longe assim. |
+
+**7. Ponha — 7ott.** Imperativo de «pôr, colocar»; no posto, serve para pedir gasolina. A um homem *7ott*, a uma mulher *7otti*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">حط بنزين من فضلك.</span> | 7ott benzin men fadlak. | ponha gasolina, por favor. (a um homem) |
+| <span dir="rtl">حط تلاتين لتر من فضلك.</span> | 7ott talatin letr men fadlak. | ponha 30 litros, por favor. (a um homem) |
+| <span dir="rtl">حطي بنزين من فضلك.</span> | 7otti benzin men fadlek. | ponha gasolina, por favor. (a uma mulher) |
+
+**8. Dezena — 70.** Como as outras dezenas: primeiro a unidade, depois *w* e a dezena.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">سبعين</span> | sab3in | 70 |
+| <span dir="rtl">أربعة وسبعين</span> | arba3a w sab3in | 74 |
+| <span dir="rtl">خمسة وسبعين</span> | 5amsa w sab3in | 75 |
+
+**9. No posto, a caminho do Cairo.** Uma motorista pede gasolina e pergunta pela estrada.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Frentista | <span dir="rtl">رايحة فين يا مدام؟</span> | ray7a fein ya madam? | Aonde a senhora está indo? |
+| Motorista | <span dir="rtl">رايحة القاهرة. طريق القاهرة فين؟</span> | ray7a el2ahera. tari2 el2ahera fein? | Estou indo para o Cairo. Onde fica a estrada do Cairo? |
+| Frentista | <span dir="rtl">القاهرة بعيدة، سبعين كيلو متر.</span> | el2ahera ba3ida, sab3in kilometr. | O Cairo fica longe, a 70 quilômetros. |
+| Motorista | <span dir="rtl">حط بنزين من فضلك. حط تلاتين لتر من فضلك.</span> | 7ott benzin men fadlak. 7ott talatin letr men fadlak. | Ponha gasolina, por favor. Ponha 30 litros, por favor. |
+| Frentista | <span dir="rtl">طريق القاهرة هناك، هو على طول يا مدام.</span> | tari2 el2ahera hnak, howwa 3ala tul ya madam. | A estrada do Cairo é ali, sempre em frente, senhora. |
+| Motorista | <span dir="rtl">القاهرة مش بعيدة أوي. مع السلامة.</span> | el2ahera mesh ba3ida awi. ma3a salama. | O Cairo não é tão longe assim. Tchau. |
 
 ## Versão informal
 

@@ -9,36 +9,38 @@ book:
     collapse-level: 1
   chapters:
     - index.qmd
-    - intro.qmd
-    - aulas_sumarios.qmd
-    - polidez.qmd
-    - This_and_That.qmd
-    - The_Present_Tense.qmd
-    - The_Past_Tense.qmd
-    - Negation.qmd
-    - Family.qmd
-    - Introductions.qmd
-    - Comparatives.qmd
-    - Numbers_Plurals_and_the_Calendar.qmd
-    - Prepositions_and_Place_Words.qmd
-    - Pronouns_and_the_Nominal_Sentence.qmd
-    - Saying_Telling_and_Hearing.qmd
-    - Speaking_and_Understanding.qmd
-    - Knowing_and_Being_Acquainted.qmd
-    - Studying_and_Learning.qmd
-    - Verbs_of_Movement_1.qmd
-    - Verbs_of_Movement_2.qmd
-    - Liking_Wanting_Disliking.qmd
-    - Colors.qmd
-    - Colors_and_Sizes.qmd
-    - Definite_Article_and_Agreement.qmd
-    - Work.qmd
-    - Daily_Routine.qmd
-    - Everyday_Verbs.qmd
-    - samar_futuro.qmd
-    - samar_futuro_improved.qmd
-    - samar_3and_possession.qmd
-    - horas_e_tempo.qmd
+    - part: "Resumos de estudos meus"
+      chapters:
+        - intro.qmd
+        - aulas_sumarios.qmd
+        - polidez.qmd
+        - This_and_That.qmd
+        - The_Present_Tense.qmd
+        - The_Past_Tense.qmd
+        - Negation.qmd
+        - Family.qmd
+        - Introductions.qmd
+        - Comparatives.qmd
+        - Numbers_Plurals_and_the_Calendar.qmd
+        - Prepositions_and_Place_Words.qmd
+        - Pronouns_and_the_Nominal_Sentence.qmd
+        - Saying_Telling_and_Hearing.qmd
+        - Speaking_and_Understanding.qmd
+        - Knowing_and_Being_Acquainted.qmd
+        - Studying_and_Learning.qmd
+        - Verbs_of_Movement_1.qmd
+        - Verbs_of_Movement_2.qmd
+        - Liking_Wanting_Disliking.qmd
+        - Colors.qmd
+        - Colors_and_Sizes.qmd
+        - Definite_Article_and_Agreement.qmd
+        - Work.qmd
+        - Daily_Routine.qmd
+        - Everyday_Verbs.qmd
+        - samar_futuro.qmd
+        - samar_futuro_improved.qmd
+        - samar_3and_possession.qmd
+        - horas_e_tempo.qmd
     - part: "Pimsleur"
       chapters:
         - pimsleur_lesson_01.qmd
@@ -71,7 +73,7 @@ book:
         - pimsleur_lesson_28.qmd
         - pimsleur_lesson_29.qmd
         - pimsleur_lesson_30.qmd
-    - part: "Aulas 3mmar Sayed"
+    - part: "Aulas do 3mmar"
       chapters:
         - aula_20261104.qmd
         - aula_3mmar_2026-11-06.qmd
@@ -81,11 +83,11 @@ bibliography: references.bib
 format:
   html:
     theme:
-      light: [cosmo, fonts.scss, custom-light.scss]
-      dark: [darkly, fonts.scss, custom-dark.scss]
-    default-mode: dark
-    mainfont: Cairo
-    fontsize: 1.25em
+      light: [cosmo, tema-base.scss, tema-claro.scss]
+      dark: [darkly, tema-base.scss, tema-escuro.scss]
+    default-mode: light
+    include-in-header:
+      - leitura-head.html
     page-layout: full
     toc: false
     toc-expand: false
@@ -96,6 +98,7 @@ format:
       - pimsleur_franco.html
       - pimsleur_audio.html
       - ammar_doc.html
+      - leitura.html
   pdf:
     documentclass: scrreprt
 editor: visual

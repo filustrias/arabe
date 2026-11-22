@@ -1,0 +1,4 @@
+<script>
+/* Aplica a fonte e o tamanho salvos antes da página aparecer, para não piscar */
+try { var d = document.documentElement, f = localStorage.getItem("leitura-fonte"), t = localStorage.getItem("leitura-tamanho"); if (f) d.dataset.fonte = f; if (t) d.dataset.tamanho = t; } catch (e) {}
+</script>

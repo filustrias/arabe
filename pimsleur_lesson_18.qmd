@@ -34,7 +34,7 @@ Charles e Anne estão no Egito. Ela quer comprar um livro.
 
 ## Do que trata
 
-Dizer o que se quer, perguntar o preço de algo e discutir se é caro.
+Anne quer comprar um livro, discute o preço com Charles e pede dinheiro a ele. Novidades: *3ayez / 3ayza* + verbo (quero), *ketab gamil* (livro bonito), *8ali* (caro), *eddili* (me dê), *yeb2a* (então), «meu marido / minha esposa», o «ele» e o «ela» no verbo e *mayya* (água).
 
 ### Vocabulário
 
@@ -45,14 +45,98 @@ Dizer o que se quer, perguntar o preço de algo e discutir se é caro.
 | <span dir="rtl">جميل</span> | gamil | bonito |
 | <span dir="rtl">غالي</span> | 8ali | caro |
 | <span dir="rtl">خمسين</span> | 5amsin | cinquenta |
+| <span dir="rtl">اديلي</span> | eddili | me dê |
+| <span dir="rtl">يبقى</span> | yeb2a | então |
+| <span dir="rtl">جوزي / جوزك</span> | gozi / gozek | meu marido / seu marido (a uma mulher) |
+| <span dir="rtl">مراتي / مراتك</span> | merati / meratak | minha esposa / sua esposa (a um homem) |
+| <span dir="rtl">هو / هي</span> | howwa / heyya | ele / ela |
+| <span dir="rtl">هناك</span> | henak | lá |
+| <span dir="rtl">مية</span> | mayya | água |
 
 ### Conceitos
 
-**3ayez + verbo.** Como *a7ebb*, mas mais direto: *3ayza ashteri* (quero comprar). Concorda com quem quer: *3ayez* (m), *3ayza* (f).
+**1. Querer — 3ayez / 3ayza + verbo.** Como *a7ebb*, mas mais direto: *3ayza ashteri* (quero comprar). Concorda com quem quer: *3ayez* (m), *3ayza* (f). O segundo verbo vai sem *b-*.
 
-**Substantivo + da.** «Este livro» = *elketab da*. O demonstrativo vem depois, e o substantivo leva *el-*.
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عايزة أشتري حاجة.</span> | 3ayza ashteri 7aga. | quero comprar uma coisa. (mulher) |
+| <span dir="rtl">عايزة تشتري إيه؟</span> | 3ayza teshteri eih? | o que você quer comprar? (a uma mulher) |
+| <span dir="rtl">عايز أشرب شاي.</span> | 3ayez ashrab shay. | quero beber chá. (homem) |
+| <span dir="rtl">عايز إيه؟</span> | 3ayez eih? | o que você quer? (a um homem) |
 
-**Da kefaya?** «Isto chega?» A resposta é *aywa, da kefaya*.
+**2. Um livro bonito, este livro.** O adjetivo vem depois do substantivo: *ketab gamil* = «um livro bonito». Para «este livro», o substantivo leva *el-* e o demonstrativo vem depois: *elketab da*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">كتاب جميل أوي</span> | ketab gamil awi | um livro muito bonito |
+| <span dir="rtl">الكتاب ده</span> | elketab da | este livro |
+| <span dir="rtl">الكتاب ده جميل.</span> | elketab da gamil. | este livro é bonito. |
+| <span dir="rtl">بكام الكتاب ده؟</span> | bekam elketab da? | quanto custa este livro? |
+
+**3. Caro — 8ali.** A negativa é *mesh 8ali*; *awi* (muito) vem depois.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ده غالي أوي!</span> | da 8ali awi! | isto é muito caro! |
+| <span dir="rtl">ده مش غالي أوي.</span> | da mesh 8ali awi. | isto não é muito caro. |
+| <span dir="rtl">خمسين جنيه؟ ده عشرين دولار!</span> | 5amsin geneih? da 3eshrin dolar! | cinquenta libras? isso são vinte dólares! |
+
+**4. Me dê, te dou — eddili / adilak.** *Eddi* (dê) + *-li* (a mim) = *eddili*. Com o futuro *ha-*: *hadilek* = «vou te dar» (a uma mulher); a um homem, *hadilak*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">اديلي شوية فلوس من فضلك.</span> | eddili shwayyet felus men fadlak. | me dê um pouco de dinheiro, por favor. (a um homem) |
+| <span dir="rtl">هديلك خمسين جنيه.</span> | hadilek 5amsin geneih. | vou te dar cinquenta libras. (a uma mulher) |
+| <span dir="rtl">هديلك تلاتين جنيه.</span> | hadilak talatin geneih. | vou te dar trinta libras. (a um homem) |
+
+**5. Então e basta — yeb2a, da kefaya?** *Yeb2a* no começo da frase tira a conclusão: «então…». *Da kefaya?* = «isto chega?».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">يبقى اديلي شوية فلوس.</span> | yeb2a eddili shwayyet felus. | então me dê um pouco de dinheiro. |
+| <span dir="rtl">اتفضلي تلاتين جنيه. ده كفاية؟</span> | etfaddali talatin geneih. da kefaya? | tome trinta libras. chega? (a uma mulher) |
+| <span dir="rtl">أيوه، ده كفاية.</span> | aywa, da kefaya. | sim, chega. |
+
+**6. Um pouco de — shwayyet.** *Shwayya* (um pouco) vira *shwayyet* antes de um substantivo.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">شوية فلوس</span> | shwayyet felus | um pouco de dinheiro |
+| <span dir="rtl">شوية مية</span> | shwayyet mayya | um pouco de água |
+| <span dir="rtl">أنا كمان عندي شوية فلوس.</span> | ana kaman 3andi shwayyet felus. | eu também tenho um pouco de dinheiro. |
+
+**7. Marido e esposa.** O sufixo diz de quem: *-i* (meu / minha), *-ak* (seu, a um homem), *-ek* (seu, a uma mulher). *Merat* vem de *mara*: o *-a* final vira *-at* antes do sufixo.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">جوزي</span> | gozi | meu marido |
+| <span dir="rtl">جوزك فين؟</span> | gozek fein? | onde está seu marido? (a uma mulher) |
+| <span dir="rtl">مراتي</span> | merati | minha esposa |
+| <span dir="rtl">مراتك فين؟</span> | meratak fein? | onde está sua esposa? (a um homem) |
+
+**8. Ele e ela no verbo — ye- / te-.** O «ele» começa com *ye-*; o «ela» com *te-*, igual ao «você» (m).
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| ele | <span dir="rtl">يحب</span> | ye7ebb | ele gosta / quer |
+| ela | <span dir="rtl">تحب</span> | te7ebb | ela gosta / quer |
+| ele | <span dir="rtl">يشرب</span> | yeshrab | ele bebe |
+| ela | <span dir="rtl">تشرب</span> | teshrab | ela bebe |
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هو يحب يشرب شاي.</span> | howwa ye7ebb yeshrab shay. | ele quer beber chá. |
+| <span dir="rtl">هي تحب تشرب قهوة.</span> | heyya te7ebb teshrab 2ahwa. | ela quer beber café. |
+| <span dir="rtl">تحب تشرب شوية مية؟</span> | te7ebb teshrab shwayyet mayya? | quer beber um pouco de água? (a um homem) |
+
+**9. Marido e água.** Um homem pergunta pelo marido de uma conhecida; ela oferece água a ele.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">جوزك فين؟</span> | gozek fein? | Onde está seu marido? |
+| Mulher | <span dir="rtl">جوزي هناك. هو يحب يشرب شاي.</span> | gozi henak. howwa ye7ebb yeshrab shay. | Meu marido está lá. Ele quer beber chá. |
+| Mulher | <span dir="rtl">وإنتَ، تحب تشرب شوية مية؟</span> | w enta, te7ebb teshrab shwayyet mayya? | E você, quer beber um pouco de água? |
+| Homem | <span dir="rtl">أيوه، شوية مية من فضلك.</span> | aywa, shwayyet mayya men fadlek. | Sim, um pouco de água, por favor. |
 
 ## Versão informal
 

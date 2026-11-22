@@ -32,7 +32,7 @@ Uma mulher conta a um homem que vai para Alexandria.
 
 ## Do que trata
 
-Falar de uma viagem e do que se vai fazer lá.
+Falar de uma viagem e do que se vai fazer lá. Novidades: dar uma opinião com cautela (*beyethayya2li*, «acho que»), dizer «nada» (*wala 7aga*), o verbo «ir embora» (*amshi*, *hamshi*) e os números 90 e 100.
 
 ### Vocabulário
 
@@ -44,14 +44,85 @@ Falar de uma viagem e do que se vai fazer lá.
 | <span dir="rtl">أصحابي</span> | as7abi | meus amigos |
 | <span dir="rtl">هتشتغلي</span> | hateshta8ali | você (f) vai trabalhar |
 | <span dir="rtl">جايز</span> | gayez | talvez |
+| <span dir="rtl">بيتهيألي</span> | beyethayya2li | acho que / parece-me |
+| <span dir="rtl">ولا حاجة</span> | wala 7aga | nada |
+| <span dir="rtl">أمشي</span> | amshi | (eu) ir embora |
+| <span dir="rtl">همشي</span> | hamshi | vou embora |
+| <span dir="rtl">تسعين</span> | tes3in | noventa |
+| <span dir="rtl">مية</span> | miyya | cem |
 
 ### Conceitos
 
-**Futuro com ha- para «você».** *ha-* + *te-*: *hate3mili* (vai fazer), *hateshta8ali* (vai trabalhar).
+**1. Futuro com ha- para «você».** *Ha-* + *te-*: *hate3mili* (vai fazer), *hateshta8ali* (vai trabalhar). A homem, sem o *-i* final.
 
-**Ray7a + lugar.** Não precisa de preposição: *ray7a eskendereyya* (vai para Alexandria).
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هتعملي إيه هناك؟</span> | hate3mili eih hnak? | o que você vai fazer lá? (f) |
+| <span dir="rtl">هتعمل إيه هناك؟</span> | hate3mel eih hnak? | o que você vai fazer lá? (m) |
+| <span dir="rtl">هتشتغلي كمان؟</span> | hateshta8ali kaman? | vai trabalhar também? (f) |
+| <span dir="rtl">هشوف أصحابي.</span> | hashouf as7abi. | vou ver os meus amigos. |
 
-**Gayez = «talvez».** Responde sem se comprometer.
+**2. Ray7a + lugar.** Não precisa de preposição: *ray7a eskendereyya* (vai para Alexandria). A homem, *raye7*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">رايحة إسكندرية؟</span> | ray7a eskendereyya? | vai para Alexandria? (f) |
+| <span dir="rtl">رايح إسكندرية؟</span> | raye7 eskendereyya? | vai para Alexandria? (m) |
+| <span dir="rtl">أيوه، رايحة النهارده.</span> | aywa, ray7a ennaharda. | sim, vou hoje. |
+
+**3. Talvez — gayez.** Responde sem se comprometer.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أنا؟ أيوه، جايز.</span> | ana? aywa, gayez. | eu? sim, talvez. |
+
+**4. Acho que — beyethayya2li.** Ao pé da letra, «parece-me». Suaviza o que vem depois; não muda com o gênero de quem fala.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">بيتهيألي هشتغل شوية.</span> | beyethayya2li hashta8al shwayya. | acho que vou trabalhar um pouco. |
+| <span dir="rtl">بيتهيألي متأخر.</span> | beyethayya2li met2a5ar. | acho que é tarde. |
+
+**5. Nada — wala 7aga.** Sozinho responde «nada». Dentro da frase com *mesh*, diz-se *ay 7aga* (coisa nenhuma).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ولا حاجة.</span> | wala 7aga. | nada. |
+| <span dir="rtl">مش عايز أي حاجة.</span> | mesh 3ayez ay 7aga. | não quero nada. (homem) |
+| <span dir="rtl">مش عايزة أي حاجة.</span> | mesh 3ayza ay 7aga. | não quero nada. (mulher) |
+
+**6. Ir embora — amshi.** Depois de *3ayez / 3ayza*, o verbo vai sem *b-*; no futuro, *hamshi*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عايز أمشي.</span> | 3ayez amshi. | quero ir embora. (homem) |
+| <span dir="rtl">عايزة أمشي.</span> | 3ayza amshi. | quero ir embora. (mulher) |
+| <span dir="rtl">همشي النهارده.</span> | hamshi ennaharda. | vou embora hoje. |
+| <span dir="rtl">مش عايزة أمشي بكره، همشي النهارده.</span> | mesh 3ayza amshi bokra, hamshi ennaharda. | não quero ir embora amanhã, vou embora hoje. (mulher) |
+
+**7. Noventa e cem — tes3in, miyya.** Os números depois de 100 vêm com *w*: *miyya w 5amsin*. Antes de substantivo, *miyya* vira *mit*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">تسعين</span> | tes3in | 90 |
+| <span dir="rtl">مية</span> | miyya | 100 |
+| <span dir="rtl">مية جنيه</span> | mit geneih | cem libras |
+| <span dir="rtl">مية وخمسين</span> | miyya w 5amsin | 150 |
+| <span dir="rtl">مية وسبعين</span> | miyya w sab3in | 170 |
+
+**8. Planos em Alexandria.** Outra versão da conversa, com *beyethayya2li*.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">هتعملي إيه هناك في إسكندرية؟</span> | hate3mili eih hnak fi eskendereyya? | O que você vai fazer lá em Alexandria? |
+| Mulher | <span dir="rtl">بيتهيألي هشتغل شوية، وهشوف أصحابي.</span> | beyethayya2li hashta8al shwayya, w hashouf as7abi. | Acho que vou trabalhar um pouco e vou ver meus amigos. |
+
+**9. Quero ir embora.** Ele não quer fazer nada.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">تحب تعمل إيه؟</span> | te7ebb te3mel eih? | O que você gostaria de fazer? |
+| B | <span dir="rtl">ولا حاجة، لأني مش عايز أي حاجة. عايز أمشي.</span> | wala 7aga, la2enni mesh 3ayez ay 7aga. 3ayez amshi. | Nada, porque não quero nada. Quero ir embora. |
 
 ## Versão informal
 

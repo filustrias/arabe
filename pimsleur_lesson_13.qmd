@@ -97,6 +97,7 @@ Pedir para falar com alguém ao telefone, recusar um convite e propor outro prog
 | Árabe | Franco | Português |
 |--:|:--|:--|
 | <span dir="rtl">بالدولار؟</span> | bel dollar? | em dólares? |
+| <span dir="rtl">ممكن بالدولار؟</span> | momken bel dollar? | pode ser em dólares? |
 | <span dir="rtl">لأ، بالجنيه من فضلك.</span> | la2, bel geneih men fadlak. | não, em libras, por favor. |
 
 **6. Catorze, quinze, dezesseis.** Os números de 11 a 19 terminam em *-tashar*.

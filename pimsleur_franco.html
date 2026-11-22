@@ -1,7 +1,7 @@
 <style>
-.franco-todos { background: none; border: 1px solid currentColor; border-radius: 0.3em; color: inherit; cursor: pointer; font: inherit; font-size: 0.85em; margin: 0.5em 0 1em 0; padding: 0.25em 0.7em; }
+.franco-todos { margin: 0.5em 0 1em 0; }
 .franco-celula { background: none; border: none; border-radius: 0.3em; color: inherit; font: inherit; padding: 0 0.35em; text-align: inherit; cursor: pointer; }
-.franco-celula[aria-expanded="false"] { background: rgba(128, 128, 128, 0.3); }
+.franco-celula[aria-expanded="false"] { background: repeating-linear-gradient(135deg, var(--lat-a) 0 6px, var(--lat-b) 6px 12px); }
 .franco-celula[aria-expanded="false"] .franco-texto { visibility: hidden; }
 </style>
 <script>
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   var geral = document.createElement("button");
   geral.type = "button";
-  geral.className = "franco-todos";
+  geral.className = "franco-todos botao-forte";
   primeiraTabela.parentNode.insertBefore(geral, primeiraTabela);
 
   function definir(botao, visivel) {

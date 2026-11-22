@@ -26,22 +26,101 @@ Um diálogo bem curto: ele traz um livro para Mona.
 
 ## Do que trata
 
-Oferecer algo a alguém. Esta lição também ensina a perguntar o que uma palavra quer dizer.
+Oferecer algo a alguém e perguntar o que uma palavra quer dizer. A grande novidade é o passado: contar o que se comprou e o que se comeu ontem, e negar no passado com *ma…sh*.
 
 ### Vocabulário
 
 | Árabe | Franco | Português |
 |--:|:--|:--|
 | <span dir="rtl">ليكي / ليك</span> | leeki / leek | para você (f / m) |
+| <span dir="rtl">كتاب</span> | ketab | livro |
 | <span dir="rtl">يعني إيه؟</span> | ya3ni eih? | o que quer dizer? |
 | <span dir="rtl">كلمة</span> | kelma | palavra |
 | <span dir="rtl">يعني</span> | ya3ni | quer dizer |
+| <span dir="rtl">عربي</span> | 3arabi | árabe |
+| <span dir="rtl">امبارح</span> | embare7 | ontem |
+| <span dir="rtl">أسبوع</span> | esbou3 | semana |
+| <span dir="rtl">من أسبوع</span> | men esbou3 | há uma semana |
+| <span dir="rtl">اشتريت</span> | eshtareit | comprei |
+| <span dir="rtl">اشتريتي</span> | eshtareiti | você (f) comprou |
+| <span dir="rtl">أكلت</span> | akalt | comi |
+| <span dir="rtl">أكلتي</span> | akalti | você (f) comeu |
+| <span dir="rtl">حاجة / حاجات</span> | 7aga / 7agat | coisa / coisas |
+| <span dir="rtl">ماكلتش</span> | makaltesh | não comi |
 
 ### Conceitos
 
-**Le- + pessoa = «para».** *leeya* (para mim), *leek* (para você, m), *leeki* (para você, f).
+**1. Le- + pessoa = «para».** *leeya* (para mim), *leek* (para você, m), *leeki* (para você, f).
 
-**Perguntar significado.** *«ketab» ya3ni eih?* — *ya3ni «livro»*.
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عندي كتاب ليكي.</span> | 3andi ketab leeki. | tenho um livro para você. (f) |
+| <span dir="rtl">ده ليك.</span> | da leek. | isto é para você. (m) |
+| <span dir="rtl">ده ليا؟</span> | da leeya? | isto é para mim? |
+
+**2. Perguntar significado — ya3ni eih?** *Ya3ni eih da?* = «o que quer dizer isso?». Na resposta, *ya3ni* + o significado.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">يعني إيه ده؟</span> | ya3ni eih da? | o que quer dizer isso? |
+| <span dir="rtl">«كتاب» يعني إيه؟</span> | «ketab» ya3ni eih? | o que quer dizer «ketab»? |
+| <span dir="rtl">يعني «livro».</span> | ya3ni «livro». | quer dizer «livro». |
+| <span dir="rtl">دي كلمة عربي.</span> | di kelma 3arabi. | é uma palavra árabe. |
+
+**3. Ontem e há uma semana — embare7, men esbou3.** *Men* + período = «há…», como em *men yomein*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">امبارح</span> | embare7 | ontem |
+| <span dir="rtl">من أسبوع</span> | men esbou3 | há uma semana |
+| <span dir="rtl">اشتريت الكتاب ده من أسبوع.</span> | eshtareit elketab da men esbou3. | comprei este livro há uma semana. |
+
+**4. O passado — comprar e comer.** Terminações: *-t* para «eu» e «você (m)», *-ti* para «você (f)». «Eu» e «você (m)» soam iguais; o contexto (ou *ana / enta*) separa.
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">اشتريت / أكلت</span> | eshtareit / akalt | comprei / comi |
+| você (m) | <span dir="rtl">اشتريت / أكلت</span> | eshtareit / akalt | você comprou / comeu |
+| você (f) | <span dir="rtl">اشتريتي / أكلتي</span> | eshtareiti / akalti | você comprou / comeu |
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">اشتريتي إيه امبارح؟</span> | eshtareiti eih embare7? | o que você comprou ontem? (f) |
+| <span dir="rtl">اشتريت شوية شاي.</span> | eshtareit shwayyet shay. | comprei um pouco de chá. |
+| <span dir="rtl">أكلتي حاجة امبارح؟</span> | akalti 7aga embare7? | você comeu alguma coisa ontem? (f) |
+
+**5. Coisas — 7agat.** Plural de *7aga*. Com *ketir*, o adjetivo fica invariável: *7agat ketir*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">حاجة</span> | 7aga | uma coisa |
+| <span dir="rtl">اشتريت حاجات كتير.</span> | eshtareit 7agat ketir. | comprei muitas coisas. |
+
+**6. Negação no passado — ma…sh.** No presente e no futuro se usa *mesh*; o verbo no passado fica entre *ma-* e *-sh*. Com *akalt*, o *a* inicial cai: *makaltesh*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أكلت.</span> | akalt. | comi. |
+| <span dir="rtl">ماكلتش.</span> | makaltesh. | não comi. |
+| <span dir="rtl">ماكلتش أي حاجة.</span> | makaltesh ay 7aga. | não comi nada. |
+| <span dir="rtl">ما اشتريتش حاجة.</span> | mashtareitsh 7aga. | não comprei nada. |
+
+**7. O livro.** A conversa da aula, com a pergunta sobre a palavra.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">صباح الخير يا منى، عندي كتاب ليكي.</span> | saba7 el5eir ya mona, 3andi ketab leeki. | Bom dia, Mona, tenho um livro para você. |
+| Mona | <span dir="rtl">يعني إيه ده؟</span> | ya3ni eih da? | O que quer dizer isso? |
+| Homem | <span dir="rtl">كتاب. الكلمة «كتاب»، دي كلمة عربي.</span> | ketab. elkelma «ketab», di kelma 3arabi. | Livro. A palavra é «ketab», é uma palavra árabe. |
+
+**8. O que você comprou ontem?** Ela conta as compras e diz que não comeu nada.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Homem | <span dir="rtl">اشتريتي إيه امبارح؟</span> | eshtareiti eih embare7? | O que você comprou ontem? |
+| Mulher | <span dir="rtl">اشتريت شوية شاي، واشتريت كتاب كمان. اشتريت حاجات كتير.</span> | eshtareit shwayyet shay, w eshtareit ketab kaman. eshtareit 7agat ketir. | Comprei um pouco de chá e comprei um livro também. Comprei muitas coisas. |
+| Homem | <span dir="rtl">أكلتي حاجة امبارح؟</span> | akalti 7aga embare7? | Você comeu alguma coisa ontem? |
+| Mulher | <span dir="rtl">لأ، ماكلتش امبارح. ماكلتش أي حاجة!</span> | la2, makaltesh embare7. makaltesh ay 7aga! | Não, não comi ontem. Não comi nada! |
 
 ## Versão informal
 

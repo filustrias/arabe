@@ -27,7 +27,7 @@ Uma conversa curta sobre filhos.
 
 ## Do que trata
 
-Contar os filhos. A partir desta lição, algumas instruções do curso passam a vir em árabe, como *rodd* (رد, responda).
+Família e carro. Contar os filhos e as pessoas da família, dizer que «há» alguma coisa com *fi*, falar do carro e pedir gasolina em litros no posto. A partir desta lição, algumas instruções do curso passam a vir em árabe, como *rodd* (رد, responda).
 
 ### Vocabulário
 
@@ -38,15 +38,96 @@ Contar os filhos. A partir desta lição, algumas instruções do curso passam a
 | <span dir="rtl">بنت / بنتين</span> | bent / bentein | menina / duas meninas |
 | <span dir="rtl">ابن</span> | ebn | filho |
 | <span dir="rtl">ابني / ابنك</span> | ebni / ebnek | meu filho / seu (f) filho |
+| <span dir="rtl">عيلة</span> | 3ela | família |
+| <span dir="rtl">عيلتي / عيلتنا</span> | 3elti / 3eletna | minha família / nossa família |
+| <span dir="rtl">شخص / أشخاص</span> | sha5s / ash5as | pessoa / pessoas |
+| <span dir="rtl">في</span> | fi | há (existe) / em |
+| <span dir="rtl">عربية / عربيات</span> | 3arabeyya / 3arabeyyat | carro / carros |
+| <span dir="rtl">بنزين</span> | benzin | gasolina |
+| <span dir="rtl">لتر</span> | letr | litro |
+| <span dir="rtl">كيلو متر</span> | kilometr | quilômetro |
+| <span dir="rtl">اديلي</span> | eddili | me dê |
 | <span dir="rtl">رد</span> | rodd | responda |
 
 ### Conceitos
 
-**Kam + singular, número + plural.** Pergunta: *kam tefl?*. Resposta com 3 a 10: *talat atfal*. Antes do substantivo, *talata* vira *talat*.
+**1. Kam + singular, número + plural.** A pergunta leva o singular: *kam tefl?*. Na resposta, de 3 a 10 o substantivo vai no plural: *talat atfal*. Antes do substantivo, *talata* vira *talat*.
 
-**Dual com -ein.** «Dois / duas» vai no próprio substantivo: *bent* → *bentein* (duas meninas).
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عندكم كام طفل؟</span> | 3andoko kam tefl? | quantos filhos vocês têm? |
+| <span dir="rtl">عندنا تلات أطفال.</span> | 3andena talat atfal. | temos três filhos. |
+| <span dir="rtl">في كام شخص في عيلتك؟</span> | fi kam sha5s fi 3eltak? | quantas pessoas há na sua família? (m) |
+| <span dir="rtl">في تلات أشخاص في عيلتي.</span> | fi talat ash5as fi 3elti. | há três pessoas na minha família. |
 
-**Possessivo.** *ebni* (meu filho), *ebnak* (seu, a homem), *ebnek* (seu, a mulher).
+**2. Dual com -ein.** «Dois / duas» vai no próprio substantivo, sem o número. Se a palavra termina em *-a*, ela vira *-et* antes do *-ein*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">بنت ← بنتين</span> | bent → bentein | menina → duas meninas |
+| <span dir="rtl">ولد ← ولدين</span> | walad → waladein | menino → dois meninos |
+| <span dir="rtl">عربية ← عربيتين</span> | 3arabeyya → 3arabeyyetein | carro → dois carros |
+| <span dir="rtl">عندنا تلات أطفال: ولد وبنتين.</span> | 3andena talat atfal: walad w bentein. | temos três filhos: um menino e duas meninas. |
+
+**3. Possessivo.** O sufixo vai colado ao substantivo.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ابني</span> | ebni | meu filho |
+| <span dir="rtl">ابنك</span> | ebnak | seu filho (a um homem) |
+| <span dir="rtl">ابنك</span> | ebnek | seu filho (a uma mulher) |
+| <span dir="rtl">أيوه، ده ابني.</span> | aywa, da ebni. | sim, aquele é o meu filho. |
+
+**4. Família — 3ela.** O *-a* final vira *-t* antes do possessivo: *3elti*, *3eltak*, *3eltek*. Com *-na* (nosso) entra um *e* de apoio: *3eletna*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عيلة</span> | 3ela | família |
+| <span dir="rtl">عيلتي</span> | 3elti | minha família |
+| <span dir="rtl">عيلتك</span> | 3eltak / 3eltek | sua família (m / f) |
+| <span dir="rtl">عيلتنا</span> | 3eletna | nossa família |
+| <span dir="rtl">عيلتنا في أمريكا.</span> | 3eletna f amrika. | nossa família está nos Estados Unidos. |
+
+**5. Haver — fi.** No começo da frase, *fi* quer dizer «há, existe». Antes de um lugar, quer dizer «em». As duas coisas podem vir na mesma frase.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">في تلات أشخاص.</span> | fi talat ash5as. | há três pessoas. |
+| <span dir="rtl">في عربيات كتير في مصر.</span> | fi 3arabeyyat ketir fi masr. | há muitos carros no Egito. |
+| <span dir="rtl">في بنزين؟</span> | fi benzin? | tem gasolina? |
+
+**6. O carro — 3arabeyya.** É feminino: o adjetivo e o pronome também vão no feminino (*heyya kbira*).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عندكم عربية؟</span> | 3andoko 3arabeyya? | vocês têm carro? |
+| <span dir="rtl">أيوه، عندنا عربية.</span> | aywa, 3andena 3arabeyya. | sim, temos um carro. |
+| <span dir="rtl">هي كبيرة لعيلتنا.</span> | heyya kbira le3eletna. | ele é grande para a nossa família. |
+
+**7. No posto — litros e quilômetros.** *Eddili* = «me dê». De 11 em diante, o substantivo volta ao singular: *5amsa w 3eshrin letr*, *5amsin kilometr*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">اديلي خمسة وعشرين لتر بنزين من فضلك.</span> | eddili 5amsa w 3eshrin letr benzin men fadlak. | me dê 25 litros de gasolina, por favor. (a um homem) |
+| <span dir="rtl">ده كفاية؟</span> | da kefaya? | isso basta? |
+| <span dir="rtl">ده كفاية لخمسين كيلو متر.</span> | da kefaya le5amsin kilometr. | isso dá para 50 quilômetros. |
+
+**8. A família.** Duas pessoas falam das suas famílias.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">في كام شخص في عيلتك؟</span> | fi kam sha5s fi 3eltak? | Quantas pessoas há na sua família? |
+| B | <span dir="rtl">في تلات أشخاص في عيلتي. عيلتنا في أمريكا.</span> | fi talat ash5as fi 3elti. 3eletna f amrika. | Há três pessoas na minha família. Nossa família está nos Estados Unidos. |
+| A | <span dir="rtl">عندكم عربية؟</span> | 3andoko 3arabeyya? | Vocês têm carro? |
+| B | <span dir="rtl">أيوه، عندنا عربية. هي كبيرة لعيلتنا.</span> | aywa, 3andena 3arabeyya. heyya kbira le3eletna. | Sim, temos um carro. Ele é grande para a nossa família. |
+
+**9. No posto de gasolina.** Um motorista pede gasolina ao frentista.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Motorista | <span dir="rtl">اديلي خمسة وعشرين لتر بنزين من فضلك.</span> | eddili 5amsa w 3eshrin letr benzin men fadlak. | Me dê 25 litros de gasolina, por favor. |
+| Frentista | <span dir="rtl">ده كفاية؟</span> | da kefaya? | Isso basta? |
+| Motorista | <span dir="rtl">أيوه، ده كفاية لخمسين كيلو متر.</span> | aywa, da kefaya le5amsin kilometr. | Sim, isso dá para 50 quilômetros. |
 
 ## Versão informal
 

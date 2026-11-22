@@ -1,0 +1,32 @@
+/*-- scss:defaults --*/
+
+// Modo escuro: quase preto com vermelho claro
+$body-bg: #0b0b0c;
+$body-color: #f5f1e8;
+$primary: #ff5c5c;
+$link-color: #ff5c5c;
+$link-hover-color: #ff7d7d;
+$headings-color: #f5f1e8;
+$sidebar-bg: #121214;
+$sidebar-fg: #cbc6ba;
+$sidebar-hl: #ff5c5c;
+$code-bg: #1b1b1e;
+$code-color: #f5f1e8;
+
+/*-- scss:rules --*/
+
+:root {
+  --c-bg: #0b0b0c;
+  --c-bg-alt: #121214;
+  --c-bg-soft: #1b1b1e;
+  --c-bg-elv: #161618;
+  --c-text: #f5f1e8;
+  --c-text-2: #cbc6ba;
+  --c-text-3: #9c978b;
+  --c-border: #3d3d42;
+  --c-brand: #ff5c5c;
+  --c-brand-2: #ff7d7d;
+  --c-brand-soft: rgba(255, 92, 92, 0.16);
+  --lat-a: #26262b;
+  --lat-b: #1c1c20;
+}

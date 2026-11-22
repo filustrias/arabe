@@ -1,9 +1,10 @@
 <style>
-.audio-licao { position: sticky; top: 0; z-index: 10; background: var(--bs-body-bg); padding: 0.5em 0; margin-bottom: 1em; }
+.audio-licao { position: sticky; top: 0; z-index: 10; background: var(--c-bg); padding: 0.6em 0 0.8em; margin-bottom: 1em; }
 /* Mostra só a faixa do player do Drive: corta as bordas laterais escuras e o espaço vazio de baixo */
-.audio-licao .audio-moldura { border-radius: 14px; height: 56px; overflow: hidden; }
+.audio-licao .audio-moldura { border: 2px solid var(--c-text); border-radius: 8px; box-shadow: 3px 3px 0 var(--c-brand); height: 56px; overflow: hidden; }
+.audio-licao .franco-todos { margin: 0.8em 0 0 0; }
 .audio-licao iframe { border: none; display: block; height: 110px; margin-left: -12px; width: calc(100% + 24px); }
-.audio-licao .audio-rotulo { font-size: 0.85em; font-weight: 600; margin-bottom: 0.3em; }
+.audio-licao .audio-rotulo { font-family: var(--fonte-titulos); font-size: 0.9em; font-weight: 600; margin-bottom: 0.35em; }
 </style>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -59,6 +60,10 @@ document.addEventListener("DOMContentLoaded", function () {
   moldura.className = "audio-moldura";
   moldura.appendChild(player);
   caixa.appendChild(moldura);
+
+  // O botão "Mostrar todo o franco" (pimsleur_franco.html) vai para a barra fixa, junto do tocador
+  var franco = document.querySelector(".franco-todos");
+  if (franco) caixa.appendChild(franco);
 
   var cabecalho = document.getElementById("title-block-header");
   if (cabecalho) cabecalho.after(caixa);

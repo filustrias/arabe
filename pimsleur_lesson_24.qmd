@@ -29,21 +29,88 @@ Duas pessoas falam do preço da gasolina nos Estados Unidos.
 
 ## Do que trata
 
-Comparar preços e dizer o que se tem.
+Gasolina, carro e direções. Dizer que algo é caro, que se tem um carro grande e, na estrada, entender «à direita», «à esquerda» e «em frente», pegar o caminho certo com *5od / 5odi* e pedir um momento quando o outro fala rápido demais.
 
 ### Vocabulário
 
 | Árabe | Franco | Português |
 |--:|:--|:--|
 | <span dir="rtl">بنزين</span> | benzin | gasolina |
+| <span dir="rtl">غالي</span> | 8ali | caro |
+| <span dir="rtl">معرفش</span> | ma3rafsh | não sei |
 | <span dir="rtl">عربية</span> | 3arabeyya | carro |
 | <span dir="rtl">كبيرة</span> | kbira | grande (f) |
+| <span dir="rtl">على اليمين</span> | 3al yemin | à direita |
+| <span dir="rtl">على الشمال</span> | 3ash shmal | à esquerda |
+| <span dir="rtl">على طول</span> | 3ala tul | direto, sempre em frente |
+| <span dir="rtl">وبعدين</span> | w ba3dein | e depois |
+| <span dir="rtl">مظبوط</span> | mazbut | certo / correto |
+| <span dir="rtl">خد / خدي</span> | 5od / 5odi | pegue (m / f) |
+| <span dir="rtl">لحظة</span> | la7za | um momento |
+| <span dir="rtl">بسرعة</span> | besor3a | rápido |
 
 ### Conceitos
 
-**Frase sem verbo.** *elbenzin 8ali* = «a gasolina é cara». Com *el-*, o substantivo vira sujeito; o adjetivo, sem *el-*, faz de predicado.
+**1. Frase sem verbo.** *Elbenzin 8ali* = «a gasolina é cara». Com *el-*, o substantivo vira sujeito; o adjetivo, sem *el-*, faz de predicado.
 
-**Gênero no adjetivo.** *3arabeyya* é feminino, por isso *kbira*. No masculino seria *kbir*.
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">البنزين غالي في أمريكا؟</span> | elbenzin 8ali fi amrika? | a gasolina é cara nos Estados Unidos? |
+| <span dir="rtl">أيوه، البنزين غالي.</span> | aywa, elbenzin 8ali. | sim, a gasolina é cara. |
+| <span dir="rtl">معرفش، لكن غالي أوي.</span> | ma3rafsh, lakin 8ali awi. | não sei, mas é muito cara. |
+
+**2. Gênero no adjetivo.** *3arabeyya* é feminino, por isso *kbira*. No masculino seria *kbir*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عندي عربية كبيرة أوي.</span> | 3andi 3arabeyya kbira awi. | tenho um carro muito grande. |
+| <span dir="rtl">الطريق كبير.</span> | ettari2 kbir. | a estrada é grande. |
+
+**3. Direções.** *3ala* + *el-* se contrai: *3al yemin*; antes de *sh*, o *l* se assimila: *3ash shmal*. *W ba3dein* encadeia os passos.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">على اليمين</span> | 3al yemin | à direita |
+| <span dir="rtl">على الشمال</span> | 3ash shmal | à esquerda |
+| <span dir="rtl">على طول</span> | 3ala tul | sempre em frente |
+| <span dir="rtl">على الشمال، وبعدين على طول.</span> | 3ash shmal, w ba3dein 3ala tul. | à esquerda, e depois sempre em frente. |
+
+**4. Certo — mazbut.** Com *el-* no substantivo, o adjetivo também leva *el-*: *ettari2 elmazbut* = «o caminho certo».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">مظبوط</span> | mazbut | certo / correto |
+| <span dir="rtl">الطريق المظبوط على الشمال.</span> | ettari2 elmazbut 3ash shmal. | o caminho certo é à esquerda. |
+| <span dir="rtl">الطريق المظبوط هنا.</span> | ettari2 elmazbut hena. | o caminho certo é aqui. |
+
+**5. Pegue — 5od / 5odi.** Imperativo de «pegar, tomar»; com direções, quer dizer «vire» ou «pegue a estrada». *5od* a um homem, *5odi* a uma mulher.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">خدي طريق القاهرة.</span> | 5odi tari2 el2ahera. | pegue a estrada do Cairo. (a uma mulher) |
+| <span dir="rtl">خدي شمال.</span> | 5odi shmal. | vire à esquerda. (a uma mulher) |
+| <span dir="rtl">خد يمين.</span> | 5od yemin. | vire à direita. (a um homem) |
+
+**6. Um momento — la7za.** Para interromper com educação. *Men fadlak* a um homem, *men fadlek* a uma mulher.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">لحظة من فضلك.</span> | la7za men fadlak. | um momento, por favor. (a um homem) |
+| <span dir="rtl">لحظة من فضلك.</span> | la7za men fadlek. | um momento, por favor. (a uma mulher) |
+| <span dir="rtl">مش فاهمة.</span> | mesh fahma. | não estou entendendo. (mulher) |
+| <span dir="rtl">إنتَ بتتكلم بسرعة أوي!</span> | enta betetkallem besor3a awi! | você fala rápido demais! (a um homem) |
+| <span dir="rtl">فاهمة دلوقتي.</span> | fahma delwa2ti. | agora entendi. (mulher) |
+
+**7. Na encruzilhada.** Uma motorista pede o caminho para o Cairo.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Motorista | <span dir="rtl">طريق القاهرة فين يا أستاذ؟</span> | tari2 el2ahera fein ya ostaz? | Onde fica a estrada do Cairo, senhor? |
+| Frentista | <span dir="rtl">الطريق المظبوط على الشمال. خدي طريق القاهرة.</span> | ettari2 elmazbut 3ash shmal. 5odi tari2 el2ahera. | O caminho certo é à esquerda. Pegue a estrada do Cairo. |
+| Motorista | <span dir="rtl">لحظة من فضلك، مش فاهمة. إنتَ بتتكلم بسرعة أوي!</span> | la7za men fadlak, mesh fahma. enta betetkallem besor3a awi! | Um momento, por favor, não estou entendendo. Você fala rápido demais! |
+| Frentista | <span dir="rtl">الطريق المظبوط هنا، على الشمال، وبعدين على طول.</span> | ettari2 elmazbut hena, 3ash shmal, w ba3dein 3ala tul. | O caminho certo é aqui, à esquerda, e depois sempre em frente. |
+| Motorista | <span dir="rtl">فاهمة دلوقتي. كام كيلو متر؟</span> | fahma delwa2ti. kam kilometr? | Agora entendi. São quantos quilômetros? |
+| Frentista | <span dir="rtl">خمسة وسبعين كيلو متر.</span> | 5amsa w sab3in kilometr. | Setenta e cinco quilômetros. |
 
 ## Versão informal
 

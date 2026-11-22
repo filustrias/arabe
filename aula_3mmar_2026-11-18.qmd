@@ -1,36 +1,5 @@
 # 18 de novembro de 2026 {.unnumbered}
 
-<style>
-.fr { transition: filter .2s; }
-body.fr-coberto .fr { filter: blur(6px); cursor: pointer; user-select: none; }
-body.fr-coberto .fr.aberto { filter: none; }
-#btn-fr {
-  position: fixed; bottom: 1.2rem; right: 1.2rem; z-index: 1000;
-  padding: .5rem .9rem; border: none; border-radius: 6px;
-  background: #1f3a68; color: #fff; font-size: .9rem; cursor: pointer;
-}
-</style>
-
-<button id="btn-fr" type="button">Cobrir franco</button>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  var b = document.getElementById('btn-fr');
-  b.addEventListener('click', function () {
-    var coberto = document.body.classList.toggle('fr-coberto');
-    document.querySelectorAll('.fr.aberto').forEach(function (e) { e.classList.remove('aberto'); });
-    b.textContent = coberto ? 'Descobrir franco' : 'Cobrir franco';
-  });
-  document.querySelectorAll('.fr').forEach(function (e) {
-    e.addEventListener('click', function () {
-      if (document.body.classList.contains('fr-coberto')) e.classList.toggle('aberto');
-    });
-  });
-});
-</script>
-
-O botão no canto inferior direito cobre ou descobre todo o franco. Com o franco coberto, um clique numa célula revela só aquela.
-
 ## Diálogo: no restaurante
 
 | Quem | Árabe | Franco | Português |

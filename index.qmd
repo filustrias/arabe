@@ -5,7 +5,15 @@ These are my study notes structured as a path into **spoken Egyptian Arabic** (�
 
 
 
-![](caligraphy.jpeg){width=70% fig-align="center"}
+```{=html}
+<div class="cards-entrada">
+<a href="intro.html"><span class="icone">ع</span><span class="nome">Resumos de estudos meus</span><span class="texto">Alfabeto, gramática e temas de conversa</span></a>
+<a href="pimsleur_lesson_01.html"><span class="icone">01–30</span><span class="nome">Pimsleur</span><span class="texto">As 30 lições, com áudio, diálogos e conceitos</span></a>
+<a href="aula_20261104.html"><span class="icone">3mmar</span><span class="nome">Aulas do 3mmar</span><span class="texto">Anotações de cada aula</span></a>
+</div>
+```
+
+![](caligraphy.jpeg){width=45% fig-align="center" .capa}
 
 
 ## How to use it

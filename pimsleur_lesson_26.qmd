@@ -31,7 +31,7 @@ Alguém quer fazer compras no Cairo, mas já é tarde.
 
 ## Do que trata
 
-Perguntar «por quê?» e justificar com «porque».
+Perguntar «por quê?» e justificar com «porque»: as lojas estão fechadas porque já é tarde. Depois, uma viagem a Alexandria. Novidades: *la2enno / la2enni*, o futuro de «pegar», «passar (tempo)», «trabalhar» e «ver», *taksi*, *ayyam* (dias), *as7abi* (meus amigos) e *gayez* (talvez).
 
 ### Vocabulário
 
@@ -39,17 +39,115 @@ Perguntar «por quê?» e justificar com «porque».
 |--:|:--|:--|
 | <span dir="rtl">ليه؟</span> | leih? | por quê? |
 | <span dir="rtl">لأن</span> | la2en | porque |
-| <span dir="rtl">محلات</span> | ma7allat | lojas |
+| <span dir="rtl">لأنه / لأني</span> | la2enno / la2enni | porque (ele, é) / porque eu |
+| <span dir="rtl">محل / محلات</span> | ma7all / ma7allat | loja / lojas |
 | <span dir="rtl">مقفولة</span> | ma2fula | fechadas |
+| <span dir="rtl">مفتوحة</span> | maftu7a | abertas |
 | <span dir="rtl">متأخر</span> | met2a5ar | tarde / atrasado |
+| <span dir="rtl">تاكسي</span> | taksi | táxi |
+| <span dir="rtl">هاخد</span> | ha5od | vou pegar |
+| <span dir="rtl">إسكندرية</span> | eskendereyya | Alexandria |
+| <span dir="rtl">هناك</span> | hnak | lá |
+| <span dir="rtl">هقضي</span> | ha2addi | vou passar (tempo) |
+| <span dir="rtl">يوم / أيام</span> | yom / ayyam | dia / dias |
+| <span dir="rtl">هشتغل</span> | hashta8al | vou trabalhar |
+| <span dir="rtl">هشوف</span> | hashouf | vou ver |
+| <span dir="rtl">أصحاب / أصحابي</span> | as7ab / as7abi | amigos / meus amigos |
+| <span dir="rtl">جايز</span> | gayez | talvez |
 
 ### Conceitos
 
-**Leih? → la2en …** Pergunta e resposta: *leih?* — *la2en elma7allat ma2fula*.
+**1. Por quê? — leih? → la2en …** *Leih?* pergunta a razão; a resposta começa com *la2en*.
 
-**La2enno.** Com sujeito implícito («porque é…»), usa-se *la2enno*: *la2enno met2a5ar*.
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ليه؟</span> | leih? | por quê? |
+| <span dir="rtl">لأن المحلات مقفولة.</span> | la2en elma7allat ma2fula. | porque as lojas estão fechadas. |
+| <span dir="rtl">ليه مش ممكن؟</span> | leih mesh momken? | por que não dá? |
 
-**Mesh momken.** «Não é possível», a negação de *momken*.
+**2. La2enno, la2enni.** *La2en* recebe o pronome: *la2enno* = «porque ele / porque é…» (sujeito implícito), *la2enni* = «porque eu…».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">لأنه متأخر.</span> | la2enno met2a5ar. | porque é tarde. |
+| <span dir="rtl">لأني رايحة إسكندرية.</span> | la2enni ray7a eskendereyya. | porque eu vou para Alexandria. (mulher) |
+| <span dir="rtl">لأني مش عايز أي حاجة.</span> | la2enni mesh 3ayez ay 7aga. | porque eu não quero nada. (homem) |
+
+**3. Fechado e aberto — ma2ful, maftu7.** Plural de coisas concorda no feminino singular: *elma7allat ma2fula*, *elma7allat maftu7a*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">المحل مقفول.</span> | elma7all ma2ful. | a loja está fechada. |
+| <span dir="rtl">المحلات مقفولة.</span> | elma7allat ma2fula. | as lojas estão fechadas. |
+| <span dir="rtl">المحلات مفتوحة دلوقتي.</span> | elma7allat maftu7a delwa2ti. | as lojas estão abertas agora. |
+
+**4. Tarde — met2a5ar.** Negação com *mesh*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">متأخر دلوقتي.</span> | met2a5ar delwa2ti. | agora é tarde. |
+| <span dir="rtl">مش متأخر!</span> | mesh met2a5ar! | não é tarde! |
+
+**5. Mesh momken.** «Não é possível», a negação de *momken*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ممكن أشتري حاجة؟</span> | momken ashteri 7aga? | posso comprar alguma coisa? |
+| <span dir="rtl">لأ، مش ممكن.</span> | la2, mesh momken. | não, não dá. |
+
+**6. Futuro com ha-.** *Ha-* + presente sem *b-*. Para «você», *ha-* + *te-*; a mulher recebe *-i* no fim.
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">هاخد / هقضي / هشتغل / هشوف</span> | ha5od / ha2addi / hashta8al / hashouf | vou pegar / passar / trabalhar / ver |
+| você (m) | <span dir="rtl">هتاخد / هتقضي / هتشتغل / هتشوف</span> | hata5od / hate2addi / hateshta8al / hatshouf | você vai pegar / passar / trabalhar / ver |
+| você (f) | <span dir="rtl">هتاخدي / هتقضي / هتشتغلي / هتشوفي</span> | hata5di / hate2addi / hateshta8ali / hatshoufi | você vai pegar / passar / trabalhar / ver |
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هتعملي إيه؟</span> | hate3mili eih? | o que você vai fazer? (f) |
+| <span dir="rtl">هاخد تاكسي.</span> | ha5od taksi. | vou pegar um táxi. |
+| <span dir="rtl">هشتغل هناك شوية.</span> | hashta8al hnak shwayya. | vou trabalhar lá um pouco. |
+| <span dir="rtl">هشوف أصحابي.</span> | hashouf as7abi. | vou ver meus amigos. |
+
+**7. Pegue! — 5od / 5odi.** Imperativo de «pegar»: *5od* a homem, *5odi* a mulher.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">خد تاكسي!</span> | 5od taksi! | pegue um táxi! (m) |
+| <span dir="rtl">خدي تاكسي!</span> | 5odi taksi! | pegue um táxi! (f) |
+
+**8. Quantos dias? — kam yom?** *Kam* + singular. Na resposta, de 3 a 10 vai o plural *ayyam*, e *talata* vira *talat* antes do substantivo.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هتقضي كام يوم هناك؟</span> | hate2addi kam yom hnak? | quantos dias você vai passar lá? (m ou f) |
+| <span dir="rtl">يوم / يومين</span> | yom / yomein | um dia / dois dias |
+| <span dir="rtl">هقضي تلات أيام هناك.</span> | ha2addi talat ayyam hnak. | vou passar três dias lá. |
+
+**9. Amigos — sa7b / as7ab.** O possessivo vai colado: *as7abi* = «meus amigos».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">صاحب / أصحاب</span> | sa7b / as7ab | amigo / amigos |
+| <span dir="rtl">أصحابي</span> | as7abi | meus amigos |
+| <span dir="rtl">هشوف أصحابي هناك.</span> | hashouf as7abi hnak. | vou ver meus amigos lá. |
+
+**10. Talvez — gayez.** Vem antes do verbo, que pode ficar sem *ha-*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">جايز أشوف منى.</span> | gayez ashouf mona. | talvez eu veja a Mona. |
+| <span dir="rtl">أيوه، جايز.</span> | aywa, gayez. | sim, talvez. |
+
+**11. A decisão de viajar.** Uma amiga vai para Alexandria e conta o que vai fazer lá.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Amigo | <span dir="rtl">هتعملي إيه؟ خدي تاكسي!</span> | hate3mili eih? 5odi taksi! | O que você vai fazer? Pegue um táxi! |
+| Viajante | <span dir="rtl">هاخد تاكسي، لأني رايحة إسكندرية.</span> | ha5od taksi, la2enni ray7a eskendereyya. | Vou pegar um táxi, porque vou para Alexandria. |
+| Amigo | <span dir="rtl">هتعملي إيه هناك؟ هتقضي كام يوم هناك؟</span> | hate3mili eih hnak? hate2addi kam yom hnak? | O que você vai fazer lá? Quantos dias vai passar lá? |
+| Viajante | <span dir="rtl">هقضي تلات أيام هناك. هشتغل هناك شوية، وهشوف أصحابي، وجايز أشوف منى.</span> | ha2addi talat ayyam hnak. hashta8al hnak shwayya, w hashouf as7abi, w gayez ashouf mona. | Vou passar três dias lá. Vou trabalhar um pouco lá, vou ver meus amigos e talvez veja a Mona. |
 
 ## Versão informal
 

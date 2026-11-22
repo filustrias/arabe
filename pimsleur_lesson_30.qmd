@@ -27,7 +27,7 @@ Uma pergunta sobre há quanto tempo alguém está na cidade.
 
 ## Do que trata
 
-Falar de tempo: há quanto tempo e por quanto tempo.
+Falar de tempo: há quanto tempo e por quanto tempo. Depois, uma família conta a viagem no passado: quando chegou, aonde foi, o que comprou e onde comeu. Novidades: *essob7* (de manhã), *ba7ebb* (gosto) e o passado de «nós» (*-na*) e «vocês» (*-to*).
 
 ### Vocabulário
 
@@ -37,14 +37,89 @@ Falar de tempo: há quanto tempo e por quanto tempo.
 | <span dir="rtl">يوم / يومين</span> | yom / yomein | dia / dois dias |
 | <span dir="rtl">هتقضي</span> | hate2addi | você (f) vai passar |
 | <span dir="rtl">أسبوع</span> | esbou3 | semana |
+| <span dir="rtl">الصبح</span> | essob7 | de manhã / a manhã |
+| <span dir="rtl">امبارح الصبح</span> | embare7 essob7 | ontem de manhã |
+| <span dir="rtl">بحب</span> | ba7ebb | gosto / amo |
+| <span dir="rtl">مصر</span> | masr | Egito |
+| <span dir="rtl">وصلنا / وصلتوا</span> | wselna / wselto | chegamos / vocês chegaram |
+| <span dir="rtl">رحنا / رحتوا</span> | ro7na / ro7to | fomos / vocês foram |
+| <span dir="rtl">اشترينا</span> | eshtareina | compramos |
+| <span dir="rtl">أكلنا</span> | akalna | comemos |
 
 ### Conceitos
 
-**Men = «desde / há».** *men yomein* = «há dois dias».
+**1. Men = «desde / há».** *Men emta?* pergunta desde quando; *men yomein* = «há dois dias».
 
-**Dual de novo.** *yom* → *yomein*, como *bent* → *bentein*.
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">إنتي هنا من إمتى؟</span> | enti hena men emta? | desde quando você está aqui? (f) |
+| <span dir="rtl">من يومين.</span> | men yomein. | há dois dias. |
+| <span dir="rtl">من أسبوع.</span> | men esbou3. | há uma semana. |
 
-**Kam yom?** *Kam* + singular: «quantos dias?».
+**2. Dual de novo.** *Yom* → *yomein*, como *bent* → *bentein*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">يوم / يومين</span> | yom / yomein | um dia / dois dias |
+| <span dir="rtl">أسبوع / أسبوعين</span> | esbou3 / esbou3ein | uma semana / duas semanas |
+
+**3. Kam yom?** *Kam* + singular: «quantos dias?». *Hate2addi* = «você vai passar».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هتقضي كام يوم هنا؟</span> | hate2addi kam yom hena? | quantos dias vai passar aqui? |
+| <span dir="rtl">جايز أسبوع.</span> | gayez esbou3. | talvez uma semana. |
+
+**4. De manhã — essob7.** Vem depois do dia: *embare7 essob7* = «ontem de manhã»; a hora vem em seguida.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">الصبح</span> | essob7 | de manhã |
+| <span dir="rtl">امبارح الصبح</span> | embare7 essob7 | ontem de manhã |
+| <span dir="rtl">امبارح الصبح الساعة تمانية</span> | embare7 essob7 essa3a tamanya | ontem de manhã, às oito |
+
+**5. Gosto — ba7ebb.** Presente com *b-*: *ba7ebb* (eu), *bet7ebb* (você, m), *bet7ebbi* (você, f). O que se gosta vem direto, sem preposição.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">بتحبي القاهرة؟</span> | bet7ebbi el2ahera? | você gosta do Cairo? (f) |
+| <span dir="rtl">بتحب مصر؟</span> | bet7ebb masr? | você gosta do Egito? (m) |
+| <span dir="rtl">أيوه، بحب مصر.</span> | aywa, ba7ebb masr. | sim, gosto do Egito. |
+| <span dir="rtl">بحب القاهرة أوي.</span> | ba7ebb el2ahera awi. | gosto muito do Cairo. |
+
+**6. O passado com «nós» e «vocês».** «Nós» termina em *-na*; «vocês» em *-to* (escrito ـتوا).
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">وصلت / رحت / اشتريت / أكلت</span> | wselt / ro7t / eshtareit / akalt | cheguei / fui / comprei / comi |
+| você (f) | <span dir="rtl">وصلتي / رحتي / اشتريتي / أكلتي</span> | wselti / ro7ti / eshtareiti / akalti | você chegou / foi / comprou / comeu |
+| nós | <span dir="rtl">وصلنا / رحنا / اشترينا / أكلنا</span> | wselna / ro7na / eshtareina / akalna | chegamos / fomos / compramos / comemos |
+| vocês | <span dir="rtl">وصلتوا / رحتوا / اشتريتوا / أكلتوا</span> | wselto / ro7to / eshtareito / akalto | vocês chegaram / foram / compraram / comeram |
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">وصلتوا إمتى؟</span> | wselto emta? | quando vocês chegaram? |
+| <span dir="rtl">رحتوا بورسعيد إمتى؟</span> | ro7to bor sa3id emta? | quando vocês foram a Porto Said? |
+| <span dir="rtl">اشترينا حاجات كتير.</span> | eshtareina 7agat ketir. | compramos muitas coisas. |
+| <span dir="rtl">أكلنا في مطعم كويس.</span> | akalna fi mat3am kwayyes. | comemos num bom restaurante. |
+| <span dir="rtl">مارحتش إسكندرية.</span> | maro7tesh eskendereyya. | não fui a Alexandria. |
+
+**7. A chegada.** Uma família conta quando chegou e aonde foi.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">وصلتوا إمتى؟</span> | wselto emta? | Quando vocês chegaram? |
+| B | <span dir="rtl">وصلنا امبارح الصبح الساعة تمانية مع الأطفال.</span> | wselna embare7 essob7 essa3a tamanya ma3a el atfal. | Chegamos ontem de manhã, às oito, com as crianças. |
+| A | <span dir="rtl">رحتوا بورسعيد إمتى؟</span> | ro7to bor sa3id emta? | Quando vocês foram a Porto Said? |
+| B | <span dir="rtl">رحنا بورسعيد ورحنا إسكندرية امبارح.</span> | ro7na bor sa3id w ro7na eskendereyya embare7. | Fomos a Porto Said e fomos a Alexandria ontem. |
+
+**8. No restaurante Al-Haram.** Ela conta as compras e o jantar, e diz o que acha do Cairo.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| B | <span dir="rtl">اشترينا حاجات كتير امبارح، وأكلنا في مطعم كويس. أكلنا في مطعم الهرم، في شارع أبو عباس.</span> | eshtareina 7agat ketir embare7, w akalna fi mat3am kwayyes. akalna fi mat3am el haram, fi share3 abu 3abbas. | Compramos muitas coisas ontem e comemos num bom restaurante. Comemos no restaurante Al-Haram, na rua Abu Abbas. |
+| A | <span dir="rtl">بتحبي القاهرة؟</span> | bet7ebbi el2ahera? | Você gosta do Cairo? |
+| B | <span dir="rtl">أيوه، بحب مصر وبحب القاهرة أوي.</span> | aywa, ba7ebb masr w ba7ebb el2ahera awi. | Sim, gosto do Egito e gosto muito do Cairo. |
 
 ## Versão informal
 

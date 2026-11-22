@@ -32,29 +32,105 @@ Abbas não está se sentindo bem.
 
 ## Do que trata
 
-Dizer que não se está bem e perguntar o que houve.
+Dizer que não se está bem e perguntar o que houve. Depois, turistas que queriam ir a Porto Said e não têm tempo. Novidades: *5asara!* (que pena!), *kelma* e *ya3ni* para falar de palavras, *wa2t* (tempo), *men emta?* (há quanto tempo?) e *amrikan* (americanos).
 
 ### Vocabulário
 
 | Árabe | Franco | Português |
 |--:|:--|:--|
+| <span dir="rtl">مش كويس</span> | mesh kwayyes | não estou bem (m) |
 | <span dir="rtl">في إيه؟</span> | fi eih? | o que houve? |
 | <span dir="rtl">بتشتغل</span> | beteshta8al | você (m) trabalha |
 | <span dir="rtl">كتير أوي</span> | ketir awi | demais / muito |
+| <span dir="rtl">خسارة!</span> | 5asara! | que pena! |
+| <span dir="rtl">كلمة</span> | kelma | palavra |
+| <span dir="rtl">يعني</span> | ya3ni | quer dizer |
+| <span dir="rtl">وقت</span> | wa2t | tempo |
+| <span dir="rtl">من إمتى؟</span> | men emta? | desde quando? / há quanto tempo? |
+| <span dir="rtl">من يومين</span> | men yomein | há dois dias |
+| <span dir="rtl">بورسعيد</span> | bor sa3id | Porto Said |
+| <span dir="rtl">أمريكان</span> | amrikan | americanos |
 
 ### Conceitos
 
-**Fi eih?** Ao pé da letra, «o que há?». É a pergunta comum para «o que aconteceu?».
+**1. Não estou bem — mesh kwayyes.** *Mesh* antes do adjetivo, que concorda com quem fala.
 
-**Verbo eshta8al (trabalhar).**
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أنا مش كويس.</span> | ana mesh kwayyes. | não estou bem. (homem) |
+| <span dir="rtl">أنا مش كويسة.</span> | ana mesh kwayyesa. | não estou bem. (mulher) |
 
-| Pessoa | Presente | Futuro |
-|:--|:--|:--|
-| eu | bashta8al | hashta8al |
-| você (m) | beteshta8al | hateshta8al |
-| você (f) | beteshta8ali | hateshta8ali |
+**2. O que houve? — fi eih?** Ao pé da letra, «o que há?». É a pergunta comum para «o que aconteceu?».
 
-**Ketir depois do verbo.** *beteshta8al ketir* = «você trabalha muito».
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ليه؟ في إيه؟</span> | leih? fi eih? | por quê? o que houve? |
+| <span dir="rtl">معرفش.</span> | ma3rafsh. | não sei. |
+
+**3. Verbo eshta8al (trabalhar).**
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">بشتغل / هشتغل</span> | bashta8al / hashta8al | trabalho / vou trabalhar |
+| você (m) | <span dir="rtl">بتشتغل / هتشتغل</span> | beteshta8al / hateshta8al | trabalha / vai trabalhar |
+| você (f) | <span dir="rtl">بتشتغلي / هتشتغلي</span> | beteshta8ali / hateshta8ali | trabalha / vai trabalhar |
+
+**4. Ketir depois do verbo.** *Beteshta8al ketir* = «você trabalha muito»; com *awi*, «demais».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">جايز بتشتغل كتير أوي.</span> | gayez beteshta8al ketir awi. | talvez você trabalhe demais. (a homem) |
+| <span dir="rtl">معرفش، جايز بشتغل كتير أوي.</span> | ma3rafsh, gayez bashta8al ketir awi. | não sei, talvez eu trabalhe demais. |
+
+**5. Que pena! — 5asara!** Lamento curto, usado o tempo todo.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">خسارة!</span> | 5asara! | que pena! |
+| <span dir="rtl">ما عنديش وقت؟ خسارة!</span> | ma3andish wa2t? 5asara! | não tenho tempo? que pena! |
+
+**6. Palavras — kelma, ya3ni.** *Ya3ni* = «quer dizer». *Ya3ni eih da?* pergunta o significado.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">يعني إيه ده؟</span> | ya3ni eih da? | o que quer dizer isso? |
+| <span dir="rtl">الكلمة «خسارة» يعني إيه؟</span> | elkelma «5asara» ya3ni eih? | o que quer dizer a palavra «5asara»? |
+
+**7. Tempo — wa2t.** *Wa2t kefaya* = «tempo suficiente».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عندك وقت؟</span> | 3andak wa2t? | você tem tempo? (m) |
+| <span dir="rtl">ما عنديش وقت كفاية.</span> | ma3andish wa2t kefaya. | não tenho tempo suficiente. |
+
+**8. Há quanto tempo? — men emta?** *Men* = «desde»; a resposta também usa *men*: *men yomein* = «há dois dias» (dual de *yom*).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">إنتو هنا من إمتى؟</span> | ento hena men emta? | há quanto tempo vocês estão aqui? |
+| <span dir="rtl">إحنا هنا من يومين.</span> | e7na hena men yomein. | estamos aqui há dois dias. |
+
+**9. Gostaria de ir — a7ebb aro7.** *A7ebb* + verbo sem *b-*; o lugar vem sem preposição.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أحب أروح بورسعيد.</span> | a7ebb aro7 bor sa3id. | gostaria de ir a Porto Said. |
+| <span dir="rtl">تحب تروح إسكندرية؟</span> | te7ebb tero7 eskendereyya? | gostaria de ir a Alexandria? (m) |
+
+**10. Americanos — amrikan.** Plural de *amriki* (m) / *amrikeyya* (f).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أنا أمريكي.</span> | ana amriki. | sou americano. |
+| <span dir="rtl">إحنا أمريكان.</span> | e7na amrikan. | somos americanos. |
+
+**11. Sem tempo para Porto Said.** Uma conversa com turistas.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| A | <span dir="rtl">إنتو هنا من إمتى؟</span> | ento hena men emta? | Há quanto tempo vocês estão aqui? |
+| B | <span dir="rtl">إحنا هنا من يومين. أحب أروح بورسعيد، لكن ما عنديش وقت كفاية.</span> | e7na hena men yomein. a7ebb aro7 bor sa3id, lakin ma3andish wa2t kefaya. | Estamos aqui há dois dias. Gostaria de ir a Porto Said, mas não tenho tempo suficiente. |
+| A | <span dir="rtl">خسارة!</span> | 5asara! | Que pena! |
 
 ## Versão informal
 

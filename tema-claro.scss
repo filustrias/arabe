@@ -1,0 +1,32 @@
+/*-- scss:defaults --*/
+
+// Modo claro: papel creme com vermelho
+$body-bg: #fbf8f1;
+$body-color: #121212;
+$primary: #b3121f;
+$link-color: #b3121f;
+$link-hover-color: #8f0e19;
+$headings-color: #121212;
+$sidebar-bg: #f2ede1;
+$sidebar-fg: #383838;
+$sidebar-hl: #b3121f;
+$code-bg: #ebe4d4;
+$code-color: #121212;
+
+/*-- scss:rules --*/
+
+:root {
+  --c-bg: #fbf8f1;
+  --c-bg-alt: #f2ede1;
+  --c-bg-soft: #ebe4d4;
+  --c-bg-elv: #fffdf8;
+  --c-text: #121212;
+  --c-text-2: #383838;
+  --c-text-3: #5c5c5c;
+  --c-border: #bfb39b;
+  --c-brand: #b3121f;
+  --c-brand-2: #8f0e19;
+  --c-brand-soft: rgba(179, 18, 31, 0.12);
+  --lat-a: #e2d8c3;
+  --lat-b: #d5c8ad;
+}

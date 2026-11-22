@@ -32,7 +32,7 @@ O Sr. Peters conversa com a Sra. Peters.
 
 ## Do que trata
 
-Planos para o dia e quanto dinheiro se tem.
+Planos para o dia e quanto dinheiro se tem. Novidades: *ghali* (caro), *besor3a* (rápido), *shwayyet* (um pouco de), *eddili* (me dê) e *hadilak* (vou te dar), e as dezenas 50 e 60.
 
 ### Vocabulário
 
@@ -41,19 +41,96 @@ Planos para o dia e quanto dinheiro se tem.
 | <span dir="rtl">هتعملي إيه؟</span> | hate3mili eih? | o que você (f) vai fazer? |
 | <span dir="rtl">فلوس</span> | felus | dinheiro |
 | <span dir="rtl">كتير</span> | ketir | muito |
+| <span dir="rtl">شوية</span> | shwayyet | um pouco de |
+| <span dir="rtl">كفاية</span> | kefaya | suficiente |
+| <span dir="rtl">اديلي</span> | eddili | me dê |
+| <span dir="rtl">هاديلك</span> | hadilak / hadilek | vou te dar (a homem / a mulher) |
+| <span dir="rtl">غالي</span> | ghali | caro |
+| <span dir="rtl">بسرعة</span> | besor3a | rápido, depressa |
+| <span dir="rtl">لا مؤاخذة</span> | la mo2a5za | desculpe / com licença |
+| <span dir="rtl">بافهم</span> | bafham | entendo |
+| <span dir="rtl">إنجليزي</span> | engelizi | inglês |
 | <span dir="rtl">عشرين</span> | 3eshrin | vinte |
 | <span dir="rtl">تلاتين</span> | talatin | trinta |
 | <span dir="rtl">أربعين</span> | arba3in | quarenta |
-| <span dir="rtl">كفاية</span> | kefaya | suficiente |
-| <span dir="rtl">اديلي</span> | eddili | me dê |
+| <span dir="rtl">خمسين</span> | 5amsin | cinquenta |
+| <span dir="rtl">ستين</span> | settin | sessenta |
 
 ### Conceitos
 
-**Dezenas.** Terminam em *-in*: *3eshrin* (20), *talatin* (30), *arba3in* (40). O 35 diz-se «cinco e trinta»: *5amsa w talatin*.
+**1. O que você vai fazer? — ha- + eih.** O futuro com *ha-* e *eih* (o quê) no fim da frase.
 
-**Ma3andish ketir.** «Não tenho muito»: a negação de *3andi* + *ketir*.
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هتعملي إيه النهارده؟</span> | hate3mili eih ennaharda? | o que você vai fazer hoje? (f) |
+| <span dir="rtl">هتعمل إيه النهارده؟</span> | hate3mel eih ennaharda? | o que você vai fazer hoje? (m) |
+| <span dir="rtl">هشتري حاجة النهارده.</span> | hashteri 7aga ennaharda. | vou comprar uma coisa hoje. |
 
-**Shwayyet + substantivo.** «Um pouco de»: *shwayyet felus* (um pouco de dinheiro).
+**2. Não tenho muito — ma3andish ketir.** A negação de *3andi* + *ketir*. Para dizer que não basta, *mesh kefaya*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">لكن عندك فلوس؟</span> | lakin 3andek felus? | mas você tem dinheiro? (f) |
+| <span dir="rtl">لأ، ما عنديش كتير.</span> | la2, ma3andish ketir. | não, não tenho muito. |
+| <span dir="rtl">ده مش كفاية.</span> | da mesh kefaya. | não é suficiente. |
+
+**3. Um pouco de — shwayyet + substantivo.** *Shwayya* (um pouco) vira *shwayyet* antes de um nome.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">شوية فلوس</span> | shwayyet felus | um pouco de dinheiro |
+| <span dir="rtl">شوية شاي</span> | shwayyet shay | um pouco de chá |
+| <span dir="rtl">اديلي شوية.</span> | eddili shwayya. | me dê um pouco. |
+
+**4. Me dê, vou te dar — eddili, hadilak.** *Eddili* (ou *eddini*) = «me dê». Do *adilak* (te dou) da lição 16, com *ha-* na frente, sai *hadilak / hadilek* = «vou te dar».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">اديلي شوية فلوس من فضلك.</span> | eddili shwayyet felus men fadlak. | me dê um pouco de dinheiro, por favor. (a um homem) |
+| <span dir="rtl">اديلي الفلوس من فضلك.</span> | eddili elfelus men fadlak. | me dê o dinheiro, por favor. (a um homem) |
+| <span dir="rtl">هاديلك شوية فلوس.</span> | hadilak shwayyet felus. | vou te dar um pouco de dinheiro. (a um homem) |
+| <span dir="rtl">هاديلك شوية فلوس.</span> | hadilek shwayyet felus. | vou te dar um pouco de dinheiro. (a uma mulher) |
+
+**5. Caro — ghali.** Vem depois do nome e concorda com ele: *ghali* (m), *ghalya* (f). A negativa é *mesh ghali*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">الشاي غالي أوي!</span> | elshay ghali awi! | o chá está muito caro! |
+| <span dir="rtl">بالدولار ده مش غالي.</span> | bel dolar da mesh ghali. | em dólares, isso não é caro. |
+| <span dir="rtl">الجريدة غالية.</span> | elgerida ghalya. | o jornal está caro. |
+
+**6. Rápido — besor3a.** *Be-* + *sor3a* (rapidez) = «com rapidez». *Besor3a awi* = «rápido demais».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">لا مؤاخذة، إنتي بتتكلمي عربي بسرعة أوي!</span> | la mo2a5za, enti betetkallemi 3arabi besor3a awi! | desculpe, você fala árabe rápido demais! (f) |
+| <span dir="rtl">إنتَ بتتكلم عربي بسرعة أوي.</span> | enta betetkallem 3arabi besor3a awi. | você fala árabe rápido demais. (m) |
+| <span dir="rtl">أيوه، بافهم عربي كويس أوي.</span> | aywa, bafham 3arabi kwayyes awi. | sim, entendo árabe muito bem. |
+| <span dir="rtl">ممكن أتكلم إنجليزي؟</span> | momken atkallem engelizi? | posso falar inglês? |
+
+**7. Dezenas — 20 a 60.** Terminam em *-in*. Diz-se primeiro a unidade e depois a dezena: o 35 é «cinco e trinta», *5amsa w talatin*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عشرين</span> | 3eshrin | 20 |
+| <span dir="rtl">تلاتين</span> | talatin | 30 |
+| <span dir="rtl">خمسة وتلاتين</span> | 5amsa w talatin | 35 |
+| <span dir="rtl">أربعين</span> | arba3in | 40 |
+| <span dir="rtl">خمسين</span> | 5amsin | 50 |
+| <span dir="rtl">واحد وخمسين</span> | wa7ed w 5amsin | 51 |
+| <span dir="rtl">تلاتة وخمسين</span> | talata w 5amsin | 53 |
+| <span dir="rtl">سبعة وخمسين</span> | sab3a w 5amsin | 57 |
+| <span dir="rtl">ستين</span> | settin | 60 |
+| <span dir="rtl">تلاتة وستين</span> | talata w settin | 63 |
+
+**8. O chá caro.** Um cliente reclama do preço e paga em libras.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Cliente | <span dir="rtl">الشاي غالي أوي!</span> | elshay ghali awi! | O chá está muito caro! |
+| Vendedora | <span dir="rtl">بالدولار ده مش غالي.</span> | bel dolar da mesh ghali. | Em dólares, isso não é caro. |
+| Cliente | <span dir="rtl">هاديلك شوية فلوس. اتفضلي تلاتة وخمسين جنيه.</span> | hadilek shwayyet felus. etfaddali talata w 5amsin geneih. | Vou te dar um pouco de dinheiro. Aqui estão cinquenta e três libras. |
+| Vendedora | <span dir="rtl">اديلي الفلوس من فضلك.</span> | eddili elfelus men fadlak. | Me dê o dinheiro, por favor. |
 
 ## Versão informal
 

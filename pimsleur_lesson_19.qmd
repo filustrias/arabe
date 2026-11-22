@@ -34,7 +34,7 @@ Uma americana e o marido, Jack, num restaurante no Cairo.
 
 ## Do que trata
 
-Pedir bebidas para duas pessoas. Introduz o «vocês», o «ele» e «meu marido».
+Pedir bebidas para duas pessoas num restaurante e, depois, apresentar-se e dizer onde se mora. Novidades: o «vocês», o «ele» e o «nós» no verbo, *gozi* (meu marido), *wa7ed shay* (um chá), *ahlan w sahlan*, *etsharraft*, *saken / sakna / sakneen* (moro, mora, moramos) e *e7na* (nós).
 
 ### Vocabulário
 
@@ -42,22 +42,98 @@ Pedir bebidas para duas pessoas. Introduz o «vocês», o «ele» e «meu marido
 |--:|:--|:--|
 | <span dir="rtl">تحبوا تشربوا</span> | te7ebbu teshrabu | vocês querem beber |
 | <span dir="rtl">عندك إيه؟</span> | 3andak eih? | o que você (m) tem? |
+| <span dir="rtl">أو</span> | aw | ou |
 | <span dir="rtl">جوزي</span> | gozi | meu marido |
 | <span dir="rtl">يحب يشرب</span> | ye7ebb yeshrab | ele quer beber |
 | <span dir="rtl">واحد</span> | wa7ed | um |
+| <span dir="rtl">إحنا</span> | e7na | nós |
+| <span dir="rtl">أهلًا وسهلًا</span> | ahlan w sahlan | seja bem-vindo |
+| <span dir="rtl">اتشرفت</span> | etsharraft | muito prazer |
+| <span dir="rtl">ساكن / ساكنة / ساكنين</span> | saken / sakna / sakneen | moro, mora (m / f / plural) |
+| <span dir="rtl">شارع</span> | share3 | rua |
+| <span dir="rtl">القاهرة</span> | el2ahera | o Cairo |
 
 ### Conceitos
 
-**Mais pessoas no verbo 7abb.**
+**1. Querer em todas as pessoas.** O verbo *7abb* (gostar, querer) e o verbo que vem depois mudam juntos. *Vocês* termina em *-u*; *nós* começa com *ne-*.
 
-| Pessoa | Árabe | Franco |
-|:--|--:|:--|
-| ele | <span dir="rtl">يحب يشرب</span> | ye7ebb yeshrab |
-| vocês | <span dir="rtl">تحبوا تشربوا</span> | te7ebbu teshrabu |
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">أحب أشرب</span> | a7ebb ashrab | quero beber |
+| você (m) | <span dir="rtl">تحب تشرب</span> | te7ebb teshrab | você quer beber |
+| você (f) | <span dir="rtl">تحبي تشربي</span> | te7ebbi teshrabi | você quer beber |
+| ele | <span dir="rtl">يحب يشرب</span> | ye7ebb yeshrab | ele quer beber |
+| ela | <span dir="rtl">تحب تشرب</span> | te7ebb teshrab | ela quer beber |
+| nós | <span dir="rtl">نحب نشرب</span> | ne7ebb neshrab | queremos beber |
+| vocês | <span dir="rtl">تحبوا تشربوا</span> | te7ebbu teshrabu | vocês querem beber |
 
-**Pedir com wa7ed.** *wa7ed shay* = «um chá». Como *etnein shay*, a bebida fica no singular.
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">تحبوا تشربوا حاجة؟</span> | te7ebbu teshrabu 7aga? | querem beber alguma coisa? |
+| <span dir="rtl">جاك، تحب تشرب شوية قهوة؟</span> | jack, te7ebb teshrab shwayyet 2ahwa? | Jack, quer beber um pouco de café? |
+| <span dir="rtl">إحنا نحب نشرب شاي.</span> | e7na ne7ebb neshrab shay. | nós queremos beber chá. |
 
-**Futuro com ha-.** *ana hashrab 2ahwa* = «vou beber café».
+**2. Meu marido quer…** *Gozi* + verbo com *ye-*, porque o marido é «ele».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">جوزي يحب يشرب شاي.</span> | gozi ye7ebb yeshrab shay. | meu marido quer beber chá. |
+| <span dir="rtl">جوزي هنا.</span> | gozi hena. | meu marido está aqui. |
+
+**3. Ou e «não isto» — aw, mesh.** *Aw* = «ou». Para recusar uma coisa e escolher outra: *mesh* + substantivo.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">شاي أو قهوة؟</span> | shay aw 2ahwa? | chá ou café? |
+| <span dir="rtl">لأ، مش قهوة. شاي.</span> | la2, mesh 2ahwa. shay. | não, café não. chá. |
+
+**4. Pedir com wa7ed.** *Wa7ed shay* = «um chá». Como *etnein shay*, a bebida fica no singular.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">واحد شاي</span> | wa7ed shay | um chá |
+| <span dir="rtl">يبقى واحد شاي وواحد قهوة.</span> | yeb2a wa7ed shay w wa7ed 2ahwa. | então um chá e um café. |
+
+**5. Futuro com ha-.** *Ha-* + verbo = «vou…».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أنا هشرب قهوة.</span> | ana hashrab 2ahwa. | eu vou beber café. |
+| <span dir="rtl">جوزي هيشرب شاي.</span> | gozi hayeshrab shay. | meu marido vai beber chá. |
+
+**6. Apresentar-se.** *Ana* + nome; quem recebe diz *ahlan w sahlan*, e os dois dizem *etsharraft* (muito prazer, lit. «fiquei honrado»).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أنا مدام جونز.</span> | ana madam jones. | sou a Sra. Jones. |
+| <span dir="rtl">أهلًا وسهلًا، أنا الأستاذ رمزي.</span> | ahlan w sahlan, ana el ostaz ramzi. | seja bem-vinda, sou o Sr. Ramzi. |
+| <span dir="rtl">اتشرفت يا أستاذ.</span> | etsharraft ya ostaz. | muito prazer, senhor. |
+
+**7. Morar — saken.** É uma forma sem *b-* que concorda como adjetivo: *saken* (m), *sakna* (f), *sakneen* (plural). Serve para eu, você, ele, ela…
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| homem | <span dir="rtl">ساكن</span> | saken | moro / mora |
+| mulher | <span dir="rtl">ساكنة</span> | sakna | moro / mora |
+| nós, vocês, eles | <span dir="rtl">ساكنين</span> | sakneen | moramos / moram |
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">إنتَ ساكن فين؟</span> | enta saken fein? | onde você mora? (m) |
+| <span dir="rtl">إنتي ساكنة فين؟</span> | enti sakna fein? | onde você mora? (f) |
+| <span dir="rtl">إحنا ساكنين في القاهرة.</span> | e7na sakneen fel 2ahera. | nós moramos no Cairo. |
+
+No dia a dia, o Cairo também é chamado simplesmente *masr* (مصر), o mesmo nome do Egito.
+
+**8. Apresentação e moradia.** A Sra. Jones conhece o Sr. Ramzi.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Sra. Jones | <span dir="rtl">أنا مدام جونز.</span> | ana madam jones. | Sou a Sra. Jones. |
+| Sr. Ramzi | <span dir="rtl">أهلًا وسهلًا، أنا الأستاذ رمزي.</span> | ahlan w sahlan, ana el ostaz ramzi. | Seja bem-vinda, sou o Sr. Ramzi. |
+| Sra. Jones | <span dir="rtl">اتشرفت يا أستاذ.</span> | etsharraft ya ostaz. | Muito prazer, senhor. |
+| Sr. Ramzi | <span dir="rtl">ساكنة فين يا مدام؟</span> | sakna fein ya madam? | Onde a senhora mora? |
+| Sra. Jones | <span dir="rtl">ساكنة هنا في شارع أبو عباس. إحنا ساكنين في القاهرة.</span> | sakna hena fi share3 abu 3abbas. e7na sakneen fel 2ahera. | Moro aqui na rua Abu Abbas. Nós moramos no Cairo. |
 
 ## Versão informal
 

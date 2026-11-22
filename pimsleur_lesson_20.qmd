@@ -34,7 +34,7 @@ O Sr. Jones visita a casa do casal Ramzi.
 
 ## Do que trata
 
-Uma visita: receber alguém, apresentar-se e oferecer bebida.
+Uma visita à casa dos Ramzi: receber alguém, apresentar-se, oferecer bebida, perguntar onde uma pessoa está e falar dos filhos. Novidades: *ahlan w sahlan*, *etsharraft*, *mayya* (água), *merati* (minha esposa), *ma3ak / ma3aya* (com você / comigo), *atfal* (crianças), o dual *waladein / bentein* e *kobar* (grandes).
 
 ### Vocabulário
 
@@ -42,18 +42,101 @@ Uma visita: receber alguém, apresentar-se e oferecer bebida.
 |--:|:--|:--|
 | <span dir="rtl">أهلًا وسهلًا</span> | ahlan w sahlan | seja bem-vindo |
 | <span dir="rtl">اتشرفت</span> | etsharraft | muito prazer |
+| <span dir="rtl">أتكلم مع</span> | atkallem ma3a | falar com |
 | <span dir="rtl">مية</span> | mayya | água |
-| <span dir="rtl">مراتي</span> | merati | minha esposa |
+| <span dir="rtl">جوزي / مراتي</span> | gozi / merati | meu marido / minha esposa |
 | <span dir="rtl">قولّي</span> | 2olli | diga-me (a homem) |
+| <span dir="rtl">معاك / معايا</span> | ma3ak / ma3aya | com você (m) / comigo |
+| <span dir="rtl">هنا</span> | hena | aqui |
 | <span dir="rtl">أمريكا</span> | amrika | Estados Unidos |
+| <span dir="rtl">طفل / أطفال</span> | tefl / atfal | criança / crianças, filhos |
+| <span dir="rtl">ولد / بنت</span> | walad / bent | menino / menina |
+| <span dir="rtl">ولدين / بنتين</span> | waladein / bentein | dois meninos / duas meninas |
+| <span dir="rtl">كبير / كبيرة / كبار</span> | kebir / kebira / kobar | grande (m / f / plural) |
+| <span dir="rtl">عندكم / عندنا</span> | 3andoko / 3andena | vocês têm / nós temos |
 
 ### Conceitos
 
-**«Meu / minha» com -i.** *gozi* (meu marido), *merati* (minha esposa). *Merat* vem de *mara*: o *-a* final vira *-at* antes do sufixo.
+**1. Receber uma visita.** *Ahlan w sahlan* = «seja bem-vindo»; *ezzayyak* (a homem) / *ezzayyek* (a mulher) = «como está?»; *etsharraft* = «muito prazer».
 
-**Estar em algum lugar.** Não há verbo: *howwa hena* (ele está aqui), *heyya fi amrika* (ela está nos EUA).
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أهلًا وسهلًا. إزيك؟</span> | ahlan w sahlan. ezzayyak? | seja bem-vindo. como está? (a um homem) |
+| <span dir="rtl">كويس أوي، شكرًا. وإنتي؟</span> | kwayyes awi, shokran. w enti? | muito bem, obrigado. e a senhora? |
+| <span dir="rtl">أنا كويسة أوي.</span> | ana kwayyesa awi. | estou muito bem. (mulher) |
+| <span dir="rtl">اتشرفت يا أستاذ رمزي.</span> | etsharraft ya ostaz ramzi. | muito prazer, Sr. Ramzi. |
 
-**2olli / 2olili.** «Diga-me» muda com quem ouve: *2olli* (homem), *2olili* (mulher).
+**2. Gostaria de — a7ebb + verbo.** Forma educada de dizer o que se quer.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أحب أتكلم مع الأستاذ رمزي.</span> | a7ebb atkallem ma3a el ostaz ramzi. | gostaria de falar com o Sr. Ramzi. |
+| <span dir="rtl">تحب تشرب إيه؟</span> | te7ebb teshrab eih? | o que quer beber? (a um homem) |
+| <span dir="rtl">أحب أشرب شوية مية من فضلك.</span> | a7ebb ashrab shwayyet mayya men fadlek. | queria beber um pouco de água, por favor. (a uma mulher) |
+
+**3. «Meu / minha» com -i.** *Gozi* (meu marido), *merati* (minha esposa). *Merat* vem de *mara*: o *-a* final vira *-at* antes do sufixo. A um homem, «sua esposa» é *meratak*; a uma mulher, «seu marido» é *gozek*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">جوزي؟ أيوه، هو هنا.</span> | gozi? aywa, howwa hena. | meu marido? sim, está aqui. |
+| <span dir="rtl">مراتي في أمريكا.</span> | merati fi amrika. | minha esposa está nos Estados Unidos. |
+| <span dir="rtl">مراتك فين؟</span> | meratak fein? | onde está sua esposa? (a um homem) |
+
+**4. Estar em algum lugar.** Não há verbo: *howwa hena* (ele está aqui), *heyya fi amrika* (ela está nos EUA).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هو هنا؟</span> | howwa hena? | ele está? |
+| <span dir="rtl">الأستاذ جونز هنا.</span> | el ostaz jones hena. | o Sr. Jones está aqui. |
+| <span dir="rtl">المدام جونز فين؟</span> | el madam jones fein? | onde está a Sra. Jones? |
+| <span dir="rtl">هي في أمريكا.</span> | heyya fi amrika. | ela está nos Estados Unidos. |
+
+**5. Com — ma3a + pessoa.** *Ma3aya* (comigo), *ma3ak* (com você, m), *ma3aki* (com você, f). A negativa é *mesh ma3aya*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هي معاك؟</span> | heyya ma3ak? | ela está com você? (a um homem) |
+| <span dir="rtl">لأ، مراتي مش معايا.</span> | la2, merati mesh ma3aya. | não, minha esposa não está comigo. |
+
+**6. 2olli / 2olili.** «Diga-me» muda com quem ouve: *2olli* (homem), *2olili* (mulher).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">قولّي يا أستاذ جونز…</span> | 2olli ya ostaz jones… | diga, Sr. Jones… |
+| <span dir="rtl">قوليلي يا مدام…</span> | 2olili ya madam… | diga, senhora… |
+
+**7. Filhos — tefl, atfal.** *Tefl* = criança; o plural *atfal* também quer dizer «filhos». Com *kam*, o substantivo fica no singular. Com um número antes de plural, *arba3a* vira *arba3* e *talata* vira *talat*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عندكم أطفال؟</span> | 3andoko atfal? | vocês têm filhos? |
+| <span dir="rtl">كام طفل؟</span> | kam tefl? | quantas crianças? |
+| <span dir="rtl">عندنا أربع أطفال.</span> | 3andena arba3 atfal. | temos quatro filhos. |
+| <span dir="rtl">عندنا تلات أطفال.</span> | 3andena talat atfal. | temos três filhos. |
+
+**8. Dual — -ein.** Para «dois», não se usa *etnein*: acrescenta-se *-ein* ao substantivo.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ولد ← ولدين</span> | walad → waladein | menino → dois meninos |
+| <span dir="rtl">بنت ← بنتين</span> | bent → bentein | menina → duas meninas |
+| <span dir="rtl">جنيه ← جنيهين</span> | geneih → geneihein | libra → duas libras |
+| <span dir="rtl">ولدين وبنتين</span> | waladein w bentein | dois meninos e duas meninas |
+
+**9. Grande — kebir, kebira, kobar.** O plural *kobar* também quer dizer «já crescidos, adultos».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">الولد كبير.</span> | elwalad kebir. | o menino é grande. |
+| <span dir="rtl">البنت كبيرة.</span> | elbent kebira. | a menina é grande. |
+| <span dir="rtl">هما كبار.</span> | homma kobar. | eles já são grandes. |
+
+**10. Conversando sobre os filhos.** A Sra. Ramzi pergunta pelos filhos do Sr. Jones.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Sra. Ramzi | <span dir="rtl">عندكم أطفال؟ كام طفل؟</span> | 3andoko atfal? kam tefl? | Vocês têm filhos? Quantas crianças? |
+| Jones | <span dir="rtl">عندنا أربع أطفال: ولدين وبنتين. هما كبار.</span> | 3andena arba3 atfal: waladein w bentein. homma kobar. | Temos quatro filhos: dois meninos e duas meninas. Já são grandes. |
 
 ## Versão informal
 

@@ -35,27 +35,127 @@ George Jones chega à casa dos Ramzi e fala com a Sra. Ramzi.
 
 ## Do que trata
 
-Apresentar-se a um desconhecido, pedir para esperar e falar dos filhos.
+Apresentar-se a um desconhecido, pedir para esperar e falar dos filhos. Novidades: *min?* (quem?), *amriki* (americano), *bafham 3arabi shwayya* (entendo um pouco de árabe), *momken testanna* (você pode esperar), *mesh keda?* (não é?), *homma* (eles), «nosso filho / nossa filha», *soghayyar* (pequeno), *begad?* (sério?) e *ettwalett* (o banheiro).
 
 ### Vocabulário
 
 | Árabe | Franco | Português |
 |--:|:--|:--|
+| <span dir="rtl">صباح الخير / صباح النور</span> | saba7 el5eir / saba7 ennur | bom dia / bom dia (resposta) |
 | <span dir="rtl">مين؟</span> | min? | quem? |
+| <span dir="rtl">أمريكي / أمريكية</span> | amriki / amrikeyya | americano / americana |
+| <span dir="rtl">بفهم</span> | bafham | entendo |
+| <span dir="rtl">عربي</span> | 3arabi | árabe (a língua) |
+| <span dir="rtl">لكن</span> | lakin | mas |
 | <span dir="rtl">ممكن</span> | momken | é possível / pode |
 | <span dir="rtl">أستنى / تستنى</span> | astanna / testanna | (eu) esperar / (você) esperar |
 | <span dir="rtl">مش كده؟</span> | mesh keda? | não é? |
 | <span dir="rtl">أطفال</span> | atfal | crianças / filhos |
 | <span dir="rtl">هما</span> | homma | eles / elas |
 | <span dir="rtl">كبار</span> | kobar | grandes / adultos |
+| <span dir="rtl">ابن / بنت</span> | ebn / bent | filho / filha |
+| <span dir="rtl">صغير / صغيرة</span> | soghayyar / soghayyara | pequeno / pequena |
+| <span dir="rtl">بجد؟</span> | begad? | sério? de verdade? |
+| <span dir="rtl">التواليت</span> | ettwalett | o banheiro, o toalete |
 
 ### Conceitos
 
-**Momken + verbo.** «Poder»: *momken astanna* (posso esperar). *Momken* não muda.
+**1. Quem? — min?** *Enta min?* (a um homem), *enti min?* (a uma mulher). Com estranhos, é mais educado *min 7adretak?* / *min 7adretek?* (quem é o senhor / a senhora?).
 
-**Mesh keda?** Vai no fim da frase e pede confirmação, como «não é?».
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">صباح الخير يا أستاذ. إنتَ مين؟</span> | saba7 el5eir ya ostaz. enta min? | bom dia, senhor. quem é o senhor? |
+| <span dir="rtl">إنتي مين؟</span> | enti min? | quem é você? (a uma mulher) |
+| <span dir="rtl">آه، إنتَ الأستاذ جونز.</span> | ah, enta el ostaz jones. | ah, o senhor é o Sr. Jones. |
 
-**Ter no plural.** *3andena* (nós temos), *3andoko* (vocês têm).
+**2. Dizer quem se é.** *Ana* + nome ou nacionalidade, sem verbo. *Amriki* concorda: *amrikeyya* (f). *Bafham* = «entendo» (com *b-*, presente).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">أنا جورج جونز.</span> | ana george jones. | sou George Jones. |
+| <span dir="rtl">أنا أمريكي.</span> | ana amriki. | sou americano. |
+| <span dir="rtl">أنا أمريكية.</span> | ana amrikeyya. | sou americana. |
+| <span dir="rtl">لكن بفهم عربي شوية.</span> | lakin bafham 3arabi shwayya. | mas entendo um pouco de árabe. |
+
+**3. Momken + verbo.** «Poder»: *momken astanna* (posso esperar). *Momken* não muda; o verbo vai sem *b-*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ممكن تستنى.</span> | momken testanna. | você pode esperar. (a um homem) |
+| <span dir="rtl">ممكن أستنى.</span> | momken astanna. | posso esperar. |
+| <span dir="rtl">مش ممكن أستنى.</span> | mesh momken astanna. | não posso esperar. |
+
+**4. Esperar — astanna.**
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">أستنى</span> | astanna | (que eu) espere |
+| você (m) | <span dir="rtl">تستنى</span> | testanna | você espera |
+| você (f) | <span dir="rtl">تستني</span> | testanni | você espera |
+| ele | <span dir="rtl">يستنى</span> | yestanna | ele espera |
+| ela | <span dir="rtl">تستنى</span> | testanna | ela espera |
+
+**5. Mesh keda?** Vai no fim da frase e pede confirmação, como «não é?».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">ممكن تستنى، مش كده؟</span> | momken testanna, mesh keda? | você pode esperar, não é? |
+| <span dir="rtl">إنتَ أمريكي، مش كده؟</span> | enta amriki, mesh keda? | você é americano, não é? |
+
+**6. Eles — homma.** Como *howwa* e *heyya*, sem verbo «estar».
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">والأطفال، هما هنا؟</span> | wel atfal, homma hena? | e as crianças, estão aqui? |
+| <span dir="rtl">لأ، هما في أمريكا.</span> | la2, homma fi amrika. | não, estão nos Estados Unidos. |
+| <span dir="rtl">هما كبار.</span> | homma kobar. | já são grandes. |
+
+**7. Ter no plural.** *3andena* (nós temos), *3andoko* (vocês têm).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">عندكم أطفال كتير؟</span> | 3andoko atfal ketir? | vocês têm muitos filhos? |
+| <span dir="rtl">عندنا تلات أطفال.</span> | 3andena talat atfal. | temos três filhos. |
+
+**8. Filho e filha com sufixo.** O sufixo diz de quem: *-i* (meu), *-ak / -ek* (seu, a homem / a mulher), *-ena* (nosso), *-oko* (de vocês).
+
+| Pessoa | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| eu | <span dir="rtl">ابني / بنتي</span> | ebni / benti | meu filho / minha filha |
+| você (m) | <span dir="rtl">ابنك / بنتك</span> | ebnak / bentak | seu filho / sua filha |
+| você (f) | <span dir="rtl">ابنك / بنتك</span> | ebnek / bentek | seu filho / sua filha |
+| nós | <span dir="rtl">ابننا / بنتنا</span> | ebnena / bentena | nosso filho / nossa filha |
+| vocês | <span dir="rtl">ابنكم / بنتكم</span> | ebnoko / bentoko | o filho / a filha de vocês |
+
+**9. Pequeno e grande — soghayyar, kebir.** Concordam com o gênero: *soghayyara*, *kebira*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">هو صغير، مش كبير.</span> | howwa soghayyar, mesh kebir. | ele é pequeno, não é grande. |
+| <span dir="rtl">بنتنا صغيرة.</span> | bentena soghayyara. | nossa filha é pequena. |
+
+**10. Sério? — begad?** Pergunta de surpresa; a resposta é *aywa, begad*.
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">بجد؟</span> | begad? | sério? |
+| <span dir="rtl">أيوه، بجد.</span> | aywa, begad. | sim, é sério. |
+
+**11. Onde fica o banheiro?** *Ettwalett* (o toalete); também se diz *el7ammam* (الحمام).
+
+| Árabe | Franco | Português |
+|--:|:--|:--|
+| <span dir="rtl">التواليت فين من فضلك؟</span> | ettwalett fein men fadlak? | onde fica o banheiro, por favor? (a um homem) |
+| <span dir="rtl">التواليت فين من فضلك؟</span> | ettwalett fein men fadlek? | onde fica o banheiro, por favor? (a uma mulher) |
+
+**12. Falando dos filhos.** A Sra. Ramzi pergunta pelos filhos do Sr. Jones.
+
+| Quem | Árabe | Franco | Português |
+|:--|--:|:--|:--|
+| Sra. Ramzi | <span dir="rtl">ابنكم فين؟</span> | ebnoko fein? | Onde está o filho de vocês? |
+| Jones | <span dir="rtl">ابننا هنا. هو صغير، مش كبير. وبنتنا هناك.</span> | ebnena hena. howwa soghayyar, mesh kebir. w bentena henak. | Nosso filho está aqui. Ele é pequeno, não é grande. E nossa filha está lá. |
+| Sra. Ramzi | <span dir="rtl">بجد؟</span> | begad? | Sério? |
+| Jones | <span dir="rtl">أيوه، بجد. التواليت فين من فضلك؟</span> | aywa, begad. ettwalett fein men fadlek? | Sim, é sério. Onde fica o banheiro, por favor? |
 
 ## Versão informal
 
