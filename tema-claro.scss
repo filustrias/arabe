@@ -1,32 +1,35 @@
 /*-- scss:defaults --*/
 
-// Modo claro: papel creme com vermelho
-$body-bg: #fbf8f1;
-$body-color: #121212;
-$primary: #b3121f;
-$link-color: #b3121f;
-$link-hover-color: #8f0e19;
-$headings-color: #121212;
-$sidebar-bg: #f2ede1;
-$sidebar-fg: #383838;
-$sidebar-hl: #b3121f;
-$code-bg: #ebe4d4;
-$code-color: #121212;
+// Modo claro: cores das bandeiras árabes (branco, preto, vermelho e verde)
+$body-bg: #fbfbf9;
+$body-color: #111111;
+$primary: #c8102e;
+$link-color: #c8102e;
+$link-hover-color: #007a3d;
+$headings-color: #111111;
+$sidebar-bg: #f1f2ef;
+$sidebar-fg: #333333;
+$sidebar-hl: #c8102e;
+$code-bg: #e9ece7;
+$code-color: #111111;
 
 /*-- scss:rules --*/
 
 :root {
-  --c-bg: #fbf8f1;
-  --c-bg-alt: #f2ede1;
-  --c-bg-soft: #ebe4d4;
-  --c-bg-elv: #fffdf8;
-  --c-text: #121212;
-  --c-text-2: #383838;
-  --c-text-3: #5c5c5c;
-  --c-border: #bfb39b;
-  --c-brand: #b3121f;
-  --c-brand-2: #8f0e19;
-  --c-brand-soft: rgba(179, 18, 31, 0.12);
-  --lat-a: #e2d8c3;
-  --lat-b: #d5c8ad;
+  --c-bg: #fbfbf9;
+  --c-bg-alt: #f1f2ef;
+  --c-bg-soft: #eef0ec;
+  --c-bg-elv: #ffffff;
+  --c-text: #111111;
+  --c-text-2: #333333;
+  --c-text-3: #5f5f5f;
+  --c-border: #c6cac3;
+  --c-brand: #c8102e;
+  --c-brand-2: #a00c24;
+  --c-brand-soft: rgba(200, 16, 46, 0.10);
+  --c-verde: #007a3d;
+  --c-verde-2: #005c2e;
+  --c-verde-soft: rgba(0, 122, 61, 0.10);
+  --lat-a: #e3e6e1;
+  --lat-b: #d3d8d0;
 }

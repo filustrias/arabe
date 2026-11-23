@@ -1,11 +1,11 @@
 /*-- scss:defaults --*/
 
-// Visual inspirado no Portuguese Notebook (framework.md):
-// papel creme e vermelho, bordas pretas fortes, sombras deslocadas sem desfoque.
+// Visual inspirado no Portuguese Notebook (framework.md), com as cores das bandeiras
+// árabes: branco, preto, vermelho e verde; bordas pretas fortes, sombras sem desfoque.
 // As cores ficam em tema-claro.scss e tema-escuro.scss; aqui só o que é comum.
 
-$font-family-sans-serif: "Latina Sans", "Arabe Cairo", system-ui, "Segoe UI", sans-serif;
-$headings-font-family: "Fraunces", "Arabe Cairo", Georgia, serif;
+$font-family-sans-serif: "Latina Sans", "Arabe Naskh", system-ui, "Segoe UI", sans-serif;
+$headings-font-family: "Fraunces", "Arabe Naskh", Georgia, serif;
 
 /*-- scss:rules --*/
 
@@ -70,13 +70,14 @@ $cdn: "https://cdn.jsdelivr.net/fontsource/fonts";
 // Fonte latina, fonte árabe e tamanho escolhidos no painel "Aa" (leitura.html)
 :root {
   --latina: "Latina Sans";
-  --arabe: "Arabe Cairo";
+  --arabe: "Arabe Naskh";
   --fonte-texto: var(--latina), var(--arabe), system-ui, "Segoe UI", sans-serif;
   --fonte-titulos: "Fraunces", var(--arabe), Georgia, serif;
   --tamanho-texto: 18px;
 }
 html[data-fonte="serif"] { --latina: "Latina Serif"; }
 html[data-fonte="inter"] { --latina: "Latina Inter"; }
+html[data-arabe="cairo"] { --arabe: "Arabe Cairo"; }
 html[data-arabe="plex"] { --arabe: "Arabe Plex"; }
 html[data-arabe="naskh"] { --arabe: "Arabe Naskh"; }
 html[data-arabe="amiri"] { --arabe: "Arabe Amiri"; }
@@ -87,6 +88,8 @@ html { font-size: var(--tamanho-texto); }
 
 body {
   background-color: var(--c-bg);
+  border-top: 6px solid transparent;
+  border-image: linear-gradient(90deg, #c8102e 0 25%, #ffffff 25% 50%, #111111 50% 75%, #007a3d 75% 100%) 1;
   color: var(--c-text);
   font-family: var(--fonte-texto);
   line-height: 1.7;
@@ -107,11 +110,11 @@ h2, h2.anchored {
   margin-top: 2.4rem;
   padding-top: 0.7rem;
 }
-h3 { font-size: 1.15rem; font-weight: 700; }
+h3 { color: var(--c-verde); font-size: 1.15rem; font-weight: 700; }
 
 // ---------- Links ----------
 a { color: var(--c-brand); text-decoration-thickness: 1px; text-underline-offset: 2px; }
-a:hover { color: var(--c-brand-2); }
+a:hover { color: var(--c-verde); }
 :focus-visible { outline: 2px solid var(--c-brand); outline-offset: 2px; }
 
 // ---------- Tabelas ----------
@@ -138,13 +141,13 @@ main table td, main table th { border-color: var(--c-border); vertical-align: mi
   background-color: var(--c-bg-alt) !important;
 }
 .sidebar-navigation .sidebar-item-section > .sidebar-item-container .menu-text {
-  color: var(--c-brand);
+  color: var(--c-verde);
   font-family: var(--fonte-titulos);
   font-size: 1.02rem;
   font-weight: 600;
 }
 .sidebar-navigation .sidebar-link.active .menu-text { color: var(--c-brand); font-weight: 600; }
-.sidebar-navigation .sidebar-link:hover .menu-text { color: var(--c-brand-2); }
+.sidebar-navigation .sidebar-link:hover .menu-text { color: var(--c-verde); }
 
 // ---------- Botões no estilo do framework ----------
 .botao-forte {
@@ -187,6 +190,10 @@ main table td, main table th { border-color: var(--c-border); vertical-align: mi
   text-decoration: none;
   transition: border-color .15s, transform .15s;
 }
+.cards-entrada a:nth-child(2) { box-shadow: 4px 4px 0 var(--c-verde); }
+.cards-entrada a:nth-child(2) .icone { color: var(--c-verde); }
+.cards-entrada a:nth-child(3) { box-shadow: 4px 4px 0 var(--c-text); }
+.cards-entrada a:nth-child(3) .icone { color: var(--c-text); }
 .cards-entrada a:hover { border-color: var(--c-brand); transform: translate(-1px, -1px); }
 .cards-entrada .icone { color: var(--c-brand); display: block; font-family: var(--fonte-titulos); font-size: 1.6rem; font-weight: 700; line-height: 1.2; }
 .cards-entrada .nome { display: block; font-family: var(--fonte-titulos); font-size: 1.1rem; font-weight: 600; margin-top: .3rem; }
@@ -196,7 +203,7 @@ main table td, main table th { border-color: var(--c-border); vertical-align: mi
 .capa img, img.capa {
   border: 2px solid var(--c-text);
   border-radius: 4px;
-  box-shadow: 8px 8px 0 var(--c-brand);
+  box-shadow: 8px 8px 0 var(--c-verde);
 }
 
 @media (prefers-reduced-motion: reduce) {

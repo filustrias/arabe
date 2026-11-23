@@ -1,32 +1,35 @@
 /*-- scss:defaults --*/
 
-// Modo escuro: quase preto com vermelho claro
-$body-bg: #0b0b0c;
-$body-color: #f5f1e8;
-$primary: #ff5c5c;
-$link-color: #ff5c5c;
-$link-hover-color: #ff7d7d;
-$headings-color: #f5f1e8;
-$sidebar-bg: #121214;
-$sidebar-fg: #cbc6ba;
-$sidebar-hl: #ff5c5c;
-$code-bg: #1b1b1e;
-$code-color: #f5f1e8;
+// Modo escuro: preto com vermelho e verde das bandeiras árabes
+$body-bg: #0c0c0c;
+$body-color: #f4f4f1;
+$primary: #ff4d5e;
+$link-color: #ff4d5e;
+$link-hover-color: #3ccf7f;
+$headings-color: #f4f4f1;
+$sidebar-bg: #131413;
+$sidebar-fg: #c9cbc6;
+$sidebar-hl: #ff4d5e;
+$code-bg: #1b1d1b;
+$code-color: #f4f4f1;
 
 /*-- scss:rules --*/
 
 :root {
-  --c-bg: #0b0b0c;
-  --c-bg-alt: #121214;
-  --c-bg-soft: #1b1b1e;
-  --c-bg-elv: #161618;
-  --c-text: #f5f1e8;
-  --c-text-2: #cbc6ba;
-  --c-text-3: #9c978b;
-  --c-border: #3d3d42;
-  --c-brand: #ff5c5c;
-  --c-brand-2: #ff7d7d;
-  --c-brand-soft: rgba(255, 92, 92, 0.16);
-  --lat-a: #26262b;
-  --lat-b: #1c1c20;
+  --c-bg: #0c0c0c;
+  --c-bg-alt: #131413;
+  --c-bg-soft: #1a1c1a;
+  --c-bg-elv: #171817;
+  --c-text: #f4f4f1;
+  --c-text-2: #c9cbc6;
+  --c-text-3: #989b95;
+  --c-border: #3a3d3a;
+  --c-brand: #ff4d5e;
+  --c-brand-2: #ff7381;
+  --c-brand-soft: rgba(255, 77, 94, 0.15);
+  --c-verde: #3ccf7f;
+  --c-verde-2: #6ddc9f;
+  --c-verde-soft: rgba(60, 207, 127, 0.14);
+  --lat-a: #252825;
+  --lat-b: #1b1e1b;
 }
